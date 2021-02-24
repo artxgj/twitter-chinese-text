@@ -30,7 +30,7 @@ class TweetsDateInterval:
         return self._start_date <= item <= self._end_date
 
 
-class OriginatorsOfRetweets:
+class Mentions:
     def __init__(self, user_mentions_attribute: str, names: Iterable[str]):
         self._mentions_tag = user_mentions_attribute
         self._users_names = set(names)
@@ -38,7 +38,7 @@ class OriginatorsOfRetweets:
     def __call__(self, *args, **kwargs):
         tweet_json, *the_rest = args
         user_mentions: List[Dict] = tweet_json['tweet']['entities']['user_mentions']
-        return len(user_mentions) > 0 and user_mentions[0][self._mentions_tag] in self
+        return any(user_mention[self._mentions_tag] in self for user_mention in user_mentions)
 
     def __contains__(self, item):
         return item in self._users_names

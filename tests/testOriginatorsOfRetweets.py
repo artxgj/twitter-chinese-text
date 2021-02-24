@@ -1,11 +1,11 @@
 import unittest
 import json
-from tweetybird import OriginatorsOfRetweets
+from tweetybird import Mentions
 
 
 class TestTweetOriginatorsTestCase(unittest.TestCase):
     def setUp(self) -> None:
-        self.tweet_originators = OriginatorsOfRetweets('screen_name', ('CompSciFact', 'AlgebraFact'))
+        self.tweet_originators = Mentions('screen_name', ('CompSciFact', 'AlgebraFact'))
 
     def test_tweet_belongs_to_originators(self):
         with open("tweet_2012.js") as f1:
@@ -23,10 +23,14 @@ class TestTweetOriginatorsTestCase(unittest.TestCase):
             self.assertFalse(self.tweet_originators(tweet))
 
     def test_originators_names(self):
-        originators_names = OriginatorsOfRetweets("name", ("Computer Science", "Algebra Etc."))
+        originators_names = Mentions("name", ("Computer Science", "Algebra Etc."))
         with open("tweet_2012.js") as f1:
             tweet = json.load(f1)
             self.assertTrue(originators_names(tweet))
+
+    def test_contains_directly(self):
+        self.assertTrue("CompSciFact" in self.tweet_originators)
+        self.assertFalse("Onomatopeia" in self.tweet_originators)
 
 
 if __name__ == '__main__':

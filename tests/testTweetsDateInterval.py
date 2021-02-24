@@ -1,5 +1,6 @@
 import unittest
 import json
+import datetime
 from tweetybird import TweetsDateInterval
 
 
@@ -21,6 +22,10 @@ class TweetsDateIntervalTestCase(unittest.TestCase):
         with open("tweet_2021.js") as f1:
             tweet = json.load(f1)
             self.assertFalse(self.tweetsDateRange(tweet))
+
+    def test_contains_directly(self):
+        self.assertTrue(datetime.datetime.strptime("2020-12-25 -0800", "%Y-%m-%d %z") in self.tweetsDateRange)
+        self.assertFalse(datetime.datetime.strptime("2019-02-07 -0800", "%Y-%m-%d %z") in self.tweetsDateRange)
 
 
 if __name__ == '__main__':
