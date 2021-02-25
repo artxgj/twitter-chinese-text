@@ -5,6 +5,10 @@ from typing import Optional, Dict, Iterable, List
 TWITTER_DATE_FORMAT = "%a %b %d %H:%M:%S %z %Y"
 
 
+"""
+https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/entities
+"""
+
 def is_retweeted_text(tweet_json: Dict[str, Dict]) -> bool:
     return tweet_json['tweet'].get('full_text', '')[:4] == 'RT @'
 
@@ -42,3 +46,31 @@ class Mentions:
 
     def __contains__(self, item):
         return item in self._users_names
+
+
+def tweet_hashtags_text(tweet: Dict[str, Dict]) -> List[str]:
+    return [htag["text"] for htag in tweet['tweet']["entities"]["hashtags"]]
+
+
+def tweet_symbols_text(tweet: Dict[str, Dict]) -> List[str]:
+    return [symbol["text"] for symbol in tweet['tweet']["entities"]["symbols"]]
+
+
+def tweet_urls(tweet: Dict[str, Dict]) -> List[str]:
+    return [url["url"] for url in tweet['tweet']["entities"]["urls"]]
+
+
+def tweet_full_text(tweet: Dict[str, Dict]) -> str:
+    return tweet['tweet']['full_text']
+
+
+def tweet_text_minus_entities(tweet: Dict[str, Dict]) -> str:
+    tweet_tree = tweet['tweet']
+    text_start, text_end = tweet_tree["display_text_range"]
+    indices = [entity['indices'] for entity_type in ("hashtags", "symbols", "user_mentions", "urls")
+               for entity in tweet_tree["entities"][entity_type]]
+
+    flat_indices = sorted([int(text_start)] + [int(item) for pair in indices for item in pair] + [int(text_end)])
+    full_text = tweet_full_text(tweet)
+    return ''.join(full_text[flat_indices[i]:flat_indices[i+1]] for i in range(0, len(flat_indices), 2))
+
