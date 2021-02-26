@@ -77,9 +77,13 @@ class TweetTextHelpersTestCase(unittest.TestCase):
         self.assertEqual("RT @dw_chinese: 德国“疫苗峰会”结论总结：人们需要做好长期接种的准备，政府对于到夏末为全民提供疫苗的承诺不变，无法促成（疫苗的交付）速度加快，哪怕用钱也无法做到。\n\n由此推理 ➡️#汽车芯片 换不来 #疫苗 。 \n\nhttps://t.co/SmnV9BB7m3",
                          tweet_full_text(self.tweet))
 
-    def test_text_minus_entities(self):
-        self.assertEqual("RT : 德国“疫苗峰会”结论总结：人们需要做好长期接种的准备，政府对于到夏末为全民提供疫苗的承诺不变，无法促成（疫苗的交付）速度加快，哪怕用钱也无法做到。\n\n由此推理 ➡️ 换不来  。 \n\n",
+    def test_text_minus_entities_stripped_RT(self):
+        self.assertEqual(": 德国“疫苗峰会”结论总结：人们需要做好长期接种的准备，政府对于到夏末为全民提供疫苗的承诺不变，无法促成（疫苗的交付）速度加快，哪怕用钱也无法做到。\n\n由此推理 ➡️ 换不来  。 \n\n",
                          tweet_text_minus_entities(self.tweet))
+
+    def test_text_minus_entities_include_RT(self):
+        self.assertEqual("RT : 德国“疫苗峰会”结论总结：人们需要做好长期接种的准备，政府对于到夏末为全民提供疫苗的承诺不变，无法促成（疫苗的交付）速度加快，哪怕用钱也无法做到。\n\n由此推理 ➡️ 换不来  。 \n\n",
+                         tweet_text_minus_entities(self.tweet, skip_rt=False))
 
 
 if __name__ == '__main__':
