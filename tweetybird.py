@@ -6,6 +6,7 @@ TWITTER_DATE_FORMAT = "%a %b %d %H:%M:%S %z %Y"
 
 Tweet = Dict[str, Dict]
 
+
 def is_retweeted_text(tweet_json: Tweet) -> bool:
     return tweet_json['tweet'].get('full_text', '')[:4] == 'RT @'
 
