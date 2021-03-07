@@ -1,6 +1,6 @@
 import json
-from typing import Callable, Iterator, Generator
-from tweetybird import TweetsDateInterval, Mentions
+from typing import Iterator, Generator
+from tweetybird import from_tweet_js_file, TweetsDateInterval, Mentions, is_zh_tweet
 
 
 def extract_tweets(tweets: Iterator, retweet_origins: Mentions,
@@ -10,12 +10,8 @@ def extract_tweets(tweets: Iterator, retweet_origins: Mentions,
 
 if __name__ == '__main__':
     tweets_date_interval = TweetsDateInterval("2020-02-01")
-    tweets_originators = Mentions("screen_name",
-                                  ("ChineseWSJ", "FTChinese",
-                                   "rijingzhongwen", "ChosunChinese",
-                                   "bbcchinese", "dw_chinese"))
-    with open('mod_tweet.js', 'r') as fp:
-        with open('chinese_text_tweet.json', 'w', encoding='utf-8') as f_out:
-            tweets = iter(json.load(fp))
-            json.dump(list(extract_tweets(tweets, tweets_originators, tweets_date_interval)), f_out, indent=2,
-                      ensure_ascii=False)
+    with open('chinese_text_tweet.json', 'w', encoding='utf-8') as f_out:
+        tweets = iter(from_tweet_js_file('twitter-2021-02-23-437b83887b3810705d8f4e1c95fb4abfd78c166a70050b24ff79d6a81806d680/data/tweet.js'))
+
+        json.dump(list(filter(is_zh_tweet, filter(tweets_date_interval, tweets))), f_out, indent=2,
+                  ensure_ascii=False)

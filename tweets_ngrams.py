@@ -8,9 +8,12 @@ import json
 """
 MDBG
 
-https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb=c%3A阿尔茨海默症
-
+https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb=豐田
 https://dictionary.cambridge.org/dictionary/english-chinese-traditional/alzheimer-s?q=alzheimer%3Bs
+
+https://translate.google.com/?sl=auto&tl=zh-TW&text=RT%20%40ChineseWSJ%3A%20全球最大的香槟酒生产商LVMH已经收购了Armand%20de%20Brignac%2050%25的股份，该品牌是说唱歌手Jay-Z旗下的高端香槟品牌%E3%80%82这一品牌是著名气泡酒产区最年轻的品牌之一，以其每瓶售价数百美元的金属酒瓶而闻名%E3%80%82https%3A%2F%2Ft.co%2FwJ…&op=translate
+
+https://translate.google.com/?sl=auto&tl=en&text=RT%20%40ChineseWSJ%3A%20全球最大的香槟酒生产商LVMH已经收购了Armand%20de%20Brignac%2050%25的股份，该品牌是说唱歌手Jay-Z旗下的高端香槟品牌%E3%80%82这一品牌是著名气泡酒产区最年轻的品牌之一，以其每瓶售价数百美元的金属酒瓶而闻名%E3%80%82https%3A%2F%2Ft.co%2FwJ…&op=translate
 """
 
 

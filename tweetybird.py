@@ -1,14 +1,25 @@
 import datetime
+import json
+import re
 from zoneinfo import ZoneInfo
 from typing import Optional, Dict, Iterable, List
+
 
 TWITTER_DATE_FORMAT = "%a %b %d %H:%M:%S %z %Y"
 
 Tweet = Dict[str, Dict]
 
 
-def is_retweeted_text(tweet_json: Tweet) -> bool:
-    return tweet_json['tweet'].get('full_text', '')[:4] == 'RT @'
+def from_tweet_js_file(filepath: str) -> Tweet:
+    with open(filepath, 'r') as fp:
+        js = fp.readlines()
+
+        if re.match(r"^window\.YTD\.tweet\.part\d+ =", js[0]):
+            js[0] = js[0].split('=')[1].strip()
+            tweets = json.loads(''.join(js))
+            return tweets
+        else:
+            raise Exception(f"{filepath} is not a tweet js file.")
 
 
 class TweetsDateInterval:
@@ -52,11 +63,15 @@ https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-mode
 """
 
 
-def tweet_hashtags_text(tweet: Dict[str, Dict]) -> List[str]:
+def is_zh_tweet(tweet: Tweet):
+    return 'lang' in tweet['tweet'] and tweet['tweet']['lang'] == "zh"
+
+
+def tweet_hashtags_text(tweet: Tweet) -> List[str]:
     return [htag["text"] for htag in tweet['tweet']["entities"]["hashtags"]]
 
 
-def tweet_symbols_text(tweet: Dict[str, Dict]) -> List[str]:
+def tweet_symbols_text(tweet: Tweet) -> List[str]:
     return [symbol["text"] for symbol in tweet['tweet']["entities"]["symbols"]]
 
 
@@ -74,6 +89,10 @@ def tweet_full_text(tweet: Tweet) -> str:
 
 def tweet_date(tweet: Tweet):
     return tweet['tweet']['created_at']
+
+
+def tweet_id(tweet: Tweet) -> str:
+    return tweet['tweet']['id_str']
 
 
 def tweet_user_mentions(tweet: Tweet):

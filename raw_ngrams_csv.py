@@ -26,7 +26,7 @@ def generate_ngram_csv(json_path: str, csv_prefix_path, ngram: int):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog=pathlib.PurePath(__file__).name, description="Generate csv file of 'raw' ngrams from tweets")
 
-    parser.add_argument('-json-path',  type=str, required=True, help='chinese-text tweets json file')
+    parser.add_argument('-json-path', type=str, required=True, help='chinese-text tweets json file')
     parser.add_argument('-csv-prefix-path', type=str, required=True, help='csv output file path')
     parser.add_argument('-ngram', type=int, required=True, help='[n]gram')
     args = parser.parse_args()
