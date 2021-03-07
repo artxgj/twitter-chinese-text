@@ -22,7 +22,7 @@ def tweets_trans_mdtable(tweets: Tweets, title: str) -> str:
     tbl = '\n'.join(mdtb_rows)
     report = f"""## {title}    
 
-| Date | Source | Tweet (click or tap to see English translation |
+| Date | Source | Tweet (click or tap to see English translation) |
 |:-----------------|:-------------|:------------------|  
 {tbl}
 """
