@@ -24,4 +24,4 @@ def tweets_simplified_csv(summary_tweets: Generator[Tuple[str, str, str], None, 
 
 
 if __name__ == '__main__':
-    tweets_simplified_csv(from_twitter_json_file("chinese_text_tweet.json"), "study/summary_tweets_chinese_text.csv")
+    tweets_simplified_csv(from_twitter_json_file("chinese_text_tweet.json"), "csv/summary_tweets_chinese_text.csv")

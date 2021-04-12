@@ -37,4 +37,4 @@ def write_unigrams_csv(unigrams: Counter[str, int], filepath: str):
 
 if __name__ == '__main__':
     unigrams = tweets_hz_unigrams("chinese_text_tweet.json")
-    write_unigrams_csv(unigrams, "study/tweets_unigrams.csv")
+    write_unigrams_csv(unigrams, "csv/tweets_unigrams.csv")
