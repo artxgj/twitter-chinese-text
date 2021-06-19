@@ -1,7 +1,7 @@
 from collections import deque, Counter
 from typing import List, Deque
 from hashtags import extract_hashtags
-from tweetybird import Tweet, tweet_text_minus_entities
+from tweetybird import TweetDict, tweet_text_minus_entities
 from cjk_latin_emoji import RE_SEPARATORS, is_cjk
 import json
 
@@ -22,7 +22,7 @@ class HZTweetNgram:
         self._ngram = ngram
         self._deq: Deque[str] = deque([], maxlen=ngram)
 
-    def extract(self, tweet: Tweet, include_hash_tags=True) -> List[str]:
+    def extract(self, tweet: TweetDict, include_hash_tags=True) -> List[str]:
         self._deq.clear()
         ngrams = []
         core_tweet = tweet_text_minus_entities(tweet)
@@ -65,7 +65,7 @@ class NGramsCounter:
 
 if __name__ == '__main__':
     ngrams_freq = NGramsCounter()
-    tweet_ngrams = HZTweetNgram(7)
+    tweet_ngrams = HZTweetNgram(3)
 
     with open('chinese_text_tweet.json', 'r') as fp:
         tweets = json.load(fp)

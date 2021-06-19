@@ -1,6 +1,6 @@
 import json
 from tweetybird import tweet_text_minus_entities, tweet_hashtags_text
-from cjk_latin_emoji import RE_SEPARATORS, is_cjk, is_letter_digit
+from cjk_latin_emoji import RE_SEPARATORS, is_cjk
 from collections import Counter
 from csv import DictWriter
 

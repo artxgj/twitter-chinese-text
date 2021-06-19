@@ -3,7 +3,7 @@ import json
 import urllib.parse
 import simple_markdown as md
 
-from typing import List, Tuple, Generator
+from typing import Tuple, Generator
 from tweetybird import tweet_text_minus_entities, tweet_date, tweet_user_mentions, TWITTER_DATE_FORMAT
 
 Tweets = Generator[Tuple[str, str, str], None, None]

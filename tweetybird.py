@@ -7,10 +7,10 @@ from typing import Optional, Dict, Iterable, List
 
 TWITTER_DATE_FORMAT = "%a %b %d %H:%M:%S %z %Y"
 
-Tweet = Dict[str, Dict]
+TweetDict = Dict[str, Dict]
 
 
-def from_tweet_js_file(filepath: str) -> Tweet:
+def from_tweet_js_file(filepath: str) -> List[TweetDict]:
     with open(filepath, 'r') as fp:
         js = fp.readlines()
 
@@ -42,6 +42,9 @@ class TweetsDateInterval:
     def __contains__(self, item: datetime.datetime):
         return self._start_date <= item <= self._end_date
 
+    def __repr__(self):
+        return f"date range: [{self._start_date}, {self._end_date}]"
+
 
 class Mentions:
     def __init__(self, user_mentions_attribute: str, names: Iterable[str]):
@@ -63,15 +66,15 @@ https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-mode
 """
 
 
-def is_zh_tweet(tweet: Tweet):
+def is_zh_tweet(tweet: TweetDict) -> bool:
     return 'lang' in tweet['tweet'] and tweet['tweet']['lang'] == "zh"
 
 
-def tweet_hashtags_text(tweet: Tweet) -> List[str]:
+def tweet_hashtags_text(tweet: TweetDict) -> List[str]:
     return [htag["text"] for htag in tweet['tweet']["entities"]["hashtags"]]
 
 
-def tweet_symbols_text(tweet: Tweet) -> List[str]:
+def tweet_symbols_text(tweet: TweetDict) -> List[str]:
     return [symbol["text"] for symbol in tweet['tweet']["entities"]["symbols"]]
 
 
@@ -79,27 +82,27 @@ def tweet_urls(tweet: Dict[str, Dict]) -> List[str]:
     return [url["url"] for url in tweet['tweet']["entities"]["urls"]]
 
 
-def tweet_media_urls(tweet: Tweet) -> List[str]:
+def tweet_media_urls(tweet: TweetDict) -> List[str]:
     return [medium["url"] for medium in tweet['tweet']["entities"]["media"]]
 
 
-def tweet_full_text(tweet: Tweet) -> str:
+def tweet_full_text(tweet: TweetDict) -> str:
     return tweet['tweet']['full_text']
 
 
-def tweet_date(tweet: Tweet):
+def tweet_date(tweet: TweetDict):
     return tweet['tweet']['created_at']
 
 
-def tweet_id(tweet: Tweet) -> str:
+def tweet_id(tweet: TweetDict) -> str:
     return tweet['tweet']['id_str']
 
 
-def tweet_user_mentions(tweet: Tweet):
+def tweet_user_mentions(tweet: TweetDict):
     return ''.join([user_mention['screen_name'] for user_mention in tweet['tweet']['entities']['user_mentions']])
 
 
-def tweet_text_minus_entities(tweet: Tweet, skip_rt: bool = True) -> str:
+def tweet_text_minus_entities(tweet: TweetDict, skip_rt: bool = True) -> str:
     tweet_tree = tweet['tweet']
     text_start, text_end = tweet_tree["display_text_range"]
 

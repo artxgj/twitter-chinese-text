@@ -15,7 +15,7 @@ def generate_ngram_csv(json_path: str, csv_prefix_path, ngram: int):
         for tweet in tweets:
             ngrams_freq.add_ngrams(tweet_ngrams.extract(tweet))
 
-    with open(f"{csv_prefix_path}-{ngram}gram.csv", 'w') as outf:
+    with open(f"{csv_prefix_path}/chinese-tweets-raw-{ngram}gram.csv", 'w') as outf:
         col1 = f"{ngram}gram"
         wrtr = csv.DictWriter(outf, fieldnames=(col1, "count"))
         wrtr.writeheader()
