@@ -24,7 +24,7 @@ TweetAttributes = Generator[Tuple[str, str, str], None, None]
 def x_markdown_report_hztweets(tweet_attrs_list: List[TweetTranslationAttributes], title: str) -> str:
     gt_params = dict(hi='en', tab='TT', sl='zh-CN', tl='en', op='translate')
     mdtb_rows = []
-    tweet_attrs_list.sort(key=lambda twa: twa.tweet_date, reverse=True)
+    tweet_attrs_list.sort(key=lambda twa: twa.tweet_date)
     for tweet_attrs in tweet_attrs_list:
         gt_params['text'] = tweet_attrs.tweet_text.replace('\\n', '')
         link = f"https://translate.google.com/?{urllib.parse.urlencode(gt_params)}"
