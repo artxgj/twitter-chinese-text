@@ -65,7 +65,7 @@ class NGramsCounter:
 
 if __name__ == '__main__':
     ngrams_freq = NGramsCounter()
-    tweet_ngrams = HZTweetNgram(3)
+    tweet_ngrams = HZTweetNgram(2)
 
     with open('chinese_text_tweet.json', 'r') as fp:
         tweets = json.load(fp)
