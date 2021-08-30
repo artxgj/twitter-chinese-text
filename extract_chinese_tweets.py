@@ -10,7 +10,7 @@ Zh_Tweets_Sources = {
     'asahi_shinsen',
     'bbcchinese',
     'dw_chinese',
-    'nanyangpres',
+    'nanyangpress',
     'rijingzhongwen',
     'zaobaosg'
 }
