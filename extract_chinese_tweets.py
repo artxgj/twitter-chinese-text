@@ -31,7 +31,7 @@ def simplified_zh_tweet_source(tweet_dict: TweetDict) -> bool:
 
 
 if __name__ == '__main__':
-    tweet_js_filepath = f"./twitter-2021-08-30-437b83887b3810705d8f4e1c95fb4abfd78c166a70050b24ff79d6a81806d680/data/tweet.js"
+    tweet_js_filepath = f"./twitter-2021-10-21-437b83887b3810705d8f4e1c95fb4abfd78c166a70050b24ff79d6a81806d680/data/tweet.js"
     tweets_date_interval = TweetsDateInterval("2020-05-01")
     with open('chinese_text_tweet.json', 'w', encoding='utf-8') as f_out:
         tweets = from_tweet_js_file(tweet_js_filepath)
