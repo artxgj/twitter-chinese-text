@@ -1,7 +1,10 @@
+from collections import Counter
 from collections.abc import Sequence
-from typing import Dict, Generator, Optional
+from typing import Dict, Generator, List, Optional
+from zoneinfo import ZoneInfo
 import datetime
 import json
+import string
 
 
 def from_file_collection_json(filepath: str) -> Generator[Dict, None, None]:
@@ -35,3 +38,24 @@ class DateInterval:
 
     def __repr__(self):
         return f"date range: [{self._start_date}, {self._end_date}]"
+
+_LETTER_DIGITS = set(string.digits + string.ascii_letters)
+
+def is_letter_digit(c: str) -> bool:
+    return c in _LETTER_DIGITS
+
+
+class NGramsCounter:
+    def __init__(self):
+        self._counter = Counter()
+
+    def add_ngrams(self, ngrams: List[str]):
+        for ngram in ngrams:
+            self.add_ngram(ngram)
+
+    def add_ngram(self, ngram: str):
+        self._counter[ngram] += 1
+
+    @property
+    def ngrams_counter(self):
+        return self._counter

@@ -1,21 +1,27 @@
-from collections import deque, Counter
+from collections import deque
 from typing import List, Deque
-from twitter_objects import AbbreviatedTweet, is_tweet_in_sources
+from twitter_objects import AbbreviatedTweet, next_tweet, is_tweet_in_sources, from_tweet_js_file
 import re
-import string
 
 
 RE_SEPARATORS = re.compile(r"[:?！？，。“”【】\"：…\n、（）～；•《》—「」·~]")
 
-_LETTER_DIGITS = set(string.digits + string.ascii_letters)
+Zh_Tweets_Sources = {
+    'ChineseWSJ',
+    'ChosunChinese',
+    'FTChinese',
+    'KBSChinese',
+    'asahi_shinsen',
+    'bbcchinese',
+    'dw_chinese',
+    'nanyangpress',
+    'rijingzhongwen',
+    'zaobaosg'
+}
 
 
 def is_cjk(c: str) -> bool:
     return 0x4E00 <= ord(c) <= 0x9FFF
-
-
-def is_letter_digit(c: str) -> bool:
-    return c in _LETTER_DIGITS
 
 
 class HZTweetNgram:
@@ -47,17 +53,7 @@ class HZTweetNgram:
         self._deq.clear()
 
 
-class NGramsCounter:
-    def __init__(self):
-        self._counter = Counter()
-
-    def add_ngrams(self, ngrams: List[str]):
-        for ngram in ngrams:
-            self.add_ngram(ngram)
-
-    def add_ngram(self, ngram: str):
-        self._counter[ngram] += 1
-
-    @property
-    def ngrams_counter(self):
-        return self._counter
+def next_hanzi_tweet(tweet_js_filepath: str):
+    for tweet in next_tweet(from_tweet_js_file(tweet_js_filepath)):
+        if is_tweet_in_sources(tweet, Zh_Tweets_Sources):
+            yield tweet
