@@ -28,7 +28,5 @@ if __name__ == '__main__':
     parser.add_argument('-csv-prefix-path', type=str, required=True, help='csv output file path')
     parser.add_argument('-ngram', type=int, required=True, help='[n]gram')
     args = parser.parse_args()
-    print(args)
-    print()
     generate_ngram_csv(args.tweet_js_path, args.csv_prefix_path, args.ngram)
 
