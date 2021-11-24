@@ -1,68 +1,66 @@
 import argparse
+import datetime
 import pathlib
 import urllib.parse
 import simple_markdown as md
-
-from hanzi_helpers import next_hanzi_tweet
-from twitter_objects import AbbreviatedTweet
-from typing import List
-
-
-class TweetAttributesForMarkdown:
-    def __init__(self, tweet: AbbreviatedTweet):
-        self.tweet_date = tweet.created_at
-        self.tweet_source = tweet.user_mentions[0].name
-        self.tweet_full_text = tweet.full_text
-
-    def __repr__(self):
-        return f"{self.tweet_date.isoformat()} || {self.tweet_source} " \
-               f"|| {self.tweet_full_text}"
+from collections.abc import Sequence
+from dataclasses import dataclass
+from hanzi_helpers import next_hanzi_summary_tweet
 
 
-def x_markdown_report_hztweets(tweet_md_attrs: List[TweetAttributesForMarkdown], title: str) -> str:
-    gt_params = dict(hi='en', tab='TT', sl='zh-CN', tl='en', op='translate')
-    mdtb_rows = []
-    tweet_md_attrs.sort(key=lambda twa: twa.tweet_date)
-    for tweet_attrs in tweet_md_attrs:
-        gt_params['text'] = tweet_attrs.tweet_full_text.replace('\\n', '')
-        link = f"https://translate.google.com/?{urllib.parse.urlencode(gt_params)}"
-        row = md.table_row([str(tweet_attrs.tweet_date), tweet_attrs.tweet_source,
-                            md.link(tweet_attrs.tweet_full_text, link)])
-        mdtb_rows.append(row)
+@dataclass
+class HanziSummaryMdFields:
+    tweet_date: str
+    tweet_source: str
+    tweet_text: str
 
-    tbl = '\n'.join(mdtb_rows)
-    report = f"""## {title}    
 
+class HanziSummaryMdReport:
+    def __init__(self, report_data: Sequence[HanziSummaryMdFields]):
+        self._report_data = report_data
+
+    def write(self, md_filepath: str, title: str, reverse_sort: bool = True):
+        self._report_data.sort(key=lambda tw: tw.tweet_date, reverse=reverse_sort)
+        gt_params = dict(hi='en', tab='TT', sl='zh-CN', tl='en', op='translate')
+        mdtb_rows = []
+
+        for attrs in self._report_data:
+            norm_text = attrs.tweet_text.replace('\n', '')
+            gt_params['text'] = norm_text
+            link = f"https://translate.google.com/?{urllib.parse.urlencode(gt_params)}"
+            mdtb_rows.append(md.table_row([str(attrs.tweet_date), attrs.tweet_source, md.link(norm_text, link)]))
+
+        tbl = '\n'.join(mdtb_rows)
+        report = f"""## {title}    
 | UTC Date | Tweet Source | Tweet (click or tap to see Google Translation) |
 |:-----------------|:-------------|:------------------|  
 {tbl}
 """
-    return report
+        with open(md_filepath, "w") as f_out:
+            f_out.writelines(report)
 
+    @classmethod
+    def _date_str(cls, date_obj: datetime.datetime):
+        return date_obj.strftime("%Y-%m-%d %H:%M:%S %Z")
 
-def generate_tweet_google_trans_markdown_reports(tweets_js_filepath: str, title: str, partition_size: int = 401):
-    lines = 0
-    markdown_table: List[TweetAttributesForMarkdown] = []
-    report_num = 1
+    @classmethod
+    def from_tweet_js(cls, tweet_js_path: str):
+        return cls([HanziSummaryMdFields(tweet_date=cls._date_str(tw.tweet_date),
+                                         tweet_source=tw.tweet_source,
+                                         tweet_text=tw.tweet_text)
+                    for tw in next_hanzi_summary_tweet(tweet_js_path)])
 
-    for tweet in next_hanzi_tweet(tweets_js_filepath):
-        markdown_table.append(TweetAttributesForMarkdown(tweet))
-        lines += 1
-        if lines == partition_size:
-            with open(f"study/tweets-study-chinese-{report_num:03}.md", "w") as f_out:
-                f_out.writelines(x_markdown_report_hztweets(markdown_table, title))
-
-            lines = 0
-            report_num += 1
-            markdown_table.clear()
-
-    if len(markdown_table) > 0:
-        with open(f"study/tweets-study-chinese-{report_num:03}.md", "w") as f_out:
-            f_out.writelines(x_markdown_report_hztweets(markdown_table, title))
+    @classmethod
+    def from_summary_csv(cls, csv_input_path: str):
+        pass
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog=pathlib.PurePath(__file__).name, description="Generate markdown files of Chinese=text tweets")
     parser.add_argument('-tweet-js-path', type=str, required=True, help='twitter\'s tweet.js filepath')
+    parser.add_argument('-md-report-path', type=str, required=True, help='markdown output report filepath')
+    parser.add_argument('-title', type=str, required=True, help='title of report')
     args = parser.parse_args()
-    generate_tweet_google_trans_markdown_reports(args.tweet_js_path, "Tweets Collection for Studying Chinese")
+
+    md_report = HanziSummaryMdReport.from_tweet_js(args.tweet_js_path)
+    md_report.write(args.md_report_path, args.title)

@@ -1,4 +1,5 @@
 from collections import deque
+from collections.abc import Sequence, Generator
 from typing import List, Deque
 from twitter_objects import AbbreviatedTweet, next_tweet, is_tweet_in_sources, from_tweet_js_file
 import re
@@ -53,7 +54,32 @@ class HZTweetNgram:
         self._deq.clear()
 
 
+class HanziTweetSummary:
+    def __init__(self, tweet: AbbreviatedTweet):
+        self.tweet_date = tweet.created_at
+        self.tweet_id = tweet.id_int
+        self.tweet_source = tweet.user_mentions[0].name
+        self.tweet_text = tweet.full_text
+
+    @staticmethod
+    def field_names() -> Sequence[str]:
+        return 'Date', 'Id', 'Source', 'Tweet'
+
+    def to_dict(self, date_fmt: str = "%Y-%m-%d %H:%M:%S %Z", strip_newline: bool = True):
+        return {
+            'Date': self.tweet_date.strftime(date_fmt),
+            'Id': self.tweet_id,
+            'Source': self.tweet_source,
+            'Tweet': self.tweet_text.replace('\n', '') if strip_newline else self.tweet_text
+        }
+
+
 def next_hanzi_tweet(tweet_js_filepath: str):
     for tweet in next_tweet(from_tweet_js_file(tweet_js_filepath)):
         if is_tweet_in_sources(tweet, Zh_Tweets_Sources):
             yield tweet
+
+
+def next_hanzi_summary_tweet(tweet_js_filepath: str) -> Generator[HanziTweetSummary, None, None]:
+    for tweet in next_hanzi_tweet(tweet_js_filepath):
+        yield HanziTweetSummary(tweet)
