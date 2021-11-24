@@ -1,4 +1,5 @@
 import argparse
+import csv
 import datetime
 import pathlib
 import urllib.parse
@@ -52,7 +53,12 @@ class HanziSummaryMdReport:
 
     @classmethod
     def from_summary_csv(cls, csv_input_path: str):
-        pass
+        with open(csv_input_path, "r",  newline='', encoding='utf-8') as f_in:
+            rdr = csv.reader(f_in,  delimiter=',')
+            return cls([HanziSummaryMdFields(tweet_date=row[0],
+                                             tweet_source=row[2],
+                                             tweet_text=row[3])
+                        for row in rdr])
 
 
 if __name__ == '__main__':
