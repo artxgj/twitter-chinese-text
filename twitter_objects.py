@@ -104,6 +104,7 @@ class Medium:
 class AbbreviatedTweet:
     def __init__(self, tweet: Mapping):
         self.id_int = int(tweet["id"])
+        self.source: Optional[str] = tweet.get("source", None)
         self.full_text: str = tweet['full_text']
         self.display_text_range: Indices = Indices(tweet['display_text_range'])
         self.lang: Optional[str] = tweet.get('lang', None)
