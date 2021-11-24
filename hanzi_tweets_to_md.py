@@ -26,7 +26,7 @@ def x_markdown_report_hztweets(tweet_md_attrs: List[TweetAttributesForMarkdown],
     for tweet_attrs in tweet_md_attrs:
         gt_params['text'] = tweet_attrs.tweet_full_text.replace('\\n', '')
         link = f"https://translate.google.com/?{urllib.parse.urlencode(gt_params)}"
-        row = md.table_row([str(tweet_attrs.tweet_date),tweet_attrs.tweet_source,
+        row = md.table_row([str(tweet_attrs.tweet_date), tweet_attrs.tweet_source,
                             md.link(tweet_attrs.tweet_full_text, link)])
         mdtb_rows.append(row)
 
@@ -34,7 +34,7 @@ def x_markdown_report_hztweets(tweet_md_attrs: List[TweetAttributesForMarkdown],
     report = f"""## {title}    
 
 | UTC Date | Tweet Source | Tweet (click or tap to see Google Translation) |
-|:-----------------|:-------------|:-------------|:------------------|  
+|:-----------------|:-------------|:------------------|  
 {tbl}
 """
     return report
