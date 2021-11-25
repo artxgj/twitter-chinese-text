@@ -34,7 +34,7 @@ class HanziSummaryMdReport:
         tbl = '\n'.join(mdtb_rows)
         report = f"""## {title} 
 
-Tweets with [{title}](https://en.wiktionary.org/wiki/{title}). Tap or click to check if Wiktionary has an try for it.
+Tweets with [{title}](https://en.wiktionary.org/wiki/{title}). Tap or click to check if Wiktionary has an entry for it.
 
 | UTC Date | Tweet Source | Tweet (click or tap to see Google Translation) |
 |:-----------------|:-------------|:------------------|  
