@@ -1,0 +1,7 @@
+When there's free time again...
+
+1. Create a better tool than this command-line bash statements to generate summary tweets of words:
+
+for w in `cat inputs/words-for-cards.txt`;do grep $w inputs/summary_tweets_chinese_text.csv > csv/$w.csv; done
+
+-- the csv files are used as inputs to generate the markdown files for cards subfolder
