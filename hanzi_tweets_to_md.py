@@ -4,8 +4,8 @@ import datetime
 import pathlib
 import urllib.parse
 import simple_markdown as md
-from collections.abc import Sequence
 from dataclasses import dataclass
+from typing import List
 from hanzi_helpers import next_hanzi_summary_tweet
 
 
@@ -17,7 +17,7 @@ class HanziSummaryMdFields:
 
 
 class HanziSummaryMdReport:
-    def __init__(self, report_data: Sequence[HanziSummaryMdFields]):
+    def __init__(self, report_data: List[HanziSummaryMdFields]):
         self._report_data = report_data
 
     def write(self, md_filepath: str, title: str, reverse_sort: bool = True):
@@ -32,7 +32,10 @@ class HanziSummaryMdReport:
             mdtb_rows.append(md.table_row([str(attrs.tweet_date), attrs.tweet_source, md.link(norm_text, link)]))
 
         tbl = '\n'.join(mdtb_rows)
-        report = f"""## {title}    
+        report = f"""## {title} 
+
+Tweets with [{title}](https://en.wiktionary.org/wiki/{title}). Tap or click to check if Wiktionary has an try for it.
+
 | UTC Date | Tweet Source | Tweet (click or tap to see Google Translation) |
 |:-----------------|:-------------|:------------------|  
 {tbl}
