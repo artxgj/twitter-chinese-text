@@ -6,7 +6,8 @@ import urllib.parse
 import simple_markdown as md
 from dataclasses import dataclass
 from typing import List
-from hanzi_helpers import next_hanzi_summary_tweet
+from general_helpers import dictlines_from_csv
+from hanzi_helpers import next_hanzi_summary_tweet, HanziTweetSummary
 
 
 @dataclass
@@ -55,13 +56,17 @@ Tweets with [{title}](https://en.wiktionary.org/wiki/{title}). Tap or click to c
                     for tw in next_hanzi_summary_tweet(tweet_js_path)])
 
     @classmethod
-    def from_summary_csv(cls, csv_input_path: str):
-        with open(csv_input_path, "r",  newline='', encoding='utf-8') as f_in:
-            rdr = csv.reader(f_in,  delimiter=',')
-            return cls([HanziSummaryMdFields(tweet_date=row[0],
-                                             tweet_source=row[2],
-                                             tweet_text=row[3])
-                        for row in rdr])
+    def make_word_based_tweets(cls, word: str, summary_tweets_csv_path: str):
+        report_data = []
+        for tweet_summary in dictlines_from_csv(csv_path=summary_tweets_csv_path,
+                                                fieldnames=HanziTweetSummary.field_names()):
+
+            if word in tweet_summary['Tweet']:
+                report_data.append(HanziSummaryMdFields(tweet_date=tweet_summary['Date'],
+                                                        tweet_source=tweet_summary['Source'],
+                                                        tweet_text=tweet_summary['Tweet']))
+
+        return cls(report_data)
 
 
 if __name__ == '__main__':
