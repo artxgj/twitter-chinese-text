@@ -1,7 +1,8 @@
 from collections import Counter
-from collections.abc import Sequence
+from collections.abc import Mapping, Sequence
 from typing import Dict, Generator, List, Optional
 from zoneinfo import ZoneInfo
+import csv
 import datetime
 import json
 import string
@@ -22,6 +23,21 @@ def from_collection_json(json_seq: Sequence) -> Generator[Dict, None, None]:
         yield elem
 
 
+def dictlines_from_csv(csv_path: str,
+                       fieldnames: Sequence[str],
+                       encoding: str = 'utf-8') -> Generator[Mapping, None, None]:
+    with open(csv_path, 'r', encoding=encoding) as csv_stream:
+        rdr = csv.DictReader(csv_stream, fieldnames)
+        for row in rdr:
+            yield row
+
+
+def lines_from_textfile(filepath: str, encoding: str = 'utf-8') -> str:
+    with open(filepath, 'r', encoding=encoding) as istream:
+        for line in istream:
+            yield line.strip()
+
+
 class DateInterval:
     def __init__(self, start_date: str, end_date: Optional[str] = None, timezone=ZoneInfo("UTC")):
         self._start_date = datetime.datetime.strptime(start_date, "%Y-%m-%d").astimezone(timezone)
@@ -39,7 +55,9 @@ class DateInterval:
     def __repr__(self):
         return f"date range: [{self._start_date}, {self._end_date}]"
 
+
 _LETTER_DIGITS = set(string.digits + string.ascii_letters)
+
 
 def is_letter_digit(c: str) -> bool:
     return c in _LETTER_DIGITS
