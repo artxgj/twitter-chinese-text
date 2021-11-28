@@ -22,3 +22,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
     sources = count_sources(args.tweet_js_path)
     print(sources)
+    print()
+    print(sources.most_common(10))
