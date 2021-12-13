@@ -1,6 +1,6 @@
 from collections import Counter
 from collections.abc import Mapping, Sequence
-from typing import Dict, Generator, List, Optional
+from typing import Dict, Generator, Iterator, List, Optional
 from zoneinfo import ZoneInfo
 import csv
 import datetime
@@ -30,6 +30,15 @@ def dictlines_from_csv(csv_path: str,
         rdr = csv.DictReader(csv_stream, fieldnames)
         for row in rdr:
             yield row
+
+
+def dictlines_to_csv(csv_path: str, fieldnames, dictlines: Iterator[dict], encoding: str = 'utf-8'):
+    with open(csv_path, 'w', encoding=encoding) as ostream:
+        wrtr = csv.DictWriter(ostream, fieldnames=fieldnames)
+        wrtr.writeheader()
+
+        for row in dictlines:
+            wrtr.writerow(row)
 
 
 def lines_from_textfile(filepath: str, encoding: str = 'utf-8') -> str:
