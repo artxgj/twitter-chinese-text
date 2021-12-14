@@ -2,11 +2,11 @@ import argparse
 import csv
 import datetime
 import pathlib
-import urllib.parse
+
 import simple_markdown as md
 from dataclasses import dataclass
 from typing import List
-from general_helpers import dictlines_from_csv
+from general_helpers import dictlines_from_csv, googtrans_link
 from hanzi_helpers import next_hanzi_summary_tweet, HanziTweetSummary
 
 
@@ -23,14 +23,11 @@ class HanziSummaryMdReport:
 
     def write(self, md_filepath: str, title: str, reverse_sort: bool = True):
         self._report_data.sort(key=lambda tw: tw.tweet_date, reverse=reverse_sort)
-        gt_params = dict(hi='en', tab='TT', sl='zh-CN', tl='en', op='translate')
         mdtb_rows = []
 
         for attrs in self._report_data:
-            norm_text = attrs.tweet_text.replace('\n', '')
-            gt_params['text'] = norm_text
-            link = f"https://translate.google.com/?{urllib.parse.urlencode(gt_params)}"
-            mdtb_rows.append(md.table_row([str(attrs.tweet_date), attrs.tweet_source, md.link(norm_text, link)]))
+            link = googtrans_link(source_text=attrs.tweet_text)
+            mdtb_rows.append(md.table_row([str(attrs.tweet_date), attrs.tweet_source, md.link(attrs.tweet_text, link)]))
 
         tbl = '\n'.join(mdtb_rows)
         report = f"""## {title} 

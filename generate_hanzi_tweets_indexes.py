@@ -2,8 +2,10 @@ import argparse
 import pathlib
 from hanzi_helpers import HanziTweetSummary
 from general_helpers import lines_from_textfile, dictlines_from_csv, dictlines_to_csv
-from collections import defaultdict, namedtuple
-from pprint import pprint
+from collections import defaultdict
+
+FIELDNAMES_TWEETS_VOCAB_INDEX = ("Tweet_Id", "Words")
+FIELDNAMES_VOCAB_TWEETS_INDEX = ("Word", "Tweet_Ids")
 
 
 def build_indexes(*, tweets_summary_csv_path: str, vocab_list_path: str, index_folder: str):
@@ -27,12 +29,12 @@ def build_indexes(*, tweets_summary_csv_path: str, vocab_list_path: str, index_f
 
     tw_words_iter = iter({"Tweet_Id": k, "Words": ','.join(v)} for k, v in tweets_with_vocab.items())
     dictlines_to_csv(f"{index_folder}/tweets_vocab_index.dat",
-                     ("Tweet_Id", "Words"),
+                     FIELDNAMES_TWEETS_VOCAB_INDEX,
                      tw_words_iter)
 
     words_tweets_iter = iter({"Word": k, "Tweet_Ids": ','.join(v)} for k, v in vocab_tweets_index.items())
     dictlines_to_csv(f"{index_folder}/vocab_tweets_index.dat",
-                     ("Word", "Tweet_Ids"),
+                     FIELDNAMES_VOCAB_TWEETS_INDEX,
                      words_tweets_iter)
 
 

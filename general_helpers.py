@@ -6,6 +6,7 @@ import csv
 import datetime
 import json
 import string
+import urllib.parse
 
 
 def from_file_collection_json(filepath: str) -> Generator[Dict, None, None]:
@@ -24,7 +25,7 @@ def from_collection_json(json_seq: Sequence) -> Generator[Dict, None, None]:
 
 
 def dictlines_from_csv(csv_path: str,
-                       fieldnames: Sequence[str],
+                       fieldnames: Optional[Sequence[str]],
                        encoding: str = 'utf-8') -> Generator[Mapping, None, None]:
     with open(csv_path, 'r', encoding=encoding) as csv_stream:
         rdr = csv.DictReader(csv_stream, fieldnames)
@@ -86,3 +87,25 @@ class NGramsCounter:
     @property
     def ngrams_counter(self):
         return self._counter
+
+
+def googtrans_link(*, source_text: str, sl='zh-CN', tl='en') -> str:
+    gt_params = {
+        'hi': 'en',
+        'tab': 'TT',
+        'sl': sl,
+        'tl': tl,
+        'op': 'translate',
+        'text': source_text.replace('\n', '')
+    }
+
+    return f"https://translate.google.com/?{urllib.parse.urlencode(gt_params)}"
+
+
+def wiktionary_link(*, title: str) -> str:
+    return f"https://en.wiktionary.org/wiki/{title}"
+
+
+def pleco_link(*, title: str, return_app: str, return_url: str) -> str:
+    return f"plecoapi://x-callback-url/df?hw=({title})&py=pinyin&sec=dict&x-source={return_app}" \
+           f"&x-success=({return_url})"
