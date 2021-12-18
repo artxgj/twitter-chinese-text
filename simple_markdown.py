@@ -69,3 +69,6 @@ def table_row(row: List[str]) -> str:
     trow = f" {CELL_DELIM} ".join([cell.replace('\n', '<br/>') for cell in row])
     return f"{CELL_DELIM} {trow} {CELL_DELIM}"
 
+
+def blockquote(s: str) -> str:
+    return f"> {s}"

@@ -44,6 +44,8 @@ def make_cards(*, tweets_summary_csv_path: str,
     pprint(tweets_vocab_index)
     print("...")
 
+    print(len(summary_tweets), len(tweets_vocab_index))
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog=pathlib.PurePath(__file__).name,

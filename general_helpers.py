@@ -109,3 +109,7 @@ def wiktionary_link(*, title: str) -> str:
 def pleco_link(*, title: str, return_app: str, return_url: str) -> str:
     return f"plecoapi://x-callback-url/df?hw=({title})&py=pinyin&sec=dict&x-source={return_app}" \
            f"&x-success=({return_url})"
+
+
+def mdbg_link(*, title):
+    return f"https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb={title}"
