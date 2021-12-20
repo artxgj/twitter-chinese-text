@@ -11,8 +11,8 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E8%BF%9B%E5%8C%96%EF%BC%9A5%E5%88%86%E9%92%9F%EF%BC%8C%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%80%919%E6%9C%88%E5%85%B3%E8%A5%BF%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%EF%BC%8C1%E4%B8%AA%E9%9B%86%E8%A3%85%E7%AE%B1%E5%86%85%E7%9A%8413%E5%8F%B0%E6%9C%BA%E6%A2%B0%E8%87%82%E5%BC%80%E5%A7%8B%E5%BF%99%E7%A2%8C%EF%BC%8C%E5%AE%83%E4%BB%AC%E5%8F%AF%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%9A%84%E5%90%84%E6%AD%A5%E9%AA%A4%EF%BC%8C%E5%8D%95%E6%97%A5%E8%83%BD%E6%A3%80%E6%B5%8B%E6%95%B0%E5%8D%83%E4%BB%BD%E3%80%82%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E7%AD%89%E5%BC%80%E5%8F%91%E7%9A%84%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E4%BA%86%E7%94%A8%E4%BA%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E6%B1%BD%E8%BD%A6%E7%94%9F%E4%BA%A7%E7%9A%84%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E5%8F%AA%E8%A6%81%E6%94%BE%E5%85%A5%E6%A3%80%E6%B5%8B%E6%A0%B7%E6%9C%AC%EF%BC%8C%E5%B0%B1%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%BE%97%E5%87%BA%E7%BB%93%E6%9E%9C%E2%80%A6)
 
-#####Other Words/Names in Study List
-[处理](../cards/处理.md), [开发](../cards/处理.md), [机械](../cards/机械.md), [检测](../cards/检测.md), 生产, 用于, 精度, 系统, 半导体, 集装箱
+##### Other Words/Names of Interest in the Above Tweet
+[处理](../cards/处理.md), [开发](../cards/处理.md), [机械](../cards/机械.md), [检测](../cards/检测.md), [生产](../cards/生产.md), [用于](../cards/用于.md), [精度](../cards/精度.md), [系统](../cards/系统.md), [半导体](../cards/半导体.md), [集装箱](../cards/集装箱.md)
 ___
 **2021-10-23 06:15:53 UTC | 联合早报 Lianhe Zaobao**
 >RT @zaobaosg: 中国宁夏一名旅行团包车司机坚持带团做核酸检测，结果查出四名确诊病例，他的行为受到不少中国网民赞扬。https://t.co/HgqnKvbhUB
