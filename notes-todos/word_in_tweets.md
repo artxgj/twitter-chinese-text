@@ -10,6 +10,9 @@ ___
 > RT @rijingzhongwen: 【日本核酸检测进化：5分钟，高精度】9月关西国际机场，1个集装箱内的13台机械臂开始忙碌，它们可自动处理核酸检测的各步骤，单日能检测数千份。川崎重工等开发的检测系统使用了用于半导体和汽车生产的工业机器人，只要放入检测样本，就会自动得出结果…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E8%BF%9B%E5%8C%96%EF%BC%9A5%E5%88%86%E9%92%9F%EF%BC%8C%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%80%919%E6%9C%88%E5%85%B3%E8%A5%BF%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%EF%BC%8C1%E4%B8%AA%E9%9B%86%E8%A3%85%E7%AE%B1%E5%86%85%E7%9A%8413%E5%8F%B0%E6%9C%BA%E6%A2%B0%E8%87%82%E5%BC%80%E5%A7%8B%E5%BF%99%E7%A2%8C%EF%BC%8C%E5%AE%83%E4%BB%AC%E5%8F%AF%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%9A%84%E5%90%84%E6%AD%A5%E9%AA%A4%EF%BC%8C%E5%8D%95%E6%97%A5%E8%83%BD%E6%A3%80%E6%B5%8B%E6%95%B0%E5%8D%83%E4%BB%BD%E3%80%82%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E7%AD%89%E5%BC%80%E5%8F%91%E7%9A%84%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E4%BA%86%E7%94%A8%E4%BA%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E6%B1%BD%E8%BD%A6%E7%94%9F%E4%BA%A7%E7%9A%84%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E5%8F%AA%E8%A6%81%E6%94%BE%E5%85%A5%E6%A3%80%E6%B5%8B%E6%A0%B7%E6%9C%AC%EF%BC%8C%E5%B0%B1%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%BE%97%E5%87%BA%E7%BB%93%E6%9E%9C%E2%80%A6)
+
+#####Other Words/Names in Study List
+[处理](../cards/处理.md), [开发](../cards/处理.md), [机械](../cards/机械.md), [检测](../cards/检测.md), 生产, 用于, 精度, 系统, 半导体, 集装箱
 ___
 **2021-10-23 06:15:53 UTC | 联合早报 Lianhe Zaobao**
 >RT @zaobaosg: 中国宁夏一名旅行团包车司机坚持带团做核酸检测，结果查出四名确诊病例，他的行为受到不少中国网民赞扬。https://t.co/HgqnKvbhUB
@@ -48,6 +51,7 @@ ___
 ___
 **2021-05-31 04:19:50 UTC | 联合早报 Lianhe Zaobao**
 >RT @zaobaosg: 广州连日来出现确诊冠病病例和无症状感染，官方继前天下令荔湾区五个街区居民停止户外活动以阻断疫情扩散，也宣布海珠区及越秀区昨天至周二（6月1日）展开全员核酸检测工作。https://t.co/ELPBlmQU9v
+
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%B9%BF%E5%B7%9E%E8%BF%9E%E6%97%A5%E6%9D%A5%E5%87%BA%E7%8E%B0%E7%A1%AE%E8%AF%8A%E5%86%A0%E7%97%85%E7%97%85%E4%BE%8B%E5%92%8C%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%EF%BC%8C%E5%AE%98%E6%96%B9%E7%BB%A7%E5%89%8D%E5%A4%A9%E4%B8%8B%E4%BB%A4%E8%8D%94%E6%B9%BE%E5%8C%BA%E4%BA%94%E4%B8%AA%E8%A1%97%E5%8C%BA%E5%B1%85%E6%B0%91%E5%81%9C%E6%AD%A2%E6%88%B7%E5%A4%96%E6%B4%BB%E5%8A%A8%E4%BB%A5%E9%98%BB%E6%96%AD%E7%96%AB%E6%83%85%E6%89%A9%E6%95%A3%EF%BC%8C%E4%B9%9F%E5%AE%A3%E5%B8%83%E6%B5%B7%E7%8F%A0%E5%8C%BA%E5%8F%8A%E8%B6%8A%E7%A7%80%E5%8C%BA%E6%98%A8%E5%A4%A9%E8%87%B3%E5%91%A8%E4%BA%8C%EF%BC%886%E6%9C%881%E6%97%A5%EF%BC%89%E5%B1%95%E5%BC%80%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%B7%A5%E4%BD%9C%E3%80%82https%3A%2F%2Ft.co%2FELPBlmQU9v)
 ___
 **2021-03-17 09:18:12 UTC | DW 中文- 德国之声**
