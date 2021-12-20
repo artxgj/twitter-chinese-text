@@ -7,7 +7,7 @@ import simple_markdown as md
 from dataclasses import dataclass
 from typing import List
 from general_helpers import dictlines_from_csv, googtrans_link
-from hanzi_helpers import next_hanzi_summary_tweet, HanziTweetSummary
+from hanzi_helpers import next_hanzi_tweet_summarized, HanziTweetSummary
 
 
 @dataclass
@@ -50,7 +50,7 @@ Tweets with [{title}](https://en.wiktionary.org/wiki/{title}). Tap or click to c
         return cls([HanziSummaryMdFields(tweet_date=cls._date_str(tw.tweet_date),
                                          tweet_source=tw.tweet_source,
                                          tweet_text=tw.tweet_text)
-                    for tw in next_hanzi_summary_tweet(tweet_js_path)])
+                    for tw in next_hanzi_tweet_summarized(tweet_js_path)])
 
     @classmethod
     def make_word_based_tweets(cls, word: str, summary_tweets_csv_path: str):

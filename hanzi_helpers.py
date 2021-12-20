@@ -1,7 +1,10 @@
 from collections import deque
-from collections.abc import Sequence, Generator
+from collections.abc import Sequence, Generator, Mapping
 from typing import List, Deque
 from twitter_objects import AbbreviatedTweet, next_tweet, is_tweet_in_sources, from_tweet_js_file
+from general_helpers import dictlines_from_csv
+
+
 import re
 
 
@@ -80,6 +83,36 @@ def next_hanzi_tweet(tweet_js_filepath: str):
             yield tweet
 
 
-def next_hanzi_summary_tweet(tweet_js_filepath: str) -> Generator[HanziTweetSummary, None, None]:
+def next_hanzi_tweet_summarized(tweet_js_filepath: str) -> Generator[HanziTweetSummary, None, None]:
+    """
+    Generates summarized Chinese-text tweet
+    :param tweet_js_filepath: path of Twitter-archive's filepath (tweet.js)
+    :return: Generator[HanziTweetSummary, None, None]
+    """
     for tweet in next_hanzi_tweet(tweet_js_filepath):
         yield HanziTweetSummary(tweet)
+
+
+def next_HanziTweetSummary(summarized_tweets_csv_filepath: str) -> Generator[Mapping, None, None]:
+    """
+
+    :param summarized_tweets_csv_filepath:
+    :return: a Mapping with keys 'Date', 'Id', 'Source', 'Tweet'
+    """
+    return dictlines_from_csv(summarized_tweets_csv_filepath, None)
+
+
+def next_vocab_tweets_index(vocab_tweets_index_csv_filepath: str) -> Generator[Mapping, None, None]:
+    """
+    :param vocab_tweets_index_csv_filepath:
+    :return: a Mapping with keys "Word", "Tweet_Ids"
+    """
+    return dictlines_from_csv(vocab_tweets_index_csv_filepath, None)
+
+
+def next_tweets_vocab_index(tweets_vocab_index_csv_filepath: str) -> Generator[Mapping, None, None]:
+    """
+    :param tweets_vocab_index_csv_filepath:
+    :return: a Mapping with keys "Tweet_Id", "Words"
+    """
+    return dictlines_from_csv(tweets_vocab_index_csv_filepath, None)
