@@ -40,12 +40,13 @@ def write_word_card(*, title: str, tweet_data: List[Mapping[str, Mapping]], card
     tweets_title_heading = f"Tweets containing {title}"
     word_static_md_part = f"""{h1(title)}
 
-    Search {link('mdbg', mdbg_link(title=title))} for definition
+Search {link('mdbg', mdbg_link(title=title))} for definition
 
-    Search {link('wiktionary', wiktionary_link(title=title))} for definition
+Search {link('wiktionary', wiktionary_link(title=title))} for definition
 
-    {h3(tweets_title_heading)}
-    """
+{h3(tweets_title_heading)}
+
+"""
 
     with open(f"{cards_study_folder}/{title}.md", "w", encoding='utf-8') as f_out:
         f_out.writelines(word_static_md_part)
