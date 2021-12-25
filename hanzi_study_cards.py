@@ -112,7 +112,8 @@ Search {link('wiktionary', wiktionary_link(title=title))} for definition
                 if len(tweet['Words']) > 1:
                     f_out.write(f"{h5('Other Words/Names of Interest in the Above Tweet')}\n")
                     buffer = []
-                    other_words = tweet['Words'].difference({title})
+                    other_words = sorted(tweet['Words'].difference({title}))
+
                     for other_word in other_words:
                         buffer.append(link(other_word, f"{other_word}.md"))
 
@@ -120,7 +121,6 @@ Search {link('wiktionary', wiktionary_link(title=title))} for definition
 
             if link_text:
                 f_out.write(f"____\n\n{link_text}\n")
-
 
 
 def write_cards(*, word_and_tweets: List[WordAndTweets],
