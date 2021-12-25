@@ -2,7 +2,7 @@
 Read the tweets from which this curated list of words was extracted. For a complete 
 list of words, check it out [here](words_tweets_stats.md).
 
-Click or tap on the Chinese words to see they are used in tweets.
+Click or tap on the Chinese words to see how they are used in tweets.
 
 ## Chemistry
 |  |  |
