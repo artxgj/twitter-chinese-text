@@ -1,8 +1,8 @@
 # Curated Words Extracted From Tweets
 Read the tweets from which this curated list of words was extracted. For a complete 
-list of words, check it out [here](words_tweets_stats.md)
+list of words, check it out [here](words_tweets_stats.md).
 
-Click or tap on the Chinese words to see they are used in twwets.
+Click or tap on the Chinese words to see they are used in tweets.
 
 ## Chemistry
 |  |  |
@@ -113,7 +113,7 @@ Click or tap on the Chinese words to see they are used in twwets.
 | [流行病学](流行病学.md) | epidemiology |
 | [病毒学家](病毒学家.md) | virologist |
 | [暴發](暴發.md) | outbreak |
-| [住院 ](住院 .md) | hospitalization |
+| [住院](住院.md) | hospitalization |
 | [检疫隔离](检疫隔离.md) | quarantine |
 | [病例](病例.md) | case (medical) |
 | [感染](感染.md) | infection |
