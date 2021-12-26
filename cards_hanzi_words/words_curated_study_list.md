@@ -38,9 +38,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [甲烷](甲烷.md) | methane |
 | [钻石](钻石.md) | diamond |
 | [石墨烯](石墨烯.md) | graphene |
-| [磷酸铁锂](磷酸铁锂.md) | lithium iron phosphate |
-| [锂矿石](锂矿石.md) | lithium ore |
 | [铁矿石](铁矿石.md) | iron ore |
+| [锂矿石](锂矿石.md) | lithium ore |
+| [磷酸铁锂](磷酸铁锂.md) | lithium iron phosphate |
 | [钴酸锂](钴酸锂.md) | lithium cobalt oxide |
 | [钛酸锂](钛酸锂.md) | lithium titanate |
 ## Words Used In Several Context
@@ -62,6 +62,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [崛起](崛起.md) | to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power) |
 | [平衡](平衡.md) | balance; equilibrium |
 | [发布](发布.md) | issue; release |
+| [推出](推出.md) | launch; release; publish; introduce; put out |
 | [威胁](威胁.md) | threaten; menace; imperil |
 ## Energy
 |  |  |
@@ -94,7 +95,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [液晶](液晶.md) | liquid crystal |
 | [晶圆](晶圆.md) | wafer |
 | [波长](波长.md) | wavelength |
-| [零部件](零部件.md) | parts and components |
 | [光子](光子.md) | photon |
 | [光刻](光刻.md) | lithography |
 | [光纤](光纤.md) | optical fiber |
@@ -105,10 +105,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [稀土](稀土.md) | rare earth |
 | [电池](电池.md) | battery |
 | [微细化](微细化.md) | miniaturization |
+| [小型化](小型化.md) | miniaturization |
 | [传感器](传感器.md) | sensor |
 | [激光雷达](激光雷达.md) | lidar |
 | [红外](红外.md) | infrared |
 | [二维码](二维码.md) | QR code |
+| [零部件](零部件.md) | parts and components |
 | [基础设施](基础设施.md) | infrastructure |
 | [塑料](塑料.md) | plastic |
 | [氨基酸](氨基酸.md) | amino acids |

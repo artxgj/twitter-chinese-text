@@ -228,6 +228,10 @@ hz = "发布"
 en = "issue; release"
 
 [[contextual-study]]
+hz = "推出"
+en = "launch; release; publish; introduce; put out"
+
+[[contextual-study]]
 hz = "威胁"
 en = "threaten; menace; imperil"
 
@@ -281,10 +285,6 @@ hz = "波长"
 en = "wavelength"
 
 [[favorites]]
-hz = "零部件"
-en = "parts and components"
-
-[[favorites]]
 hz = "光子"
 en = "photon"
 
@@ -325,6 +325,10 @@ hz = "微细化"
 en = "miniaturization"
 
 [[favorites]]
+hz = "小型化"
+en = "miniaturization"
+
+[[favorites]]
 hz = "传感器"
 en = "sensor"
 
@@ -339,6 +343,10 @@ en = "infrared"
 [[favorites]]
 hz = "二维码"
 en = "QR code"
+
+[[favorites]]
+hz = "零部件"
+en = "parts and components"
 
 [[favorites]]
 hz = "基础设施"
@@ -700,16 +708,16 @@ hz = "石墨烯"
 en = "graphene"
 
 [[chemistry]]
-hz = "磷酸铁锂"
-en = "lithium iron phosphate"
+hz = "铁矿石"
+en = "iron ore"
 
 [[chemistry]]
 hz = "锂矿石"
 en = "lithium ore"
 
 [[chemistry]]
-hz = "铁矿石"
-en = "iron ore"
+hz = "磷酸铁锂"
+en = "lithium iron phosphate"
 
 [[chemistry]]
 hz = "钴酸锂"
