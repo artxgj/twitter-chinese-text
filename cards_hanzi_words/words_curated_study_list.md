@@ -7,8 +7,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [氢](氢.md) | hydrogen |
+| [氦](氦.md) | helium |
 | [锂](锂.md) | lithium |
 | [碳](碳.md) | carbon |
+| [氮](氮.md) | nitrogen |
 | [钠](钠.md) | sodium |
 | [镁](镁.md) | magnesium |
 | [铝](铝.md) | aluminum |
@@ -17,8 +19,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钴](钴.md) | cobalt |
 | [镍](镍.md) | nickel |
 | [铜](铜.md) | copper |
-| [锌](锌.md) | zinc	 |
+| [锌](锌.md) | zinc |
 | [镓](镓.md) | gallium |
+| [锗](锗.md) | germanium |
+| [铟](铟.md) | indium |
 | [铑](铑.md) | rhodium |
 | [钯](钯.md) | palladium |
 | [钕](钕.md) | neodynium |
@@ -26,13 +30,19 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铅](铅.md) | lead |
 | [鐳](鐳.md) | radium |
 | [锕](锕.md) | actinium |
+| [钍](钍.md) | thorium |
 | [铀](铀.md) | uranium |
 | [二氧化碳](二氧化碳.md) | carbon dioxide |
-| [氨](氨.md) | ammonia |
-| [石墨烯](石墨烯.md) | graphene |
-| [铁矿石](铁矿石.md) | iron ore |
-| [甲烷](甲烷.md) | methane |
 | [一氧化二氮](一氧化二氮.md) | nitrous oxide |
+| [氨](氨.md) | ammonia |
+| [甲烷](甲烷.md) | methane |
+| [钻石](钻石.md) | diamond |
+| [石墨烯](石墨烯.md) | graphene |
+| [磷酸铁锂](磷酸铁锂.md) | lithium iron phosphate |
+| [锂矿石](锂矿石.md) | lithium ore |
+| [铁矿石](铁矿石.md) | iron ore |
+| [钴酸锂](钴酸锂.md) | lithium cobalt oxide |
+| [钛酸锂](钛酸锂.md) | lithium titanate |
 ## Words Used In Several Context
 |  |  |
 | ----- | :---: |
@@ -52,6 +62,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [崛起](崛起.md) | to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power) |
 | [平衡](平衡.md) | balance; equilibrium |
 | [发布](发布.md) | issue; release |
+| [威胁](威胁.md) | threaten; menace; imperil |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -61,6 +72,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [化石](化石.md) | fossil |
 | [石油](石油.md) | oil/petroleum |
 | [原油](原油.md) | crude oil |
+| [油砂](油砂.md) | oil sands |
 | [煤炭](煤炭.md) | coal |
 | [核能](核能.md) | nuclear energy |
 | [脱碳](脱碳.md) | decarbonization |
@@ -83,8 +95,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [晶圆](晶圆.md) | wafer |
 | [波长](波长.md) | wavelength |
 | [零部件](零部件.md) | parts and components |
+| [光子](光子.md) | photon |
 | [光刻](光刻.md) | lithography |
 | [光纤](光纤.md) | optical fiber |
+| [发光二极管](发光二极管.md) | LED |
 | [摩尔定律](摩尔定律.md) | Moore’s Law |
 | [堆叠](堆叠.md) | stack (as in 3D stacking) |
 | [后工序](后工序.md) | post-process |
@@ -108,6 +122,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铁臂阿童木](铁臂阿童木.md) | Astro Boy |
 | [宇宙](宇宙.md) | universe; cosmos; space; void |
 | [元宇宙](元宇宙.md) | metaverse |
+| [海水淡化](海水淡化.md) | seawater desalination |
+| [尾部风险](尾部风险.md) | tail risk |
 ## Health
 |  |  |
 | ----- | :---: |
@@ -115,7 +131,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冠病病毒](冠病病毒.md) | coronavirus |
 | [冠病疫苗](冠病疫苗.md) | coronavirus vaccine |
 | [德尔塔变异毒株](德尔塔变异毒株.md) | delta mutant strain |
-| [出现症状前](出现症状前.md) | pre-symptomatic |
+| [奥密克戎变种](奥密克戎变种.md) | omicron variant |
+| [出现症状前](出现症状前.md) | presymptomatic |
 | [无症状](无症状.md) | asymptomatic |
 | [大流行](大流行.md) | pandemic |
 | [疫情](疫情.md) | epidemic |
@@ -123,13 +140,18 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [病毒学家](病毒学家.md) | virologist |
 | [暴發](暴發.md) | outbreak |
 | [住院](住院.md) | hospitalization |
+| [氧气](氧气.md) | oxygen (gas) |
 | [检疫隔离](检疫隔离.md) | quarantine |
 | [病例](病例.md) | case (medical) |
 | [感染](感染.md) | infection |
 | [口罩](口罩.md) | surgical mask |
+| [核酸检测](核酸检测.md) | nucleic acid test |
+| [聚合酶链式反应](聚合酶链式反应.md) | polymerase chain reaction |
+| [腺病毒](腺病毒.md) | adenovirus |
 | [血清](血清.md) | (blood) serum |
 | [血压](血压.md) | blood pressure |
 | [血癌](血癌.md) | leukemia |
+| [白血球](白血球.md) | white blood cell |
 | [血糖](血糖.md) | blood sugar |
 | [糖尿病](糖尿病.md) | diabetes |
 | [癌症](癌症.md) | cancer |
@@ -152,8 +174,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [滞胀](滞胀.md) | stagflation |
 | [量化宽松](量化宽松.md) | quantitative easing |
 | [消费者](消费者.md) | consumer |
-| [投资](投资.md) | invest |
+| [零售商](零售商.md) | retailer |
 | [投资者](投资者.md) | investor |
+| [投资](投资.md) | invest |
 | [金融](金融.md) | finance |
 | [期货](期货.md) | futures |
 | [价格](价格.md) | price |
@@ -173,7 +196,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [预测](预测.md) | forecast |
 | [需求](需求.md) | demand |
 | [短缺](短缺.md) | shortage |
-| [反垄断](反垄断.md) | anti-trust |
+| [反垄断](反垄断.md) | antitrust |
 | [劳动](劳动.md) | labor |
 | [贸易](贸易.md) | trade |
 | [净进口国](净进口国.md) | net importer |
@@ -181,3 +204,5 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [开盘](开盘.md) | opening quotation |
 | [收盘价](收盘价.md) | closing price |
 | [市值](市值.md) | market value; market cap |
+| [超额配](超额配.md) | oversubscribed |
+| [选择权](选择权.md) | option |

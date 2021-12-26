@@ -9,6 +9,7 @@ contextual-study = "Words Used In Several Context"
 favorites = "Favorites"
 marine = "Marine Life"
 
+
 [[markets]]
 hz = "央行"
 en = "central bank"
@@ -34,12 +35,16 @@ hz = "消费者"
 en = "consumer"
 
 [[markets]]
-hz = "投资"
-en = "invest"
+hz = "零售商"
+en = "retailer"
 
 [[markets]]
 hz = "投资者"
 en = "investor"
+
+[[markets]]
+hz = "投资"
+en = "invest"
 
 [[markets]]
 hz = "金融"
@@ -89,7 +94,6 @@ en = "tariff; customs duty"
 hz = "放缓"
 en = "to slow down; decelerate"
 
-
 [[markets]]
 hz = "区块链"
 en = "blockchain"
@@ -120,7 +124,7 @@ en = "shortage"
 
 [[markets]]
 hz = "反垄断"
-en = "anti-trust"
+en = "antitrust"
 
 [[markets]]
 hz = "劳动"
@@ -149,6 +153,14 @@ en = "closing price"
 [[markets]]
 hz = "市值"
 en = "market value; market cap"
+
+[[markets]]
+hz = "超额配"
+en = "oversubscribed"
+
+[[markets]]
+hz = "选择权"
+en = "option"
 
 
 [[contextual-study]]
@@ -215,6 +227,10 @@ en = "balance; equilibrium"
 hz = "发布"
 en = "issue; release"
 
+[[contextual-study]]
+hz = "威胁"
+en = "threaten; menace; imperil"
+
 
 [[favorites]]
 hz = "供应链"
@@ -269,12 +285,20 @@ hz = "零部件"
 en = "parts and components"
 
 [[favorites]]
+hz = "光子"
+en = "photon"
+
+[[favorites]]
 hz = "光刻"
 en = "lithography"
 
 [[favorites]]
 hz = "光纤"
 en = "optical fiber"
+
+[[favorites]]
+hz = "发光二极管"
+en = "LED"
 
 [[favorites]]
 hz = "摩尔定律"
@@ -368,6 +392,14 @@ en = "universe; cosmos; space; void"
 hz = "元宇宙"
 en = "metaverse"
 
+[[favorites]]
+hz = "海水淡化"
+en = "seawater desalination"
+
+[[favorites]]
+hz = "尾部风险"
+en = "tail risk"
+
 
 [[health]]
 hz = "新型冠状病毒"
@@ -386,8 +418,12 @@ hz = "德尔塔变异毒株"
 en = "delta mutant strain"
 
 [[health]]
+hz = "奥密克戎变种"
+en = "omicron variant"
+
+[[health]]
 hz = "出现症状前"
-en = "pre-symptomatic"
+en = "presymptomatic"
 
 [[health]]
 hz = "无症状"
@@ -418,6 +454,10 @@ hz = "住院"
 en = "hospitalization"
 
 [[health]]
+hz = "氧气"
+en = "oxygen (gas)"
+
+[[health]]
 hz = "检疫隔离"
 en = "quarantine"
 
@@ -434,6 +474,18 @@ hz = "口罩"
 en = "surgical mask"
 
 [[health]]
+hz = "核酸检测"
+en = "nucleic acid test"
+
+[[health]]
+hz = "聚合酶链式反应"
+en = "polymerase chain reaction"
+
+[[health]]
+hz = "腺病毒"
+en = "adenovirus"
+
+[[health]]
 hz = "血清"
 en = "(blood) serum"
 
@@ -444,6 +496,10 @@ en = "blood pressure"
 [[health]]
 hz = "血癌"
 en = "leukemia"
+
+[[health]]
+hz = "白血球"
+en = "white blood cell"
 
 [[health]]
 hz = "血糖"
@@ -487,6 +543,10 @@ hz = "原油"
 en = "crude oil"
 
 [[energy]]
+hz = "油砂"
+en = "oil sands"
+
+[[energy]]
 hz = "煤炭"
 en = "coal"
 
@@ -516,12 +576,20 @@ hz = "氢"
 en = "hydrogen"
 
 [[chemistry]]
+hz = "氦"
+en = "helium"
+
+[[chemistry]]
 hz = "锂"
 en = "lithium"
 
 [[chemistry]]
 hz = "碳"
 en = "carbon"
+
+[[chemistry]]
+hz = "氮"
+en = "nitrogen"
 
 [[chemistry]]
 hz = "钠"
@@ -557,11 +625,19 @@ en = "copper"
 
 [[chemistry]]
 hz = "锌"
-en = "zinc	"
+en = "zinc"
 
 [[chemistry]]
 hz = "镓"
 en = "gallium"
+
+[[chemistry]]
+hz = "锗"
+en = "germanium"
+
+[[chemistry]]
+hz = "铟"
+en = "indium"
 
 [[chemistry]]
 hz = "铑"
@@ -592,6 +668,10 @@ hz = "锕"
 en = "actinium"
 
 [[chemistry]]
+hz = "钍"
+en = "thorium"
+
+[[chemistry]]
 hz = "铀"
 en = "uranium"
 
@@ -600,24 +680,44 @@ hz = "二氧化碳"
 en = "carbon dioxide"
 
 [[chemistry]]
+hz = "一氧化二氮"
+en = "nitrous oxide"
+
+[[chemistry]]
 hz = "氨"
 en = "ammonia"
-
-[[chemistry]]
-hz = "石墨烯"
-en = "graphene"
-
-[[chemistry]]
-hz = "铁矿石"
-en = "iron ore"
 
 [[chemistry]]
 hz = "甲烷"
 en = "methane"
 
 [[chemistry]]
-hz = "一氧化二氮"
-en = "nitrous oxide"
+hz = "钻石"
+en = "diamond"
+
+[[chemistry]]
+hz = "石墨烯"
+en = "graphene"
+
+[[chemistry]]
+hz = "磷酸铁锂"
+en = "lithium iron phosphate"
+
+[[chemistry]]
+hz = "锂矿石"
+en = "lithium ore"
+
+[[chemistry]]
+hz = "铁矿石"
+en = "iron ore"
+
+[[chemistry]]
+hz = "钴酸锂"
+en = "lithium cobalt oxide"
+
+[[chemistry]]
+hz = "钛酸锂"
+en = "lithium titanate"
 
 [[marine]]
 hz = "海胆"
