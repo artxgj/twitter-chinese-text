@@ -160,6 +160,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [利润](利润.md) | profit |
 | [盈利](盈利.md) | profit |
 | [成本](成本.md) | costs (production, manufacturing) |
+| [收入](收入.md) | income; revenue; receipts; earnings; proceeds |
+| [订单](订单.md) | order for goods; order form |
+| [税](税.md) | tax; duty |
+| [税收](税收.md) | tax revenue |
+| [关税](关税.md) | tariff; customs duty |
+| [放缓](放缓.md) | to slow down; decelerate |
 | [区块链](区块链.md) | blockchain |
 | [加密货币](加密货币.md) | cryptocurrency |
 | [比特币](比特币.md) | bitcoin |
@@ -175,8 +181,3 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [开盘](开盘.md) | opening quotation |
 | [收盘价](收盘价.md) | closing price |
 | [市值](市值.md) | market value; market cap |
-| [放缓](放缓.md) | to slow down; decelerate |
-| [订单](订单.md) | order for goods; order form |
-| [税](税.md) | tax |
-| [税](税.md) | tax; duty |
-| [税收](税收.md) | tax revenue |

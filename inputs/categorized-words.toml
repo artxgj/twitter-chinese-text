@@ -66,6 +66,31 @@ hz = "成本"
 en = "costs (production, manufacturing)"
 
 [[markets]]
+hz = "收入"
+en = "income; revenue; receipts; earnings; proceeds"
+
+[[markets]]
+hz = "订单"
+en = "order for goods; order form"
+
+[[markets]]
+hz = "税"
+en = "tax; duty"
+
+[[markets]]
+hz = "税收"
+en = "tax revenue"
+
+[[markets]]
+hz = "关税"
+en = "tariff; customs duty"
+
+[[markets]]
+hz = "放缓"
+en = "to slow down; decelerate"
+
+
+[[markets]]
 hz = "区块链"
 en = "blockchain"
 
@@ -124,34 +149,6 @@ en = "closing price"
 [[markets]]
 hz = "市值"
 en = "market value; market cap"
-
-[[markets]]
-hz = "放缓"
-en = "to slow down; decelerate"
-
-[[markets]]
-hz = "订单"
-en = "order for goods; order form"
-
-[[markets]]
-hz = "税"
-en = "tax"
-
-[[markets]]
-hz = "税"
-en = "tax; duty"
-
-[[markets]]
-hz = "税收"
-en = "tax revenue"
-
-[[market]]
-hz = "关税"
-en = "tariff; customs duty"
-
-[[market]]
-hz = "收入"
-en = "income; revenue; receipts; earnings; proceeds"
 
 
 [[contextual-study]]
