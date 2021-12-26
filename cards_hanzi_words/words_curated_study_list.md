@@ -1,8 +1,7 @@
-# Curated Words Extracted From Tweets
-Read the tweets from which this curated list of words was extracted. For a complete 
-list of words, check it out [here](words_tweets_stats.md).
+# A Subset of Curated Words Extracted From Tweets
 
-Click or tap on the Chinese words to see how they are used in tweets.
+To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
+list of the curated words, check it out [here](words_tweets_stats.md).
 
 ## Chemistry
 |  |  |
@@ -32,11 +31,15 @@ Click or tap on the Chinese words to see how they are used in tweets.
 | [氨](氨.md) | ammonia |
 | [石墨烯](石墨烯.md) | graphene |
 | [铁矿石](铁矿石.md) | iron ore |
-## Words for Contextual Study
+| [甲烷](甲烷.md) | methane |
+| [一氧化二氮](一氧化二氮.md) | nitrous oxide |
+## Words Used In Several Context
 |  |  |
 | ----- | :---: |
+| [获得](获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](趋势.md) | trend |
 | [冲击](冲击.md) | impact; shock; to attack |
+| [效率](效率.md) | efficiency |
 | [超过](超过.md) | exceed |
 | [情况](情况.md) | circumstances; situation |
 | [严重](严重.md) | serious; grave; severe; critical |
@@ -46,6 +49,9 @@ Click or tap on the Chinese words to see how they are used in tweets.
 | [政策](政策.md) | policy |
 | [暂停](暂停.md) | suspend |
 | [核心](核心.md) | core; center; most important part |
+| [崛起](崛起.md) | to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power) |
+| [平衡](平衡.md) | balance; equilibrium |
+| [发布](发布.md) | issue; release |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -99,6 +105,9 @@ Click or tap on the Chinese words to see how they are used in tweets.
 | [液压挖掘机](液压挖掘机.md) | hydraulic excavator |
 | [叉车](叉车.md) | forklift |
 | [量子](量子.md) | quantum |
+| [铁臂阿童木](铁臂阿童木.md) | Astro Boy |
+| [宇宙](宇宙.md) | universe; cosmos; space; void |
+| [元宇宙](元宇宙.md) | metaverse |
 ## Health
 |  |  |
 | ----- | :---: |
@@ -118,6 +127,22 @@ Click or tap on the Chinese words to see how they are used in tweets.
 | [病例](病例.md) | case (medical) |
 | [感染](感染.md) | infection |
 | [口罩](口罩.md) | surgical mask |
+| [血清](血清.md) | (blood) serum |
+| [血压](血压.md) | blood pressure |
+| [血癌](血癌.md) | leukemia |
+| [血糖](血糖.md) | blood sugar |
+| [糖尿病](糖尿病.md) | diabetes |
+| [癌症](癌症.md) | cancer |
+| [抗体](抗体.md) | antibody |
+## Marine Life
+|  |  |
+| ----- | :---: |
+| [海胆](海胆.md) | sea urchin |
+| [海藻](海藻.md) | seaweed |
+| [海豚](海豚.md) | dolphin |
+| [鲨鱼](鲨鱼.md) | shark |
+| [鲸](鲸.md) | whale |
+| [章鱼](章鱼.md) | octopus |
 ## Markets
 |  |  |
 | ----- | :---: |
@@ -128,6 +153,7 @@ Click or tap on the Chinese words to see how they are used in tweets.
 | [量化宽松](量化宽松.md) | quantitative easing |
 | [消费者](消费者.md) | consumer |
 | [投资](投资.md) | invest |
+| [投资者](投资者.md) | investor |
 | [金融](金融.md) | finance |
 | [期货](期货.md) | futures |
 | [价格](价格.md) | price |
@@ -149,3 +175,8 @@ Click or tap on the Chinese words to see how they are used in tweets.
 | [开盘](开盘.md) | opening quotation |
 | [收盘价](收盘价.md) | closing price |
 | [市值](市值.md) | market value; market cap |
+| [放缓](放缓.md) | to slow down; decelerate |
+| [订单](订单.md) | order for goods; order form |
+| [税](税.md) | tax |
+| [税](税.md) | tax; duty |
+| [税收](税收.md) | tax revenue |

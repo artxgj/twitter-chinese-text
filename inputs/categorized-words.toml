@@ -5,8 +5,9 @@ chemistry = "Chemistry"
 markets = "Markets"
 health = "Health"
 energy = "Energy"
-contextual-study = "Words for Contextual Study"
+contextual-study = "Words Used In Several Context"
 favorites = "Favorites"
+marine = "Marine Life"
 
 [[markets]]
 hz = "央行"
@@ -35,6 +36,10 @@ en = "consumer"
 [[markets]]
 hz = "投资"
 en = "invest"
+
+[[markets]]
+hz = "投资者"
+en = "investor"
 
 [[markets]]
 hz = "金融"
@@ -120,6 +125,39 @@ en = "closing price"
 hz = "市值"
 en = "market value; market cap"
 
+[[markets]]
+hz = "放缓"
+en = "to slow down; decelerate"
+
+[[markets]]
+hz = "订单"
+en = "order for goods; order form"
+
+[[markets]]
+hz = "税"
+en = "tax"
+
+[[markets]]
+hz = "税"
+en = "tax; duty"
+
+[[markets]]
+hz = "税收"
+en = "tax revenue"
+
+[[market]]
+hz = "关税"
+en = "tariff; customs duty"
+
+[[market]]
+hz = "收入"
+en = "income; revenue; receipts; earnings; proceeds"
+
+
+[[contextual-study]]
+hz = "获得"
+en = "gain; obtain; acquire; win; achieve"
+
 [[contextual-study]]
 hz = "趋势"
 en = "trend"
@@ -127,6 +165,10 @@ en = "trend"
 [[contextual-study]]
 hz = "冲击"
 en = "impact; shock; to attack"
+
+[[contextual-study]]
+hz = "效率"
+en = "efficiency"
 
 [[contextual-study]]
 hz = "超过"
@@ -163,6 +205,19 @@ en = "suspend"
 [[contextual-study]]
 hz = "核心"
 en = "core; center; most important part"
+
+[[contextual-study]]
+hz = "崛起"
+en = "to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power)"
+
+[[contextual-study]]
+hz = "平衡"
+en = "balance; equilibrium"
+
+[[contextual-study]]
+hz = "发布"
+en = "issue; release"
+
 
 [[favorites]]
 hz = "供应链"
@@ -304,6 +359,19 @@ en = "forklift"
 hz = "量子"
 en = "quantum"
 
+[[favorites]]
+hz = "铁臂阿童木"
+en = "Astro Boy"
+
+[[favorites]]
+hz = "宇宙"
+en = "universe; cosmos; space; void"
+
+[[favorites]]
+hz = "元宇宙"
+en = "metaverse"
+
+
 [[health]]
 hz = "新型冠状病毒"
 en = "novel coronavirus"
@@ -367,6 +435,35 @@ en = "infection"
 [[health]]
 hz = "口罩"
 en = "surgical mask"
+
+[[health]]
+hz = "血清"
+en = "(blood) serum"
+
+[[health]]
+hz = "血压"
+en = "blood pressure"
+
+[[health]]
+hz = "血癌"
+en = "leukemia"
+
+[[health]]
+hz = "血糖"
+en = "blood sugar"
+
+[[health]]
+hz = "糖尿病"
+en = "diabetes"
+
+[[health]]
+hz = "癌症"
+en = "cancer"
+
+[[health]]
+hz = "抗体"
+en = "antibody"
+
 
 [[energy]]
 hz = "天然气"
@@ -516,3 +613,35 @@ en = "graphene"
 [[chemistry]]
 hz = "铁矿石"
 en = "iron ore"
+
+[[chemistry]]
+hz = "甲烷"
+en = "methane"
+
+[[chemistry]]
+hz = "一氧化二氮"
+en = "nitrous oxide"
+
+[[marine]]
+hz = "海胆"
+en = "sea urchin"
+
+[[marine]]
+hz = "海藻"
+en = "seaweed"
+
+[[marine]]
+hz = "海豚"
+en = "dolphin"
+
+[[marine]]
+hz = "鲨鱼"
+en = "shark"
+
+[[marine]]
+hz = "鲸"
+en = "whale"
+
+[[marine]]
+hz = "章鱼"
+en = "octopus"
