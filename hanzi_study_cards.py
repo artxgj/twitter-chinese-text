@@ -14,7 +14,7 @@ class WordAndTweets:
     tweet_ids: List[str]
 
 
-_TWEETS_PER_PAGE = 300
+_TWEETS_PER_PAGE = 350
 
 
 def cache_tweetsummary_words(*, tweet_summary_csv_filepath: str,
