@@ -180,7 +180,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [核酸检测](核酸检测.md) | nucleic acid test |
 | [聚合酶链式反应](聚合酶链式反应.md) | polymerase chain reaction |
 | [腺病毒](腺病毒.md) | adenovirus |
-| [免疫缺陷](免疫缺陷.md) | immunodeficienty |
+| [免疫缺陷](免疫缺陷.md) | immunodeficiency |
 | [脑雾](脑雾.md) | brain fog |
 | [血清](血清.md) | (blood) serum |
 | [血压](血压.md) | blood pressure |
