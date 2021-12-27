@@ -43,12 +43,20 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [磷酸铁锂](磷酸铁锂.md) | lithium iron phosphate |
 | [钴酸锂](钴酸锂.md) | lithium cobalt oxide |
 | [钛酸锂](钛酸锂.md) | lithium titanate |
+## Computing/Digital
+|  |  |
+| ----- | :---: |
+| [互联网](互联网.md) | Internet |
+| [线上](线上.md) | online |
+| [元宇宙](元宇宙.md) | metaverse |
+| [数码化](数码化.md) | digitize; digitalize |
 ## Words Used In Several Context
 |  |  |
 | ----- | :---: |
 | [获得](获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](趋势.md) | trend |
 | [冲击](冲击.md) | impact; shock; to attack |
+| [爆发](爆发.md) | erupt; burst out; break out |
 | [效率](效率.md) | efficiency |
 | [超过](超过.md) | exceed |
 | [情况](情况.md) | circumstances; situation |
@@ -85,6 +93,17 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [温室气体](温室气体.md) | greenhouse gas |
 | [净零排放](净零排放.md) | net zero emissions |
 | [可再生能源](可再生能源.md) | renewable energy |
+## Entertainment
+|  |  |
+| ----- | :---: |
+| [动画](动画.md) | animation; cartoon |
+| [科幻](科幻.md) | scifi |
+| [漫威](漫威.md) | Marvel |
+| [蜘蛛侠](蜘蛛侠.md) | Spiderman |
+| [邓紫棋](邓紫棋.md) | G.E.M |
+| [泰勒丝](泰勒丝.md) | Taylor Swift |
+| [罗纳尔多](罗纳尔多.md) | Cristiano Ronaldo |
+| [曼联](曼联.md) | Manchester United |
 ## Favorites
 |  |  |
 | ----- | :---: |
@@ -133,8 +152,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铁臂阿童木](铁臂阿童木.md) | Astro Boy |
 | [小行星](小行星.md) | asteroid |
 | [宇宙](宇宙.md) | universe; cosmos; space; void |
-| [元宇宙](元宇宙.md) | metaverse |
 | [望远镜](望远镜.md) | telescope |
+| [熔岩](熔岩.md) | lava |
 | [海水淡化](海水淡化.md) | seawater desalination |
 | [圣诞](圣诞.md) | Christmas |
 | [模拟](模拟.md) | analog; simulation; to simulate |
@@ -250,6 +269,17 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [市值](市值.md) | market value; market cap |
 | [超额配](超额配.md) | oversubscribed |
 | [选择权](选择权.md) | option |
+## Natural Disaster
+|  |  |
+| ----- | :---: |
+| [台风](台风.md) | typhoon |
+| [龙卷风](龙卷风.md) | tornado |
+| [海啸](海啸.md) | tsunami |
+| [地震](地震.md) | earthquake |
+| [洪灾](洪灾.md) | flood |
+| [沙尘暴](沙尘暴.md) | sandstorm; dust storm |
+| [暴雨](暴雨.md) | torrential rain; rainstorm |
+| [喷发](喷发.md) | eruption |
 ## Places and Regions
 |  |  |
 | ----- | :---: |

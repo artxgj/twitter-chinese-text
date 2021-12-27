@@ -10,7 +10,9 @@ favorites = "Favorites"
 marine = "Marine Life"
 food-drinks = "Food And Drinks"
 places = "Places and Regions"
-
+computing = "Computing/Digital"
+entertainment = "Entertainment"
+natural-disaster = "Natural Disaster"
 
 [[markets]]
 hz = "央行"
@@ -176,6 +178,10 @@ en = "trend"
 [[contextual-study]]
 hz = "冲击"
 en = "impact; shock; to attack"
+
+[[contextual-study]]
+hz = "爆发"
+en = "erupt; burst out; break out"
 
 [[contextual-study]]
 hz = "效率"
@@ -440,12 +446,12 @@ hz = "宇宙"
 en = "universe; cosmos; space; void"
 
 [[favorites]]
-hz = "元宇宙"
-en = "metaverse"
-
-[[favorites]]
 hz = "望远镜"
 en = "telescope"
+
+[[favorites]]
+hz = "熔岩"
+en = "lava"
 
 [[favorites]]
 hz = "海水淡化"
@@ -955,3 +961,86 @@ en = "Texas"
 [[places]]
 hz = "佛罗里达"
 en = "Florida"
+
+
+[[computing]]
+hz = "互联网"
+en = "Internet"
+
+[[computing]]
+hz = "线上"
+en = "online"
+
+[[computing]]
+hz = "元宇宙"
+en = "metaverse"
+
+[[computing]]
+hz = "数码化"
+en = "digitize; digitalize"
+
+
+[[entertainment]]
+hz = "动画"
+en = "animation; cartoon"
+
+[[entertainment]]
+hz = "科幻"
+en = "scifi"
+
+[[entertainment]]
+hz = "漫威"
+en = "Marvel"
+
+[[entertainment]]
+hz = "蜘蛛侠"
+en = "Spiderman"
+
+[[entertainment]]
+hz = "邓紫棋"
+en = "G.E.M"
+
+[[entertainment]]
+hz = "泰勒丝"
+en = "Taylor Swift"
+
+[[entertainment]]
+hz = "罗纳尔多"
+en = "Cristiano Ronaldo"
+
+[[entertainment]]
+hz = "曼联"
+en = "Manchester United"
+
+
+[[natural-disaster]]
+hz = "台风"
+en = "typhoon"
+
+[[natural-disaster]]
+hz = "龙卷风"
+en = "tornado"
+
+[[natural-disaster]]
+hz = "海啸"
+en = "tsunami"
+
+[[natural-disaster]]
+hz = "地震"
+en = "earthquake"
+
+[[natural-disaster]]
+hz = "洪灾"
+en = "flood"
+
+[[natural-disaster]]
+hz = "沙尘暴"
+en = "sandstorm; dust storm"
+
+[[natural-disaster]]
+hz = "暴雨"
+en = "torrential rain; rainstorm"
+
+[[natural-disaster]]
+hz = "喷发"
+en = "eruption"
