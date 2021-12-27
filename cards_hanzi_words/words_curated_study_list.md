@@ -64,6 +64,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [发布](发布.md) | issue; release |
 | [推出](推出.md) | launch; release; publish; introduce; put out |
 | [威胁](威胁.md) | threaten; menace; imperil |
+| [放射线](放射线.md) | radiation |
+| [担忧](担忧.md) | to worry; to be concerned; be anxious |
+| [担心](担心.md) | worry; feel anxious |
+| [批准](批准.md) | ratify; approve; sanction |
+| [不确定性](不确定性.md) | uncertainty |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -88,6 +93,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [物流](物流.md) | logistics |
 | [箱船](箱船.md) | container ship |
 | [散货船](散货船.md) | bulk freighter |
+| [航线](航线.md) | air or shipping line; route; course |
 | [半导体](半导体.md) | semiconductor |
 | [芯片](芯片.md) | chip |
 | [纳米](纳米.md) | nanometer |
@@ -95,6 +101,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [液晶](液晶.md) | liquid crystal |
 | [晶圆](晶圆.md) | wafer |
 | [波长](波长.md) | wavelength |
+| [微波](微波.md) | microwave |
 | [光子](光子.md) | photon |
 | [光刻](光刻.md) | lithography |
 | [光纤](光纤.md) | optical fiber |
@@ -102,8 +109,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [摩尔定律](摩尔定律.md) | Moore’s Law |
 | [堆叠](堆叠.md) | stack (as in 3D stacking) |
 | [后工序](后工序.md) | post-process |
-| [稀土](稀土.md) | rare earth |
+| [电磁](电磁.md) | electromagnetic; electromagnetism |
 | [电池](电池.md) | battery |
+| [稀土](稀土.md) | rare earth |
 | [微细化](微细化.md) | miniaturization |
 | [小型化](小型化.md) | miniaturization |
 | [传感器](传感器.md) | sensor |
@@ -118,14 +126,35 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [信使核糖核酸](信使核糖核酸.md) | mRNA |
 | [尼安德特人](尼安德特人.md) | neanderthal |
 | [恐龙](恐龙.md) | dinosaur  |
+| [千足虫](千足虫.md) | millipede |
 | [液压挖掘机](液压挖掘机.md) | hydraulic excavator |
 | [叉车](叉车.md) | forklift |
 | [量子](量子.md) | quantum |
 | [铁臂阿童木](铁臂阿童木.md) | Astro Boy |
+| [小行星](小行星.md) | asteroid |
 | [宇宙](宇宙.md) | universe; cosmos; space; void |
 | [元宇宙](元宇宙.md) | metaverse |
+| [望远镜](望远镜.md) | telescope |
 | [海水淡化](海水淡化.md) | seawater desalination |
+| [圣诞](圣诞.md) | Christmas |
 | [尾部风险](尾部风险.md) | tail risk |
+## Food And Drinks
+|  |  |
+| ----- | :---: |
+| [肉骨茶](肉骨茶.md) | bak-kut-teh or pork ribs soup |
+| [拉面](拉面.md) | ramen |
+| [金枪鱼](金枪鱼.md) | tuna |
+| [石斑鱼](石斑鱼.md) | grouper |
+| [罗汉果](罗汉果.md) | mangosteen |
+| [榴梿](榴梿.md) | durian |
+| [凤梨](凤梨.md) | pineapple |
+| [披萨](披萨.md) | pizza |
+| [咖啡](咖啡.md) | coffee |
+| [奶茶](奶茶.md) | milk tea |
+| [啤酒](啤酒.md) | beer |
+| [葡萄酒](葡萄酒.md) | wine |
+| [清酒](清酒.md) | sake |
+| [威士忌](威士忌.md) | whiskey |
 ## Health
 |  |  |
 | ----- | :---: |
@@ -150,6 +179,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [核酸检测](核酸检测.md) | nucleic acid test |
 | [聚合酶链式反应](聚合酶链式反应.md) | polymerase chain reaction |
 | [腺病毒](腺病毒.md) | adenovirus |
+| [免疫缺陷](免疫缺陷.md) | immunodeficienty |
+| [脑雾](脑雾.md) | brain fog |
 | [血清](血清.md) | (blood) serum |
 | [血压](血压.md) | blood pressure |
 | [血癌](血癌.md) | leukemia |
@@ -157,7 +188,16 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [血糖](血糖.md) | blood sugar |
 | [糖尿病](糖尿病.md) | diabetes |
 | [癌症](癌症.md) | cancer |
+| [瘤](瘤.md) | tumor |
 | [抗体](抗体.md) | antibody |
+| [重症](重症.md) | acute; grave |
+| [疾病](疾病.md) | disease; illness |
+| [阿尔茨海默](阿尔茨海默.md) | Alzheimer |
+| [肥胖症](肥胖症.md) | obesity |
+| [白内障](白内障.md) | cataract |
+| [医疗](医疗.md) | medical or surgical treatment; therapy |
+| [治疗](治疗.md) | to treat(an illness); medical treatment; therapy |
+| [痊愈](痊愈.md) | fully recover from an illness; completely cured/recovered |
 ## Marine Life
 |  |  |
 | ----- | :---: |
@@ -208,3 +248,16 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [市值](市值.md) | market value; market cap |
 | [超额配](超额配.md) | oversubscribed |
 | [选择权](选择权.md) | option |
+## Places and Regions
+|  |  |
+| ----- | :---: |
+| [菲律宾](菲律宾.md) | Philippines |
+| [槟城](槟城.md) | Penang |
+| [东南亚](东南亚.md) | Southeast Asia |
+| [福建](福建.md) | Fujian |
+| [北海道](北海道.md) | Hokkaido |
+| [冰岛](冰岛.md) | Iceland |
+| [黑山](黑山.md) | Montenegro |
+| [加利福尼亚](加利福尼亚.md) | California |
+| [得克萨斯](得克萨斯.md) | Texas |
+| [佛罗里达](佛罗里达.md) | Florida |

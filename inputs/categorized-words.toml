@@ -8,6 +8,8 @@ energy = "Energy"
 contextual-study = "Words Used In Several Context"
 favorites = "Favorites"
 marine = "Marine Life"
+food-drinks = "Food And Drinks"
+places = "Places and Regions"
 
 
 [[markets]]
@@ -235,6 +237,26 @@ en = "launch; release; publish; introduce; put out"
 hz = "威胁"
 en = "threaten; menace; imperil"
 
+[[contextual-study]]
+hz = "放射线"
+en = "radiation"
+
+[[contextual-study]]
+hz = "担忧"
+en = "to worry; to be concerned; be anxious"
+
+[[contextual-study]]
+hz = "担心"
+en = "worry; feel anxious"
+
+[[contextual-study]]
+hz = "批准"
+en = "ratify; approve; sanction"
+
+[[contextual-study]]
+hz = "不确定性"
+en = "uncertainty"
+
 
 [[favorites]]
 hz = "供应链"
@@ -255,6 +277,10 @@ en = "container ship"
 [[favorites]]
 hz = "散货船"
 en = "bulk freighter"
+
+[[favorites]]
+hz = "航线"
+en = "air or shipping line; route; course"
 
 [[favorites]]
 hz = "半导体"
@@ -285,8 +311,14 @@ hz = "波长"
 en = "wavelength"
 
 [[favorites]]
+hz = "微波"
+en = "microwave"
+
+
+[[favorites]]
 hz = "光子"
 en = "photon"
+
 
 [[favorites]]
 hz = "光刻"
@@ -313,12 +345,16 @@ hz = "后工序"
 en = "post-process"
 
 [[favorites]]
-hz = "稀土"
-en = "rare earth"
+hz = "电磁"
+en = "electromagnetic; electromagnetism"
 
 [[favorites]]
 hz = "电池"
 en = "battery"
+
+[[favorites]]
+hz = "稀土"
+en = "rare earth"
 
 [[favorites]]
 hz = "微细化"
@@ -377,6 +413,10 @@ hz = "恐龙"
 en = "dinosaur "
 
 [[favorites]]
+hz = "千足虫"
+en = "millipede"
+
+[[favorites]]
 hz = "液压挖掘机"
 en = "hydraulic excavator"
 
@@ -392,6 +432,11 @@ en = "quantum"
 hz = "铁臂阿童木"
 en = "Astro Boy"
 
+
+[[favorites]]
+hz = "小行星"
+en = "asteroid"
+
 [[favorites]]
 hz = "宇宙"
 en = "universe; cosmos; space; void"
@@ -401,8 +446,16 @@ hz = "元宇宙"
 en = "metaverse"
 
 [[favorites]]
+hz = "望远镜"
+en = "telescope"
+
+[[favorites]]
 hz = "海水淡化"
 en = "seawater desalination"
+
+[[favorites]]
+hz = "圣诞"
+en = "Christmas"
 
 [[favorites]]
 hz = "尾部风险"
@@ -494,6 +547,14 @@ hz = "腺病毒"
 en = "adenovirus"
 
 [[health]]
+hz = "免疫缺陷"
+en = "immunodeficienty"
+
+[[health]]
+hz = "脑雾"
+en = "brain fog"
+
+[[health]]
 hz = "血清"
 en = "(blood) serum"
 
@@ -522,8 +583,44 @@ hz = "癌症"
 en = "cancer"
 
 [[health]]
+hz = "瘤"
+en = "tumor"
+
+[[health]]
 hz = "抗体"
 en = "antibody"
+
+[[health]]
+hz = "重症"
+en = "acute; grave"
+
+[[health]]
+hz = "疾病"
+en = "disease; illness"
+
+[[health]]
+hz = "阿尔茨海默"
+en = "Alzheimer"
+
+[[health]]
+hz = "肥胖症"
+en = "obesity"
+
+[[health]]
+hz = "白内障"
+en = "cataract"
+
+[[health]]
+hz = "医疗"
+en = "medical or surgical treatment; therapy"
+
+[[health]]
+hz = "治疗"
+en = "to treat(an illness); medical treatment; therapy"
+
+[[health]]
+hz = "痊愈"
+en = "fully recover from an illness; completely cured/recovered"
 
 
 [[energy]]
@@ -750,3 +847,101 @@ en = "whale"
 [[marine]]
 hz = "章鱼"
 en = "octopus"
+
+
+[[food-drinks]]
+hz = "肉骨茶"
+en = "bak-kut-teh or pork ribs soup"
+
+[[food-drinks]]
+hz = "拉面"
+en = "ramen"
+
+[[food-drinks]]
+hz = "金枪鱼"
+en = "tuna"
+
+[[food-drinks]]
+hz = "石斑鱼"
+en = "grouper"
+
+[[food-drinks]]
+hz = "罗汉果"
+en = "mangosteen"
+
+[[food-drinks]]
+hz = "榴梿"
+en = "durian"
+
+[[food-drinks]]
+hz = "凤梨"
+en = "pineapple"
+
+[[food-drinks]]
+hz = "披萨"
+en = "pizza"
+
+[[food-drinks]]
+hz = "咖啡"
+en = "coffee"
+
+[[food-drinks]]
+hz = "奶茶"
+en = "milk tea"
+
+[[food-drinks]]
+hz = "啤酒"
+en = "beer"
+
+[[food-drinks]]
+hz = "葡萄酒"
+en = "wine"
+
+[[food-drinks]]
+hz = "清酒"
+en = "sake"
+
+[[food-drinks]]
+hz = "威士忌"
+en = "whiskey"
+
+
+[[places]]
+hz = "菲律宾"
+en = "Philippines"
+
+[[places]]
+hz = "槟城"
+en = "Penang"
+
+[[places]]
+hz = "东南亚"
+en = "Southeast Asia"
+
+[[places]]
+hz = "福建"
+en = "Fujian"
+
+[[places]]
+hz = "北海道"
+en = "Hokkaido"
+
+[[places]]
+hz = "冰岛"
+en = "Iceland"
+
+[[places]]
+hz = "黑山"
+en = "Montenegro"
+
+[[places]]
+hz = "加利福尼亚"
+en = "California"
+
+[[places]]
+hz = "得克萨斯"
+en = "Texas"
+
+[[places]]
+hz = "佛罗里达"
+en = "Florida"
