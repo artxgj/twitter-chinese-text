@@ -985,8 +985,20 @@ hz = "动画"
 en = "animation; cartoon"
 
 [[entertainment]]
+hz = "漫画"
+en = "manga; cartoon"
+
+[[entertainment]]
 hz = "科幻"
 en = "scifi"
+
+[[entertainment]]
+hz = "邓紫棋"
+en = "G.E.M"
+
+[[entertainment]]
+hz = "泰勒丝"
+en = "Taylor Swift"
 
 [[entertainment]]
 hz = "漫威"
@@ -997,12 +1009,8 @@ hz = "蜘蛛侠"
 en = "Spiderman"
 
 [[entertainment]]
-hz = "邓紫棋"
-en = "G.E.M"
-
-[[entertainment]]
-hz = "泰勒丝"
-en = "Taylor Swift"
+hz = "黑寡妇"
+en = "Black Widow"
 
 [[entertainment]]
 hz = "罗纳尔多"

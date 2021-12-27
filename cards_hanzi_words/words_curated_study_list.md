@@ -97,11 +97,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [动画](动画.md) | animation; cartoon |
+| [漫画](漫画.md) | manga; cartoon |
 | [科幻](科幻.md) | scifi |
-| [漫威](漫威.md) | Marvel |
-| [蜘蛛侠](蜘蛛侠.md) | Spiderman |
 | [邓紫棋](邓紫棋.md) | G.E.M |
 | [泰勒丝](泰勒丝.md) | Taylor Swift |
+| [漫威](漫威.md) | Marvel |
+| [蜘蛛侠](蜘蛛侠.md) | Spiderman |
+| [黑寡妇](黑寡妇.md) | Black Widow |
 | [罗纳尔多](罗纳尔多.md) | Cristiano Ronaldo |
 | [曼联](曼联.md) | Manchester United |
 ## Favorites
