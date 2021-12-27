@@ -99,7 +99,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [动画](动画.md) | animation; cartoon |
 | [漫画](漫画.md) | manga; cartoon |
 | [科幻](科幻.md) | scifi |
-| [邓紫棋](邓紫棋.md) | G.E.M |
+| [邓紫棋](邓紫棋.md) | G.E.M. |
 | [泰勒丝](泰勒丝.md) | Taylor Swift |
 | [漫威](漫威.md) | Marvel |
 | [蜘蛛侠](蜘蛛侠.md) | Spiderman |
