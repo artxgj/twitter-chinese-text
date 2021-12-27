@@ -258,6 +258,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [北海道](北海道.md) | Hokkaido |
 | [冰岛](冰岛.md) | Iceland |
 | [黑山](黑山.md) | Montenegro |
+| [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [得克萨斯](得克萨斯.md) | Texas |
 | [佛罗里达](佛罗里达.md) | Florida |
