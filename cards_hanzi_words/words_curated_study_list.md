@@ -137,6 +137,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [望远镜](望远镜.md) | telescope |
 | [海水淡化](海水淡化.md) | seawater desalination |
 | [圣诞](圣诞.md) | Christmas |
+| [模拟](模拟.md) | analog; simulation; to simulate |
 | [尾部风险](尾部风险.md) | tail risk |
 ## Food And Drinks
 |  |  |
@@ -198,6 +199,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [医疗](医疗.md) | medical or surgical treatment; therapy |
 | [治疗](治疗.md) | to treat(an illness); medical treatment; therapy |
 | [痊愈](痊愈.md) | fully recover from an illness; completely cured/recovered |
+| [护士](护士.md) | nurse |
 ## Marine Life
 |  |  |
 | ----- | :---: |

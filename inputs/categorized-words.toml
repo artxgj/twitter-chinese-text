@@ -314,11 +314,9 @@ en = "wavelength"
 hz = "微波"
 en = "microwave"
 
-
 [[favorites]]
 hz = "光子"
 en = "photon"
-
 
 [[favorites]]
 hz = "光刻"
@@ -456,6 +454,10 @@ en = "seawater desalination"
 [[favorites]]
 hz = "圣诞"
 en = "Christmas"
+
+[[favorites]]
+hz = "模拟"
+en = "analog; simulation; to simulate"
 
 [[favorites]]
 hz = "尾部风险"
@@ -621,6 +623,10 @@ en = "to treat(an illness); medical treatment; therapy"
 [[health]]
 hz = "痊愈"
 en = "fully recover from an illness; completely cured/recovered"
+
+[[health]]
+hz = "护士"
+en = "nurse"
 
 
 [[energy]]
