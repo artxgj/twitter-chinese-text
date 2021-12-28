@@ -313,6 +313,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [台风](台风.md) | typhoon |
 | [龙卷风](龙卷风.md) | tornado |
+| [飓风](飓风.md) | hurricane |
 | [海啸](海啸.md) | tsunami |
 | [地震](地震.md) | earthquake |
 | [洪灾](洪灾.md) | flood |

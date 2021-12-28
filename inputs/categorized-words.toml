@@ -1178,6 +1178,10 @@ hz = "龙卷风"
 en = "tornado"
 
 [[natural-disaster]]
+hz = "飓风"
+en = "hurricane"
+
+[[natural-disaster]]
 hz = "海啸"
 en = "tsunami"
 
