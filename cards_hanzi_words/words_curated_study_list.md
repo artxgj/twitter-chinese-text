@@ -48,6 +48,16 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [乳酸](乳酸.md) | lactic acid |
 | [葡萄糖](葡萄糖.md) | glucose |
 | [蒸馏](蒸馏.md) | distil; distillation |
+## Commodities (Agriculture)
+|  |  |
+| ----- | :---: |
+| [玉米](玉米.md) | corn |
+| [小麦](小麦.md) | wheat |
+| [大豆](大豆.md) | soybeans |
+| [谷物](谷物.md) | grain; cereal |
+| [化肥](化肥.md) | fertilizer |
+| [农药](农药.md) | pesticide |
+| [农业](农业.md) | agriculture; farming |
 ## Computing/Digital
 |  |  |
 | ----- | :---: |
@@ -90,6 +100,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [威胁](威胁.md) | threaten; menace; imperil |
 | [不确定性](不确定性.md) | uncertainty |
 | [放射线](放射线.md) | radiation |
+| [购买](购买.md) | purchase; buy |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -129,6 +140,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [箱船](箱船.md) | container ship |
 | [散货船](散货船.md) | bulk freighter |
 | [航线](航线.md) | air or shipping line; route; course |
+| [航运](航运.md) | shipping; transport |
 | [半导体](半导体.md) | semiconductor |
 | [芯片](芯片.md) | chip |
 | [纳米](纳米.md) | nanometer |
@@ -226,6 +238,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [感染](感染.md) | infection |
 | [传染性](传染性.md) | infectiousness; contagiousness; contagion |
 | [病例](病例.md) | case (medical) |
+| [隔离](隔离.md) | isolate |
 | [检疫隔离](检疫隔离.md) | quarantine |
 | [口罩](口罩.md) | surgical mask |
 | [核酸检测](核酸检测.md) | nucleic acid test |

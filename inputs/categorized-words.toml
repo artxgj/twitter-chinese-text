@@ -13,6 +13,7 @@ places = "Places and Regions"
 computing = "Computing/Digital"
 entertainment = "Entertainment"
 natural-disaster = "Natural Disasters"
+commodities_agri = "Commodities (Agriculture)"
 
 [[markets]]
 hz = "央行"
@@ -315,6 +316,10 @@ en = "uncertainty"
 hz = "放射线"
 en = "radiation"
 
+[[contextual-study]]
+hz = "购买"
+en = "purchase; buy"
+
 
 [[favorites]]
 hz = "供应链"
@@ -339,6 +344,10 @@ en = "bulk freighter"
 [[favorites]]
 hz = "航线"
 en = "air or shipping line; route; course"
+
+[[favorites]]
+hz = "航运"
+en = "shipping; transport"
 
 [[favorites]]
 hz = "半导体"
@@ -644,6 +653,10 @@ en = "infectiousness; contagiousness; contagion"
 [[health]]
 hz = "病例"
 en = "case (medical)"
+
+[[health]]
+hz = "隔离"
+en = "isolate"
 
 [[health]]
 hz = "检疫隔离"
@@ -1236,3 +1249,35 @@ en = "torrential rain; rainstorm"
 [[natural-disaster]]
 hz = "喷发"
 en = "eruption"
+
+
+[[commodities_agri]]
+hz = "玉米"
+en = "corn"
+
+[[commodities_agri]]
+hz = "小麦"
+en = "wheat"
+
+[[commodities_agri]]
+hz = "大豆"
+en = "soybeans"
+
+[[commodities_agri]]
+hz = "谷物"
+en = "grain; cereal"
+
+[[commodities_agri]]
+hz = "化肥"
+en = "fertilizer"
+
+[[commodities_agri]]
+hz = "农药"
+en = "pesticide"
+
+[[commodities_agri]]
+hz = "农业"
+en = "agriculture; farming"
+
+
+
