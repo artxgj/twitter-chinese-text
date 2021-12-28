@@ -60,6 +60,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Words Used In Several Context
 |  |  |
 | ----- | :---: |
+| [盐](盐.md) | salt |
 | [获得](获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](趋势.md) | trend |
 | [冲击](冲击.md) | impact; shock; to attack |
