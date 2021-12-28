@@ -119,6 +119,18 @@ hz = "放缓"
 en = "to slow down; decelerate"
 
 [[markets]]
+hz = "债务"
+en = "debt"
+
+[[markets]]
+hz = "泡沫"
+en = "bubble"
+
+[[markets]]
+hz = "楼市"
+en = "property market; real estate market"
+
+[[markets]]
 hz = "区块链"
 en = "blockchain"
 

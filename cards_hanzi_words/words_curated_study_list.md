@@ -292,6 +292,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [税收](税收.md) | tax revenue |
 | [关税](关税.md) | tariff; customs duty |
 | [放缓](放缓.md) | to slow down; decelerate |
+| [债务](债务.md) | debt |
+| [泡沫](泡沫.md) | bubble |
+| [楼市](楼市.md) | property market; real estate market |
 | [区块链](区块链.md) | blockchain |
 | [加密货币](加密货币.md) | cryptocurrency |
 | [比特币](比特币.md) | bitcoin |
