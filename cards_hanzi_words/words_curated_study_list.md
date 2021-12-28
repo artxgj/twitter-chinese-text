@@ -217,6 +217,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [住院](住院.md) | hospitalization |
 | [氧气](氧气.md) | oxygen (gas) |
 | [飞沫](飞沫.md) | droplet |
+| [气溶胶](气溶胶.md) | aerosol |
 | [感冒](感冒.md) | cold |
 | [流感](流感.md) | flu |
 | [感染](感染.md) | infection |
@@ -279,7 +280,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [投资](投资.md) | invest |
 | [金融](金融.md) | finance |
 | [期货](期货.md) | futures |
-| [期权](期权.md) | options |
+| [期权](期权.md) | option |
 | [模因股](模因股.md) | meme stock |
 | [价格](价格.md) | price |
 | [利润](利润.md) | profit |

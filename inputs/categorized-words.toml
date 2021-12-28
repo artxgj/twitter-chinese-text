@@ -72,7 +72,7 @@ en = "futures"
 
 [[markets]]
 hz = "期权"
-en = "options"
+en = "option"
 
 [[markets]]
 hz = "模因股"
@@ -596,6 +596,10 @@ en = "oxygen (gas)"
 [[health]]
 hz = "飞沫"
 en = "droplet"
+
+[[health]]
+hz = "气溶胶"
+en = "aerosol"
 
 [[health]]
 hz = "感冒"
