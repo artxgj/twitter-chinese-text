@@ -199,7 +199,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
-| [肉骨茶](肉骨茶.md) | bak-kut-teh or pork ribs soup |
+| [烧猪](烧猪.md) | lechon; roast pig |
+| [肉骨茶](肉骨茶.md) | bak-kut-teh; pork ribs soup |
 | [拉面](拉面.md) | ramen |
 | [金枪鱼](金枪鱼.md) | tuna |
 | [石斑鱼](石斑鱼.md) | grouper |
@@ -207,6 +208,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
 | [月饼](月饼.md) | mooncake |
+| [红薯](红薯.md) | sweet potato |
+| [薯条](薯条.md) | french fries; chips |
+| [薯片](薯片.md) | potato chips |
 | [披萨](披萨.md) | pizza |
 | [咖啡](咖啡.md) | coffee |
 | [奶茶](奶茶.md) | milk tea |

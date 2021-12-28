@@ -1043,8 +1043,12 @@ en = "barrier reef"
 
 
 [[food-drinks]]
+hz = "烧猪"
+en = "lechon; roast pig"
+
+[[food-drinks]]
 hz = "肉骨茶"
-en = "bak-kut-teh or pork ribs soup"
+en = "bak-kut-teh; pork ribs soup"
 
 [[food-drinks]]
 hz = "拉面"
@@ -1073,6 +1077,18 @@ en = "pineapple"
 [[food-drinks]]
 hz = "月饼"
 en = "mooncake"
+
+[[food-drinks]]
+hz = "红薯"
+en = "sweet potato"
+
+[[food-drinks]]
+hz = "薯条"
+en = "french fries; chips"
+
+[[food-drinks]]
+hz = "薯片"
+en = "potato chips"
 
 [[food-drinks]]
 hz = "披萨"
