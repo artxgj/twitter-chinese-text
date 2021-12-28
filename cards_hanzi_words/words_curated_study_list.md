@@ -279,6 +279,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [投资](投资.md) | invest |
 | [金融](金融.md) | finance |
 | [期货](期货.md) | futures |
+| [期权](期权.md) | options |
+| [模因股](模因股.md) | meme stock |
 | [价格](价格.md) | price |
 | [利润](利润.md) | profit |
 | [盈利](盈利.md) | profit |
@@ -305,7 +307,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [收盘价](收盘价.md) | closing price |
 | [市值](市值.md) | market value; market cap |
 | [超额配](超额配.md) | oversubscribed |
-| [选择权](选择权.md) | option |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |

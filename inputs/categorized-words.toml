@@ -71,6 +71,14 @@ hz = "期货"
 en = "futures"
 
 [[markets]]
+hz = "期权"
+en = "options"
+
+[[markets]]
+hz = "模因股"
+en = "meme stock"
+
+[[markets]]
 hz = "价格"
 en = "price"
 
@@ -173,10 +181,6 @@ en = "market value; market cap"
 [[markets]]
 hz = "超额配"
 en = "oversubscribed"
-
-[[markets]]
-hz = "选择权"
-en = "option"
 
 
 [[contextual-study]]
