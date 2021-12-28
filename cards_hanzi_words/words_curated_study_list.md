@@ -81,12 +81,15 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [平衡](平衡.md) | balance; equilibrium |
 | [发布](发布.md) | issue; release |
 | [推出](推出.md) | launch; release; publish; introduce; put out |
-| [威胁](威胁.md) | threaten; menace; imperil |
-| [放射线](放射线.md) | radiation |
+| [拖累](拖累.md) | encumber; be a burden on; implicate; involve |
+| [控制](控制.md) | control; govern; command; manipulate |
 | [担忧](担忧.md) | to worry; to be concerned; be anxious |
 | [担心](担心.md) | worry; feel anxious |
 | [批准](批准.md) | ratify; approve; sanction |
+| [提醒](提醒.md) | remind; warn; call attention to |
+| [威胁](威胁.md) | threaten; menace; imperil |
 | [不确定性](不确定性.md) | uncertainty |
+| [放射线](放射线.md) | radiation |
 ## Energy
 |  |  |
 | ----- | :---: |

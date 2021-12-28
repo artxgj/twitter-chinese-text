@@ -280,12 +280,12 @@ hz = "推出"
 en = "launch; release; publish; introduce; put out"
 
 [[contextual-study]]
-hz = "威胁"
-en = "threaten; menace; imperil"
+hz = "拖累"
+en = "encumber; be a burden on; implicate; involve"
 
 [[contextual-study]]
-hz = "放射线"
-en = "radiation"
+hz = "控制"
+en = "control; govern; command; manipulate"
 
 [[contextual-study]]
 hz = "担忧"
@@ -300,8 +300,20 @@ hz = "批准"
 en = "ratify; approve; sanction"
 
 [[contextual-study]]
+hz = "提醒"
+en = "remind; warn; call attention to"
+
+[[contextual-study]]
+hz = "威胁"
+en = "threaten; menace; imperil"
+
+[[contextual-study]]
 hz = "不确定性"
 en = "uncertainty"
+
+[[contextual-study]]
+hz = "放射线"
+en = "radiation"
 
 
 [[favorites]]
