@@ -12,11 +12,15 @@ food-drinks = "Food And Drinks"
 places = "Places and Regions"
 computing = "Computing/Digital"
 entertainment = "Entertainment"
-natural-disaster = "Natural Disaster"
+natural-disaster = "Natural Disasters"
 
 [[markets]]
 hz = "央行"
 en = "central bank"
+
+[[markets]]
+hz = "货币政策"
+en = "monetary policy"
 
 [[markets]]
 hz = "通胀"
@@ -35,12 +39,20 @@ hz = "量化宽松"
 en = "quantitative easing"
 
 [[markets]]
+hz = "缩减购债"
+en = "taper; tapering"
+
+[[markets]]
 hz = "消费者"
 en = "consumer"
 
 [[markets]]
 hz = "零售商"
 en = "retailer"
+
+[[markets]]
+hz = "散户"
+en =  "retail investors"
 
 [[markets]]
 hz = "投资者"
@@ -184,6 +196,10 @@ hz = "爆发"
 en = "erupt; burst out; break out"
 
 [[contextual-study]]
+hz = "瓶颈"
+en = "bottleneck"
+
+[[contextual-study]]
 hz = "效率"
 en = "efficiency"
 
@@ -214,6 +230,10 @@ en = "urgent; emergency; pressing"
 [[contextual-study]]
 hz = "政策"
 en = "policy"
+
+[[contextual-study]]
+hz = "刺激"
+en = "stimulus; stimulation; incentive; stimulate;uree on ; encourage"
 
 [[contextual-study]]
 hz = "暂停"
@@ -301,16 +321,44 @@ hz = "纳米"
 en = "nanometer"
 
 [[favorites]]
+hz = "摩尔定律"
+en = "Moore’s Law"
+
+[[favorites]]
+hz = "堆叠"
+en = "stack (as in 3D stacking)"
+
+[[favorites]]
+hz = "后工序"
+en = "post-process"
+
+[[favorites]]
+hz = "陶瓷"
+en = "ceramics; porcelein"
+
+[[favorites]]
 hz = "晶体管"
 en = "transistor"
+
+[[favorites]]
+hz = "晶圆"
+en = "wafer"
 
 [[favorites]]
 hz = "液晶"
 en = "liquid crystal"
 
 [[favorites]]
-hz = "晶圆"
-en = "wafer"
+hz = "多晶硅"
+en = "polycrystalline silicon"
+
+[[favorites]]
+hz = "模拟"
+en = "analog; simulation; to simulate"
+
+[[favorites]]
+hz = "量子"
+en = "quantum"
 
 [[favorites]]
 hz = "波长"
@@ -321,8 +369,20 @@ hz = "微波"
 en = "microwave"
 
 [[favorites]]
+hz = "滤波器"
+en = "wave filter"
+
+[[favorites]]
+hz = "光合作用"
+en = "photosynthesis"
+
+[[favorites]]
 hz = "光子"
 en = "photon"
+
+[[favorites]]
+hz = "光伏"
+en = "photovoltaic"
 
 [[favorites]]
 hz = "光刻"
@@ -335,18 +395,6 @@ en = "optical fiber"
 [[favorites]]
 hz = "发光二极管"
 en = "LED"
-
-[[favorites]]
-hz = "摩尔定律"
-en = "Moore’s Law"
-
-[[favorites]]
-hz = "堆叠"
-en = "stack (as in 3D stacking)"
-
-[[favorites]]
-hz = "后工序"
-en = "post-process"
 
 [[favorites]]
 hz = "电磁"
@@ -389,6 +437,14 @@ hz = "零部件"
 en = "parts and components"
 
 [[favorites]]
+hz = "机床"
+en = "machine tools"
+
+[[favorites]]
+hz = "螺丝"
+en = "screws"
+
+[[favorites]]
 hz = "基础设施"
 en = "infrastructure"
 
@@ -429,13 +485,12 @@ hz = "叉车"
 en = "forklift"
 
 [[favorites]]
-hz = "量子"
-en = "quantum"
+hz = "拖拉机"
+en = "tractor"
 
 [[favorites]]
 hz = "铁臂阿童木"
 en = "Astro Boy"
-
 
 [[favorites]]
 hz = "小行星"
@@ -450,6 +505,10 @@ hz = "望远镜"
 en = "telescope"
 
 [[favorites]]
+hz = "闭路"
+en = "closed-circuit"
+
+[[favorites]]
 hz = "熔岩"
 en = "lava"
 
@@ -462,8 +521,8 @@ hz = "圣诞"
 en = "Christmas"
 
 [[favorites]]
-hz = "模拟"
-en = "analog; simulation; to simulate"
+hz = "曙光"
+en = "first light of morning; dawn"
 
 [[favorites]]
 hz = "尾部风险"
@@ -527,16 +586,32 @@ hz = "氧气"
 en = "oxygen (gas)"
 
 [[health]]
-hz = "检疫隔离"
-en = "quarantine"
+hz = "飞沫"
+en = "droplet"
+
+[[health]]
+hz = "感冒"
+en = "cold"
+
+[[health]]
+hz = "流感"
+en = "flu"
+
+[[health]]
+hz = "感染"
+en = "infection"
+
+[[health]]
+hz = "传染性"
+en = "infectiousness; contagiousness; contagion"
 
 [[health]]
 hz = "病例"
 en = "case (medical)"
 
 [[health]]
-hz = "感染"
-en = "infection"
+hz = "检疫隔离"
+en = "quarantine"
 
 [[health]]
 hz = "口罩"
@@ -551,6 +626,14 @@ hz = "聚合酶链式反应"
 en = "polymerase chain reaction"
 
 [[health]]
+hz = "心肌炎"
+en = "myocarditis"
+
+[[health]]
+hz = "心包炎"
+en = "pericarditis"
+
+[[health]]
 hz = "腺病毒"
 en = "adenovirus"
 
@@ -563,6 +646,10 @@ hz = "脑雾"
 en = "brain fog"
 
 [[health]]
+hz = "脑血栓"
+en = "cerebral thrombus"
+
+[[health]]
 hz = "血清"
 en = "(blood) serum"
 
@@ -571,16 +658,20 @@ hz = "血压"
 en = "blood pressure"
 
 [[health]]
+hz = "血栓"
+en = "blood clot; thrombus"
+
+[[health]]
+hz = "血糖"
+en = "blood sugar"
+
+[[health]]
 hz = "血癌"
 en = "leukemia"
 
 [[health]]
 hz = "白血球"
 en = "white blood cell"
-
-[[health]]
-hz = "血糖"
-en = "blood sugar"
 
 [[health]]
 hz = "糖尿病"
@@ -595,8 +686,12 @@ hz = "瘤"
 en = "tumor"
 
 [[health]]
+hz = "放疗"
+en = "radiotherapy"
+
+[[health]]
 hz = "抗体"
-en = "antibody"
+en = "antibodies"
 
 [[health]]
 hz = "重症"
@@ -660,6 +755,10 @@ hz = "原油"
 en = "crude oil"
 
 [[energy]]
+hz = "柴油"
+en = "diesel oil"
+
+[[energy]]
 hz = "油砂"
 en = "oil sands"
 
@@ -687,6 +786,14 @@ en = "net zero emissions"
 hz = "可再生能源"
 en = "renewable energy"
 
+
+[[chemistry]]
+hz = "原子"
+en = "atom"
+
+[[chemistry]]
+hz = "离子"
+en = "ion"
 
 [[chemistry]]
 hz = "氢"
@@ -809,10 +916,6 @@ hz = "甲烷"
 en = "methane"
 
 [[chemistry]]
-hz = "钻石"
-en = "diamond"
-
-[[chemistry]]
 hz = "石墨烯"
 en = "graphene"
 
@@ -835,6 +938,23 @@ en = "lithium cobalt oxide"
 [[chemistry]]
 hz = "钛酸锂"
 en = "lithium titanate"
+
+[[chemistry]]
+hz = "碳化硅"
+en = "silicon carbide"
+
+[[chemistry]]
+hz = "乳酸"
+en = "lactic acid"
+
+[[chemistry]]
+hz = "葡萄糖"
+en = "glucose"
+
+[[chemistry]]
+hz = "蒸馏"
+en = "distil; distillation"
+
 
 [[marine]]
 hz = "海胆"
@@ -859,6 +979,10 @@ en = "whale"
 [[marine]]
 hz = "章鱼"
 en = "octopus"
+
+[[marine]]
+hz = "堡礁"
+en = "barrier reef"
 
 
 [[food-drinks]]
@@ -888,6 +1012,10 @@ en = "durian"
 [[food-drinks]]
 hz = "凤梨"
 en = "pineapple"
+
+[[food-drinks]]
+hz = "月饼"
+en = "mooncake"
 
 [[food-drinks]]
 hz = "披萨"
@@ -932,7 +1060,7 @@ en = "Southeast Asia"
 
 [[places]]
 hz = "福建"
-en = "Fujian"
+en = "Hokkien (Fujian in Mandarin)"
 
 [[places]]
 hz = "北海道"
@@ -978,6 +1106,14 @@ en = "metaverse"
 [[computing]]
 hz = "数码化"
 en = "digitize; digitalize"
+
+[[computing]]
+hz = "硬盘"
+en = "hard disk"
+
+[[computing]]
+hz = "面部识别"
+en = "facial recognition"
 
 
 [[entertainment]]

@@ -6,6 +6,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Chemistry
 |  |  |
 | ----- | :---: |
+| [原子](原子.md) | atom |
+| [离子](离子.md) | ion |
 | [氢](氢.md) | hydrogen |
 | [氦](氦.md) | helium |
 | [锂](锂.md) | lithium |
@@ -36,13 +38,16 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [一氧化二氮](一氧化二氮.md) | nitrous oxide |
 | [氨](氨.md) | ammonia |
 | [甲烷](甲烷.md) | methane |
-| [钻石](钻石.md) | diamond |
 | [石墨烯](石墨烯.md) | graphene |
 | [铁矿石](铁矿石.md) | iron ore |
 | [锂矿石](锂矿石.md) | lithium ore |
 | [磷酸铁锂](磷酸铁锂.md) | lithium iron phosphate |
 | [钴酸锂](钴酸锂.md) | lithium cobalt oxide |
 | [钛酸锂](钛酸锂.md) | lithium titanate |
+| [碳化硅](碳化硅.md) | silicon carbide |
+| [乳酸](乳酸.md) | lactic acid |
+| [葡萄糖](葡萄糖.md) | glucose |
+| [蒸馏](蒸馏.md) | distil; distillation |
 ## Computing/Digital
 |  |  |
 | ----- | :---: |
@@ -50,6 +55,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [线上](线上.md) | online |
 | [元宇宙](元宇宙.md) | metaverse |
 | [数码化](数码化.md) | digitize; digitalize |
+| [硬盘](硬盘.md) | hard disk |
+| [面部识别](面部识别.md) | facial recognition |
 ## Words Used In Several Context
 |  |  |
 | ----- | :---: |
@@ -57,6 +64,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [趋势](趋势.md) | trend |
 | [冲击](冲击.md) | impact; shock; to attack |
 | [爆发](爆发.md) | erupt; burst out; break out |
+| [瓶颈](瓶颈.md) | bottleneck |
 | [效率](效率.md) | efficiency |
 | [超过](超过.md) | exceed |
 | [情况](情况.md) | circumstances; situation |
@@ -65,6 +73,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [影响](影响.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
 | [紧急](紧急.md) | urgent; emergency; pressing |
 | [政策](政策.md) | policy |
+| [刺激](刺激.md) | stimulus; stimulation; incentive; stimulate;uree on ; encourage |
 | [暂停](暂停.md) | suspend |
 | [核心](核心.md) | core; center; most important part |
 | [崛起](崛起.md) | to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power) |
@@ -86,6 +95,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [化石](化石.md) | fossil |
 | [石油](石油.md) | oil/petroleum |
 | [原油](原油.md) | crude oil |
+| [柴油](柴油.md) | diesel oil |
 | [油砂](油砂.md) | oil sands |
 | [煤炭](煤炭.md) | coal |
 | [核能](核能.md) | nuclear energy |
@@ -118,18 +128,25 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [半导体](半导体.md) | semiconductor |
 | [芯片](芯片.md) | chip |
 | [纳米](纳米.md) | nanometer |
-| [晶体管](晶体管.md) | transistor |
-| [液晶](液晶.md) | liquid crystal |
-| [晶圆](晶圆.md) | wafer |
-| [波长](波长.md) | wavelength |
-| [微波](微波.md) | microwave |
-| [光子](光子.md) | photon |
-| [光刻](光刻.md) | lithography |
-| [光纤](光纤.md) | optical fiber |
-| [发光二极管](发光二极管.md) | LED |
 | [摩尔定律](摩尔定律.md) | Moore’s Law |
 | [堆叠](堆叠.md) | stack (as in 3D stacking) |
 | [后工序](后工序.md) | post-process |
+| [陶瓷](陶瓷.md) | ceramics; porcelein |
+| [晶体管](晶体管.md) | transistor |
+| [晶圆](晶圆.md) | wafer |
+| [液晶](液晶.md) | liquid crystal |
+| [多晶硅](多晶硅.md) | polycrystalline silicon |
+| [模拟](模拟.md) | analog; simulation; to simulate |
+| [量子](量子.md) | quantum |
+| [波长](波长.md) | wavelength |
+| [微波](微波.md) | microwave |
+| [滤波器](滤波器.md) | wave filter |
+| [光合作用](光合作用.md) | photosynthesis |
+| [光子](光子.md) | photon |
+| [光伏](光伏.md) | photovoltaic |
+| [光刻](光刻.md) | lithography |
+| [光纤](光纤.md) | optical fiber |
+| [发光二极管](发光二极管.md) | LED |
 | [电磁](电磁.md) | electromagnetic; electromagnetism |
 | [电池](电池.md) | battery |
 | [稀土](稀土.md) | rare earth |
@@ -140,6 +157,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [红外](红外.md) | infrared |
 | [二维码](二维码.md) | QR code |
 | [零部件](零部件.md) | parts and components |
+| [机床](机床.md) | machine tools |
+| [螺丝](螺丝.md) | screws |
 | [基础设施](基础设施.md) | infrastructure |
 | [塑料](塑料.md) | plastic |
 | [氨基酸](氨基酸.md) | amino acids |
@@ -150,15 +169,16 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [千足虫](千足虫.md) | millipede |
 | [液压挖掘机](液压挖掘机.md) | hydraulic excavator |
 | [叉车](叉车.md) | forklift |
-| [量子](量子.md) | quantum |
+| [拖拉机](拖拉机.md) | tractor |
 | [铁臂阿童木](铁臂阿童木.md) | Astro Boy |
 | [小行星](小行星.md) | asteroid |
 | [宇宙](宇宙.md) | universe; cosmos; space; void |
 | [望远镜](望远镜.md) | telescope |
+| [闭路](闭路.md) | closed-circuit |
 | [熔岩](熔岩.md) | lava |
 | [海水淡化](海水淡化.md) | seawater desalination |
 | [圣诞](圣诞.md) | Christmas |
-| [模拟](模拟.md) | analog; simulation; to simulate |
+| [曙光](曙光.md) | first light of morning; dawn |
 | [尾部风险](尾部风险.md) | tail risk |
 ## Food And Drinks
 |  |  |
@@ -170,6 +190,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
+| [月饼](月饼.md) | mooncake |
 | [披萨](披萨.md) | pizza |
 | [咖啡](咖啡.md) | coffee |
 | [奶茶](奶茶.md) | milk tea |
@@ -194,24 +215,33 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [暴發](暴發.md) | outbreak |
 | [住院](住院.md) | hospitalization |
 | [氧气](氧气.md) | oxygen (gas) |
-| [检疫隔离](检疫隔离.md) | quarantine |
-| [病例](病例.md) | case (medical) |
+| [飞沫](飞沫.md) | droplet |
+| [感冒](感冒.md) | cold |
+| [流感](流感.md) | flu |
 | [感染](感染.md) | infection |
+| [传染性](传染性.md) | infectiousness; contagiousness; contagion |
+| [病例](病例.md) | case (medical) |
+| [检疫隔离](检疫隔离.md) | quarantine |
 | [口罩](口罩.md) | surgical mask |
 | [核酸检测](核酸检测.md) | nucleic acid test |
 | [聚合酶链式反应](聚合酶链式反应.md) | polymerase chain reaction |
+| [心肌炎](心肌炎.md) | myocarditis |
+| [心包炎](心包炎.md) | pericarditis |
 | [腺病毒](腺病毒.md) | adenovirus |
 | [免疫缺陷](免疫缺陷.md) | immunodeficiency |
 | [脑雾](脑雾.md) | brain fog |
+| [脑血栓](脑血栓.md) | cerebral thrombus |
 | [血清](血清.md) | (blood) serum |
 | [血压](血压.md) | blood pressure |
+| [血栓](血栓.md) | blood clot; thrombus |
+| [血糖](血糖.md) | blood sugar |
 | [血癌](血癌.md) | leukemia |
 | [白血球](白血球.md) | white blood cell |
-| [血糖](血糖.md) | blood sugar |
 | [糖尿病](糖尿病.md) | diabetes |
 | [癌症](癌症.md) | cancer |
 | [瘤](瘤.md) | tumor |
-| [抗体](抗体.md) | antibody |
+| [放疗](放疗.md) | radiotherapy |
+| [抗体](抗体.md) | antibodies |
 | [重症](重症.md) | acute; grave |
 | [疾病](疾病.md) | disease; illness |
 | [阿尔茨海默](阿尔茨海默.md) | Alzheimer |
@@ -230,16 +260,20 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鲨鱼](鲨鱼.md) | shark |
 | [鲸](鲸.md) | whale |
 | [章鱼](章鱼.md) | octopus |
+| [堡礁](堡礁.md) | barrier reef |
 ## Markets
 |  |  |
 | ----- | :---: |
 | [央行](央行.md) | central bank |
+| [货币政策](货币政策.md) | monetary policy |
 | [通胀](通胀.md) | inflation |
 | [通货膨胀](通货膨胀.md) | inflation |
 | [滞胀](滞胀.md) | stagflation |
 | [量化宽松](量化宽松.md) | quantitative easing |
+| [缩减购债](缩减购债.md) | taper; tapering |
 | [消费者](消费者.md) | consumer |
 | [零售商](零售商.md) | retailer |
+| [散户](散户.md) | retail investors |
 | [投资者](投资者.md) | investor |
 | [投资](投资.md) | invest |
 | [金融](金融.md) | finance |
@@ -271,7 +305,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [市值](市值.md) | market value; market cap |
 | [超额配](超额配.md) | oversubscribed |
 | [选择权](选择权.md) | option |
-## Natural Disaster
+## Natural Disasters
 |  |  |
 | ----- | :---: |
 | [台风](台风.md) | typhoon |
@@ -288,7 +322,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [菲律宾](菲律宾.md) | Philippines |
 | [槟城](槟城.md) | Penang |
 | [东南亚](东南亚.md) | Southeast Asia |
-| [福建](福建.md) | Fujian |
+| [福建](福建.md) | Hokkien (Fujian in Mandarin) |
 | [北海道](北海道.md) | Hokkaido |
 | [冰岛](冰岛.md) | Iceland |
 | [黑山](黑山.md) | Montenegro |
