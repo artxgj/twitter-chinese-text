@@ -232,6 +232,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [聚合酶链式反应](聚合酶链式反应.md) | polymerase chain reaction |
 | [心肌炎](心肌炎.md) | myocarditis |
 | [心包炎](心包炎.md) | pericarditis |
+| [心脏病](心脏病.md) | heart disease; cardiopathy |
+| [胆固醇](胆固醇.md) | cholesterol |
 | [腺病毒](腺病毒.md) | adenovirus |
 | [免疫缺陷](免疫缺陷.md) | immunodeficiency |
 | [脑雾](脑雾.md) | brain fog |

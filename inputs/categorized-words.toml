@@ -670,6 +670,14 @@ hz = "心包炎"
 en = "pericarditis"
 
 [[health]]
+hz = "心脏病"
+en = "heart disease; cardiopathy"
+
+[[health]]
+hz = "胆固醇"
+en = "cholesterol"
+
+[[health]]
 hz = "腺病毒"
 en = "adenovirus"
 
