@@ -2,7 +2,7 @@
 
 I use Twitter as a tool to improve my reading skills in Chinese. Twitter allows its users to download their tweets every 30 days. 
 
-This repo has a few simple scripts to extract the downloaded tweets-archive and converts then transform the tweets in a .js file into csv and markdown files.
+This repo has a few simple scripts that extract the downloaded tweets-archive and transform the tweets stored in a .js file into csv and markdown files.
 
 I rely on the Pleco app, Wiktionary and Google's Translation site to look up the many words that are incomprehensible to me. 
 
