@@ -1,5 +1,5 @@
 import unittest
-from twitter_objects import AbbreviatedTweet
+from src.twitter_objects import AbbreviatedTweet
 
 
 class AbbreviatedTweetTestCase(unittest.TestCase):
