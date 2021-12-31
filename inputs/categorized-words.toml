@@ -27,7 +27,7 @@ en = "M&A (mergers and acquisitions)"
 
 [[capital-markets]]
 hz = "投行"
-en = "invesetment bank"
+en = "investment bank"
 
 [[capital-markets]]
 hz = "私募股权"
@@ -52,6 +52,14 @@ en = "market value; market cap"
 [[capital-markets]]
 hz = "超额配"
 en = "oversubscribed"
+
+[[capital-markets]]
+hz = "估值"
+en = "valuation; estimated value"
+
+[[capital-markets]]
+hz = "独角兽"
+en = "unicorn"
 
 
 [[idioms]]
@@ -109,6 +117,10 @@ en = "investor"
 [[economy-markets]]
 hz = "投资"
 en = "invest"
+
+[[economy-markets]]
+hz = "收益率"
+en = "rate of return; (stock) yield; earnings yield"
 
 [[economy-markets]]
 hz = "金融"

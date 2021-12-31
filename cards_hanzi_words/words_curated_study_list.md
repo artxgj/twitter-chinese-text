@@ -8,13 +8,15 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [风投](风投.md) | Venture Capital |
 | [并购](并购.md) | M&A (mergers and acquisitions) |
-| [投行](投行.md) | invesetment bank |
+| [投行](投行.md) | investment bank |
 | [私募股权](私募股权.md) | private equity |
 | [初创企业](初创企业.md) | startups |
 | [新上市](新上市.md) | newly listed |
 | [退市](退市.md) | delist |
 | [市值](市值.md) | market value; market cap |
 | [超额配](超额配.md) | oversubscribed |
+| [估值](估值.md) | valuation; estimated value |
+| [独角兽](独角兽.md) | unicorn |
 ## Chemistry
 |  |  |
 | ----- | :---: |
@@ -148,6 +150,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [散户](散户.md) | retail investors |
 | [投资者](投资者.md) | investor |
 | [投资](投资.md) | invest |
+| [收益率](收益率.md) | rate of return; (stock) yield; earnings yield |
 | [金融](金融.md) | finance |
 | [期货](期货.md) | futures |
 | [大宗商品](大宗商品.md) | commodities |
