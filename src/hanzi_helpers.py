@@ -1,6 +1,6 @@
 from collections import deque
 from collections.abc import Sequence, Generator, Mapping
-from typing import List, Deque
+from typing import List, Deque, Optional, Dict, Set
 from twitter_objects import AbbreviatedTweet, next_tweet, is_tweet_in_sources, from_tweet_js_file
 from general_helpers import dictlines_from_csv
 
@@ -116,3 +116,24 @@ def next_tweets_vocab_index(tweets_vocab_index_csv_filepath: str) -> Generator[M
     :return: a Mapping with keys "Tweet_Id", "Words"
     """
     return dictlines_from_csv(tweets_vocab_index_csv_filepath, None)
+
+
+def cache_tweets_summary_csv(filepath: str) -> Dict[str, Dict]:
+    cache = dict()
+
+    for row in next_HanziTweetSummary(filepath):
+        cache[row['Id']] = {
+            'Date': row['Date'],
+            'Source': row['Source'],
+            'Tweet': row['Tweet']
+        }
+
+    return cache
+
+
+def cache_words_tweetids_csv(filepath: str) -> Dict[str, List[str]]:
+    return {row['Word']: row['Tweet_Ids'].split(',') for row in next_vocab_tweets_index(filepath)}
+
+
+def cache_tweetid_words_csv(filepath: str) -> Dict[str, Set[str]]:
+    return {row['Tweet_Id']: set(row['Words'].split(',')) for row in next_tweets_vocab_index(filepath)}
