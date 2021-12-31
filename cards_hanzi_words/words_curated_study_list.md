@@ -6,10 +6,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Capital Markets/Venture Capital Terms
 |  |  |
 | ----- | :---: |
+| [风投](风投.md) | Venture Capital |
 | [并购](并购.md) | M&A (mergers and acquisitions) |
 | [投行](投行.md) | invesetment bank |
 | [私募股权](私募股权.md) | private equity |
-| [早期阶段](早期阶段.md) | early stage; initial stage |
 | [初创企业](初创企业.md) | startups |
 | [新上市](新上市.md) | newly listed |
 | [退市](退市.md) | delist |
@@ -84,17 +84,22 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [盐](盐.md) | salt |
+| [早期阶段](早期阶段.md) | early stage; initial stage |
 | [获得](获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](趋势.md) | trend |
+| [数据](数据.md) | data |
+| [影响](影响.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
+| [计划](计划.md) | plan; project; programme |
 | [冲击](冲击.md) | impact; shock; to attack |
 | [爆发](爆发.md) | erupt; burst out; break out |
+| [引发](引发.md) | intitiate; touch (or spark, trigger) off |
+| [开发](开发.md) | develop; open up; exploit |
 | [瓶颈](瓶颈.md) | bottleneck |
 | [效率](效率.md) | efficiency |
 | [超过](超过.md) | exceed |
 | [情况](情况.md) | circumstances; situation |
 | [严重](严重.md) | serious; grave; severe; critical |
 | [取消](取消.md) | cancel |
-| [影响](影响.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
 | [紧急](紧急.md) | urgent; emergency; pressing |
 | [政策](政策.md) | policy |
 | [刺激](刺激.md) | stimulus; stimulation; incentive; stimulate;uree on ; encourage |
@@ -104,6 +109,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [平衡](平衡.md) | balance; equilibrium |
 | [发布](发布.md) | issue; release |
 | [推出](推出.md) | launch; release; publish; introduce; put out |
+| [推动](推动.md) | push forward; promote; give impetus to |
 | [拖累](拖累.md) | encumber; be a burden on; implicate; involve |
 | [控制](控制.md) | control; govern; command; manipulate |
 | [担忧](担忧.md) | to worry; to be concerned; be anxious |
@@ -113,6 +119,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [提醒](提醒.md) | remind; warn; call attention to |
 | [批准](批准.md) | ratify; approve; sanction |
 | [批评](批评.md) | criticize |
+| [持续](持续.md) | continue; sustain |
 | [威胁](威胁.md) | threaten; menace; imperil |
 | [不确定性](不确定性.md) | uncertainty |
 | [放射线](放射线.md) | radiation |
@@ -123,6 +130,59 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [修订](修订.md) | revise |
 | [现状](现状.md) | status quo |
 | [连接](连接.md) | to link; to join; connection; a link (on web page) |
+| [领域](领域.md) | field; sphere; domain; territory |
+| [实现](实现.md) | realize; fulfill; carry out; bring about |
+## Economy And Markets
+|  |  |
+| ----- | :---: |
+| [央行](央行.md) | central bank |
+| [货币政策](货币政策.md) | monetary policy |
+| [利率](利率.md) | interest rate |
+| [通胀](通胀.md) | inflation |
+| [通货膨胀](通货膨胀.md) | inflation |
+| [滞胀](滞胀.md) | stagflation |
+| [量化宽松](量化宽松.md) | quantitative easing |
+| [缩减购债](缩减购债.md) | taper; tapering |
+| [消费者](消费者.md) | consumer |
+| [零售商](零售商.md) | retailer |
+| [散户](散户.md) | retail investors |
+| [投资者](投资者.md) | investor |
+| [投资](投资.md) | invest |
+| [金融](金融.md) | finance |
+| [期货](期货.md) | futures |
+| [大宗商品](大宗商品.md) | commodities |
+| [期权](期权.md) | options |
+| [看跌期权](看跌期权.md) | put options |
+| [模因股](模因股.md) | meme stock |
+| [价格](价格.md) | price |
+| [利润](利润.md) | profit |
+| [盈利](盈利.md) | profit |
+| [成本](成本.md) | costs (production, manufacturing) |
+| [收入](收入.md) | income; revenue; receipts; earnings; proceeds |
+| [订单](订单.md) | order for goods; order form |
+| [税](税.md) | tax; duty |
+| [税收](税收.md) | tax revenue |
+| [关税](关税.md) | tariff; customs duty |
+| [放缓](放缓.md) | to slow down; decelerate |
+| [债务](债务.md) | debt |
+| [贷款](贷款.md) | loans |
+| [还款](还款.md) | repayment |
+| [楼市](楼市.md) | property market; real estate market |
+| [泡沫](泡沫.md) | bubble |
+| [区块链](区块链.md) | blockchain |
+| [加密货币](加密货币.md) | cryptocurrency |
+| [比特币](比特币.md) | bitcoin |
+| [数字货币](数字货币.md) | digital currency |
+| [预测](预测.md) | forecast |
+| [需求](需求.md) | demand |
+| [短缺](短缺.md) | shortage |
+| [反垄断](反垄断.md) | antitrust |
+| [劳动](劳动.md) | labor |
+| [贸易](贸易.md) | trade |
+| [净进口国](净进口国.md) | net importer |
+| [开盘](开盘.md) | opening quotation |
+| [收盘价](收盘价.md) | closing price |
+| [新兴市场](新兴市场.md) | emerging markets |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -173,6 +233,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [陶瓷](陶瓷.md) | ceramics; porcelein |
 | [晶体管](晶体管.md) | transistor |
 | [晶圆](晶圆.md) | wafer |
+| [晶片](晶片.md) | wafer; chip |
 | [液晶](液晶.md) | liquid crystal |
 | [多晶硅](多晶硅.md) | polycrystalline silicon |
 | [模拟](模拟.md) | analog; simulation; to simulate |
@@ -314,56 +375,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鲸](鲸.md) | whale |
 | [章鱼](章鱼.md) | octopus |
 | [堡礁](堡礁.md) | barrier reef |
-## Markets
-|  |  |
-| ----- | :---: |
-| [央行](央行.md) | central bank |
-| [货币政策](货币政策.md) | monetary policy |
-| [通胀](通胀.md) | inflation |
-| [通货膨胀](通货膨胀.md) | inflation |
-| [滞胀](滞胀.md) | stagflation |
-| [量化宽松](量化宽松.md) | quantitative easing |
-| [缩减购债](缩减购债.md) | taper; tapering |
-| [消费者](消费者.md) | consumer |
-| [零售商](零售商.md) | retailer |
-| [散户](散户.md) | retail investors |
-| [投资者](投资者.md) | investor |
-| [投资](投资.md) | invest |
-| [金融](金融.md) | finance |
-| [期货](期货.md) | futures |
-| [大宗商品](大宗商品.md) | commodities |
-| [期权](期权.md) | options |
-| [看跌期权](看跌期权.md) | put options |
-| [模因股](模因股.md) | meme stock |
-| [价格](价格.md) | price |
-| [利润](利润.md) | profit |
-| [盈利](盈利.md) | profit |
-| [成本](成本.md) | costs (production, manufacturing) |
-| [收入](收入.md) | income; revenue; receipts; earnings; proceeds |
-| [订单](订单.md) | order for goods; order form |
-| [税](税.md) | tax; duty |
-| [税收](税收.md) | tax revenue |
-| [关税](关税.md) | tariff; customs duty |
-| [放缓](放缓.md) | to slow down; decelerate |
-| [债务](债务.md) | debt |
-| [贷款](贷款.md) | loans |
-| [还款](还款.md) | repayment |
-| [楼市](楼市.md) | property market; real estate market |
-| [泡沫](泡沫.md) | bubble |
-| [区块链](区块链.md) | blockchain |
-| [加密货币](加密货币.md) | cryptocurrency |
-| [比特币](比特币.md) | bitcoin |
-| [数字货币](数字货币.md) | digital currency |
-| [预测](预测.md) | forecast |
-| [需求](需求.md) | demand |
-| [短缺](短缺.md) | shortage |
-| [反垄断](反垄断.md) | antitrust |
-| [劳动](劳动.md) | labor |
-| [贸易](贸易.md) | trade |
-| [净进口国](净进口国.md) | net importer |
-| [开盘](开盘.md) | opening quotation |
-| [收盘价](收盘价.md) | closing price |
-| [新兴市场](新兴市场.md) | emerging markets |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |

@@ -2,7 +2,7 @@
 # toml might not be the best tool for this particular config file
 [category-names]
 chemistry = "Chemistry"
-markets = "Markets"
+economy-markets = "Economy And Markets"
 health = "Health"
 energy = "Energy"
 contextual-study = "Words Used In Several Context"
@@ -18,6 +18,10 @@ idioms = "Idioms"
 capital-markets = "Capital Markets/Venture Capital Terms"
 
 [[capital-markets]]
+hz = "风投"
+en = "Venture Capital"
+
+[[capital-markets]]
 hz = "并购"
 en = "M&A (mergers and acquisitions)"
 
@@ -28,10 +32,6 @@ en = "invesetment bank"
 [[capital-markets]]
 hz = "私募股权"
 en = "private equity"
-
-[[capital-markets]]
-hz = "早期阶段"
-en = "early stage; initial stage"
 
 [[capital-markets]]
 hz = "初创企业"
@@ -58,197 +58,206 @@ en = "oversubscribed"
 hz = "源源不断"
 en = "a steady flow (idiom); an unending stream"
 
-[[markets]]
+[[economy-markets]]
 hz = "央行"
 en = "central bank"
 
-[[markets]]
+[[economy-markets]]
 hz = "货币政策"
 en = "monetary policy"
 
-[[markets]]
+[[economy-markets]]
+hz = "利率"
+en = "interest rate"
+
+[[economy-markets]]
 hz = "通胀"
 en = "inflation"
 
-[[markets]]
+[[economy-markets]]
 hz = "通货膨胀"
 en = "inflation"
 
-[[markets]]
+[[economy-markets]]
 hz = "滞胀"
 en = "stagflation"
 
-[[markets]]
+[[economy-markets]]
 hz = "量化宽松"
 en = "quantitative easing"
 
-[[markets]]
+[[economy-markets]]
 hz = "缩减购债"
 en = "taper; tapering"
 
-[[markets]]
+[[economy-markets]]
 hz = "消费者"
 en = "consumer"
 
-[[markets]]
+[[economy-markets]]
 hz = "零售商"
 en = "retailer"
 
-[[markets]]
+[[economy-markets]]
 hz = "散户"
 en =  "retail investors"
 
-[[markets]]
+[[economy-markets]]
 hz = "投资者"
 en = "investor"
 
-[[markets]]
+[[economy-markets]]
 hz = "投资"
 en = "invest"
 
-[[markets]]
+[[economy-markets]]
 hz = "金融"
 en = "finance"
 
-[[markets]]
+[[economy-markets]]
 hz = "期货"
 en = "futures"
 
-[[markets]]
+[[economy-markets]]
 hz = "大宗商品"
 en = "commodities"
 
-[[markets]]
+[[economy-markets]]
 hz = "期权"
 en = "options"
 
-[[markets]]
+[[economy-markets]]
 hz = "看跌期权"
 en = "put options"
 
-[[markets]]
+[[economy-markets]]
 hz = "模因股"
 en = "meme stock"
 
-[[markets]]
+[[economy-markets]]
 hz = "价格"
 en = "price"
 
-[[markets]]
+[[economy-markets]]
 hz = "利润"
 en = "profit"
 
-[[markets]]
+[[economy-markets]]
 hz = "盈利"
 en = "profit"
 
-[[markets]]
+[[economy-markets]]
 hz = "成本"
 en = "costs (production, manufacturing)"
 
-[[markets]]
+[[economy-markets]]
 hz = "收入"
 en = "income; revenue; receipts; earnings; proceeds"
 
-[[markets]]
+[[economy-markets]]
 hz = "订单"
 en = "order for goods; order form"
 
-[[markets]]
+[[economy-markets]]
 hz = "税"
 en = "tax; duty"
 
-[[markets]]
+[[economy-markets]]
 hz = "税收"
 en = "tax revenue"
 
-[[markets]]
+[[economy-markets]]
 hz = "关税"
 en = "tariff; customs duty"
 
-[[markets]]
+[[economy-markets]]
 hz = "放缓"
 en = "to slow down; decelerate"
 
-[[markets]]
+[[economy-markets]]
 hz = "债务"
 en = "debt"
 
-[[markets]]
+[[economy-markets]]
 hz = "贷款"
 en = "loans"
 
-[[markets]]
+[[economy-markets]]
 hz = "还款"
 en = "repayment"
 
-[[markets]]
+[[economy-markets]]
 hz = "楼市"
 en = "property market; real estate market"
 
-[[markets]]
+[[economy-markets]]
 hz = "泡沫"
 en = "bubble"
 
-[[markets]]
+[[economy-markets]]
 hz = "区块链"
 en = "blockchain"
 
-[[markets]]
+[[economy-markets]]
 hz = "加密货币"
 en = "cryptocurrency"
 
-[[markets]]
+[[economy-markets]]
 hz = "比特币"
 en = "bitcoin"
 
-[[markets]]
+[[economy-markets]]
 hz = "数字货币"
 en = "digital currency"
 
-[[markets]]
+[[economy-markets]]
 hz = "预测"
 en = "forecast"
 
-[[markets]]
+[[economy-markets]]
 hz = "需求"
 en = "demand"
 
-[[markets]]
+[[economy-markets]]
 hz = "短缺"
 en = "shortage"
 
-[[markets]]
+[[economy-markets]]
 hz = "反垄断"
 en = "antitrust"
 
-[[markets]]
+[[economy-markets]]
 hz = "劳动"
 en = "labor"
 
-[[markets]]
+[[economy-markets]]
 hz = "贸易"
 en = "trade"
 
-[[markets]]
+[[economy-markets]]
 hz = "净进口国"
 en = "net importer"
 
-[[markets]]
+[[economy-markets]]
 hz = "开盘"
 en = "opening quotation"
 
-[[markets]]
+[[economy-markets]]
 hz = "收盘价"
 en = "closing price"
 
-[[markets]]
+[[economy-markets]]
 hz = "新兴市场"
 en = "emerging markets"
+
 
 [[contextual-study]]
 hz = "盐"
 en = "salt"
+
+[[contextual-study]]
+hz = "早期阶段"
+en = "early stage; initial stage"
 
 [[contextual-study]]
 hz = "获得"
@@ -259,12 +268,32 @@ hz = "趋势"
 en = "trend"
 
 [[contextual-study]]
+hz = "数据"
+en = "data"
+
+[[contextual-study]]
+hz = "影响"
+en = "to have an effect on; to influence; to affect; to have an impact on; to disturb"
+
+[[contextual-study]]
+hz = "计划"
+en = "plan; project; programme"
+
+[[contextual-study]]
 hz = "冲击"
 en = "impact; shock; to attack"
 
 [[contextual-study]]
 hz = "爆发"
 en = "erupt; burst out; break out"
+
+[[contextual-study]]
+hz = "引发"
+en = "intitiate; touch (or spark, trigger) off"
+
+[[contextual-study]]
+hz = "开发"
+en = "develop; open up; exploit"
 
 [[contextual-study]]
 hz = "瓶颈"
@@ -289,10 +318,6 @@ en = "serious; grave; severe; critical"
 [[contextual-study]]
 hz = "取消"
 en = "cancel"
-
-[[contextual-study]]
-hz = "影响"
-en = "to have an effect on; to influence; to affect; to have an impact on; to disturb"
 
 [[contextual-study]]
 hz = "紧急"
@@ -331,6 +356,10 @@ hz = "推出"
 en = "launch; release; publish; introduce; put out"
 
 [[contextual-study]]
+hz = "推动"
+en = "push forward; promote; give impetus to"
+
+[[contextual-study]]
 hz = "拖累"
 en = "encumber; be a burden on; implicate; involve"
 
@@ -366,6 +395,10 @@ en = "ratify; approve; sanction"
 [[contextual-study]]
 hz = "批评"
 en = "criticize"
+
+[[contextual-study]]
+hz = "持续"
+en = "continue; sustain"
 
 [[contextual-study]]
 hz = "威胁"
@@ -406,6 +439,14 @@ en = "status quo"
 [[contextual-study]]
 hz = "连接"
 en = "to link; to join; connection; a link (on web page)"
+
+[[contextual-study]]
+hz = "领域"
+en = "field; sphere; domain; territory"
+
+[[contextual-study]]
+hz = "实现"
+en = "realize; fulfill; carry out; bring about"
 
 
 [[favorites]]
@@ -475,6 +516,10 @@ en = "transistor"
 [[favorites]]
 hz = "晶圆"
 en = "wafer"
+
+[[favorites]]
+hz = "晶片"
+en = "wafer; chip"
 
 [[favorites]]
 hz = "液晶"
