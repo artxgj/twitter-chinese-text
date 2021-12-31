@@ -21,7 +21,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [原子](原子.md) | atom |
-| [分子](分子.md) | molecule; numerator (mathematics) |
 | [离子](离子.md) | ion |
 | [氢](氢.md) | hydrogen |
 | [氦](氦.md) | helium |
@@ -86,6 +85,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [盐](盐.md) | salt |
+| [分子](分子.md) | molecule; numerator (mathematics); member; element; part |
 | [早期阶段](早期阶段.md) | early stage; initial stage |
 | [获得](获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](趋势.md) | trend |
