@@ -1,7 +1,7 @@
 import datetime
 import json
 import urllib.parse
-import simple_markdown as md
+from src import simple_markdown as md
 
 from dataclasses import dataclass
 from typing import Generator, List, Tuple
