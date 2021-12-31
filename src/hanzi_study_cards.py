@@ -1,4 +1,5 @@
 import argparse
+import logging
 import pathlib
 from hanzi_helpers import next_tweets_vocab_index, next_vocab_tweets_index, next_HanziTweetSummary
 from general_helpers import mdbg_link, wiktionary_link, googtrans_link
@@ -7,6 +8,9 @@ from typing import List
 from collections.abc import Mapping
 from dataclasses import dataclass
 
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
 
 @dataclass
 class WordAndTweets:
@@ -14,7 +18,7 @@ class WordAndTweets:
     tweet_ids: List[str]
 
 
-_TWEETS_PER_PAGE = 400
+_TWEETS_PER_PAGE = 300
 
 
 def cache_tweetsummary_words(*, tweet_summary_csv_filepath: str,
@@ -75,7 +79,7 @@ def write_word_card(*, title: str, tweet_data: List[Mapping[str, Mapping]], card
                     tweets_per_page: int):
     num_tweets = len(tweet_data)
     pages = (num_tweets // tweets_per_page) + (1 if num_tweets % tweets_per_page > 0 else 0)
-    print(f"Generating {title}, number of tweets {len(tweet_data)}, pages = {pages}")
+    logging.info(f"Generating {title}, number of tweets {len(tweet_data)}, pages = {pages}")
     tweets_title_heading = f"Tweets containing {title}"
     word_static_md_part = f"""{h1(title)}
 
@@ -88,7 +92,7 @@ Search {link('wiktionary', wiktionary_link(title=title))} for definition
 """
     for page in range(pages):
         word_md_filepath = f"{cards_study_folder}/{word_md_filename(title=title, page=page)}"
-        print(f"page {page}, pages {pages}, {word_md_filepath}")
+        logging.info(f"page {page}, pages {pages}, {word_md_filepath}")
         with open(word_md_filepath, "w", encoding='utf-8') as f_out:
             link_text = word_previous_next_links(title=title, page=page, pages=pages)
 
@@ -137,6 +141,9 @@ def write_cards(*, word_and_tweets: List[WordAndTweets],
 
 
 if __name__ == '__main__':
+    import time
+    ts = time.time()
+
     parser = argparse.ArgumentParser(prog=pathlib.PurePath(__file__).name,
                                      description="generate vocabulary study cards")
     parser.add_argument('-summary-csv-path', type=str, required=True, help='summary tweets csv path')
@@ -149,9 +156,9 @@ if __name__ == '__main__':
                                                              tweets_vocab_csv_filepath=args.tweets_vocab_index_path)
     word_and_tweets = cache_vocab_tweets_index(vocab_tweets_index_path=args.vocab_tweets_index_path)
 
-    print("===========")
-
     write_cards(word_and_tweets=word_and_tweets,
                 summarized_tweets_words=summarized_tweets_study_words,
                 cards_study_folder=args.cards_study_path,
                 tweets_per_page=_TWEETS_PER_PAGE)
+
+    logging.info(f'Total time of make_cards: {time.time() - ts} seconds.')

@@ -3,10 +3,23 @@
 To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
 list of the curated words, check it out [here](words_tweets_stats.md).
 
+## Capital Markets/Venture Capital Terms
+|  |  |
+| ----- | :---: |
+| [并购](并购.md) | M&A (mergers and acquisitions) |
+| [投行](投行.md) | invesetment bank |
+| [私募股权](私募股权.md) | private equity |
+| [早期阶段](早期阶段.md) | early stage; initial stage |
+| [初创企业](初创企业.md) | startups |
+| [新上市](新上市.md) | newly listed |
+| [退市](退市.md) | delist |
+| [市值](市值.md) | market value; market cap |
+| [超额配](超额配.md) | oversubscribed |
 ## Chemistry
 |  |  |
 | ----- | :---: |
 | [原子](原子.md) | atom |
+| [分子](分子.md) | molecule; numerator (mathematics) |
 | [离子](离子.md) | ion |
 | [氢](氢.md) | hydrogen |
 | [氦](氦.md) | helium |
@@ -95,12 +108,21 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [控制](控制.md) | control; govern; command; manipulate |
 | [担忧](担忧.md) | to worry; to be concerned; be anxious |
 | [担心](担心.md) | worry; feel anxious |
-| [批准](批准.md) | ratify; approve; sanction |
+| [提供](提供.md) | provide; supply; furnish; offer |
+| [提高](提高.md) | raise; heighten; enhance; increase; improve |
 | [提醒](提醒.md) | remind; warn; call attention to |
+| [批准](批准.md) | ratify; approve; sanction |
+| [批评](批评.md) | criticize |
 | [威胁](威胁.md) | threaten; menace; imperil |
 | [不确定性](不确定性.md) | uncertainty |
 | [放射线](放射线.md) | radiation |
 | [购买](购买.md) | purchase; buy |
+| [低迷](低迷.md) | low; stagnant; sluggish; depressed |
+| [条款](条款.md) | stipulation |
+| [协议](协议.md) | agreement; protocol |
+| [修订](修订.md) | revise |
+| [现状](现状.md) | status quo |
+| [连接](连接.md) | to link; to join; connection; a link (on web page) |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -141,6 +163,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [散货船](散货船.md) | bulk freighter |
 | [航线](航线.md) | air or shipping line; route; course |
 | [航运](航运.md) | shipping; transport |
+| [仓库](仓库.md) | warehouse |
 | [半导体](半导体.md) | semiconductor |
 | [芯片](芯片.md) | chip |
 | [纳米](纳米.md) | nanometer |
@@ -193,6 +216,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [闭路](闭路.md) | closed-circuit |
 | [熔岩](熔岩.md) | lava |
 | [海水淡化](海水淡化.md) | seawater desalination |
+| [自动化](自动化.md) | automation; automated |
+| [验证试验](验证试验.md) | verification test; demonstration test |
 | [圣诞](圣诞.md) | Christmas |
 | [曙光](曙光.md) | first light of morning; dawn |
 | [尾部风险](尾部风险.md) | tail risk |
@@ -275,6 +300,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [治疗](治疗.md) | to treat(an illness); medical treatment; therapy |
 | [痊愈](痊愈.md) | fully recover from an illness; completely cured/recovered |
 | [护士](护士.md) | nurse |
+## Idioms
+|  |  |
+| ----- | :---: |
+| [源源不断](源源不断.md) | a steady flow (idiom); an unending stream |
 ## Marine Life
 |  |  |
 | ----- | :---: |
@@ -302,7 +331,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [投资](投资.md) | invest |
 | [金融](金融.md) | finance |
 | [期货](期货.md) | futures |
-| [期权](期权.md) | option |
+| [大宗商品](大宗商品.md) | commodities |
+| [期权](期权.md) | options |
+| [看跌期权](看跌期权.md) | put options |
 | [模因股](模因股.md) | meme stock |
 | [价格](价格.md) | price |
 | [利润](利润.md) | profit |
@@ -315,8 +346,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [关税](关税.md) | tariff; customs duty |
 | [放缓](放缓.md) | to slow down; decelerate |
 | [债务](债务.md) | debt |
-| [泡沫](泡沫.md) | bubble |
+| [贷款](贷款.md) | loans |
+| [还款](还款.md) | repayment |
 | [楼市](楼市.md) | property market; real estate market |
+| [泡沫](泡沫.md) | bubble |
 | [区块链](区块链.md) | blockchain |
 | [加密货币](加密货币.md) | cryptocurrency |
 | [比特币](比特币.md) | bitcoin |
@@ -328,11 +361,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [劳动](劳动.md) | labor |
 | [贸易](贸易.md) | trade |
 | [净进口国](净进口国.md) | net importer |
-| [退市](退市.md) | delist |
 | [开盘](开盘.md) | opening quotation |
 | [收盘价](收盘价.md) | closing price |
-| [市值](市值.md) | market value; market cap |
-| [超额配](超额配.md) | oversubscribed |
+| [新兴市场](新兴市场.md) | emerging markets |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |

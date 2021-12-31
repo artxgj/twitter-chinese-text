@@ -14,6 +14,49 @@ computing = "Computing/Digital"
 entertainment = "Entertainment"
 natural-disaster = "Natural Disasters"
 commodities_agri = "Commodities (Agriculture)"
+idioms = "Idioms"
+capital-markets = "Capital Markets/Venture Capital Terms"
+
+[[capital-markets]]
+hz = "并购"
+en = "M&A (mergers and acquisitions)"
+
+[[capital-markets]]
+hz = "投行"
+en = "invesetment bank"
+
+[[capital-markets]]
+hz = "私募股权"
+en = "private equity"
+
+[[capital-markets]]
+hz = "早期阶段"
+en = "early stage; initial stage"
+
+[[capital-markets]]
+hz = "初创企业"
+en = "startups"
+
+[[capital-markets]]
+hz = "新上市"
+en = "newly listed"
+
+[[capital-markets]]
+hz = "退市"
+en = "delist"
+
+[[capital-markets]]
+hz = "市值"
+en = "market value; market cap"
+
+[[capital-markets]]
+hz = "超额配"
+en = "oversubscribed"
+
+
+[[idioms]]
+hz = "源源不断"
+en = "a steady flow (idiom); an unending stream"
 
 [[markets]]
 hz = "央行"
@@ -72,8 +115,16 @@ hz = "期货"
 en = "futures"
 
 [[markets]]
+hz = "大宗商品"
+en = "commodities"
+
+[[markets]]
 hz = "期权"
-en = "option"
+en = "options"
+
+[[markets]]
+hz = "看跌期权"
+en = "put options"
 
 [[markets]]
 hz = "模因股"
@@ -124,12 +175,20 @@ hz = "债务"
 en = "debt"
 
 [[markets]]
-hz = "泡沫"
-en = "bubble"
+hz = "贷款"
+en = "loans"
+
+[[markets]]
+hz = "还款"
+en = "repayment"
 
 [[markets]]
 hz = "楼市"
 en = "property market; real estate market"
+
+[[markets]]
+hz = "泡沫"
+en = "bubble"
 
 [[markets]]
 hz = "区块链"
@@ -176,10 +235,6 @@ hz = "净进口国"
 en = "net importer"
 
 [[markets]]
-hz = "退市"
-en = "delist"
-
-[[markets]]
 hz = "开盘"
 en = "opening quotation"
 
@@ -188,13 +243,8 @@ hz = "收盘价"
 en = "closing price"
 
 [[markets]]
-hz = "市值"
-en = "market value; market cap"
-
-[[markets]]
-hz = "超额配"
-en = "oversubscribed"
-
+hz = "新兴市场"
+en = "emerging markets"
 
 [[contextual-study]]
 hz = "盐"
@@ -297,12 +347,25 @@ hz = "担心"
 en = "worry; feel anxious"
 
 [[contextual-study]]
-hz = "批准"
-en = "ratify; approve; sanction"
+hz = "提供"
+en = "provide; supply; furnish; offer"
+
+[[contextual-study]]
+hz = "提高"
+en = "raise; heighten; enhance; increase; improve"
 
 [[contextual-study]]
 hz = "提醒"
 en = "remind; warn; call attention to"
+
+
+[[contextual-study]]
+hz = "批准"
+en = "ratify; approve; sanction"
+
+[[contextual-study]]
+hz = "批评"
+en = "criticize"
 
 [[contextual-study]]
 hz = "威胁"
@@ -319,6 +382,30 @@ en = "radiation"
 [[contextual-study]]
 hz = "购买"
 en = "purchase; buy"
+
+[[contextual-study]]
+hz = "低迷"
+en = "low; stagnant; sluggish; depressed"
+
+[[contextual-study]]
+hz = "条款"
+en = "stipulation"
+
+[[contextual-study]]
+hz = "协议"
+en = "agreement; protocol"
+
+[[contextual-study]]
+hz = "修订"
+en = "revise"
+
+[[contextual-study]]
+hz = "现状"
+en = "status quo"
+
+[[contextual-study]]
+hz = "连接"
+en = "to link; to join; connection; a link (on web page)"
 
 
 [[favorites]]
@@ -348,6 +435,10 @@ en = "air or shipping line; route; course"
 [[favorites]]
 hz = "航运"
 en = "shipping; transport"
+
+[[favorites]]
+hz = "仓库"
+en = "warehouse"
 
 [[favorites]]
 hz = "半导体"
@@ -556,6 +647,15 @@ en = "lava"
 [[favorites]]
 hz = "海水淡化"
 en = "seawater desalination"
+
+[[favorites]]
+hz = "自动化"
+en = "automation; automated"
+
+[[favorites]]
+hz = "验证试验"
+en = "verification test; demonstration test"
+
 
 [[favorites]]
 hz = "圣诞"
@@ -847,6 +947,10 @@ en = "renewable energy"
 [[chemistry]]
 hz = "原子"
 en = "atom"
+
+[[chemistry]]
+hz = "分子"
+en = "molecule; numerator (mathematics)"
 
 [[chemistry]]
 hz = "离子"
