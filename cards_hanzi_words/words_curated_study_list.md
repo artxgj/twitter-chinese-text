@@ -325,7 +325,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [疫情](疫情.md) | epidemic |
 | [流行病学](流行病学.md) | epidemiology |
 | [病毒学家](病毒学家.md) | virologist |
-| [暴發](暴發.md) | outbreak |
+| [暴发](暴发.md) | outbreak |
 | [住院](住院.md) | hospitalization |
 | [氧气](氧气.md) | oxygen (gas) |
 | [飞沫](飞沫.md) | droplet |
