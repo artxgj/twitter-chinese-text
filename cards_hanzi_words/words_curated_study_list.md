@@ -136,6 +136,22 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [连接](连接.md) | to link; to join; connection; a link (on web page) |
 | [领域](领域.md) | field; sphere; domain; territory |
 | [实现](实现.md) | realize; fulfill; carry out; bring about |
+## Currency, Money, and Digital Technology
+|  |  |
+| ----- | :---: |
+| [货币](货币.md) | currency |
+| [数字货币](数字货币.md) | digital currency |
+| [加密货币](加密货币.md) | cryptocurrency |
+| [区块链](区块链.md) | blockchain |
+| [分布式账本技术](分布式账本技术.md) | distributed ledger technology |
+| [比特币](比特币.md) | bitcoin |
+| [非同质化代币](非同质化代币.md) | NFT (non-fungible token) |
+| [外汇](外汇.md) | foreign exchange; forex |
+| [汇率](汇率.md) | exchange rate; conversion rate |
+| [黄金](黄金.md) | gold |
+| [尼克松](尼克松.md) | Nixon (Richard Milhaus) |
+| [布雷顿森林](布雷顿森林.md) | Bretton Woods |
+| [贬值](贬值.md) | devaluation; depreciation |
 ## Economy And Markets
 |  |  |
 | ----- | :---: |
@@ -176,10 +192,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [还款](还款.md) | repayment |
 | [楼市](楼市.md) | property market; real estate market |
 | [泡沫](泡沫.md) | bubble |
-| [区块链](区块链.md) | blockchain |
-| [加密货币](加密货币.md) | cryptocurrency |
-| [比特币](比特币.md) | bitcoin |
-| [数字货币](数字货币.md) | digital currency |
 | [预测](预测.md) | forecast |
 | [需求](需求.md) | demand |
 | [短缺](短缺.md) | shortage |
@@ -294,6 +306,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [烧猪](烧猪.md) | lechon; roast pig |
 | [肉骨茶](肉骨茶.md) | bak-kut-teh; pork ribs soup |
+| [炒粿条](炒粿条.md) | char kway teow |
 | [拉面](拉面.md) | ramen |
 | [金枪鱼](金枪鱼.md) | tuna |
 | [石斑鱼](石斑鱼.md) | grouper |

@@ -16,6 +16,7 @@ natural-disaster = "Natural Disasters"
 commodities_agri = "Commodities (Agriculture)"
 idioms = "Idioms"
 capital-markets = "Capital Markets/Venture Capital Terms"
+currency-money-tech = "Currency, Money, and Digital Technology"
 
 [[capital-markets]]
 hz = "风投"
@@ -64,6 +65,59 @@ en = "valuation; estimated value"
 [[capital-markets]]
 hz = "独角兽"
 en = "unicorn"
+
+
+[[currency-money-tech]]
+hz = "货币"
+en = "currency"
+
+[[currency-money-tech]]
+hz = "数字货币"
+en = "digital currency"
+
+[[currency-money-tech]]
+hz = "加密货币"
+en = "cryptocurrency"
+
+[[currency-money-tech]]
+hz = "区块链"
+en = "blockchain"
+
+[[currency-money-tech]]
+hz = "分布式账本技术"
+en = "distributed ledger technology"
+
+[[currency-money-tech]]
+hz = "比特币"
+en = "bitcoin"
+
+[[currency-money-tech]]
+hz = "非同质化代币"
+en = "NFT (non-fungible token)"
+
+[[currency-money-tech]]
+hz = "外汇"
+en = "foreign exchange; forex"
+
+[[currency-money-tech]]
+hz = "汇率"
+en = "exchange rate; conversion rate"
+
+[[currency-money-tech]]
+hz = "黄金"
+en = "gold"
+
+[[currency-money-tech]]
+hz = "尼克松"
+en = "Nixon (Richard Milhaus)"
+
+[[currency-money-tech]]
+hz = "布雷顿森林"
+en = "Bretton Woods"
+
+[[currency-money-tech]]
+hz = "贬值"
+en = "devaluation; depreciation"
 
 
 [[idioms]]
@@ -222,22 +276,6 @@ en = "property market; real estate market"
 [[economy-markets]]
 hz = "泡沫"
 en = "bubble"
-
-[[economy-markets]]
-hz = "区块链"
-en = "blockchain"
-
-[[economy-markets]]
-hz = "加密货币"
-en = "cryptocurrency"
-
-[[economy-markets]]
-hz = "比特币"
-en = "bitcoin"
-
-[[economy-markets]]
-hz = "数字货币"
-en = "digital currency"
 
 [[economy-markets]]
 hz = "预测"
@@ -1231,6 +1269,10 @@ en = "lechon; roast pig"
 [[food-drinks]]
 hz = "肉骨茶"
 en = "bak-kut-teh; pork ribs soup"
+
+[[food-drinks]]
+hz = "炒粿条"
+en = "char kway teow"
 
 [[food-drinks]]
 hz = "拉面"
