@@ -10,6 +10,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [并购](并购.md) | M&A (mergers and acquisitions) |
 | [投行](投行.md) | investment bank |
 | [私募股权](私募股权.md) | private equity |
+| [对冲基金](对冲基金.md) | hedge fund |
 | [初创企业](初创企业.md) | startups |
 | [新上市](新上市.md) | newly listed |
 | [退市](退市.md) | delist |
@@ -104,7 +105,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [取消](取消.md) | cancel |
 | [紧急](紧急.md) | urgent; emergency; pressing |
 | [政策](政策.md) | policy |
-| [刺激](刺激.md) | stimulus; stimulation; incentive; stimulate;uree on ; encourage |
+| [刺激](刺激.md) | stimulus; stimulation; incentive; stimulate on ; encourage |
 | [暂停](暂停.md) | suspend |
 | [核心](核心.md) | core; center; most important part |
 | [崛起](崛起.md) | to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power) |
@@ -158,6 +159,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [看跌期权](看跌期权.md) | put options |
 | [模因股](模因股.md) | meme stock |
 | [价格](价格.md) | price |
+| [涨幅](涨幅.md) | range or rate of rise in prices; extent of price rise |
+| [跌幅](跌幅.md) | volume or amount of decrease or fall; extent of decrease |
 | [利润](利润.md) | profit |
 | [盈利](盈利.md) | profit |
 | [成本](成本.md) | costs (production, manufacturing) |
@@ -368,6 +371,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [源源不断](源源不断.md) | a steady flow (idiom); an unending stream |
+| [有史以來](有史以來.md) | since the beginning (or dawn) of history; throughout history |
 ## Marine Life
 |  |  |
 | ----- | :---: |

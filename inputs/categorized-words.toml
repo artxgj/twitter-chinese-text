@@ -34,6 +34,10 @@ hz = "私募股权"
 en = "private equity"
 
 [[capital-markets]]
+hz = "对冲基金"
+en = "hedge fund"
+
+[[capital-markets]]
 hz = "初创企业"
 en = "startups"
 
@@ -65,6 +69,11 @@ en = "unicorn"
 [[idioms]]
 hz = "源源不断"
 en = "a steady flow (idiom); an unending stream"
+
+[[idioms]]
+hz = "有史以來"
+en = "since the beginning (or dawn) of history; throughout history"
+
 
 [[economy-markets]]
 hz = "央行"
@@ -149,6 +158,14 @@ en = "meme stock"
 [[economy-markets]]
 hz = "价格"
 en = "price"
+
+[[economy-markets]]
+hz = "涨幅"
+en = "range or rate of rise in prices; extent of price rise"
+
+[[economy-markets]]
+hz = "跌幅"
+en = "volume or amount of decrease or fall; extent of decrease"
 
 [[economy-markets]]
 hz = "利润"
@@ -345,7 +362,7 @@ en = "policy"
 
 [[contextual-study]]
 hz = "刺激"
-en = "stimulus; stimulation; incentive; stimulate;uree on ; encourage"
+en = "stimulus; stimulation; incentive; stimulate on ; encourage"
 
 [[contextual-study]]
 hz = "暂停"
