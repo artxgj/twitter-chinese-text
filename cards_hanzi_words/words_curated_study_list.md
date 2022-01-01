@@ -202,6 +202,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [开盘](开盘.md) | opening quotation |
 | [收盘价](收盘价.md) | closing price |
 | [新兴市场](新兴市场.md) | emerging markets |
+| [英国脱欧](英国脱欧.md) | Brexit |
 ## Energy
 |  |  |
 | ----- | :---: |

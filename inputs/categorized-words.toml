@@ -317,6 +317,10 @@ en = "closing price"
 hz = "新兴市场"
 en = "emerging markets"
 
+[[economy-markets]]
+hz = "英国脱欧"
+en = "Brexit"
+
 
 [[contextual-study]]
 hz = "盐"
