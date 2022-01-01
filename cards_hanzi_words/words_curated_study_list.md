@@ -126,6 +126,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [威胁](威胁.md) | threaten; menace; imperil |
 | [不确定性](不确定性.md) | uncertainty |
 | [放射线](放射线.md) | radiation |
+| [放射性](放射性.md) | radioactive |
 | [购买](购买.md) | purchase; buy |
 | [低迷](低迷.md) | low; stagnant; sluggish; depressed |
 | [条款](条款.md) | stipulation |
