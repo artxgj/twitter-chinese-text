@@ -302,6 +302,10 @@ hz = "贸易"
 en = "trade"
 
 [[economy-markets]]
+hz = "自贸"
+en = "free trade"
+
+[[economy-markets]]
 hz = "净进口国"
 en = "net importer"
 
@@ -353,6 +357,22 @@ en = "to have an effect on; to influence; to affect; to have an impact on; to di
 [[contextual-study]]
 hz = "计划"
 en = "plan; project; programme"
+
+[[contextual-study]]
+hz = "项目"
+en = "project; item; (sports) event"
+
+[[contextual-study]]
+hz = "最佳"
+en = "best; optimum; optimal; peak"
+
+[[contextual-study]]
+hz = "模式"
+en = "pattern; model; mode"
+
+[[contextual-study]]
+hz = "覆盖"
+en = "cover (verb); plant cover; vegetation"
 
 [[contextual-study]]
 hz = "冲击"
@@ -1378,6 +1398,10 @@ en = "Montenegro"
 [[places]]
 hz = "加拉帕戈斯群岛"
 en = "Galapagos Islands"
+
+[[places]]
+hz = "格陵兰"
+en = "Greenland"
 
 [[places]]
 hz = "加利福尼亚"

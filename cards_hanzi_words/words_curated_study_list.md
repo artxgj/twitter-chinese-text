@@ -93,6 +93,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [数据](数据.md) | data |
 | [影响](影响.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
 | [计划](计划.md) | plan; project; programme |
+| [项目](项目.md) | project; item; (sports) event |
+| [最佳](最佳.md) | best; optimum; optimal; peak |
+| [模式](模式.md) | pattern; model; mode |
+| [覆盖](覆盖.md) | cover (verb); plant cover; vegetation |
 | [冲击](冲击.md) | impact; shock; to attack |
 | [爆发](爆发.md) | erupt; burst out; break out |
 | [引发](引发.md) | intitiate; touch (or spark, trigger) off |
@@ -198,6 +202,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [反垄断](反垄断.md) | antitrust |
 | [劳动](劳动.md) | labor |
 | [贸易](贸易.md) | trade |
+| [自贸](自贸.md) | free trade |
 | [净进口国](净进口国.md) | net importer |
 | [开盘](开盘.md) | opening quotation |
 | [收盘价](收盘价.md) | closing price |
@@ -420,6 +425,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冰岛](冰岛.md) | Iceland |
 | [黑山](黑山.md) | Montenegro |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
+| [格陵兰](格陵兰.md) | Greenland |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [得克萨斯](得克萨斯.md) | Texas |
 | [佛罗里达](佛罗里达.md) | Florida |
