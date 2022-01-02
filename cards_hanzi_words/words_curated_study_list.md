@@ -150,6 +150,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [分布式账本技术](分布式账本技术.md) | distributed ledger technology |
 | [比特币](比特币.md) | bitcoin |
 | [非同质化代币](非同质化代币.md) | NFT (non-fungible token) |
+| [去中心化金融](去中心化金融.md) | DeFi (decentralized finance) |
 | [外汇](外汇.md) | foreign exchange; forex |
 | [汇率](汇率.md) | exchange rate; conversion rate |
 | [黄金](黄金.md) | gold |

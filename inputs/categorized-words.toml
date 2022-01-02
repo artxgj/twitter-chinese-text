@@ -96,6 +96,10 @@ hz = "非同质化代币"
 en = "NFT (non-fungible token)"
 
 [[currency-money-tech]]
+hz = "去中心化金融"
+en = "DeFi (decentralized finance)"
+
+[[currency-money-tech]]
 hz = "外汇"
 en = "foreign exchange; forex"
 
