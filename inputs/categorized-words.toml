@@ -76,7 +76,7 @@ hz = "锁定期"
 en = "lock-up period"
 
 [[capital-markets]]
-hz = "融資"
+hz = "融资"
 en = "raise funds"
 
 [[capital-markets]]
@@ -963,10 +963,6 @@ hz = "群体免疫力"
 en = "herd immunity"
 
 [[health]]
-hz = "动态清零策略"
-en = "dynamic zero strategy"
-
-[[health]]
 hz = "心肌炎"
 en = "myocarditis"
 
@@ -1683,7 +1679,7 @@ hz = "插座"
 en = "socket, outlet "
 
 [[uncategorized]]
-hz = "行為"
+hz = "行为"
 en = "act, behave"
 
 [[uncategorized]]
@@ -1697,10 +1693,6 @@ en = "blizzard"
 [[uncategorized]]
 hz = "召回"
 en = "recall"
-
-[[uncategorized]]
-hz = "包召"
-en = "include"
 
 [[uncategorized]]
 hz = "证据"
@@ -1719,7 +1711,7 @@ hz = "缓解"
 en = "relieve; alleviate"
 
 [[uncategorized]]
-hz = "理會"
+hz = "理会"
 en = "understand; comprehend; take notice of; pay attention to"
 
 [[uncategorized]]

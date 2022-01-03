@@ -20,7 +20,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [独角兽](独角兽.md) | unicorn |
 | [首次公开售股](首次公开售股.md) | IPO |
 | [锁定期](锁定期.md) | lock-up period |
-| [融資](融資.md) | raise funds |
+| [融资](融资.md) | raise funds |
 | [投向](投向.md) | investment orientation |
 ## Chemistry
 |  |  |
@@ -383,7 +383,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [核酸检测](核酸检测.md) | nucleic acid test |
 | [聚合酶链式反应](聚合酶链式反应.md) | polymerase chain reaction |
 | [群体免疫力](群体免疫力.md) | herd immunity |
-| [动态清零策略](动态清零策略.md) | dynamic zero strategy |
 | [心肌炎](心肌炎.md) | myocarditis |
 | [心包炎](心包炎.md) | pericarditis |
 | [心脏病](心脏病.md) | heart disease; cardiopathy |
@@ -465,15 +464,14 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [缴税](缴税.md) | pay taxes |
 | [涟漪](涟漪.md) | ripples |
 | [插座](插座.md) | socket, outlet  |
-| [行為](行為.md) | act, behave |
+| [行为](行为.md) | act, behave |
 | [行为科学](行为科学.md) | behavioral science |
 | [暴风雪](暴风雪.md) | blizzard |
 | [召回](召回.md) | recall |
-| [包召](包召.md) | include |
 | [证据](证据.md) | evidence |
 | [玫瑰花](玫瑰花.md) | rose |
 | [崭新](崭新.md) | brand-new; completely-new |
 | [缓解](缓解.md) | relieve; alleviate |
-| [理會](理會.md) | understand; comprehend; take notice of; pay attention to |
+| [理会](理会.md) | understand; comprehend; take notice of; pay attention to |
 | [尖端](尖端.md) | most advanced; sophisticated; cutting edge; pointed end |
 | [突破](突破.md) | breakthrough; to make a breakthrough |
