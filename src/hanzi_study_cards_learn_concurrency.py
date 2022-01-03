@@ -7,6 +7,9 @@ from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
 from functools import partial
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
+from threading import Thread
+from queue import Queue
+
 from hanzi_helpers import cache_tweetid_words_csv, cache_tweets_summary_csv, next_vocab_tweets_index
 from general_helpers import mdbg_link, wiktionary_link, googtrans_link
 from simple_markdown import h1, h3, h5, hr, link, blockquote
@@ -181,6 +184,45 @@ def multiproc_poolexec(summarized_tweets_words: Mapping[str, Mapping],
         executor.map(fn, word_and_tweets_seq, timeout=30)
 
 
+class WordMarkdownWorker(Thread):
+    def __init__(self, queue: Queue):
+        Thread.__init__(self)
+        self.queue = queue
+
+    def run(self) -> None:
+        while True:
+            summarized_tweets_words, cards_study_folder, tweets_per_page, word_and_tweets = \
+                self.queue.get(self)
+            try:
+                logger.debug("")
+                new_write_word_card(summarized_tweets_words, cards_study_folder, tweets_per_page, word_and_tweets)
+            finally:
+                self.queue.task_done()
+
+
+def threading_with_queue(summarized_tweets_words: Mapping[str, Mapping],
+                         cards_study_folder: str,
+                         tweets_per_page: int,
+                         word_and_tweets_seq: Sequence[WordAndTweets]):
+    # Create a queue to communicate with the worker threads
+    queue = Queue()
+    # Create 8 worker threads
+    for x in range(8):
+        worker = WordMarkdownWorker(queue)
+        # Setting daemon to True will let the main thread exit even though the workers are blocking
+        worker.daemon = True
+        worker.start()
+
+    # Put the tasks into the queue as a tuple
+    for word_and_tweets in word_and_tweets_seq:
+        logger.info('Queueing {}'.format(link))
+        queue.put((summarized_tweets_words, cards_study_folder, tweets_per_page,word_and_tweets))
+
+    logger.info(f">>>>> queue.join() is up next...")
+    # Causes the main thread to wait for the queue to finish processing all the tasks
+    queue.join()
+
+
 if __name__ == '__main__':
     """
     This program is for learning the basics of Python concurrency models and to understand when 
@@ -207,9 +249,10 @@ if __name__ == '__main__':
     word_tweetids_list = [WordAndTweets(row['Word'], row['Tweet_Ids'].split(','))
                           for row in next_vocab_tweets_index(args.vocab_tweets_index_path)]
 
-    #cardfn_ver = single_threaded
-    cardfn_ver = multithr_poolexec
+    cardfn_ver = single_threaded
+    #cardfn_ver = multithr_poolexec
     #cardfn_ver = multiproc_poolexec
+    #cardfn_ver = threading_with_queue
 
     cardfn_ver(summarized_tweets_words=tweets_summary,
                cards_study_folder=args.cards_study_path,
