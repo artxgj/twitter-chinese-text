@@ -18,6 +18,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [超额配](超额配.md) | oversubscribed |
 | [估值](估值.md) | valuation; estimated value |
 | [独角兽](独角兽.md) | unicorn |
+| [首次公开售股](首次公开售股.md) | IPO |
+| [锁定期](锁定期.md) | lock-up period |
+| [融資](融資.md) | raise funds |
+| [投向](投向.md) | investment orientation |
 ## Chemistry
 |  |  |
 | ----- | :---: |
@@ -60,6 +64,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钴酸锂](钴酸锂.md) | lithium cobalt oxide |
 | [钛酸锂](钛酸锂.md) | lithium titanate |
 | [碳化硅](碳化硅.md) | silicon carbide |
+| [异丙醇](异丙醇.md) | isopropanol |
+| [尿素](尿素.md) | urea |
 | [乳酸](乳酸.md) | lactic acid |
 | [葡萄糖](葡萄糖.md) | glucose |
 | [蒸馏](蒸馏.md) | distil; distillation |
@@ -208,7 +214,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [开盘](开盘.md) | opening quotation |
 | [收盘价](收盘价.md) | closing price |
 | [新兴市场](新兴市场.md) | emerging markets |
+| [发展中国家](发展中国家.md) | developing country |
 | [英国脱欧](英国脱欧.md) | Brexit |
+| [养老金](养老金.md) | pension funds |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -237,6 +245,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [漫威](漫威.md) | Marvel |
 | [蜘蛛侠](蜘蛛侠.md) | Spiderman |
 | [黑寡妇](黑寡妇.md) | Black Widow |
+| [百老汇](百老汇.md) | Broadway |
 | [罗纳尔多](罗纳尔多.md) | Cristiano Ronaldo |
 | [曼联](曼联.md) | Manchester United |
 ## Favorites
@@ -275,6 +284,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [发光二极管](发光二极管.md) | LED |
 | [电磁](电磁.md) | electromagnetic; electromagnetism |
 | [电池](电池.md) | battery |
+| [锂离子电池单元](锂离子电池单元.md) | lithium ion battery cell |
 | [稀土](稀土.md) | rare earth |
 | [微细化](微细化.md) | miniaturization |
 | [小型化](小型化.md) | miniaturization |
@@ -287,6 +297,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [螺丝](螺丝.md) | screws |
 | [基础设施](基础设施.md) | infrastructure |
 | [塑料](塑料.md) | plastic |
+| [纤维素纳米纤维](纤维素纳米纤维.md) | cellulose nanofibers |
 | [氨基酸](氨基酸.md) | amino acids |
 | [蛋白质](蛋白质.md) | protein |
 | [信使核糖核酸](信使核糖核酸.md) | mRNA |
@@ -296,6 +307,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [液压挖掘机](液压挖掘机.md) | hydraulic excavator |
 | [叉车](叉车.md) | forklift |
 | [拖拉机](拖拉机.md) | tractor |
+| [折纸](折纸.md) | origami |
 | [铁臂阿童木](铁臂阿童木.md) | Astro Boy |
 | [小行星](小行星.md) | asteroid |
 | [宇宙](宇宙.md) | universe; cosmos; space; void |
@@ -314,8 +326,17 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [烧猪](烧猪.md) | lechon; roast pig |
 | [肉骨茶](肉骨茶.md) | bak-kut-teh; pork ribs soup |
 | [炒粿条](炒粿条.md) | char kway teow |
+| [水粿](水粿.md) | chwee kueh |
+| [叻沙](叻沙.md) | laksa |
+| [椰浆饭](椰浆饭.md) | nasi lemak; lit. coconut milk rice |
+| [沙爹](沙爹.md) | satay |
+| [海南鸡饭](海南鸡饭.md) | Hainanese chicken rice |
+| [咖椰](咖椰.md) | kaya; coconut jam |
+| [烤面包](烤面包.md) | toast |
+| [肉脞面](肉脞面.md) | minced pork noodles |
 | [拉面](拉面.md) | ramen |
 | [金枪鱼](金枪鱼.md) | tuna |
+| [鲣鱼](鲣鱼.md) | oceanic bonito; skipjack (tuna) |
 | [石斑鱼](石斑鱼.md) | grouper |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
@@ -331,6 +352,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [葡萄酒](葡萄酒.md) | wine |
 | [清酒](清酒.md) | sake |
 | [威士忌](威士忌.md) | whiskey |
+| [香槟](香槟.md) | champagne |
 ## Health
 |  |  |
 | ----- | :---: |
@@ -360,6 +382,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [口罩](口罩.md) | surgical mask |
 | [核酸检测](核酸检测.md) | nucleic acid test |
 | [聚合酶链式反应](聚合酶链式反应.md) | polymerase chain reaction |
+| [群体免疫力](群体免疫力.md) | herd immunity |
+| [动态清零策略](动态清零策略.md) | dynamic zero strategy |
 | [心肌炎](心肌炎.md) | myocarditis |
 | [心包炎](心包炎.md) | pericarditis |
 | [心脏病](心脏病.md) | heart disease; cardiopathy |
@@ -381,6 +405,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [抗体](抗体.md) | antibodies |
 | [重症](重症.md) | acute; grave |
 | [疾病](疾病.md) | disease; illness |
+| [禽流感](禽流感.md) | bird flu |
 | [阿尔茨海默](阿尔茨海默.md) | Alzheimer |
 | [肥胖症](肥胖症.md) | obesity |
 | [白内障](白内障.md) | cataract |
@@ -398,6 +423,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [海胆](海胆.md) | sea urchin |
 | [海藻](海藻.md) | seaweed |
+| [海狮](海狮.md) | sea lion |
 | [海豚](海豚.md) | dolphin |
 | [鲨鱼](鲨鱼.md) | shark |
 | [鲸](鲸.md) | whale |
@@ -411,6 +437,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [飓风](飓风.md) | hurricane |
 | [海啸](海啸.md) | tsunami |
 | [地震](地震.md) | earthquake |
+| [里氏](里氏.md) | Richter (scale) |
 | [洪灾](洪灾.md) | flood |
 | [沙尘暴](沙尘暴.md) | sandstorm; dust storm |
 | [暴雨](暴雨.md) | torrential rain; rainstorm |
@@ -423,6 +450,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [东南亚](东南亚.md) | Southeast Asia |
 | [福建](福建.md) | Hokkien (Fujian in Mandarin) |
 | [北海道](北海道.md) | Hokkaido |
+| [冲绳](冲绳.md) | Okinawa |
 | [冰岛](冰岛.md) | Iceland |
 | [黑山](黑山.md) | Montenegro |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
@@ -430,3 +458,22 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [加利福尼亚](加利福尼亚.md) | California |
 | [得克萨斯](得克萨斯.md) | Texas |
 | [佛罗里达](佛罗里达.md) | Florida |
+## Uncategorized
+|  |  |
+| ----- | :---: |
+| [现代化工厂](现代化工厂.md) | modern factories |
+| [缴税](缴税.md) | pay taxes |
+| [涟漪](涟漪.md) | ripples |
+| [插座](插座.md) | socket, outlet  |
+| [行為](行為.md) | act, behave |
+| [行为科学](行为科学.md) | behavioral science |
+| [暴风雪](暴风雪.md) | blizzard |
+| [召回](召回.md) | recall |
+| [包召](包召.md) | include |
+| [证据](证据.md) | evidence |
+| [玫瑰花](玫瑰花.md) | rose |
+| [崭新](崭新.md) | brand-new; completely-new |
+| [缓解](缓解.md) | relieve; alleviate |
+| [理會](理會.md) | understand; comprehend; take notice of; pay attention to |
+| [尖端](尖端.md) | most advanced; sophisticated; cutting edge; pointed end |
+| [突破](突破.md) | breakthrough; to make a breakthrough |

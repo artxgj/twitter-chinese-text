@@ -17,6 +17,7 @@ commodities_agri = "Commodities (Agriculture)"
 idioms = "Idioms"
 capital-markets = "Capital Markets/Venture Capital Terms"
 currency-money-tech = "Currency, Money, and Digital Technology"
+uncategorized = "Uncategorized"
 
 [[capital-markets]]
 hz = "风投"
@@ -65,6 +66,22 @@ en = "valuation; estimated value"
 [[capital-markets]]
 hz = "独角兽"
 en = "unicorn"
+
+[[capital-markets]]
+hz = "首次公开售股"
+en = "IPO"
+
+[[capital-markets]]
+hz = "锁定期"
+en = "lock-up period"
+
+[[capital-markets]]
+hz = "融資"
+en = "raise funds"
+
+[[capital-markets]]
+hz = "投向"
+en = "investment orientation"
 
 
 [[currency-money-tech]]
@@ -326,9 +343,16 @@ hz = "新兴市场"
 en = "emerging markets"
 
 [[economy-markets]]
+hz = "发展中国家"
+en = "developing country"
+
+[[economy-markets]]
 hz = "英国脱欧"
 en = "Brexit"
 
+[[economy-markets]]
+hz = "养老金"
+en = "pension funds"
 
 [[contextual-study]]
 hz = "盐"
@@ -685,6 +709,10 @@ hz = "电池"
 en = "battery"
 
 [[favorites]]
+hz = "锂离子电池单元"
+en = "lithium ion battery cell"
+
+[[favorites]]
 hz = "稀土"
 en = "rare earth"
 
@@ -733,6 +761,10 @@ hz = "塑料"
 en = "plastic"
 
 [[favorites]]
+hz = "纤维素纳米纤维"
+en = "cellulose nanofibers"
+
+[[favorites]]
 hz = "氨基酸"
 en = "amino acids"
 
@@ -767,6 +799,10 @@ en = "forklift"
 [[favorites]]
 hz = "拖拉机"
 en = "tractor"
+
+[[favorites]]
+hz = "折纸"
+en = "origami"
 
 [[favorites]]
 hz = "铁臂阿童木"
@@ -923,6 +959,14 @@ hz = "聚合酶链式反应"
 en = "polymerase chain reaction"
 
 [[health]]
+hz = "群体免疫力"
+en = "herd immunity"
+
+[[health]]
+hz = "动态清零策略"
+en = "dynamic zero strategy"
+
+[[health]]
 hz = "心肌炎"
 en = "myocarditis"
 
@@ -1005,6 +1049,10 @@ en = "acute; grave"
 [[health]]
 hz = "疾病"
 en = "disease; illness"
+
+[[health]]
+hz = "禽流感"
+en = "bird flu"
 
 [[health]]
 hz = "阿尔茨海默"
@@ -1249,6 +1297,14 @@ hz = "碳化硅"
 en = "silicon carbide"
 
 [[chemistry]]
+hz = "异丙醇"
+en = "isopropanol"
+
+[[chemistry]]
+hz = "尿素"
+en = "urea"
+
+[[chemistry]]
 hz = "乳酸"
 en = "lactic acid"
 
@@ -1268,6 +1324,10 @@ en = "sea urchin"
 [[marine]]
 hz = "海藻"
 en = "seaweed"
+
+[[marine]]
+hz = "海狮"
+en = "sea lion"
 
 [[marine]]
 hz = "海豚"
@@ -1303,12 +1363,50 @@ hz = "炒粿条"
 en = "char kway teow"
 
 [[food-drinks]]
+hz = "水粿"
+en = "chwee kueh"
+
+
+[[food-drinks]]
+hz = "叻沙"
+en = "laksa"
+
+[[food-drinks]]
+hz = "椰浆饭"
+en = "nasi lemak; lit. coconut milk rice"
+
+[[food-drinks]]
+hz = "沙爹"
+en = "satay"
+
+[[food-drinks]]
+hz = "海南鸡饭"
+en = "Hainanese chicken rice"
+
+[[food-drinks]]
+hz = "咖椰"
+en = "kaya; coconut jam"
+
+[[food-drinks]]
+hz = "烤面包"
+en = "toast"
+
+[[food-drinks]]
+hz = "肉脞面"
+en = "minced pork noodles"
+
+
+[[food-drinks]]
 hz = "拉面"
 en = "ramen"
 
 [[food-drinks]]
 hz = "金枪鱼"
 en = "tuna"
+
+[[food-drinks]]
+hz = "鲣鱼"
+en = "oceanic bonito; skipjack (tuna)"
 
 [[food-drinks]]
 hz = "石斑鱼"
@@ -1370,6 +1468,10 @@ en = "sake"
 hz = "威士忌"
 en = "whiskey"
 
+[[food-drinks]]
+hz = "香槟"
+en = "champagne"
+
 
 [[places]]
 hz = "菲律宾"
@@ -1390,6 +1492,10 @@ en = "Hokkien (Fujian in Mandarin)"
 [[places]]
 hz = "北海道"
 en = "Hokkaido"
+
+[[places]]
+hz = "冲绳"
+en = "Okinawa"
 
 [[places]]
 hz = "冰岛"
@@ -1478,6 +1584,10 @@ hz = "黑寡妇"
 en = "Black Widow"
 
 [[entertainment]]
+hz = "百老汇"
+en = "Broadway"
+
+[[entertainment]]
 hz = "罗纳尔多"
 en = "Cristiano Ronaldo"
 
@@ -1505,6 +1615,10 @@ en = "tsunami"
 [[natural-disaster]]
 hz = "地震"
 en = "earthquake"
+
+[[natural-disaster]]
+hz = "里氏"
+en = "Richter (scale)"
 
 [[natural-disaster]]
 hz = "洪灾"
@@ -1552,4 +1666,67 @@ hz = "农业"
 en = "agriculture; farming"
 
 
+[[uncategorized]]
+hz = "现代化工厂"
+en = "modern factories"
+
+[[uncategorized]]
+hz = "缴税"
+en = "pay taxes"
+
+[[uncategorized]]
+hz = "涟漪"
+en = "ripples"
+
+[[uncategorized]]
+hz = "插座"
+en = "socket, outlet "
+
+[[uncategorized]]
+hz = "行為"
+en = "act, behave"
+
+[[uncategorized]]
+hz = "行为科学"
+en = "behavioral science"
+
+[[uncategorized]]
+hz = "暴风雪"
+en = "blizzard"
+
+[[uncategorized]]
+hz = "召回"
+en = "recall"
+
+[[uncategorized]]
+hz = "包召"
+en = "include"
+
+[[uncategorized]]
+hz = "证据"
+en = "evidence"
+
+[[uncategorized]]
+hz = "玫瑰花"
+en = "rose"
+
+[[uncategorized]]
+hz = "崭新"
+en = "brand-new; completely-new"
+
+[[uncategorized]]
+hz = "缓解"
+en = "relieve; alleviate"
+
+[[uncategorized]]
+hz = "理會"
+en = "understand; comprehend; take notice of; pay attention to"
+
+[[uncategorized]]
+hz = "尖端"
+en = "most advanced; sophisticated; cutting edge; pointed end"
+
+[[uncategorized]]
+hz = "突破"
+en = "breakthrough; to make a breakthrough"
 
