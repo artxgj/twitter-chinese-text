@@ -17,7 +17,7 @@ from simple_markdown import h1, h3, h5, hr, link, blockquote
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-_TWEETS_PER_PAGE = 400
+_TWEETS_PER_PAGE = 300
 
 
 @dataclass
