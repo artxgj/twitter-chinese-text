@@ -89,6 +89,10 @@ hz = "货币"
 en = "currency"
 
 [[currency-money-tech]]
+hz = "法定货币"
+en = "fiat currency; legal tender; legal currency"
+
+[[currency-money-tech]]
 hz = "数字货币"
 en = "digital currency"
 
@@ -140,15 +144,22 @@ en = "Bretton Woods"
 hz = "贬值"
 en = "devaluation; depreciation"
 
+[[currency-money-tech]]
+hz = "移动支付"
+en = "mobile payment"
+
 
 [[idioms]]
 hz = "源源不断"
 en = "a steady flow (idiom); an unending stream"
 
 [[idioms]]
-hz = "有史以來"
+hz = "有史以来"
 en = "since the beginning (or dawn) of history; throughout history"
 
+[[idioms]]
+hz = "脫胎換骨"
+en = "be reborn; cast off one's old self; thoroughly remould oneself"
 
 [[economy-markets]]
 hz = "央行"
@@ -593,12 +604,20 @@ hz = "箱船"
 en = "container ship"
 
 [[favorites]]
+hz = "集装箱"
+en = "container (for shipping)"
+
+[[favorites]]
 hz = "散货船"
 en = "bulk freighter"
 
 [[favorites]]
 hz = "航线"
 en = "air or shipping line; route; course"
+
+[[favorites]]
+hz = "吞吐量"
+en = "handling capacity (of a harbour); the volume of freight handled"
 
 [[favorites]]
 hz = "航运"
@@ -783,6 +802,10 @@ en = "neanderthal"
 [[favorites]]
 hz = "恐龙"
 en = "dinosaur "
+
+[[favorites]]
+hz = "鱼龙"
+en = "ichthyosaur"
 
 [[favorites]]
 hz = "千足虫"
@@ -1338,6 +1361,10 @@ hz = "鲸"
 en = "whale"
 
 [[marine]]
+hz = "黑露脊鲸"
+en = "black right whale"
+
+[[marine]]
 hz = "章鱼"
 en = "octopus"
 
@@ -1722,3 +1749,98 @@ en = "most advanced; sophisticated; cutting edge; pointed end"
 hz = "突破"
 en = "breakthrough; to make a breakthrough"
 
+[[uncategorized]]
+hz = "蔓延"
+en = "spread; stretch; extend; infest"
+
+[[uncategorized]]
+hz = "截至"
+en = "by (a specified time); up to"
+
+[[uncategorized]]
+hz = "摆脱"
+en = "shake off; cast off; break away from"
+
+[[uncategorized]]
+hz = "莎翁"
+en = "Shakespeare"
+
+[[uncategorized]]
+hz = "牛顿"
+en = "Newton"
+
+[[uncategorized]]
+hz = "配备"
+en = "provide (manpower or equipment); equip; fit out; allocate; deploy"
+
+[[uncategorized]]
+hz = "擎配"
+en = "engine"
+
+[[uncategorized]]
+hz = "触发"
+en = "trigger; spark; touch off"
+
+[[uncategorized]]
+hz = "押注"
+en = "to bet; to wager; stake"
+
+[[uncategorized]]
+hz = "波动"
+en = "undulation; fluctuation; (physics) wave motion"
+
+[[uncategorized]]
+hz = "资产"
+en = "property; captial fund; capital; assets"
+
+[[uncategorized]]
+hz = "抛售"
+en = "undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price)"
+
+[[uncategorized]]
+hz = "胶囊"
+en = "capsule"
+
+[[uncategorized]]
+hz = "细胞"
+en = "cells"
+
+[[uncategorized]]
+hz = "渠道"
+en = "channel; medium of communication; irrigation ditch"
+
+[[uncategorized]]
+hz = "依赖"
+en = "rely on; dependent on"
+
+[[uncategorized]]
+hz = "惊讶"
+en = "surprised;amazed; astonished; astounded"
+
+[[uncategorized]]
+hz = "遭遇"
+en = "meet with; encounter; run up against"
+
+[[uncategorized]]
+hz = "主角"
+en = "leading role; lead; protagonist"
+
+[[uncategorized]]
+hz = "供货商"
+en = "supplier; vendor"
+
+[[uncategorized]]
+hz = "发霉"
+en = "to become moldy"
+
+[[uncategorized]]
+hz = "商标"
+en = "trademark"
+
+[[uncategorized]]
+hz = "食人鱼"
+en = "piranha"
+
+[[uncategorized]]
+hz = "暴风雪"
+en = "blizzard"

@@ -150,6 +150,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [货币](货币.md) | currency |
+| [法定货币](法定货币.md) | fiat currency; legal tender; legal currency |
 | [数字货币](数字货币.md) | digital currency |
 | [加密货币](加密货币.md) | cryptocurrency |
 | [区块链](区块链.md) | blockchain |
@@ -163,6 +164,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [尼克松](尼克松.md) | Nixon (Richard Milhaus) |
 | [布雷顿森林](布雷顿森林.md) | Bretton Woods |
 | [贬值](贬值.md) | devaluation; depreciation |
+| [移动支付](移动支付.md) | mobile payment |
 ## Economy And Markets
 |  |  |
 | ----- | :---: |
@@ -255,8 +257,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [港口](港口.md) | port |
 | [物流](物流.md) | logistics |
 | [箱船](箱船.md) | container ship |
+| [集装箱](集装箱.md) | container (for shipping) |
 | [散货船](散货船.md) | bulk freighter |
 | [航线](航线.md) | air or shipping line; route; course |
+| [吞吐量](吞吐量.md) | handling capacity (of a harbour); the volume of freight handled |
 | [航运](航运.md) | shipping; transport |
 | [仓库](仓库.md) | warehouse |
 | [半导体](半导体.md) | semiconductor |
@@ -303,6 +307,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [信使核糖核酸](信使核糖核酸.md) | mRNA |
 | [尼安德特人](尼安德特人.md) | neanderthal |
 | [恐龙](恐龙.md) | dinosaur  |
+| [鱼龙](鱼龙.md) | ichthyosaur |
 | [千足虫](千足虫.md) | millipede |
 | [液压挖掘机](液压挖掘机.md) | hydraulic excavator |
 | [叉车](叉车.md) | forklift |
@@ -416,7 +421,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [源源不断](源源不断.md) | a steady flow (idiom); an unending stream |
-| [有史以來](有史以來.md) | since the beginning (or dawn) of history; throughout history |
+| [有史以来](有史以来.md) | since the beginning (or dawn) of history; throughout history |
+| [脫胎換骨](脫胎換骨.md) | be reborn; cast off one's old self; thoroughly remould oneself |
 ## Marine Life
 |  |  |
 | ----- | :---: |
@@ -426,6 +432,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [海豚](海豚.md) | dolphin |
 | [鲨鱼](鲨鱼.md) | shark |
 | [鲸](鲸.md) | whale |
+| [黑露脊鲸](黑露脊鲸.md) | black right whale |
 | [章鱼](章鱼.md) | octopus |
 | [堡礁](堡礁.md) | barrier reef |
 ## Natural Disasters
@@ -475,3 +482,27 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [理会](理会.md) | understand; comprehend; take notice of; pay attention to |
 | [尖端](尖端.md) | most advanced; sophisticated; cutting edge; pointed end |
 | [突破](突破.md) | breakthrough; to make a breakthrough |
+| [蔓延](蔓延.md) | spread; stretch; extend; infest |
+| [截至](截至.md) | by (a specified time); up to |
+| [摆脱](摆脱.md) | shake off; cast off; break away from |
+| [莎翁](莎翁.md) | Shakespeare |
+| [牛顿](牛顿.md) | Newton |
+| [配备](配备.md) | provide (manpower or equipment); equip; fit out; allocate; deploy |
+| [擎配](擎配.md) | engine |
+| [触发](触发.md) | trigger; spark; touch off |
+| [押注](押注.md) | to bet; to wager; stake |
+| [波动](波动.md) | undulation; fluctuation; (physics) wave motion |
+| [资产](资产.md) | property; captial fund; capital; assets |
+| [抛售](抛售.md) | undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price) |
+| [胶囊](胶囊.md) | capsule |
+| [细胞](细胞.md) | cells |
+| [渠道](渠道.md) | channel; medium of communication; irrigation ditch |
+| [依赖](依赖.md) | rely on; dependent on |
+| [惊讶](惊讶.md) | surprised;amazed; astonished; astounded |
+| [遭遇](遭遇.md) | meet with; encounter; run up against |
+| [主角](主角.md) | leading role; lead; protagonist |
+| [供货商](供货商.md) | supplier; vendor |
+| [发霉](发霉.md) | to become moldy |
+| [商标](商标.md) | trademark |
+| [食人鱼](食人鱼.md) | piranha |
+| [暴风雪](暴风雪.md) | blizzard |
