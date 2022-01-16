@@ -492,7 +492,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [触发](触发.md) | trigger; spark; touch off |
 | [押注](押注.md) | to bet; to wager; stake |
 | [波动](波动.md) | undulation; fluctuation; (physics) wave motion |
-| [资产](资产.md) | property; captial fund; capital; assets |
+| [资产](资产.md) | property; capital fund; capital; assets |
 | [抛售](抛售.md) | undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price) |
 | [胶囊](胶囊.md) | capsule |
 | [细胞](细胞.md) | cells |
