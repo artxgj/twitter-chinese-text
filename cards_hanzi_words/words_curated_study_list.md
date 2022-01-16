@@ -488,7 +488,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [莎翁](莎翁.md) | Shakespeare |
 | [牛顿](牛顿.md) | Newton |
 | [配备](配备.md) | provide (manpower or equipment); equip; fit out; allocate; deploy |
-| [擎配](擎配.md) | engine |
+| [引擎](引擎.md) | engine |
 | [触发](触发.md) | trigger; spark; touch off |
 | [押注](押注.md) | to bet; to wager; stake |
 | [波动](波动.md) | undulation; fluctuation; (physics) wave motion |
