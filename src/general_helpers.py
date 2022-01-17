@@ -25,7 +25,7 @@ def from_collection_json(json_seq: Sequence) -> Generator[Dict, None, None]:
 
 
 def dictlines_from_csv(csv_path: str,
-                       fieldnames: Optional[Sequence[str]],
+                       fieldnames: Optional[Sequence[str]] = None,
                        encoding: str = 'utf-8') -> Generator[Mapping, None, None]:
     with open(csv_path, 'r', encoding=encoding) as csv_stream:
         rdr = csv.DictReader(csv_stream, fieldnames)
