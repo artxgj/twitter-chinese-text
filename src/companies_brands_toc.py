@@ -24,7 +24,7 @@ def generate_companies_tweets_stats(*, vocab_tweets_index_path: str,
     fields = ['Chinese Name', 'English Name', 'U.S. Ticker', 'Number of Tweets']
     fields_align = [MdCellAlign.left, MdCellAlign.left, MdCellAlign.center, MdCellAlign.center]
     with open(f"{cards_study_folder}/companies_tweets_stats.md", "w", encoding='utf-8') as f_out:
-        md_static_part = f"""{h1('Study Words/Names Statistics')}
+        md_static_part = f"""{h1('Companies/Brands  ')}
         
 {table_header(fields, fields_align)}
 """

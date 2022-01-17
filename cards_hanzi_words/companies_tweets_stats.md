@@ -1,4 +1,4 @@
-# Study Words/Names Statistics
+# Companies/Brands
         
 | Chinese Name | English Name | U.S. Ticker | Number of Tweets |
 | ----- | ----- | :---: | :---: |
