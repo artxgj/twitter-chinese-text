@@ -1208,6 +1208,10 @@ hz = "硫"
 en = "sulfur"
 
 [[chemistry]]
+hz = "钛"
+en = "titanium"
+
+[[chemistry]]
 hz = "钴"
 en = "cobalt"
 
@@ -1250,6 +1254,10 @@ en = "neodynium"
 [[chemistry]]
 hz = "镝"
 en = "dysprosium"
+
+[[chemistry]]
+hz = "白金"
+en = "platinum"
 
 [[chemistry]]
 hz = "铅"
@@ -1312,6 +1320,10 @@ hz = "钛酸锂"
 en = "lithium titanate"
 
 [[chemistry]]
+hz = "氧化钛"
+en = "titanium oxide"
+
+[[chemistry]]
 hz = "碳化硅"
 en = "silicon carbide"
 
@@ -1322,6 +1334,14 @@ en = "isopropanol"
 [[chemistry]]
 hz = "尿素"
 en = "urea"
+
+[[chemistry]]
+hz = "钙钛矿"
+en = "perovskite"
+
+[[chemistry]]
+hz = "钛合金"
+en = "titanium alloy"
 
 [[chemistry]]
 hz = "乳酸"

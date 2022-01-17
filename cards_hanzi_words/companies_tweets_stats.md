@@ -1,7 +1,8 @@
-# Companies/Brands
+# Companies/Brands  
         
 | Chinese Name | English Name | U.S. Ticker | Number of Tweets |
 | ----- | ----- | :---: | :---: |
+| [空中客车](空中客车.md) | Airbus | EADSY | 5 |
 | [阿里巴巴](阿里巴巴.md) | Alibaba | BABA | 40 |
 | [全日空](全日空.md) | All Nippon Airways (ANA) | ALNPY | 5 |
 | [亚马逊](亚马逊.md) | Amazon | AMZN | 48 |
@@ -9,6 +10,7 @@
 | [朝日](朝日.md) | Asahi Group Holdings Ltd. | ASBRF | 2 |
 | [美国银行](美国银行.md) | Bank of America | BAC | 3 |
 | [伯克希尔哈撒韦公司](伯克希尔哈撒韦公司.md) | Berkshire Hathaway | BRK.A | 4 |
+| [波音](波音.md) | Boeing | BA | 22 |
 | [桥水](桥水.md) | Bridgewater | hedge fund | 4 |
 | [比亚迪](比亚迪.md) | BYD | BYDDF | 2 |
 | [佳能](佳能.md) | Canon | CAJ | 6 |
@@ -35,6 +37,7 @@
 | [联想](联想.md) | Lenovo | LNVGY/LNVGF | 9 |
 | [前田工纤集团](前田工纤集团.md) | Maeda Kosen Co., Ltd | unavailable | 1 |
 | [万事达卡](万事达卡.md) | Mastercard | MA | 4 |
+| [马自达](马自达.md) | Mazda | MZDAY | 2 |
 | [麦当劳](麦当劳.md) | McDonald's | MCD | 9 |
 | [奔驰](奔驰.md) | Mercedes Benz | DDAIF | 4 |
 | [默克](默克.md) | Merck | MRK | 34 |
@@ -47,15 +50,18 @@
 | [村田](村田.md) | Murata Manufacturing Co. Ltd | MRAAF/MRAAY | 9 |
 | [日本电产](日本电产.md) | Nidec | NJDCY | 5 |
 | [任天堂](任天堂.md) | Nintendo | NTDOY/NTDOF | 13 |
+| [日产](日产.md) | Nissan | NSANY | 21 |
 | [英伟达](英伟达.md) | Nvidia | NVDA | 14 |
 | [松下](松下.md) | Panasonic | PCRFY | 16 |
 | [辉瑞](辉瑞.md) | Pfizer | PFE | 123 |
 | [瑞萨电子](瑞萨电子.md) | Renesas Electronics | RNECY | 3 |
 | [罗姆](罗姆.md) | ROHM | ROHCY/ROHCF | 7 |
+| [罗尔斯·罗伊斯](罗尔斯·罗伊斯.md) | Rolls Royce | RYCEY | 1 |
 | [三星](三星.md) | Samsung | SSNLF | 52 |
 | [软银](软银.md) | SoftBank | SFTBF | 24 |
 | [索尼](索尼.md) | SONY | SONY | 46 |
 | [星巴克](星巴克.md) | Starbucks | SBUX | 8 |
+| [斯巴鲁](斯巴鲁.md) | Subaru | FUJHY | 4 |
 | [住友矿山](住友矿山.md) | Sumitomo Metal Mining | SMMYY | 1 |
 | [蜂巢能源](蜂巢能源.md) | Svolt Energy Technology Co | (private) | 1 |
 | [武田](武田.md) | Takeda Pharmaceutical Co. Ltd | TAK | 3 |

@@ -37,6 +37,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铝](铝.md) | aluminum |
 | [硅](硅.md) | silicon |
 | [硫](硫.md) | sulfur |
+| [钛](钛.md) | titanium |
 | [钴](钴.md) | cobalt |
 | [镍](镍.md) | nickel |
 | [铜](铜.md) | copper |
@@ -48,6 +49,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钯](钯.md) | palladium |
 | [钕](钕.md) | neodynium |
 | [镝](镝.md) | dysprosium |
+| [白金](白金.md) | platinum |
 | [铅](铅.md) | lead |
 | [鐳](鐳.md) | radium |
 | [锕](锕.md) | actinium |
@@ -63,9 +65,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [磷酸铁锂](磷酸铁锂.md) | lithium iron phosphate |
 | [钴酸锂](钴酸锂.md) | lithium cobalt oxide |
 | [钛酸锂](钛酸锂.md) | lithium titanate |
+| [氧化钛](氧化钛.md) | titanium oxide |
 | [碳化硅](碳化硅.md) | silicon carbide |
 | [异丙醇](异丙醇.md) | isopropanol |
 | [尿素](尿素.md) | urea |
+| [钙钛矿](钙钛矿.md) | perovskite |
+| [钛合金](钛合金.md) | titanium alloy |
 | [乳酸](乳酸.md) | lactic acid |
 | [葡萄糖](葡萄糖.md) | glucose |
 | [蒸馏](蒸馏.md) | distil; distillation |
