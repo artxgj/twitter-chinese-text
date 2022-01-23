@@ -526,7 +526,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [预算](预算.md) | budget |
 | [流媒体](流媒体.md) | streaming media |
 | [电压](电压.md) | voltage |
-| [电流 electric](电流 electric.md) | current |
+| [电流](电流.md) | electric current |
 | [隐私](隐私.md) | privacy |
 | [麻省理工学院](麻省理工学院.md) | MIT |
 | [富士山](富士山.md) | Mt. Fuji |

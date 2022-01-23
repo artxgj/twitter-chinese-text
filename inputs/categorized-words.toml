@@ -1924,8 +1924,8 @@ hz = "电压"
 en = "voltage"
 
 [[uncategorized]]
-hz = "电流 electric"
-en = "current"
+hz = "电流"
+en = "electric current"
 
 [[uncategorized]]
 hz = "隐私"
