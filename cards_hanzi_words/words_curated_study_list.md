@@ -67,10 +67,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钛酸锂](钛酸锂.md) | lithium titanate |
 | [氧化钛](氧化钛.md) | titanium oxide |
 | [碳化硅](碳化硅.md) | silicon carbide |
+| [氮化镓](氮化镓.md) | gallium nitride |
 | [异丙醇](异丙醇.md) | isopropanol |
 | [尿素](尿素.md) | urea |
 | [钙钛矿](钙钛矿.md) | perovskite |
 | [钛合金](钛合金.md) | titanium alloy |
+| [钢铁](钢铁.md) | steel |
 | [乳酸](乳酸.md) | lactic acid |
 | [葡萄糖](葡萄糖.md) | glucose |
 | [蒸馏](蒸馏.md) | distil; distillation |
@@ -224,6 +226,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [发展中国家](发展中国家.md) | developing country |
 | [英国脱欧](英国脱欧.md) | Brexit |
 | [养老金](养老金.md) | pension funds |
+| [纳斯达克](纳斯达克.md) | NASDAQ |
+| [布伦特原油期](布伦特原油期.md) | Brent Crude Oil Futures |
+| [纽约原油](纽约原油.md) | New York Crude Oil |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -327,6 +332,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [海水淡化](海水淡化.md) | seawater desalination |
 | [自动化](自动化.md) | automation; automated |
 | [验证试验](验证试验.md) | verification test; demonstration test |
+| [农历新年](农历新年.md) | Chinese/Lunar New Year |
 | [圣诞](圣诞.md) | Christmas |
 | [曙光](曙光.md) | first light of morning; dawn |
 | [尾部风险](尾部风险.md) | tail risk |
@@ -341,6 +347,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [椰浆饭](椰浆饭.md) | nasi lemak; lit. coconut milk rice |
 | [沙爹](沙爹.md) | satay |
 | [海南鸡饭](海南鸡饭.md) | Hainanese chicken rice |
+| [清汤](清汤.md) | clear soup |
 | [咖椰](咖椰.md) | kaya; coconut jam |
 | [烤面包](烤面包.md) | toast |
 | [肉脞面](肉脞面.md) | minced pork noodles |
@@ -462,10 +469,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [福建](福建.md) | Hokkien (Fujian in Mandarin) |
 | [北海道](北海道.md) | Hokkaido |
 | [冲绳](冲绳.md) | Okinawa |
+| [汤加](汤加.md) | Tonga |
 | [冰岛](冰岛.md) | Iceland |
+| [格陵兰](格陵兰.md) | Greenland |
+| [苏格兰](苏格兰.md) | Scotland |
 | [黑山](黑山.md) | Montenegro |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
-| [格陵兰](格陵兰.md) | Greenland |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [得克萨斯](得克萨斯.md) | Texas |
 | [佛罗里达](佛罗里达.md) | Florida |
@@ -511,3 +520,16 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [商标](商标.md) | trademark |
 | [食人鱼](食人鱼.md) | piranha |
 | [暴风雪](暴风雪.md) | blizzard |
+| [梯田](梯田.md) | terraces |
+| [细菌](细菌.md) | bacterium; bacteria;bacterial |
+| [最高法院](最高法院.md) | Supreme Court |
+| [预算](预算.md) | budget |
+| [流媒体](流媒体.md) | streaming media |
+| [电压](电压.md) | voltage |
+| [电流 electric](电流 electric.md) | current |
+| [隐私](隐私.md) | privacy |
+| [麻省理工学院](麻省理工学院.md) | MIT |
+| [富士山](富士山.md) | Mt. Fuji |
+| [皮纳图博山](皮纳图博山.md) | Mt. Pinatubo |
+| [贫困](贫困.md) | poverty; impoverished; poor |
+| [贝多芬](贝多芬.md) | Beethoven |

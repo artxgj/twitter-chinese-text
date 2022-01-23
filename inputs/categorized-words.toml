@@ -365,6 +365,19 @@ en = "Brexit"
 hz = "养老金"
 en = "pension funds"
 
+[[economy-markets]]
+hz = "纳斯达克"
+en = "NASDAQ"
+
+[[economy-markets]]
+hz = "布伦特原油期"
+en = "Brent Crude Oil Futures"
+
+[[economy-markets]]
+hz = "纽约原油"
+en = "New York Crude Oil"
+
+
 [[contextual-study]]
 hz = "盐"
 en = "salt"
@@ -863,6 +876,9 @@ en = "automation; automated"
 hz = "验证试验"
 en = "verification test; demonstration test"
 
+[[favorites]]
+hz = "农历新年"
+en = "Chinese/Lunar New Year"
 
 [[favorites]]
 hz = "圣诞"
@@ -1328,6 +1344,10 @@ hz = "碳化硅"
 en = "silicon carbide"
 
 [[chemistry]]
+hz = "氮化镓"
+en = "gallium nitride"
+
+[[chemistry]]
 hz = "异丙醇"
 en = "isopropanol"
 
@@ -1342,6 +1362,10 @@ en = "perovskite"
 [[chemistry]]
 hz = "钛合金"
 en = "titanium alloy"
+
+[[chemistry]]
+hz = "钢铁"
+en = "steel"
 
 [[chemistry]]
 hz = "乳酸"
@@ -1409,7 +1433,6 @@ en = "char kway teow"
 hz = "水粿"
 en = "chwee kueh"
 
-
 [[food-drinks]]
 hz = "叻沙"
 en = "laksa"
@@ -1427,6 +1450,10 @@ hz = "海南鸡饭"
 en = "Hainanese chicken rice"
 
 [[food-drinks]]
+hz = "清汤"
+en = "clear soup"
+
+[[food-drinks]]
 hz = "咖椰"
 en = "kaya; coconut jam"
 
@@ -1437,7 +1464,6 @@ en = "toast"
 [[food-drinks]]
 hz = "肉脞面"
 en = "minced pork noodles"
-
 
 [[food-drinks]]
 hz = "拉面"
@@ -1541,8 +1567,20 @@ hz = "冲绳"
 en = "Okinawa"
 
 [[places]]
+hz = "汤加"
+en = "Tonga"
+
+[[places]]
 hz = "冰岛"
 en = "Iceland"
+
+[[places]]
+hz = "格陵兰"
+en = "Greenland"
+
+[[places]]
+hz = "苏格兰"
+en = "Scotland"
 
 [[places]]
 hz = "黑山"
@@ -1551,10 +1589,6 @@ en = "Montenegro"
 [[places]]
 hz = "加拉帕戈斯群岛"
 en = "Galapagos Islands"
-
-[[places]]
-hz = "格陵兰"
-en = "Greenland"
 
 [[places]]
 hz = "加利福尼亚"
@@ -1864,3 +1898,55 @@ en = "piranha"
 [[uncategorized]]
 hz = "暴风雪"
 en = "blizzard"
+
+[[uncategorized]]
+hz = "梯田"
+en = "terraces"
+
+[[uncategorized]]
+hz = "细菌"
+en = "bacterium; bacteria;bacterial"
+
+[[uncategorized]]
+hz = "最高法院"
+en = "Supreme Court"
+
+[[uncategorized]]
+hz = "预算"
+en = "budget"
+
+[[uncategorized]]
+hz = "流媒体"
+en = "streaming media"
+
+[[uncategorized]]
+hz = "电压"
+en = "voltage"
+
+[[uncategorized]]
+hz = "电流 electric"
+en = "current"
+
+[[uncategorized]]
+hz = "隐私"
+en = "privacy"
+
+[[uncategorized]]
+hz = "麻省理工学院"
+en = "MIT"
+
+[[uncategorized]]
+hz = "富士山"
+en = "Mt. Fuji"
+
+[[uncategorized]]
+hz = "皮纳图博山"
+en = "Mt. Pinatubo"
+
+[[uncategorized]]
+hz = "贫困"
+en = "poverty; impoverished; poor"
+
+[[uncategorized]]
+hz = "贝多芬"
+en = "Beethoven"
