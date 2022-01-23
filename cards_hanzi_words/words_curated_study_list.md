@@ -153,6 +153,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [连接](连接.md) | to link; to join; connection; a link (on web page) |
 | [领域](领域.md) | field; sphere; domain; territory |
 | [实现](实现.md) | realize; fulfill; carry out; bring about |
+| [肆虐](肆虐.md) | to wreak havoc; to devastate |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -533,3 +534,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [皮纳图博山](皮纳图博山.md) | Mt. Pinatubo |
 | [贫困](贫困.md) | poverty; impoverished; poor |
 | [贝多芬](贝多芬.md) | Beethoven |
+| [雨林](雨林.md) | rainforest |
+| [爆炸](爆炸.md) | explosion; explode; detonate |
+| [平方](平方.md) | second power (of a quantity); square |
