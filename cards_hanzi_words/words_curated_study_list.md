@@ -258,6 +258,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [漫威](漫威.md) | Marvel |
 | [蜘蛛侠](蜘蛛侠.md) | Spiderman |
 | [黑寡妇](黑寡妇.md) | Black Widow |
+| [曼达洛人](曼达洛人.md) | Mandalorian |
+| [星球大战](星球大战.md) | Star Wars |
 | [百老汇](百老汇.md) | Broadway |
 | [罗纳尔多](罗纳尔多.md) | Cristiano Ronaldo |
 | [曼联](曼联.md) | Manchester United |
@@ -471,6 +473,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [北海道](北海道.md) | Hokkaido |
 | [冲绳](冲绳.md) | Okinawa |
 | [汤加](汤加.md) | Tonga |
+| [哈萨克斯坦](哈萨克斯坦.md) | Kazakhstan |
 | [冰岛](冰岛.md) | Iceland |
 | [格陵兰](格陵兰.md) | Greenland |
 | [苏格兰](苏格兰.md) | Scotland |
@@ -542,3 +545,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [海底火山](海底火山.md) | submarine volcano |
 | [火山](火山.md) | volcano |
 | [火星](火星.md) | Mars |
+| [眯眯眼](眯眯眼.md) | squinted eyes |
+| [虎年](虎年.md) | Year of the Tiger |
+| [牛年](牛年.md) | Year of the Ox |
+| [春节](春节.md) | Spring Festival; Chinese New Year |

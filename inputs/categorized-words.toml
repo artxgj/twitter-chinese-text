@@ -1574,6 +1574,10 @@ hz = "汤加"
 en = "Tonga"
 
 [[places]]
+hz = "哈萨克斯坦"
+en = "Kazakhstan"
+
+[[places]]
 hz = "冰岛"
 en = "Iceland"
 
@@ -1662,6 +1666,14 @@ en = "Spiderman"
 [[entertainment]]
 hz = "黑寡妇"
 en = "Black Widow"
+
+[[entertainment]]
+hz = "曼达洛人"
+en = "Mandalorian"
+
+[[entertainment]]
+hz = "星球大战"
+en = "Star Wars"
 
 [[entertainment]]
 hz = "百老汇"
@@ -1985,3 +1997,22 @@ en = "volcano"
 [[uncategorized]]
 hz = "火星"
 en = "Mars"
+
+[[uncategorized]]
+hz = "眯眯眼"
+en = "squinted eyes"
+
+[[uncategorized]]
+hz = "虎年"
+en = "Year of the Tiger"
+
+[[uncategorized]]
+hz = "牛年"
+en = "Year of the Ox"
+
+[[uncategorized]]
+hz = "春节"
+en = "Spring Festival; Chinese New Year"
+
+
+
