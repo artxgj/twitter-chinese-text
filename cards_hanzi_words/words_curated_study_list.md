@@ -537,3 +537,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [雨林](雨林.md) | rainforest |
 | [爆炸](爆炸.md) | explosion; explode; detonate |
 | [平方](平方.md) | second power (of a quantity); square |
+| [苏伊士运河](苏伊士运河.md) | Suez Canal |
+| [纯电动汽车](纯电动汽车.md) | pure electric vehicle |
+| [海底火山](海底火山.md) | submarine volcano |
+| [火山](火山.md) | volcano |
+| [火星](火星.md) | Mars |
