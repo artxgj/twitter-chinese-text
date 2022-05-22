@@ -1,6 +1,7 @@
 import argparse
 import csv
 import pathlib
+from collections import defaultdict
 from general_helpers import NGramsCounter
 from hanzi_helpers import HZTweetNgram, next_hanzi_tweet
 
@@ -8,16 +9,22 @@ from hanzi_helpers import HZTweetNgram, next_hanzi_tweet
 def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int):
     ngrams_freq = NGramsCounter()
     tweet_ngrams = HZTweetNgram(ngram)
+    ngram_tweets_count = defaultdict(int)
 
     for tweet in next_hanzi_tweet(tweet_js_path):
-        ngrams_freq.add_ngrams(tweet_ngrams.extract(tweet))
+        ngrams_of_tweet = tweet_ngrams.extract(tweet)
+        unique_ngrams_of_tweet = set(ngrams_of_tweet)
+        for zi in unique_ngrams_of_tweet:
+            ngram_tweets_count[zi] += 1
+
+        ngrams_freq.add_ngrams(ngrams_of_tweet)
 
     with open(f"{csv_prefix_path}/chinese-tweets-raw-{ngram}gram.csv", 'w') as outf:
         col1 = f"{ngram}gram"
-        wrtr = csv.DictWriter(outf, fieldnames=(col1, "count"), quoting=csv.QUOTE_ALL)
+        wrtr = csv.DictWriter(outf, fieldnames=(col1, "count", "number of tweets"), quoting=csv.QUOTE_ALL)
         wrtr.writeheader()
-        for ngram, count in ngrams_freq.ngrams_counter.most_common():
-            wrtr.writerow({col1: ngram, "count": count})
+        for zhgram, count in ngrams_freq.ngrams_counter.most_common():
+            wrtr.writerow({col1: zhgram, "count": count, "number of tweets": ngram_tweets_count[zhgram]})
 
 
 if __name__ == '__main__':
