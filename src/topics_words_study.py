@@ -1,7 +1,5 @@
 import argparse
 import pathlib
-from typing import Generator
-from collections.abc import Mapping
 from src.hanzi_helpers import next_vocab_tweets_index, dictlines_from_csv
 from simple_markdown import h1, table_row, table_header, link, MdCellAlign
 
