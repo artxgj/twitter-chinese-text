@@ -6,12 +6,17 @@ from general_helpers import NGramsCounter
 from hanzi_helpers import HZTweetNgram, next_hanzi_tweet
 
 
-def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int):
+def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int, ignore_ids: set = None):
     ngrams_freq = NGramsCounter()
     tweet_ngrams = HZTweetNgram(ngram)
     ngram_tweets_count = defaultdict(int)
 
+    if ignore_ids is None:
+        ignore_ids = set()
+
     for tweet in next_hanzi_tweet(tweet_js_path):
+        if tweet.id_int in ignore_ids:
+            continue
         ngrams_of_tweet = tweet_ngrams.extract(tweet)
         unique_ngrams_of_tweet = set(ngrams_of_tweet)
         for zi in unique_ngrams_of_tweet:
@@ -33,5 +38,7 @@ if __name__ == '__main__':
     parser.add_argument('-csv-prefix-path', type=str, required=True, help='csv output file path')
     parser.add_argument('-ngram', type=int, required=True, help='[n]gram')
     args = parser.parse_args()
-    generate_ngram_csv(args.tweet_js_path, args.csv_prefix_path, args.ngram)
+    generate_ngram_csv(args.tweet_js_path, args.csv_prefix_path, args.ngram,
+                       ignore_ids={1527428219283984385, 1381845750619852800,
+                                   1373710194467762178})
 
