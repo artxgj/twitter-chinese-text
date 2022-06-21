@@ -19,17 +19,26 @@ def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int, ignore_i
             continue
         ngrams_of_tweet = tweet_ngrams.extract(tweet)
         unique_ngrams_of_tweet = set(ngrams_of_tweet)
-        for zi in unique_ngrams_of_tweet:
-            ngram_tweets_count[zi] += 1
+        for 詞 in unique_ngrams_of_tweet:
+            ngram_tweets_count[詞] += 1
 
         ngrams_freq.add_ngrams(ngrams_of_tweet)
 
+    # quick and dirty change
+    # create a list of 3-tuples representing (number of tweets, total number of occurrences, word)
+    # then sort by descending
+
+    ngrams_stats = [(ngram_tweets_count[zhgram], count, zhgram) for zhgram, count in
+                    ngrams_freq.ngrams_counter.most_common()]
+
+    ngrams_stats.sort(reverse=True)
+
     with open(f"{csv_prefix_path}/chinese-tweets-raw-{ngram}gram.csv", 'w') as outf:
         col1 = f"{ngram}gram"
-        wrtr = csv.DictWriter(outf, fieldnames=(col1, "count", "number of tweets"), quoting=csv.QUOTE_ALL)
+        wrtr = csv.DictWriter(outf, fieldnames=(col1, "number of tweets", "count"), quoting=csv.QUOTE_ALL)
         wrtr.writeheader()
-        for zhgram, count in ngrams_freq.ngrams_counter.most_common():
-            wrtr.writerow({col1: zhgram, "count": count, "number of tweets": ngram_tweets_count[zhgram]})
+        for tweets, count, 詞 in ngrams_stats:
+            wrtr.writerow({col1: 詞, "number of tweets": tweets, "count": count, })
 
 
 if __name__ == '__main__':
