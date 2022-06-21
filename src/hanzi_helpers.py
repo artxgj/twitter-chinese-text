@@ -54,6 +54,8 @@ class HZTweetNgram:
                 if len(self._deq) == self._ngram:
                     ngrams.append(''.join(self._deq))
                     self._deq.popleft()
+            else:
+                self._deq.clear()  # not CJK codepoint, drop previously accumulated codepoints
         self._deq.clear()
 
 
