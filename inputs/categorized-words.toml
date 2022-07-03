@@ -186,6 +186,10 @@ hz = "滞胀"
 en = "stagflation"
 
 [[economy-markets]]
+hz = "衰退"
+en = "decline; recession"
+
+[[economy-markets]]
 hz = "量化宽松"
 en = "quantitative easing"
 
@@ -368,6 +372,14 @@ en = "pension funds"
 [[economy-markets]]
 hz = "纳斯达克"
 en = "NASDAQ"
+
+[[economy-markets]]
+hz = "标准与普尔"
+en = "Standard and Poor (S&P)"
+
+[[economy-markets]]
+hz = "标普"
+en = "S&P"
 
 [[economy-markets]]
 hz = "布伦特原油期"
@@ -1746,6 +1758,10 @@ hz = "谷物"
 en = "grain; cereal"
 
 [[commodities_agri]]
+hz = "砂糖"
+en = "granulated sugar"
+
+[[commodities_agri]]
 hz = "化肥"
 en = "fertilizer"
 
@@ -2014,5 +2030,6 @@ en = "Year of the Ox"
 hz = "春节"
 en = "Spring Festival; Chinese New Year"
 
-
-
+[[uncategorized]]
+hz = "引渡"
+en = "extradite"

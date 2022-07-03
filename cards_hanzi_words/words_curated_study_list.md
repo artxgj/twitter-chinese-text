@@ -83,6 +83,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [小麦](小麦.md) | wheat |
 | [大豆](大豆.md) | soybeans |
 | [谷物](谷物.md) | grain; cereal |
+| [砂糖](砂糖.md) | granulated sugar |
 | [化肥](化肥.md) | fertilizer |
 | [农药](农药.md) | pesticide |
 | [农业](农业.md) | agriculture; farming |
@@ -182,6 +183,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [通胀](通胀.md) | inflation |
 | [通货膨胀](通货膨胀.md) | inflation |
 | [滞胀](滞胀.md) | stagflation |
+| [衰退](衰退.md) | decline; recession |
 | [量化宽松](量化宽松.md) | quantitative easing |
 | [缩减购债](缩减购债.md) | taper; tapering |
 | [消费者](消费者.md) | consumer |
@@ -228,6 +230,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [英国脱欧](英国脱欧.md) | Brexit |
 | [养老金](养老金.md) | pension funds |
 | [纳斯达克](纳斯达克.md) | NASDAQ |
+| [标准与普尔](标准与普尔.md) | Standard and Poor (S&P) |
+| [标普](标普.md) | S&P |
 | [布伦特原油期](布伦特原油期.md) | Brent Crude Oil Futures |
 | [纽约原油](纽约原油.md) | New York Crude Oil |
 ## Energy
@@ -549,3 +553,4 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [虎年](虎年.md) | Year of the Tiger |
 | [牛年](牛年.md) | Year of the Ox |
 | [春节](春节.md) | Spring Festival; Chinese New Year |
+| [引渡](引渡.md) | extradite |
