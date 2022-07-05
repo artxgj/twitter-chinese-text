@@ -76,6 +76,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [乳酸](乳酸.md) | lactic acid |
 | [葡萄糖](葡萄糖.md) | glucose |
 | [蒸馏](蒸馏.md) | distil; distillation |
+| [聚丙烯](聚丙烯.md) | polypropylene |
 ## Commodities (Agriculture)
 |  |  |
 | ----- | :---: |
@@ -210,6 +211,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [税收](税收.md) | tax revenue |
 | [关税](关税.md) | tariff; customs duty |
 | [放缓](放缓.md) | to slow down; decelerate |
+| [资产](资产.md) | property; capital fund; capital; assets |
 | [债务](债务.md) | debt |
 | [贷款](贷款.md) | loans |
 | [还款](还款.md) | repayment |
@@ -514,7 +516,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [触发](触发.md) | trigger; spark; touch off |
 | [押注](押注.md) | to bet; to wager; stake |
 | [波动](波动.md) | undulation; fluctuation; (physics) wave motion |
-| [资产](资产.md) | property; capital fund; capital; assets |
 | [抛售](抛售.md) | undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price) |
 | [胶囊](胶囊.md) | capsule |
 | [细胞](细胞.md) | cells |
@@ -554,3 +555,5 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [牛年](牛年.md) | Year of the Ox |
 | [春节](春节.md) | Spring Festival; Chinese New Year |
 | [引渡](引渡.md) | extradite |
+| [瓦楞](瓦楞.md) | corrugated |
+| [泄漏](泄漏.md) | to spill; to leak |

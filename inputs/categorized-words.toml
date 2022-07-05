@@ -294,6 +294,11 @@ hz = "放缓"
 en = "to slow down; decelerate"
 
 [[economy-markets]]
+hz = "资产"
+en = "property; capital fund; capital; assets"
+
+
+[[economy-markets]]
 hz = "债务"
 en = "debt"
 
@@ -1394,6 +1399,10 @@ en = "glucose"
 hz = "蒸馏"
 en = "distil; distillation"
 
+[[chemistry]]
+hz = "聚丙烯"
+en = "polypropylene"
+
 
 [[marine]]
 hz = "海胆"
@@ -1874,9 +1883,6 @@ en = "to bet; to wager; stake"
 hz = "波动"
 en = "undulation; fluctuation; (physics) wave motion"
 
-[[uncategorized]]
-hz = "资产"
-en = "property; capital fund; capital; assets"
 
 [[uncategorized]]
 hz = "抛售"
@@ -2033,3 +2039,11 @@ en = "Spring Festival; Chinese New Year"
 [[uncategorized]]
 hz = "引渡"
 en = "extradite"
+
+[[uncategorized]]
+hz = "瓦楞"
+en = "corrugated"
+
+[[uncategorized]]
+hz = "泄漏"
+en = "to spill; to leak"
