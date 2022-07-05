@@ -1244,6 +1244,10 @@ hz = "硫"
 en = "sulfur"
 
 [[chemistry]]
+hz = "氯"
+en = "chlorine"
+
+[[chemistry]]
 hz = "钛"
 en = "titanium"
 
@@ -1332,6 +1336,10 @@ hz = "甲烷"
 en = "methane"
 
 [[chemistry]]
+hz = "磷酸"
+en = "phosphoric acid"
+
+[[chemistry]]
 hz = "石墨烯"
 en = "graphene"
 
@@ -1366,6 +1374,10 @@ en = "silicon carbide"
 [[chemistry]]
 hz = "氮化镓"
 en = "gallium nitride"
+
+[[chemisry]]
+hz = "氯化钾"
+en = "potassium chloride"
 
 [[chemistry]]
 hz = "异丙醇"
