@@ -37,6 +37,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铝](铝.md) | aluminum |
 | [硅](硅.md) | silicon |
 | [硫](硫.md) | sulfur |
+| [氯](氯.md) | chlorine |
 | [钛](钛.md) | titanium |
 | [钴](钴.md) | cobalt |
 | [镍](镍.md) | nickel |
@@ -59,6 +60,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [一氧化二氮](一氧化二氮.md) | nitrous oxide |
 | [氨](氨.md) | ammonia |
 | [甲烷](甲烷.md) | methane |
+| [磷酸](磷酸.md) | phosphoric acid |
 | [石墨烯](石墨烯.md) | graphene |
 | [铁矿石](铁矿石.md) | iron ore |
 | [锂矿石](锂矿石.md) | lithium ore |
