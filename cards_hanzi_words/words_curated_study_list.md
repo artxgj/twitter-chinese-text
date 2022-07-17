@@ -158,6 +158,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [领域](领域.md) | field; sphere; domain; territory |
 | [实现](实现.md) | realize; fulfill; carry out; bring about |
 | [肆虐](肆虐.md) | to wreak havoc; to devastate |
+| [版权](版权.md) | copyright |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -365,6 +366,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [拉面](拉面.md) | ramen |
 | [金枪鱼](金枪鱼.md) | tuna |
 | [鲣鱼](鲣鱼.md) | oceanic bonito; skipjack (tuna) |
+| [鳗鱼](鳗鱼.md) | eel |
 | [石斑鱼](石斑鱼.md) | grouper |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
@@ -458,6 +460,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [黑露脊鲸](黑露脊鲸.md) | black right whale |
 | [章鱼](章鱼.md) | octopus |
 | [堡礁](堡礁.md) | barrier reef |
+| [鳄鱼](鳄鱼.md) | crocodile; alligator |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |
@@ -477,11 +480,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [菲律宾](菲律宾.md) | Philippines |
 | [槟城](槟城.md) | Penang |
 | [东南亚](东南亚.md) | Southeast Asia |
+| [斯里兰卡](斯里兰卡.md) | Sri Lanka |
 | [福建](福建.md) | Hokkien (Fujian in Mandarin) |
 | [北海道](北海道.md) | Hokkaido |
 | [冲绳](冲绳.md) | Okinawa |
 | [汤加](汤加.md) | Tonga |
 | [哈萨克斯坦](哈萨克斯坦.md) | Kazakhstan |
+| [雷克雅未克](雷克雅未克.md) | Reykjavik |
 | [冰岛](冰岛.md) | Iceland |
 | [格陵兰](格陵兰.md) | Greenland |
 | [苏格兰](苏格兰.md) | Scotland |
@@ -559,3 +564,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [引渡](引渡.md) | extradite |
 | [瓦楞](瓦楞.md) | corrugated |
 | [泄漏](泄漏.md) | to spill; to leak |
+| [物质](物质.md) | substance |
+| [幽默感](幽默感.md) | sense of humor |
+| [稳定](稳定.md) | stable |
+| [签署](签署.md) | sign |
+| [支流](支流.md) | tributary |
+| [摄像头](摄像头.md) | camera |
+| [机械](机械.md) | machinery |
+| [气温](气温.md) | temperature |
+| [紧缩](紧缩.md) | tighten |
+| [悲观](悲观.md) | pessimistic |

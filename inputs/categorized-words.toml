@@ -297,7 +297,6 @@ en = "to slow down; decelerate"
 hz = "资产"
 en = "property; capital fund; capital; assets"
 
-
 [[economy-markets]]
 hz = "债务"
 en = "debt"
@@ -551,7 +550,6 @@ en = "raise; heighten; enhance; increase; improve"
 hz = "提醒"
 en = "remind; warn; call attention to"
 
-
 [[contextual-study]]
 hz = "批准"
 en = "ratify; approve; sanction"
@@ -619,6 +617,11 @@ en = "realize; fulfill; carry out; bring about"
 [[contextual-study]]
 hz = "肆虐"
 en = "to wreak havoc; to devastate"
+
+[[contextual-study]]
+hz = "版权"
+en = "copyright"
+
 
 [[favorites]]
 hz = "供应链"
@@ -1452,6 +1455,10 @@ en = "octopus"
 hz = "堡礁"
 en = "barrier reef"
 
+[[marine]]
+hz = "鳄鱼"
+en = "crocodile; alligator"
+
 
 [[food-drinks]]
 hz = "烧猪"
@@ -1512,6 +1519,10 @@ en = "tuna"
 [[food-drinks]]
 hz = "鲣鱼"
 en = "oceanic bonito; skipjack (tuna)"
+
+[[food-drinks]]
+hz = "鳗鱼"
+en = "eel"
 
 [[food-drinks]]
 hz = "石斑鱼"
@@ -1591,6 +1602,10 @@ hz = "东南亚"
 en = "Southeast Asia"
 
 [[places]]
+hz = "斯里兰卡"
+en = "Sri Lanka"
+
+[[places]]
 hz = "福建"
 en = "Hokkien (Fujian in Mandarin)"
 
@@ -1609,6 +1624,10 @@ en = "Tonga"
 [[places]]
 hz = "哈萨克斯坦"
 en = "Kazakhstan"
+
+[[places]]
+hz = "雷克雅未克"
+en = "Reykjavik"
 
 [[places]]
 hz = "冰岛"
@@ -2059,3 +2078,43 @@ en = "corrugated"
 [[uncategorized]]
 hz = "泄漏"
 en = "to spill; to leak"
+
+[[uncategorized]]
+hz = "物质"
+en = "substance"
+
+[[uncategorized]]
+hz = "幽默感"
+en = "sense of humor"
+
+[[uncategorized]]
+hz = "稳定"
+en = "stable"
+
+[[uncategorized]]
+hz = "签署"
+en = "sign"
+
+[[uncategorized]]
+hz = "支流"
+en = "tributary"
+
+[[uncategorized]]
+hz = "摄像头"
+en = "camera"
+
+[[uncategorized]]
+hz = "机械"
+en = "machinery"
+
+[[uncategorized]]
+hz = "气温"
+en = "temperature"
+
+[[uncategorized]]
+hz = "紧缩"
+en = "tighten"
+
+[[uncategorized]]
+hz = "悲观"
+en = "pessimistic"
