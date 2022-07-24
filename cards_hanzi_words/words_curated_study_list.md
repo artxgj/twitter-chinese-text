@@ -116,7 +116,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [覆盖](覆盖.md) | cover (verb); plant cover; vegetation |
 | [冲击](冲击.md) | impact; shock; to attack |
 | [爆发](爆发.md) | erupt; burst out; break out |
-| [引发](引发.md) | intitiate; touch (or spark, trigger) off |
+| [引发](引发.md) | initiate; touch (or spark, trigger) off |
 | [开发](开发.md) | develop; open up; exploit |
 | [瓶颈](瓶颈.md) | bottleneck |
 | [效率](效率.md) | efficiency |
@@ -516,7 +516,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [插座](插座.md) | socket, outlet  |
 | [行为](行为.md) | act, behave |
 | [行为科学](行为科学.md) | behavioral science |
-| [暴风雪](暴风雪.md) | blizzard |
 | [召回](召回.md) | recall |
 | [证据](证据.md) | evidence |
 | [玫瑰花](玫瑰花.md) | rose |
