@@ -393,6 +393,10 @@ en = "Brent Crude Oil Futures"
 hz = "纽约原油"
 en = "New York Crude Oil"
 
+[[economy-markets]]
+hz = "周转资金"
+en = "working capital; working/revolving fund"
+
 
 [[contextual-study]]
 hz = "盐"
@@ -915,6 +919,39 @@ en = "first light of morning; dawn"
 hz = "尾部风险"
 en = "tail risk"
 
+[[favorite]]
+hz = "光伏"
+en = "photovoltaic"
+
+[[favorites]]
+hz = "电压"
+en = "voltage"
+
+[[favorites]]
+hz = "电流"
+en = "electric current"
+
+[[favorites]]
+hz = "不可抗力"
+en = "force majeure"
+
+[[favorites]]
+hz = "基因組"
+en = "genome"
+
+[[favorites]]
+hz = "克隆"
+en = "clone"
+
+[[favorites]]
+hz = "北溪"
+en = "Nord Stream"
+
+
+[[favorites]]
+hz = "美国太空总署"
+en = "NASA"
+
 
 [[health]]
 hz = "新型冠状病毒"
@@ -967,6 +1004,10 @@ en = "outbreak"
 [[health]]
 hz = "住院"
 en = "hospitalization"
+
+[[health]]
+hz = "核酸检测"
+en = "nucleic acid test"
 
 [[health]]
 hz = "氧气"
@@ -1196,6 +1237,15 @@ en = "net zero emissions"
 [[energy]]
 hz = "可再生能源"
 en = "renewable energy"
+
+[[energy]]
+hz = "臭氧"
+en = "ozone"
+
+[[energy]]
+hz = "污染"
+en = "pollution"
+
 
 
 [[chemistry]]
@@ -1780,6 +1830,10 @@ en = "torrential rain; rainstorm"
 hz = "喷发"
 en = "eruption"
 
+[[natural-disaster]]
+hz = "暴风雪"
+en = "blizzard"
+
 
 [[commodities_agri]]
 hz = "玉米"
@@ -1963,9 +2017,6 @@ en = "trademark"
 hz = "食人鱼"
 en = "piranha"
 
-[[uncategorized]]
-hz = "暴风雪"
-en = "blizzard"
 
 [[uncategorized]]
 hz = "梯田"
@@ -1986,14 +2037,6 @@ en = "budget"
 [[uncategorized]]
 hz = "流媒体"
 en = "streaming media"
-
-[[uncategorized]]
-hz = "电压"
-en = "voltage"
-
-[[uncategorized]]
-hz = "电流"
-en = "electric current"
 
 [[uncategorized]]
 hz = "隐私"
@@ -2118,3 +2161,31 @@ en = "tighten"
 [[uncategorized]]
 hz = "悲观"
 en = "pessimistic"
+
+[[uncategorized]]
+hz = "此举"
+en = "this measure/action/move"
+
+[[uncategorized]]
+hz = "加剧"
+en = "aggravate; intensify; exacerbate"
+
+[[uncategorized]]
+hz = "烂尾楼"
+en = "unfinished building"
+
+[[uncategorized]]
+hz = "评估"
+en = "assess"
+
+[[uncategorized]]
+hz = "激进"
+en = "radical"
+
+[[uncategorized]]
+hz = "维修"
+en = "maintain/maintenance"
+
+[[uncategorized]]
+hz = "经营"
+en = "manage; operate; run; engage in"

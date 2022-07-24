@@ -239,6 +239,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [标普](标普.md) | S&P |
 | [布伦特原油期](布伦特原油期.md) | Brent Crude Oil Futures |
 | [纽约原油](纽约原油.md) | New York Crude Oil |
+| [周转资金](周转资金.md) | working capital; working/revolving fund |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -256,6 +257,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [温室气体](温室气体.md) | greenhouse gas |
 | [净零排放](净零排放.md) | net zero emissions |
 | [可再生能源](可再生能源.md) | renewable energy |
+| [臭氧](臭氧.md) | ozone |
+| [污染](污染.md) | pollution |
 ## Entertainment
 |  |  |
 | ----- | :---: |
@@ -348,6 +351,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [圣诞](圣诞.md) | Christmas |
 | [曙光](曙光.md) | first light of morning; dawn |
 | [尾部风险](尾部风险.md) | tail risk |
+| [电压](电压.md) | voltage |
+| [电流](电流.md) | electric current |
+| [不可抗力](不可抗力.md) | force majeure |
+| [基因組](基因組.md) | genome |
+| [克隆](克隆.md) | clone |
+| [北溪](北溪.md) | Nord Stream |
+| [美国太空总署](美国太空总署.md) | NASA |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
@@ -399,6 +409,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [病毒学家](病毒学家.md) | virologist |
 | [暴发](暴发.md) | outbreak |
 | [住院](住院.md) | hospitalization |
+| [核酸检测](核酸检测.md) | nucleic acid test |
 | [氧气](氧气.md) | oxygen (gas) |
 | [飞沫](飞沫.md) | droplet |
 | [气溶胶](气溶胶.md) | aerosol |
@@ -474,6 +485,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [沙尘暴](沙尘暴.md) | sandstorm; dust storm |
 | [暴雨](暴雨.md) | torrential rain; rainstorm |
 | [喷发](喷发.md) | eruption |
+| [暴风雪](暴风雪.md) | blizzard |
 ## Places and Regions
 |  |  |
 | ----- | :---: |
@@ -535,14 +547,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [发霉](发霉.md) | to become moldy |
 | [商标](商标.md) | trademark |
 | [食人鱼](食人鱼.md) | piranha |
-| [暴风雪](暴风雪.md) | blizzard |
 | [梯田](梯田.md) | terraces |
 | [细菌](细菌.md) | bacterium; bacteria;bacterial |
 | [最高法院](最高法院.md) | Supreme Court |
 | [预算](预算.md) | budget |
 | [流媒体](流媒体.md) | streaming media |
-| [电压](电压.md) | voltage |
-| [电流](电流.md) | electric current |
 | [隐私](隐私.md) | privacy |
 | [麻省理工学院](麻省理工学院.md) | MIT |
 | [富士山](富士山.md) | Mt. Fuji |
@@ -574,3 +583,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [气温](气温.md) | temperature |
 | [紧缩](紧缩.md) | tighten |
 | [悲观](悲观.md) | pessimistic |
+| [此举](此举.md) | this measure/action/move |
+| [加剧](加剧.md) | aggravate; intensify; exacerbate |
+| [烂尾楼](烂尾楼.md) | unfinished building |
+| [评估](评估.md) | assess |
+| [激进](激进.md) | radical |
+| [维修](维修.md) | maintain/maintenance |
+| [经营](经营.md) | manage; operate; run; engage in |
