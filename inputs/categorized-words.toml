@@ -1074,7 +1074,7 @@ en = "surgical mask"
 
 [[health]]
 hz = "核酸检测"
-en = "nucleic acid test"
+en = "nucleic acid testing"
 
 [[health]]
 hz = "聚合酶链式反应"
@@ -1199,6 +1199,10 @@ en = "fully recover from an illness; completely cured/recovered"
 [[health]]
 hz = "护士"
 en = "nurse"
+
+[[health]]
+hz = "猴痘"
+en = "Monkeypox"
 
 
 [[energy]]
@@ -1665,6 +1669,10 @@ en = "champagne"
 [[places]]
 hz = "菲律宾"
 en = "Philippines"
+
+[[places]]
+hz = "马尼拉"
+en = "Manila"
 
 [[places]]
 hz = "槟城"

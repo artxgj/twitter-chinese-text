@@ -426,7 +426,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [隔离](隔离.md) | isolate |
 | [检疫隔离](检疫隔离.md) | quarantine |
 | [口罩](口罩.md) | surgical mask |
-| [核酸检测](核酸检测.md) | nucleic acid test |
+| [核酸检测](核酸检测.md) | nucleic acid testing |
 | [聚合酶链式反应](聚合酶链式反应.md) | polymerase chain reaction |
 | [群体免疫力](群体免疫力.md) | herd immunity |
 | [心肌炎](心肌炎.md) | myocarditis |
@@ -458,6 +458,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [治疗](治疗.md) | to treat(an illness); medical treatment; therapy |
 | [痊愈](痊愈.md) | fully recover from an illness; completely cured/recovered |
 | [护士](护士.md) | nurse |
+| [猴痘](猴痘.md) | Monkeypox |
 ## Idioms
 |  |  |
 | ----- | :---: |
@@ -495,6 +496,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [菲律宾](菲律宾.md) | Philippines |
+| [马尼拉](马尼拉.md) | Manila |
 | [槟城](槟城.md) | Penang |
 | [峇厘岛](峇厘岛.md) | Bali |
 | [东南亚](东南亚.md) | Southeast Asia |
