@@ -159,6 +159,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [实现](实现.md) | realize; fulfill; carry out; bring about |
 | [肆虐](肆虐.md) | to wreak havoc; to devastate |
 | [版权](版权.md) | copyright |
+| [制裁](制裁.md) | sanctions |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
