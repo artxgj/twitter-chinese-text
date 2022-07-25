@@ -630,6 +630,14 @@ en = "copyright"
 hz = "制裁"
 en = "sanctions"
 
+[[contextual-study]]
+hz = "最高法院"
+en = "Supreme Court"
+
+[[contextual-study]]
+hz = "爆炸"
+en = "explosion; explode; detonate"
+
 
 [[favorites]]
 hz = "供应链"
@@ -912,6 +920,10 @@ hz = "农历新年"
 en = "Chinese/Lunar New Year"
 
 [[favorites]]
+hz = "春节"
+en = "Spring Festival; Chinese New Year"
+
+[[favorites]]
 hz = "圣诞"
 en = "Christmas"
 
@@ -951,10 +963,13 @@ en = "clone"
 hz = "北溪"
 en = "Nord Stream"
 
-
 [[favorites]]
 hz = "美国太空总署"
 en = "NASA"
+
+[[favorite]]
+hz = "细胞"
+en = "cells"
 
 
 [[health]]
@@ -1305,6 +1320,10 @@ hz = "氯"
 en = "chlorine"
 
 [[chemistry]]
+hz = "钾"
+en = "potassium"
+
+[[chemistry]]
 hz = "钛"
 en = "titanium"
 
@@ -1652,6 +1671,10 @@ hz = "槟城"
 en = "Penang"
 
 [[places]]
+hz = "峇厘岛"
+en = "Bali"
+
+[[places]]
 hz = "东南亚"
 en = "Southeast Asia"
 
@@ -1678,6 +1701,14 @@ en = "Tonga"
 [[places]]
 hz = "哈萨克斯坦"
 en = "Kazakhstan"
+
+[[places]]
+hz = "俄罗斯"
+en = "Russia"
+
+[[places]]
+hz = "莫斯科"
+en = "Moscow"
 
 [[places]]
 hz = "雷克雅未克"
@@ -1977,10 +2008,6 @@ hz = "胶囊"
 en = "capsule"
 
 [[uncategorized]]
-hz = "细胞"
-en = "cells"
-
-[[uncategorized]]
 hz = "渠道"
 en = "channel; medium of communication; irrigation ditch"
 
@@ -2025,10 +2052,6 @@ hz = "细菌"
 en = "bacterium; bacteria;bacterial"
 
 [[uncategorized]]
-hz = "最高法院"
-en = "Supreme Court"
-
-[[uncategorized]]
 hz = "预算"
 en = "budget"
 
@@ -2065,10 +2088,6 @@ hz = "雨林"
 en = "rainforest"
 
 [[uncategorized]]
-hz = "爆炸"
-en = "explosion; explode; detonate"
-
-[[uncategorized]]
 hz = "平方"
 en = "second power (of a quantity); square"
 
@@ -2103,10 +2122,6 @@ en = "Year of the Tiger"
 [[uncategorized]]
 hz = "牛年"
 en = "Year of the Ox"
-
-[[uncategorized]]
-hz = "春节"
-en = "Spring Festival; Chinese New Year"
 
 [[uncategorized]]
 hz = "引渡"

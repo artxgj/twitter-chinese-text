@@ -38,6 +38,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [硅](硅.md) | silicon |
 | [硫](硫.md) | sulfur |
 | [氯](氯.md) | chlorine |
+| [钾](钾.md) | potassium |
 | [钛](钛.md) | titanium |
 | [钴](钴.md) | cobalt |
 | [镍](镍.md) | nickel |
@@ -160,6 +161,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [肆虐](肆虐.md) | to wreak havoc; to devastate |
 | [版权](版权.md) | copyright |
 | [制裁](制裁.md) | sanctions |
+| [最高法院](最高法院.md) | Supreme Court |
+| [爆炸](爆炸.md) | explosion; explode; detonate |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -349,6 +352,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [自动化](自动化.md) | automation; automated |
 | [验证试验](验证试验.md) | verification test; demonstration test |
 | [农历新年](农历新年.md) | Chinese/Lunar New Year |
+| [春节](春节.md) | Spring Festival; Chinese New Year |
 | [圣诞](圣诞.md) | Christmas |
 | [曙光](曙光.md) | first light of morning; dawn |
 | [尾部风险](尾部风险.md) | tail risk |
@@ -492,6 +496,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [菲律宾](菲律宾.md) | Philippines |
 | [槟城](槟城.md) | Penang |
+| [峇厘岛](峇厘岛.md) | Bali |
 | [东南亚](东南亚.md) | Southeast Asia |
 | [斯里兰卡](斯里兰卡.md) | Sri Lanka |
 | [福建](福建.md) | Hokkien (Fujian in Mandarin) |
@@ -499,6 +504,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冲绳](冲绳.md) | Okinawa |
 | [汤加](汤加.md) | Tonga |
 | [哈萨克斯坦](哈萨克斯坦.md) | Kazakhstan |
+| [俄罗斯](俄罗斯.md) | Russia |
+| [莫斯科](莫斯科.md) | Moscow |
 | [雷克雅未克](雷克雅未克.md) | Reykjavik |
 | [冰岛](冰岛.md) | Iceland |
 | [格陵兰](格陵兰.md) | Greenland |
@@ -537,7 +544,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [波动](波动.md) | undulation; fluctuation; (physics) wave motion |
 | [抛售](抛售.md) | undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price) |
 | [胶囊](胶囊.md) | capsule |
-| [细胞](细胞.md) | cells |
 | [渠道](渠道.md) | channel; medium of communication; irrigation ditch |
 | [依赖](依赖.md) | rely on; dependent on |
 | [惊讶](惊讶.md) | surprised;amazed; astonished; astounded |
@@ -549,7 +555,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [食人鱼](食人鱼.md) | piranha |
 | [梯田](梯田.md) | terraces |
 | [细菌](细菌.md) | bacterium; bacteria;bacterial |
-| [最高法院](最高法院.md) | Supreme Court |
 | [预算](预算.md) | budget |
 | [流媒体](流媒体.md) | streaming media |
 | [隐私](隐私.md) | privacy |
@@ -559,7 +564,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [贫困](贫困.md) | poverty; impoverished; poor |
 | [贝多芬](贝多芬.md) | Beethoven |
 | [雨林](雨林.md) | rainforest |
-| [爆炸](爆炸.md) | explosion; explode; detonate |
 | [平方](平方.md) | second power (of a quantity); square |
 | [苏伊士运河](苏伊士运河.md) | Suez Canal |
 | [纯电动汽车](纯电动汽车.md) | pure electric vehicle |
@@ -569,7 +573,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [眯眯眼](眯眯眼.md) | squinted eyes |
 | [虎年](虎年.md) | Year of the Tiger |
 | [牛年](牛年.md) | Year of the Ox |
-| [春节](春节.md) | Spring Festival; Chinese New Year |
 | [引渡](引渡.md) | extradite |
 | [瓦楞](瓦楞.md) | corrugated |
 | [泄漏](泄漏.md) | to spill; to leak |
