@@ -464,7 +464,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [源源不断](源源不断.md) | a steady flow (idiom); an unending stream |
 | [有史以来](有史以来.md) | since the beginning (or dawn) of history; throughout history |
-| [脫胎換骨](脫胎換骨.md) | be reborn; cast off one's old self; thoroughly remould oneself |
+| [脱胎换骨](脱胎换骨.md) | be reborn; cast off one's old self; thoroughly remould oneself |
 ## Marine Life
 |  |  |
 | ----- | :---: |
