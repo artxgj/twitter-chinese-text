@@ -397,6 +397,34 @@ en = "New York Crude Oil"
 hz = "周转资金"
 en = "working capital; working/revolving fund"
 
+[[economy-msrkets]]
+hz = "主权财富基金"
+en = "sovereign wealth fund"
+
+[[economy-markets]]
+hz = "利润率"
+en = "profit margin"
+
+[[economy-markets]]
+hz = "去美元化"
+en = "dedollarization"
+
+[[economy-markets]]
+hz = "裁员"
+en = "layoffs"
+
+[[economy-markets]]
+hz = "销售额"
+en = "sales (volume)"
+
+[[economy-markets]]
+hz = "合资企业"
+en = "joint venture"
+
+[[economy-markets]]
+hz = "国内生产总值"
+en = "GDP"
+
 
 [[contextual-study]]
 hz = "盐"
@@ -637,6 +665,54 @@ en = "Supreme Court"
 [[contextual-study]]
 hz = "爆炸"
 en = "explosion; explode; detonate"
+
+[[contextual-study]]
+hz = "反弹"
+en = "rebound"
+
+[[contextual-study]]
+hz = "躲过"
+en = "dodge"
+
+[[contextual-study]]
+hz = "萨哈林"
+en = "Sakhalin"
+
+[[contextual-study]]
+hz = "资源"
+en = "resource"
+
+[[contextual-study]]
+hz = "众议院"
+en = "House of Representatives"
+
+[[contextual-study]]
+hz = "参议院"
+en = "Senate"
+
+[[contextual-study]]
+hz = "攀升"
+en = "climb"
+
+[[contextual-study]]
+hz = "走私"
+en = "smuggle"
+
+[[contextual-study]]
+hz = "赌场"
+en = "casino"
+
+[[contextual-study]]
+hz = "嗅觉"
+en = "sense of smell"
+
+[[contextual-study]]
+hz = "味觉"
+en = "sense of taste"
+
+[[contextual-study]]
+hz = "烟草"
+en = "tobacco"
 
 
 [[favorites]]
@@ -971,6 +1047,14 @@ en = "NASA"
 hz = "细胞"
 en = "cells"
 
+[[favorites]]
+hz = "北极"
+en = "Arctic/North Pole"
+
+[[favorites]]
+hz = "涡轮机"
+en = "turbine"
+
 
 [[health]]
 hz = "新型冠状病毒"
@@ -991,6 +1075,10 @@ en = "delta mutant strain"
 [[health]]
 hz = "奥密克戎变种"
 en = "omicron variant"
+
+[[health]]
+hz = "症状"
+en = "symptoms"
 
 [[health]]
 hz = "出现症状前"
@@ -1204,6 +1292,9 @@ en = "nurse"
 hz = "猴痘"
 en = "Monkeypox"
 
+[[health]]
+hz = "脊髓灰质"
+en = "polio"
 
 [[energy]]
 hz = "天然气"
@@ -1360,6 +1451,10 @@ hz = "铟"
 en = "indium"
 
 [[chemistry]]
+hz = "釕"
+en = "ruthenium"
+
+[[chemistry]]
 hz = "铑"
 en = "rhodium"
 
@@ -1495,6 +1590,13 @@ en = "distil; distillation"
 hz = "聚丙烯"
 en = "polypropylene"
 
+[[chemistry]]
+hz = "氢氰酸"
+en = "Hydrocyanic acid"
+
+[[chemistry]]
+hz = "环氧乙烷"
+en = "ethylene oxide"
 
 [[marine]]
 hz = "海胆"
@@ -1590,6 +1692,26 @@ hz = "拉面"
 en = "ramen"
 
 [[food-drinks]]
+hz = "乌冬面"
+en = "udon noodles"
+
+[[food-drinks]]
+hz = "牛肉饭"
+en = "beef rice"
+
+[[food-drinks]]
+hz = "咖喱饭"
+en = "curry rice"
+
+[[food-drinks]]
+hz = "饺子"
+en = "dumplings"
+
+[[food-drinks]]
+hz = "寿司"
+en = "sushi"
+
+[[food-drinks]]
 hz = "金枪鱼"
 en = "tuna"
 
@@ -1604,6 +1726,14 @@ en = "eel"
 [[food-drinks]]
 hz = "石斑鱼"
 en = "grouper"
+
+[[food-drinks]]
+hz = "扇贝"
+en = "scallop"
+
+[[food-drinks]]
+hz = "海参"
+en = "sea cucumber"
 
 [[food-drinks]]
 hz = "罗汉果"
@@ -1703,6 +1833,10 @@ hz = "冲绳"
 en = "Okinawa"
 
 [[places]]
+hz = "广岛"
+en = "Hiroshima"
+
+[[places]]
 hz = "汤加"
 en = "Tonga"
 
@@ -1737,6 +1871,14 @@ en = "Scotland"
 [[places]]
 hz = "黑山"
 en = "Montenegro"
+
+[[places]]
+hz = "卡帕多奇亚"
+en = "Cappadocia"
+
+[[places]]
+hz = "布基纳法索"
+en = "Burkina Faso"
 
 [[places]]
 hz = "加拉帕戈斯群岛"
@@ -1831,6 +1973,10 @@ en = "Cristiano Ronaldo"
 [[entertainment]]
 hz = "曼联"
 en = "Manchester United"
+
+[[entertainment]]
+hz = "奥特曼"
+en = "Ultraman"
 
 
 [[natural-disaster]]
@@ -2210,3 +2356,7 @@ en = "maintain/maintenance"
 [[uncategorized]]
 hz = "经营"
 en = "manage; operate; run; engage in"
+
+[[uncategorized]]
+hz = "盂兰盆节"
+en = "Obon Festival"

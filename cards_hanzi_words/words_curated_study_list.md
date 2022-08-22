@@ -47,6 +47,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [镓](镓.md) | gallium |
 | [锗](锗.md) | germanium |
 | [铟](铟.md) | indium |
+| [釕](釕.md) | ruthenium |
 | [铑](铑.md) | rhodium |
 | [钯](钯.md) | palladium |
 | [钕](钕.md) | neodynium |
@@ -80,6 +81,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [葡萄糖](葡萄糖.md) | glucose |
 | [蒸馏](蒸馏.md) | distil; distillation |
 | [聚丙烯](聚丙烯.md) | polypropylene |
+| [氢氰酸](氢氰酸.md) | Hydrocyanic acid |
+| [环氧乙烷](环氧乙烷.md) | ethylene oxide |
 ## Commodities (Agriculture)
 |  |  |
 | ----- | :---: |
@@ -163,6 +166,18 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [制裁](制裁.md) | sanctions |
 | [最高法院](最高法院.md) | Supreme Court |
 | [爆炸](爆炸.md) | explosion; explode; detonate |
+| [反弹](反弹.md) | rebound |
+| [躲过](躲过.md) | dodge |
+| [萨哈林](萨哈林.md) | Sakhalin |
+| [资源](资源.md) | resource |
+| [众议院](众议院.md) | House of Representatives |
+| [参议院](参议院.md) | Senate |
+| [攀升](攀升.md) | climb |
+| [走私](走私.md) | smuggle |
+| [赌场](赌场.md) | casino |
+| [嗅觉](嗅觉.md) | sense of smell |
+| [味觉](味觉.md) | sense of taste |
+| [烟草](烟草.md) | tobacco |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -244,6 +259,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [布伦特原油期](布伦特原油期.md) | Brent Crude Oil Futures |
 | [纽约原油](纽约原油.md) | New York Crude Oil |
 | [周转资金](周转资金.md) | working capital; working/revolving fund |
+| [利润率](利润率.md) | profit margin |
+| [去美元化](去美元化.md) | dedollarization |
+| [裁员](裁员.md) | layoffs |
+| [销售额](销售额.md) | sales (volume) |
+| [合资企业](合资企业.md) | joint venture |
+| [国内生产总值](国内生产总值.md) | GDP |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -279,6 +300,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [百老汇](百老汇.md) | Broadway |
 | [罗纳尔多](罗纳尔多.md) | Cristiano Ronaldo |
 | [曼联](曼联.md) | Manchester United |
+| [奥特曼](奥特曼.md) | Ultraman |
 ## Favorites
 |  |  |
 | ----- | :---: |
@@ -363,6 +385,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [克隆](克隆.md) | clone |
 | [北溪](北溪.md) | Nord Stream |
 | [美国太空总署](美国太空总署.md) | NASA |
+| [北极](北极.md) | Arctic/North Pole |
+| [涡轮机](涡轮机.md) | turbine |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
@@ -379,10 +403,17 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [烤面包](烤面包.md) | toast |
 | [肉脞面](肉脞面.md) | minced pork noodles |
 | [拉面](拉面.md) | ramen |
+| [乌冬面](乌冬面.md) | udon noodles |
+| [牛肉饭](牛肉饭.md) | beef rice |
+| [咖喱饭](咖喱饭.md) | curry rice |
+| [饺子](饺子.md) | dumplings |
+| [寿司](寿司.md) | sushi |
 | [金枪鱼](金枪鱼.md) | tuna |
 | [鲣鱼](鲣鱼.md) | oceanic bonito; skipjack (tuna) |
 | [鳗鱼](鳗鱼.md) | eel |
 | [石斑鱼](石斑鱼.md) | grouper |
+| [扇贝](扇贝.md) | scallop |
+| [海参](海参.md) | sea cucumber |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
@@ -406,6 +437,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冠病疫苗](冠病疫苗.md) | coronavirus vaccine |
 | [德尔塔变异毒株](德尔塔变异毒株.md) | delta mutant strain |
 | [奥密克戎变种](奥密克戎变种.md) | omicron variant |
+| [症状](症状.md) | symptoms |
 | [出现症状前](出现症状前.md) | presymptomatic |
 | [无症状](无症状.md) | asymptomatic |
 | [大流行](大流行.md) | pandemic |
@@ -459,6 +491,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [痊愈](痊愈.md) | fully recover from an illness; completely cured/recovered |
 | [护士](护士.md) | nurse |
 | [猴痘](猴痘.md) | Monkeypox |
+| [脊髓灰质](脊髓灰质.md) | polio |
 ## Idioms
 |  |  |
 | ----- | :---: |
@@ -504,6 +537,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [福建](福建.md) | Hokkien (Fujian in Mandarin) |
 | [北海道](北海道.md) | Hokkaido |
 | [冲绳](冲绳.md) | Okinawa |
+| [广岛](广岛.md) | Hiroshima |
 | [汤加](汤加.md) | Tonga |
 | [哈萨克斯坦](哈萨克斯坦.md) | Kazakhstan |
 | [俄罗斯](俄罗斯.md) | Russia |
@@ -513,6 +547,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [格陵兰](格陵兰.md) | Greenland |
 | [苏格兰](苏格兰.md) | Scotland |
 | [黑山](黑山.md) | Montenegro |
+| [卡帕多奇亚](卡帕多奇亚.md) | Cappadocia |
+| [布基纳法索](布基纳法索.md) | Burkina Faso |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [得克萨斯](得克萨斯.md) | Texas |
@@ -595,3 +631,4 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [激进](激进.md) | radical |
 | [维修](维修.md) | maintain/maintenance |
 | [经营](经营.md) | manage; operate; run; engage in |
+| [盂兰盆节](盂兰盆节.md) | Obon Festival |

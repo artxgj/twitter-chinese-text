@@ -24,7 +24,7 @@ def generate_companies_tweets_stats(*, vocab_tweets_index_path: str,
     fields = ['Chinese Name', 'English Name', 'U.S. Ticker', 'Number of Tweets']
     fields_align = [MdCellAlign.left, MdCellAlign.left, MdCellAlign.center, MdCellAlign.center]
     with open(f"{cards_study_folder}/companies_tweets_stats.md", "w", encoding='utf-8') as f_out:
-        md_static_part = f"""{h1('Companies/Brands  ')}
+        md_static_part = f"""{h1('Companies/Brands')}
         
 {table_header(fields, fields_align)}
 """
@@ -32,9 +32,14 @@ def generate_companies_tweets_stats(*, vocab_tweets_index_path: str,
         rank = 1
         for company in companies_tickers:
             hanzi = company['Chinese Name']
-            row = [link(hanzi, f"{hanzi}.md"), company['English Name'], company['Ticker'], str(company['tweets'])]
-            f_out.writelines(f"{table_row(row)}\n")
-            rank += 1
+            try:
+                print(company)
+                row = [link(hanzi, f"{hanzi}.md"), company['English Name'], company['Ticker'], str(company['tweets'])]
+                f_out.writelines(f"{table_row(row)}\n")
+                rank += 1
+            except KeyError as err:
+                print(err)
+                print(hanzi)
 
 
 if __name__ == '__main__':
