@@ -375,6 +375,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [验证试验](验证试验.md) | verification test; demonstration test |
 | [农历新年](农历新年.md) | Chinese/Lunar New Year |
 | [春节](春节.md) | Spring Festival; Chinese New Year |
+| [中秋](中秋.md) | Mid-Autumn |
 | [圣诞](圣诞.md) | Christmas |
 | [曙光](曙光.md) | first light of morning; dawn |
 | [尾部风险](尾部风险.md) | tail risk |
@@ -492,6 +493,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [护士](护士.md) | nurse |
 | [猴痘](猴痘.md) | Monkeypox |
 | [脊髓灰质](脊髓灰质.md) | polio |
+| [痔疮](痔疮.md) | hemorrhoids |
 ## Idioms
 |  |  |
 | ----- | :---: |

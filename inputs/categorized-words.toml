@@ -1000,6 +1000,10 @@ hz = "春节"
 en = "Spring Festival; Chinese New Year"
 
 [[favorites]]
+hz = "中秋"
+en = "Mid-Autumn"
+
+[[favorites]]
 hz = "圣诞"
 en = "Christmas"
 
@@ -1295,6 +1299,11 @@ en = "Monkeypox"
 [[health]]
 hz = "脊髓灰质"
 en = "polio"
+
+[[health]]
+hz = "痔疮"
+en = "hemorrhoids"
+
 
 [[energy]]
 hz = "天然气"
