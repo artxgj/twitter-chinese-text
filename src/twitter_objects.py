@@ -3,6 +3,7 @@ from typing import Dict, Optional, List, Generator
 
 import datetime
 import json
+import os
 import re
 
 """
@@ -150,14 +151,16 @@ class IncorrectTweetJsFile(Exception):
 # to do later, create a file object with context manager to read tweet_js_file
 
 def from_tweet_js_file(filepath: str) -> List[TweetData]:
+    print(f"{os.getcwd()}")
     with open(filepath, 'r') as fp:
         js = fp.readlines()
 
-        if re.match(r'^window\.YTD\.tweet\.part\d+ =', js[0]):
+        if re.match(r'^window\.YTD\.tweets*\.part\d+ =', js[0]):
             js[0] = js[0].split('=')[1].strip()
             tweets = json.loads(''.join(js))
             return tweets
         else:
+            print(f"{filepath}")
             raise IncorrectTweetJsFile(f"{filepath} is not a tweet js file.")
 
 

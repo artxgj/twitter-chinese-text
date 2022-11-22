@@ -32,8 +32,10 @@ def cache_tweetsummary_words(*, tweet_summary_csv_filepath: str,
         }
 
     for row in next_tweets_vocab_index(tweets_vocab_csv_filepath):
-        cache[row['Tweet_Id']]['Words'] = set(row['Words'].split(','))
-
+        try:
+            cache[row['Tweet_Id']]['Words'] = set(row['Words'].split(','))
+        except KeyError as e:
+            print(f"{e}\n{row}")
     return cache
 
 
@@ -133,7 +135,13 @@ def write_cards(*, word_and_tweets: List[WordAndTweets],
                 tweets_per_page: int):
 
     for word_tweets in word_and_tweets:
-        tweet_data = [summarized_tweets_words[tweet_id] for tweet_id in word_tweets.tweet_ids]
+        try:
+            tweet_data = [summarized_tweets_words[tweet_id] for tweet_id in word_tweets.tweet_ids]
+        except KeyError as e:
+            print(f"{e}")
+            print(f"{word_tweets}")
+            print("=====")
+            continue
         tweet_data.sort(key=lambda tw: tw['Date'], reverse=True)
         write_word_card(title=word_tweets.word, tweet_data=tweet_data,
                         cards_study_folder=cards_study_folder,
