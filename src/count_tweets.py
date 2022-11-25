@@ -16,6 +16,7 @@ tweet_js_paths = (
     '../twitter-2022-08-21-437b83887b3810705d8f4e1c95fb4abfd78c166a70050b24ff79d6a81806d680/data/tweet.js',
     '../twitter-2022-09-10-437b83887b3810705d8f4e1c95fb4abfd78c166a70050b24ff79d6a81806d680/data/tweet.js',
     '../twitter-2022-11-03-437b83887b3810705d8f4e1c95fb4abfd78c166a70050b24ff79d6a81806d680/data/tweets.js',
+    '../twitter-2022-11-24-437b83887b3810705d8f4e1c95fb4abfd78c166a70050b24ff79d6a81806d680/data/tweets.js',
 )
 
 for tweet_js_path in tweet_js_paths:
