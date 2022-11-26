@@ -83,6 +83,10 @@ en = "raise funds"
 hz = "投向"
 en = "investment orientation"
 
+[[capital-markets]]
+hz = "筹集"
+en = "to collect; to raise (funds)"
+
 
 [[currency-money-tech]]
 hz = "货币"
@@ -794,6 +798,10 @@ en = "wafer"
 [[favorites]]
 hz = "晶片"
 en = "wafer; chip"
+
+[[favorites]]
+hz = "逻辑"
+en = "logic"
 
 [[favorites]]
 hz = "液晶"
@@ -1745,6 +1753,10 @@ hz = "海参"
 en = "sea cucumber"
 
 [[food-drinks]]
+hz = "雪蟹"
+en = "snow crab"
+
+[[food-drinks]]
 hz = "罗汉果"
 en = "mangosteen"
 
@@ -1986,6 +1998,14 @@ en = "Manchester United"
 [[entertainment]]
 hz = "奥特曼"
 en = "Ultraman"
+
+[[entertainment]]
+hz = "足球"
+en = "football"
+
+[[entertainment]]
+hz = "世界杯"
+en = "World Cup"
 
 
 [[natural-disaster]]
@@ -2369,3 +2389,8 @@ en = "manage; operate; run; engage in"
 [[uncategorized]]
 hz = "盂兰盆节"
 en = "Obon Festival"
+
+[[uncategorized]]
+hz = "暂缓"
+en = "postpone; defer"
+

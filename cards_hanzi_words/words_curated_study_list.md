@@ -22,6 +22,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [锁定期](锁定期.md) | lock-up period |
 | [融资](融资.md) | raise funds |
 | [投向](投向.md) | investment orientation |
+| [筹集](筹集.md) | to collect; to raise (funds) |
 ## Chemistry
 |  |  |
 | ----- | :---: |
@@ -301,6 +302,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [罗纳尔多](罗纳尔多.md) | Cristiano Ronaldo |
 | [曼联](曼联.md) | Manchester United |
 | [奥特曼](奥特曼.md) | Ultraman |
+| [足球](足球.md) | football |
+| [世界杯](世界杯.md) | World Cup |
 ## Favorites
 |  |  |
 | ----- | :---: |
@@ -324,6 +327,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [晶体管](晶体管.md) | transistor |
 | [晶圆](晶圆.md) | wafer |
 | [晶片](晶片.md) | wafer; chip |
+| [逻辑](逻辑.md) | logic |
 | [液晶](液晶.md) | liquid crystal |
 | [多晶硅](多晶硅.md) | polycrystalline silicon |
 | [模拟](模拟.md) | analog; simulation; to simulate |
@@ -415,6 +419,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [石斑鱼](石斑鱼.md) | grouper |
 | [扇贝](扇贝.md) | scallop |
 | [海参](海参.md) | sea cucumber |
+| [雪蟹](雪蟹.md) | snow crab |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
@@ -634,3 +639,4 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [维修](维修.md) | maintain/maintenance |
 | [经营](经营.md) | manage; operate; run; engage in |
 | [盂兰盆节](盂兰盆节.md) | Obon Festival |
+| [暂缓](暂缓.md) | postpone; defer |
