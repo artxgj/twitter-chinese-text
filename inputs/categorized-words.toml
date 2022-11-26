@@ -2228,6 +2228,14 @@ hz = "布基纳法索"
 en = "Burkina Faso"
 
 [[places]]
+hz = "阿根廷"
+en = "Argentina"
+
+[[places]]
+hz = "哥斯达黎加"
+en = "Costa Rica"
+
+[[places]]
 hz = "加拉帕戈斯群岛"
 en = "Galapagos Islands"
 
@@ -2332,6 +2340,10 @@ en = "football"
 [[entertainment]]
 hz = "世界杯"
 en = "World Cup"
+
+[[entertainment]]
+hz = "勇士"
+en = "Warriors"
 
 
 [[natural-disaster]]

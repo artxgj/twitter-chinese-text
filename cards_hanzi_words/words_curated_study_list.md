@@ -380,6 +380,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [奥特曼](奥特曼.md) | Ultraman |
 | [足球](足球.md) | football |
 | [世界杯](世界杯.md) | World Cup |
+| [勇士](勇士.md) | Warriors |
 ## Favorites
 |  |  |
 | ----- | :---: |
@@ -637,6 +638,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [黑山](黑山.md) | Montenegro |
 | [卡帕多奇亚](卡帕多奇亚.md) | Cappadocia |
 | [布基纳法索](布基纳法索.md) | Burkina Faso |
+| [阿根廷](阿根廷.md) | Argentina |
+| [哥斯达黎加](哥斯达黎加.md) | Costa Rica |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [得克萨斯](得克萨斯.md) | Texas |
