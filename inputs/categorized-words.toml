@@ -17,7 +17,7 @@ commodities_agri = "Commodities (Agriculture)"
 idioms = "Idioms"
 capital-markets = "Capital Markets/Venture Capital Terms"
 currency-money-tech = "Currency, Money, and Digital Technology"
-uncategorized = "Uncategorized"
+
 
 [[capital-markets]]
 hz = "风投"
@@ -429,6 +429,10 @@ en = "joint venture"
 hz = "国内生产总值"
 en = "GDP"
 
+[[economy-markets]]
+hz = "兼职"
+en = "part-time job; hold several jobs at once"
+
 
 [[contextual-study]]
 hz = "盐"
@@ -718,6 +722,306 @@ en = "sense of taste"
 hz = "烟草"
 en = "tobacco"
 
+[[contextual-study]]
+hz = "暂缓"
+en = "postpone; defer"
+
+[[contextual-study]]
+hz = "现代化工厂"
+en = "modern factories"
+
+[[contextual-study]]
+hz = "缴税"
+en = "pay taxes"
+
+[[contextual-study]]
+hz = "涟漪"
+en = "ripples"
+
+[[contextual-study]]
+hz = "插座"
+en = "socket, outlet "
+
+[[contextual-study]]
+hz = "行为"
+en = "act, behave"
+
+[[contextual-study]]
+hz = "行为科学"
+en = "behavioral science"
+
+[[contextual-study]]
+hz = "召回"
+en = "recall"
+
+[[contextual-study]]
+hz = "证据"
+en = "evidence"
+
+[[contextual-study]]
+hz = "玫瑰花"
+en = "rose"
+
+[[contextual-study]]
+hz = "崭新"
+en = "brand-new; completely-new"
+
+[[contextual-study]]
+hz = "缓解"
+en = "relieve; alleviate"
+
+[[contextual-study]]
+hz = "理会"
+en = "understand; comprehend; take notice of; pay attention to"
+
+[[contextual-study]]
+hz = "尖端"
+en = "most advanced; sophisticated; cutting edge; pointed end"
+
+[[contextual-study]]
+hz = "突破"
+en = "breakthrough; to make a breakthrough"
+
+[[contextual-study]]
+hz = "蔓延"
+en = "spread; stretch; extend; infest"
+
+[[contextual-study]]
+hz = "截至"
+en = "by (a specified time); up to"
+
+[[contextual-study]]
+hz = "摆脱"
+en = "shake off; cast off; break away from"
+
+[[contextual-study]]
+hz = "莎翁"
+en = "Shakespeare"
+
+[[contextual-study]]
+hz = "牛顿"
+en = "Newton"
+
+[[contextual-study]]
+hz = "配备"
+en = "provide (manpower or equipment); equip; fit out; allocate; deploy"
+
+[[contextual-study]]
+hz = "引擎"
+en = "engine"
+
+[[contextual-study]]
+hz = "触发"
+en = "trigger; spark; touch off"
+
+[[contextual-study]]
+hz = "押注"
+en = "to bet; to wager; stake"
+
+[[contextual-study]]
+hz = "波动"
+en = "undulation; fluctuation; (physics) wave motion"
+
+[[contextual-study]]
+hz = "抛售"
+en = "undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price)"
+
+[[contextual-study]]
+hz = "胶囊"
+en = "capsule"
+
+[[contextual-study]]
+hz = "渠道"
+en = "channel; medium of communication; irrigation ditch"
+
+[[contextual-study]]
+hz = "依赖"
+en = "rely on; dependent on"
+
+[[contextual-study]]
+hz = "惊讶"
+en = "surprised;amazed; astonished; astounded"
+
+[[contextual-study]]
+hz = "遭遇"
+en = "meet with; encounter; run up against"
+
+[[contextual-study]]
+hz = "主角"
+en = "leading role; lead; protagonist"
+
+[[contextual-study]]
+hz = "供货商"
+en = "supplier; vendor"
+
+[[contextual-study]]
+hz = "发霉"
+en = "to become moldy"
+
+[[contextual-study]]
+hz = "商标"
+en = "trademark"
+
+[[contextual-study]]
+hz = "食人鱼"
+en = "piranha"
+
+[[contextual-study]]
+hz = "梯田"
+en = "terraces"
+
+[[contextual-study]]
+hz = "细菌"
+en = "bacterium; bacteria;bacterial"
+
+[[contextual-study]]
+hz = "预算"
+en = "budget"
+
+[[contextual-study]]
+hz = "流媒体"
+en = "streaming media"
+
+[[contextual-study]]
+hz = "隐私"
+en = "privacy"
+
+[[contextual-study]]
+hz = "麻省理工学院"
+en = "MIT"
+
+[[contextual-study]]
+hz = "富士山"
+en = "Mt. Fuji"
+
+[[contextual-study]]
+hz = "皮纳图博山"
+en = "Mt. Pinatubo"
+
+[[contextual-study]]
+hz = "贫困"
+en = "poverty; impoverished; poor"
+
+[[contextual-study]]
+hz = "贝多芬"
+en = "Beethoven"
+
+[[contextual-study]]
+hz = "雨林"
+en = "rainforest"
+
+[[contextual-study]]
+hz = "平方"
+en = "second power (of a quantity); square"
+
+[[contextual-study]]
+hz = "苏伊士运河"
+en = "Suez Canal"
+
+[[contextual-study]]
+hz = "海底火山"
+en = "submarine volcano"
+
+[[contextual-study]]
+hz = "火山"
+en = "volcano"
+
+[[contextual-study]]
+hz = "火星"
+en = "Mars"
+
+[[contextual-study]]
+hz = "眯眯眼"
+en = "squinted eyes"
+
+[[contextual-study]]
+hz = "虎年"
+en = "Year of the Tiger"
+
+[[contextual-study]]
+hz = "牛年"
+en = "Year of the Ox"
+
+[[contextual-study]]
+hz = "引渡"
+en = "extradite"
+
+[[contextual-study]]
+hz = "瓦楞"
+en = "corrugated"
+
+[[contextual-study]]
+hz = "泄漏"
+en = "to spill; to leak"
+
+[[contextual-study]]
+hz = "物质"
+en = "substance"
+
+[[contextual-study]]
+hz = "幽默感"
+en = "sense of humor"
+
+[[contextual-study]]
+hz = "稳定"
+en = "stable"
+
+[[contextual-study]]
+hz = "签署"
+en = "sign"
+
+[[contextual-study]]
+hz = "支流"
+en = "tributary"
+
+[[contextual-study]]
+hz = "机械"
+en = "machinery"
+
+[[contextual-study]]
+hz = "气温"
+en = "temperature"
+
+[[contextual-study]]
+hz = "紧缩"
+en = "tighten"
+
+[[contextual-study]]
+hz = "悲观"
+en = "pessimistic"
+
+[[contextual-study]]
+hz = "此举"
+en = "this measure/action/move"
+
+[[contextual-study]]
+hz = "加剧"
+en = "aggravate; intensify; exacerbate"
+
+[[contextual-study]]
+hz = "烂尾楼"
+en = "unfinished building"
+
+[[contextual-study]]
+hz = "评估"
+en = "assess"
+
+[[contextual-study]]
+hz = "激进"
+en = "radical"
+
+[[contextual-study]]
+hz = "维修"
+en = "maintain/maintenance"
+
+[[contextual-study]]
+hz = "经营"
+en = "manage; operate; run; engage in"
+
+[[contextual-study]]
+hz = "盂兰盆节"
+en = "Obon Festival"
+
 
 [[favorites]]
 hz = "供应链"
@@ -892,6 +1196,10 @@ hz = "红外"
 en = "infrared"
 
 [[favorites]]
+hz = "摄像头"
+en = "camera"
+
+[[favorites]]
 hz = "二维码"
 en = "QR code"
 
@@ -960,6 +1268,11 @@ hz = "拖拉机"
 en = "tractor"
 
 [[favorites]]
+hz = "纯电动汽车"
+en = "pure electric vehicle"
+
+
+[[favorites]]
 hz = "折纸"
 en = "origami"
 
@@ -994,6 +1307,7 @@ en = "seawater desalination"
 [[favorites]]
 hz = "自动化"
 en = "automation; automated"
+
 
 [[favorites]]
 hz = "验证试验"
@@ -1311,6 +1625,18 @@ en = "polio"
 [[health]]
 hz = "痔疮"
 en = "hemorrhoids"
+
+[[health]]
+hz = "心跳"
+en = "heartbeat; pulse"
+
+[[health]]
+hz = "心律失常"
+en = "arrhythmia"
+
+[[health]]
+hz = "心房颤动"
+en = "atrial fibrillation"
 
 
 [[energy]]
@@ -1753,8 +2079,8 @@ hz = "海参"
 en = "sea cucumber"
 
 [[food-drinks]]
-hz = "雪蟹"
-en = "snow crab"
+hz = "蟹"
+en = "crab"
 
 [[food-drinks]]
 hz = "罗汉果"
@@ -2084,313 +2410,3 @@ en = "pesticide"
 [[commodities_agri]]
 hz = "农业"
 en = "agriculture; farming"
-
-
-[[uncategorized]]
-hz = "现代化工厂"
-en = "modern factories"
-
-[[uncategorized]]
-hz = "缴税"
-en = "pay taxes"
-
-[[uncategorized]]
-hz = "涟漪"
-en = "ripples"
-
-[[uncategorized]]
-hz = "插座"
-en = "socket, outlet "
-
-[[uncategorized]]
-hz = "行为"
-en = "act, behave"
-
-[[uncategorized]]
-hz = "行为科学"
-en = "behavioral science"
-
-[[uncategorized]]
-hz = "召回"
-en = "recall"
-
-[[uncategorized]]
-hz = "证据"
-en = "evidence"
-
-[[uncategorized]]
-hz = "玫瑰花"
-en = "rose"
-
-[[uncategorized]]
-hz = "崭新"
-en = "brand-new; completely-new"
-
-[[uncategorized]]
-hz = "缓解"
-en = "relieve; alleviate"
-
-[[uncategorized]]
-hz = "理会"
-en = "understand; comprehend; take notice of; pay attention to"
-
-[[uncategorized]]
-hz = "尖端"
-en = "most advanced; sophisticated; cutting edge; pointed end"
-
-[[uncategorized]]
-hz = "突破"
-en = "breakthrough; to make a breakthrough"
-
-[[uncategorized]]
-hz = "蔓延"
-en = "spread; stretch; extend; infest"
-
-[[uncategorized]]
-hz = "截至"
-en = "by (a specified time); up to"
-
-[[uncategorized]]
-hz = "摆脱"
-en = "shake off; cast off; break away from"
-
-[[uncategorized]]
-hz = "莎翁"
-en = "Shakespeare"
-
-[[uncategorized]]
-hz = "牛顿"
-en = "Newton"
-
-[[uncategorized]]
-hz = "配备"
-en = "provide (manpower or equipment); equip; fit out; allocate; deploy"
-
-[[uncategorized]]
-hz = "引擎"
-en = "engine"
-
-[[uncategorized]]
-hz = "触发"
-en = "trigger; spark; touch off"
-
-[[uncategorized]]
-hz = "押注"
-en = "to bet; to wager; stake"
-
-[[uncategorized]]
-hz = "波动"
-en = "undulation; fluctuation; (physics) wave motion"
-
-[[uncategorized]]
-hz = "抛售"
-en = "undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price)"
-
-[[uncategorized]]
-hz = "胶囊"
-en = "capsule"
-
-[[uncategorized]]
-hz = "渠道"
-en = "channel; medium of communication; irrigation ditch"
-
-[[uncategorized]]
-hz = "依赖"
-en = "rely on; dependent on"
-
-[[uncategorized]]
-hz = "惊讶"
-en = "surprised;amazed; astonished; astounded"
-
-[[uncategorized]]
-hz = "遭遇"
-en = "meet with; encounter; run up against"
-
-[[uncategorized]]
-hz = "主角"
-en = "leading role; lead; protagonist"
-
-[[uncategorized]]
-hz = "供货商"
-en = "supplier; vendor"
-
-[[uncategorized]]
-hz = "发霉"
-en = "to become moldy"
-
-[[uncategorized]]
-hz = "商标"
-en = "trademark"
-
-[[uncategorized]]
-hz = "食人鱼"
-en = "piranha"
-
-[[uncategorized]]
-hz = "梯田"
-en = "terraces"
-
-[[uncategorized]]
-hz = "细菌"
-en = "bacterium; bacteria;bacterial"
-
-[[uncategorized]]
-hz = "预算"
-en = "budget"
-
-[[uncategorized]]
-hz = "流媒体"
-en = "streaming media"
-
-[[uncategorized]]
-hz = "隐私"
-en = "privacy"
-
-[[uncategorized]]
-hz = "麻省理工学院"
-en = "MIT"
-
-[[uncategorized]]
-hz = "富士山"
-en = "Mt. Fuji"
-
-[[uncategorized]]
-hz = "皮纳图博山"
-en = "Mt. Pinatubo"
-
-[[uncategorized]]
-hz = "贫困"
-en = "poverty; impoverished; poor"
-
-[[uncategorized]]
-hz = "贝多芬"
-en = "Beethoven"
-
-[[uncategorized]]
-hz = "雨林"
-en = "rainforest"
-
-[[uncategorized]]
-hz = "平方"
-en = "second power (of a quantity); square"
-
-[[uncategorized]]
-hz = "苏伊士运河"
-en = "Suez Canal"
-
-[[uncategorized]]
-hz = "纯电动汽车"
-en = "pure electric vehicle"
-
-[[uncategorized]]
-hz = "海底火山"
-en = "submarine volcano"
-
-[[uncategorized]]
-hz = "火山"
-en = "volcano"
-
-[[uncategorized]]
-hz = "火星"
-en = "Mars"
-
-[[uncategorized]]
-hz = "眯眯眼"
-en = "squinted eyes"
-
-[[uncategorized]]
-hz = "虎年"
-en = "Year of the Tiger"
-
-[[uncategorized]]
-hz = "牛年"
-en = "Year of the Ox"
-
-[[uncategorized]]
-hz = "引渡"
-en = "extradite"
-
-[[uncategorized]]
-hz = "瓦楞"
-en = "corrugated"
-
-[[uncategorized]]
-hz = "泄漏"
-en = "to spill; to leak"
-
-[[uncategorized]]
-hz = "物质"
-en = "substance"
-
-[[uncategorized]]
-hz = "幽默感"
-en = "sense of humor"
-
-[[uncategorized]]
-hz = "稳定"
-en = "stable"
-
-[[uncategorized]]
-hz = "签署"
-en = "sign"
-
-[[uncategorized]]
-hz = "支流"
-en = "tributary"
-
-[[uncategorized]]
-hz = "摄像头"
-en = "camera"
-
-[[uncategorized]]
-hz = "机械"
-en = "machinery"
-
-[[uncategorized]]
-hz = "气温"
-en = "temperature"
-
-[[uncategorized]]
-hz = "紧缩"
-en = "tighten"
-
-[[uncategorized]]
-hz = "悲观"
-en = "pessimistic"
-
-[[uncategorized]]
-hz = "此举"
-en = "this measure/action/move"
-
-[[uncategorized]]
-hz = "加剧"
-en = "aggravate; intensify; exacerbate"
-
-[[uncategorized]]
-hz = "烂尾楼"
-en = "unfinished building"
-
-[[uncategorized]]
-hz = "评估"
-en = "assess"
-
-[[uncategorized]]
-hz = "激进"
-en = "radical"
-
-[[uncategorized]]
-hz = "维修"
-en = "maintain/maintenance"
-
-[[uncategorized]]
-hz = "经营"
-en = "manage; operate; run; engage in"
-
-[[uncategorized]]
-hz = "盂兰盆节"
-en = "Obon Festival"
-
-[[uncategorized]]
-hz = "暂缓"
-en = "postpone; defer"
-

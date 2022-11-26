@@ -179,6 +179,81 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [嗅觉](嗅觉.md) | sense of smell |
 | [味觉](味觉.md) | sense of taste |
 | [烟草](烟草.md) | tobacco |
+| [暂缓](暂缓.md) | postpone; defer |
+| [现代化工厂](现代化工厂.md) | modern factories |
+| [缴税](缴税.md) | pay taxes |
+| [涟漪](涟漪.md) | ripples |
+| [插座](插座.md) | socket, outlet  |
+| [行为](行为.md) | act, behave |
+| [行为科学](行为科学.md) | behavioral science |
+| [召回](召回.md) | recall |
+| [证据](证据.md) | evidence |
+| [玫瑰花](玫瑰花.md) | rose |
+| [崭新](崭新.md) | brand-new; completely-new |
+| [缓解](缓解.md) | relieve; alleviate |
+| [理会](理会.md) | understand; comprehend; take notice of; pay attention to |
+| [尖端](尖端.md) | most advanced; sophisticated; cutting edge; pointed end |
+| [突破](突破.md) | breakthrough; to make a breakthrough |
+| [蔓延](蔓延.md) | spread; stretch; extend; infest |
+| [截至](截至.md) | by (a specified time); up to |
+| [摆脱](摆脱.md) | shake off; cast off; break away from |
+| [莎翁](莎翁.md) | Shakespeare |
+| [牛顿](牛顿.md) | Newton |
+| [配备](配备.md) | provide (manpower or equipment); equip; fit out; allocate; deploy |
+| [引擎](引擎.md) | engine |
+| [触发](触发.md) | trigger; spark; touch off |
+| [押注](押注.md) | to bet; to wager; stake |
+| [波动](波动.md) | undulation; fluctuation; (physics) wave motion |
+| [抛售](抛售.md) | undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price) |
+| [胶囊](胶囊.md) | capsule |
+| [渠道](渠道.md) | channel; medium of communication; irrigation ditch |
+| [依赖](依赖.md) | rely on; dependent on |
+| [惊讶](惊讶.md) | surprised;amazed; astonished; astounded |
+| [遭遇](遭遇.md) | meet with; encounter; run up against |
+| [主角](主角.md) | leading role; lead; protagonist |
+| [供货商](供货商.md) | supplier; vendor |
+| [发霉](发霉.md) | to become moldy |
+| [商标](商标.md) | trademark |
+| [食人鱼](食人鱼.md) | piranha |
+| [梯田](梯田.md) | terraces |
+| [细菌](细菌.md) | bacterium; bacteria;bacterial |
+| [预算](预算.md) | budget |
+| [流媒体](流媒体.md) | streaming media |
+| [隐私](隐私.md) | privacy |
+| [麻省理工学院](麻省理工学院.md) | MIT |
+| [富士山](富士山.md) | Mt. Fuji |
+| [皮纳图博山](皮纳图博山.md) | Mt. Pinatubo |
+| [贫困](贫困.md) | poverty; impoverished; poor |
+| [贝多芬](贝多芬.md) | Beethoven |
+| [雨林](雨林.md) | rainforest |
+| [平方](平方.md) | second power (of a quantity); square |
+| [苏伊士运河](苏伊士运河.md) | Suez Canal |
+| [海底火山](海底火山.md) | submarine volcano |
+| [火山](火山.md) | volcano |
+| [火星](火星.md) | Mars |
+| [眯眯眼](眯眯眼.md) | squinted eyes |
+| [虎年](虎年.md) | Year of the Tiger |
+| [牛年](牛年.md) | Year of the Ox |
+| [引渡](引渡.md) | extradite |
+| [瓦楞](瓦楞.md) | corrugated |
+| [泄漏](泄漏.md) | to spill; to leak |
+| [物质](物质.md) | substance |
+| [幽默感](幽默感.md) | sense of humor |
+| [稳定](稳定.md) | stable |
+| [签署](签署.md) | sign |
+| [支流](支流.md) | tributary |
+| [机械](机械.md) | machinery |
+| [气温](气温.md) | temperature |
+| [紧缩](紧缩.md) | tighten |
+| [悲观](悲观.md) | pessimistic |
+| [此举](此举.md) | this measure/action/move |
+| [加剧](加剧.md) | aggravate; intensify; exacerbate |
+| [烂尾楼](烂尾楼.md) | unfinished building |
+| [评估](评估.md) | assess |
+| [激进](激进.md) | radical |
+| [维修](维修.md) | maintain/maintenance |
+| [经营](经营.md) | manage; operate; run; engage in |
+| [盂兰盆节](盂兰盆节.md) | Obon Festival |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -266,6 +341,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [销售额](销售额.md) | sales (volume) |
 | [合资企业](合资企业.md) | joint venture |
 | [国内生产总值](国内生产总值.md) | GDP |
+| [兼职](兼职.md) | part-time job; hold several jobs at once |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -350,6 +426,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [传感器](传感器.md) | sensor |
 | [激光雷达](激光雷达.md) | lidar |
 | [红外](红外.md) | infrared |
+| [摄像头](摄像头.md) | camera |
 | [二维码](二维码.md) | QR code |
 | [零部件](零部件.md) | parts and components |
 | [机床](机床.md) | machine tools |
@@ -367,6 +444,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [液压挖掘机](液压挖掘机.md) | hydraulic excavator |
 | [叉车](叉车.md) | forklift |
 | [拖拉机](拖拉机.md) | tractor |
+| [纯电动汽车](纯电动汽车.md) | pure electric vehicle |
 | [折纸](折纸.md) | origami |
 | [铁臂阿童木](铁臂阿童木.md) | Astro Boy |
 | [小行星](小行星.md) | asteroid |
@@ -419,7 +497,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [石斑鱼](石斑鱼.md) | grouper |
 | [扇贝](扇贝.md) | scallop |
 | [海参](海参.md) | sea cucumber |
-| [雪蟹](雪蟹.md) | snow crab |
+| [蟹](蟹.md) | crab |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
@@ -499,6 +577,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [猴痘](猴痘.md) | Monkeypox |
 | [脊髓灰质](脊髓灰质.md) | polio |
 | [痔疮](痔疮.md) | hemorrhoids |
+| [心跳](心跳.md) | heartbeat; pulse |
+| [心律失常](心律失常.md) | arrhythmia |
+| [心房颤动](心房颤动.md) | atrial fibrillation |
 ## Idioms
 |  |  |
 | ----- | :---: |
@@ -560,83 +641,3 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [加利福尼亚](加利福尼亚.md) | California |
 | [得克萨斯](得克萨斯.md) | Texas |
 | [佛罗里达](佛罗里达.md) | Florida |
-## Uncategorized
-|  |  |
-| ----- | :---: |
-| [现代化工厂](现代化工厂.md) | modern factories |
-| [缴税](缴税.md) | pay taxes |
-| [涟漪](涟漪.md) | ripples |
-| [插座](插座.md) | socket, outlet  |
-| [行为](行为.md) | act, behave |
-| [行为科学](行为科学.md) | behavioral science |
-| [召回](召回.md) | recall |
-| [证据](证据.md) | evidence |
-| [玫瑰花](玫瑰花.md) | rose |
-| [崭新](崭新.md) | brand-new; completely-new |
-| [缓解](缓解.md) | relieve; alleviate |
-| [理会](理会.md) | understand; comprehend; take notice of; pay attention to |
-| [尖端](尖端.md) | most advanced; sophisticated; cutting edge; pointed end |
-| [突破](突破.md) | breakthrough; to make a breakthrough |
-| [蔓延](蔓延.md) | spread; stretch; extend; infest |
-| [截至](截至.md) | by (a specified time); up to |
-| [摆脱](摆脱.md) | shake off; cast off; break away from |
-| [莎翁](莎翁.md) | Shakespeare |
-| [牛顿](牛顿.md) | Newton |
-| [配备](配备.md) | provide (manpower or equipment); equip; fit out; allocate; deploy |
-| [引擎](引擎.md) | engine |
-| [触发](触发.md) | trigger; spark; touch off |
-| [押注](押注.md) | to bet; to wager; stake |
-| [波动](波动.md) | undulation; fluctuation; (physics) wave motion |
-| [抛售](抛售.md) | undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price) |
-| [胶囊](胶囊.md) | capsule |
-| [渠道](渠道.md) | channel; medium of communication; irrigation ditch |
-| [依赖](依赖.md) | rely on; dependent on |
-| [惊讶](惊讶.md) | surprised;amazed; astonished; astounded |
-| [遭遇](遭遇.md) | meet with; encounter; run up against |
-| [主角](主角.md) | leading role; lead; protagonist |
-| [供货商](供货商.md) | supplier; vendor |
-| [发霉](发霉.md) | to become moldy |
-| [商标](商标.md) | trademark |
-| [食人鱼](食人鱼.md) | piranha |
-| [梯田](梯田.md) | terraces |
-| [细菌](细菌.md) | bacterium; bacteria;bacterial |
-| [预算](预算.md) | budget |
-| [流媒体](流媒体.md) | streaming media |
-| [隐私](隐私.md) | privacy |
-| [麻省理工学院](麻省理工学院.md) | MIT |
-| [富士山](富士山.md) | Mt. Fuji |
-| [皮纳图博山](皮纳图博山.md) | Mt. Pinatubo |
-| [贫困](贫困.md) | poverty; impoverished; poor |
-| [贝多芬](贝多芬.md) | Beethoven |
-| [雨林](雨林.md) | rainforest |
-| [平方](平方.md) | second power (of a quantity); square |
-| [苏伊士运河](苏伊士运河.md) | Suez Canal |
-| [纯电动汽车](纯电动汽车.md) | pure electric vehicle |
-| [海底火山](海底火山.md) | submarine volcano |
-| [火山](火山.md) | volcano |
-| [火星](火星.md) | Mars |
-| [眯眯眼](眯眯眼.md) | squinted eyes |
-| [虎年](虎年.md) | Year of the Tiger |
-| [牛年](牛年.md) | Year of the Ox |
-| [引渡](引渡.md) | extradite |
-| [瓦楞](瓦楞.md) | corrugated |
-| [泄漏](泄漏.md) | to spill; to leak |
-| [物质](物质.md) | substance |
-| [幽默感](幽默感.md) | sense of humor |
-| [稳定](稳定.md) | stable |
-| [签署](签署.md) | sign |
-| [支流](支流.md) | tributary |
-| [摄像头](摄像头.md) | camera |
-| [机械](机械.md) | machinery |
-| [气温](气温.md) | temperature |
-| [紧缩](紧缩.md) | tighten |
-| [悲观](悲观.md) | pessimistic |
-| [此举](此举.md) | this measure/action/move |
-| [加剧](加剧.md) | aggravate; intensify; exacerbate |
-| [烂尾楼](烂尾楼.md) | unfinished building |
-| [评估](评估.md) | assess |
-| [激进](激进.md) | radical |
-| [维修](维修.md) | maintain/maintenance |
-| [经营](经营.md) | manage; operate; run; engage in |
-| [盂兰盆节](盂兰盆节.md) | Obon Festival |
-| [暂缓](暂缓.md) | postpone; defer |
