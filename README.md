@@ -9,7 +9,7 @@ These are the two markdown files that contain my lists of curated vocabulary wor
 
 1. [words_curated_study_list.md](cards_hanzi_words/words_curated_study_list.md)
    
-   A subset of curated words with their English defintions. The words here are also categorized.
+   A subset of curated words with their English definitions. The words here are also categorized.
 
 2. [words_tweets_stats.md](cards_hanzi_words/words_tweets_stats.md).
    
