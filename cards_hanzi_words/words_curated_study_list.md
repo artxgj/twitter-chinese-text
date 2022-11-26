@@ -254,6 +254,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [维修](维修.md) | maintain/maintenance |
 | [经营](经营.md) | manage; operate; run; engage in |
 | [盂兰盆节](盂兰盆节.md) | Obon Festival |
+| [优化](优化.md) | to optimise; to make better or excellent |
+| [张忠谋](张忠谋.md) | Morris Chang |
+| [一体化](一体化.md) | to unify; to integrate |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
