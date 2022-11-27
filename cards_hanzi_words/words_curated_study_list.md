@@ -98,7 +98,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Computing/Digital
 |  |  |
 | ----- | :---: |
-| [互联网](互联网.md) | Internet |
+| [厄瓜多尔](厄瓜多尔.md) | Internet |
 | [线上](线上.md) | online |
 | [元宇宙](元宇宙.md) | metaverse |
 | [数码化](数码化.md) | digitize; digitalize |
@@ -646,10 +646,43 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [黑山](黑山.md) | Montenegro |
 | [卡帕多奇亚](卡帕多奇亚.md) | Cappadocia |
 | [布基纳法索](布基纳法索.md) | Burkina Faso |
-| [阿根廷](阿根廷.md) | Argentina |
-| [哥斯达黎加](哥斯达黎加.md) | Costa Rica |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [得克萨斯](得克萨斯.md) | Texas |
 | [亚利桑那州](亚利桑那州.md) | Arizona |
 | [佛罗里达](佛罗里达.md) | Florida |
+## World Cup 2022 Countries
+|  |  |
+| ----- | :---: |
+| [卡塔尔](卡塔尔.md) | Qatar |
+| [厄瓜多尔](厄瓜多尔.md) | Ecuador |
+| [塞内加尔](塞内加尔.md) | Senegal |
+| [荷兰](荷兰.md) | Netherlands |
+| [英格兰](英格兰.md) | England |
+| [伊朗](伊朗.md) | Iran |
+| [美国](美国.md) | United States |
+| [威尔士](威尔士.md) | Wales |
+| [阿根廷](阿根廷.md) | Argentina |
+| [沙特阿拉伯](沙特阿拉伯.md) | Saudi Arabia |
+| [墨西哥](墨西哥.md) | Mexico |
+| [波兰](波兰.md) | Poland |
+| [法国](法国.md) | France |
+| [澳大利亚](澳大利亚.md) | Australia |
+| [丹麦](丹麦.md) | Denmark |
+| [突尼斯](突尼斯.md) | Tunisia |
+| [西班牙](西班牙.md) | Spain |
+| [哥斯达黎加](哥斯达黎加.md) | Costa Rica |
+| [德国](德国.md) | Germany |
+| [日本](日本.md) | Japan |
+| [比利时](比利时.md) | Belgium |
+| [加拿大](加拿大.md) | Canada |
+| [摩洛哥](摩洛哥.md) | Morocco |
+| [克罗地亚](克罗地亚.md) | Croatia |
+| [巴西](巴西.md) | Brazil |
+| [塞尔维亚](塞尔维亚.md) | Serbia |
+| [瑞士](瑞士.md) | Switzerland |
+| [喀麦隆](喀麦隆.md) | Cameroon |
+| [葡萄牙](葡萄牙.md) | Portugal |
+| [加纳](加纳.md) | Ghana |
+| [乌拉圭](乌拉圭.md) | Uruguay |
+| [韩国](韩国.md) | South Korea |

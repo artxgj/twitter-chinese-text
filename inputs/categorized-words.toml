@@ -17,6 +17,7 @@ commodities_agri = "Commodities (Agriculture)"
 idioms = "Idioms"
 capital-markets = "Capital Markets/Venture Capital Terms"
 currency-money-tech = "Currency, Money, and Digital Technology"
+world-cup-2022 = "World Cup 2022 Countries"
 
 
 [[capital-markets]]
@@ -441,6 +442,1530 @@ en = "part-time job; hold several jobs at once"
 [[economy-markets]]
 hz = "电商"
 en = "e-commerce"
+
+
+[[favorites]]
+hz = "供应链"
+en = "supply chain"
+
+[[favorites]]
+hz = "港口"
+en = "port"
+
+[[favorites]]
+hz = "物流"
+en = "logistics"
+
+[[favorites]]
+hz = "箱船"
+en = "container ship"
+
+[[favorites]]
+hz = "集装箱"
+en = "container (for shipping)"
+
+[[favorites]]
+hz = "散货船"
+en = "bulk freighter"
+
+[[favorites]]
+hz = "航线"
+en = "air or shipping line; route; course"
+
+[[favorites]]
+hz = "吞吐量"
+en = "handling capacity (of a harbour); the volume of freight handled"
+
+[[favorites]]
+hz = "航运"
+en = "shipping; transport"
+
+[[favorites]]
+hz = "仓库"
+en = "warehouse"
+
+[[favorites]]
+hz = "半导体"
+en = "semiconductor"
+
+[[favorites]]
+hz = "芯片"
+en = "chip"
+
+[[favorites]]
+hz = "纳米"
+en = "nanometer"
+
+[[favorites]]
+hz = "摩尔定律"
+en = "Moore’s Law"
+
+[[favorites]]
+hz = "堆叠"
+en = "stack (as in 3D stacking)"
+
+[[favorites]]
+hz = "后工序"
+en = "post-process"
+
+[[favorites]]
+hz = "陶瓷"
+en = "ceramics; porcelein"
+
+[[favorites]]
+hz = "晶体管"
+en = "transistor"
+
+[[favorites]]
+hz = "晶圆"
+en = "wafer"
+
+[[favorites]]
+hz = "晶片"
+en = "wafer; chip"
+
+[[favorites]]
+hz = "逻辑"
+en = "logic"
+
+[[favorites]]
+hz = "液晶"
+en = "liquid crystal"
+
+[[favorites]]
+hz = "多晶硅"
+en = "polycrystalline silicon"
+
+[[favorites]]
+hz = "模拟"
+en = "analog; simulation; to simulate"
+
+[[favorites]]
+hz = "量子"
+en = "quantum"
+
+[[favorites]]
+hz = "波长"
+en = "wavelength"
+
+[[favorites]]
+hz = "微波"
+en = "microwave"
+
+[[favorites]]
+hz = "滤波器"
+en = "wave filter"
+
+[[favorites]]
+hz = "光合作用"
+en = "photosynthesis"
+
+[[favorites]]
+hz = "光子"
+en = "photon"
+
+[[favorites]]
+hz = "光伏"
+en = "photovoltaic"
+
+[[favorites]]
+hz = "光刻"
+en = "lithography"
+
+[[favorites]]
+hz = "光纤"
+en = "optical fiber"
+
+[[favorites]]
+hz = "发光二极管"
+en = "LED"
+
+[[favorites]]
+hz = "电磁"
+en = "electromagnetic; electromagnetism"
+
+[[favorites]]
+hz = "电池"
+en = "battery"
+
+[[favorites]]
+hz = "锂离子电池单元"
+en = "lithium ion battery cell"
+
+[[favorites]]
+hz = "稀土"
+en = "rare earth"
+
+[[favorites]]
+hz = "微细化"
+en = "miniaturization"
+
+[[favorites]]
+hz = "小型化"
+en = "miniaturization"
+
+[[favorites]]
+hz = "传感器"
+en = "sensor"
+
+[[favorites]]
+hz = "激光雷达"
+en = "lidar"
+
+[[favorites]]
+hz = "红外"
+en = "infrared"
+
+[[favorites]]
+hz = "摄像头"
+en = "camera"
+
+[[favorites]]
+hz = "二维码"
+en = "QR code"
+
+[[favorites]]
+hz = "零部件"
+en = "parts and components"
+
+[[favorites]]
+hz = "机床"
+en = "machine tools"
+
+[[favorites]]
+hz = "螺丝"
+en = "screws"
+
+[[favorites]]
+hz = "基础设施"
+en = "infrastructure"
+
+[[favorites]]
+hz = "塑料"
+en = "plastic"
+
+[[favorites]]
+hz = "纤维素纳米纤维"
+en = "cellulose nanofibers"
+
+[[favorites]]
+hz = "氨基酸"
+en = "amino acids"
+
+[[favorites]]
+hz = "蛋白质"
+en = "protein"
+
+[[favorites]]
+hz = "信使核糖核酸"
+en = "mRNA"
+
+[[favorites]]
+hz = "尼安德特人"
+en = "neanderthal"
+
+[[favorites]]
+hz = "恐龙"
+en = "dinosaur "
+
+[[favorites]]
+hz = "鱼龙"
+en = "ichthyosaur"
+
+[[favorites]]
+hz = "千足虫"
+en = "millipede"
+
+[[favorites]]
+hz = "液压挖掘机"
+en = "hydraulic excavator"
+
+[[favorites]]
+hz = "叉车"
+en = "forklift"
+
+[[favorites]]
+hz = "拖拉机"
+en = "tractor"
+
+[[favorites]]
+hz = "纯电动汽车"
+en = "pure electric vehicle"
+
+
+[[favorites]]
+hz = "折纸"
+en = "origami"
+
+[[favorites]]
+hz = "铁臂阿童木"
+en = "Astro Boy"
+
+[[favorites]]
+hz = "小行星"
+en = "asteroid"
+
+[[favorites]]
+hz = "宇宙"
+en = "universe; cosmos; space; void"
+
+[[favorites]]
+hz = "望远镜"
+en = "telescope"
+
+[[favorites]]
+hz = "闭路"
+en = "closed-circuit"
+
+[[favorites]]
+hz = "熔岩"
+en = "lava"
+
+[[favorites]]
+hz = "海水淡化"
+en = "seawater desalination"
+
+[[favorites]]
+hz = "自动化"
+en = "automation; automated"
+
+[[favorites]]
+hz = "验证试验"
+en = "verification test; demonstration test"
+
+[[favorites]]
+hz = "农历新年"
+en = "Chinese/Lunar New Year"
+
+[[favorites]]
+hz = "春节"
+en = "Spring Festival; Chinese New Year"
+
+[[favorites]]
+hz = "中秋"
+en = "Mid-Autumn"
+
+[[favorites]]
+hz = "圣诞"
+en = "Christmas"
+
+[[favorites]]
+hz = "曙光"
+en = "first light of morning; dawn"
+
+[[favorites]]
+hz = "尾部风险"
+en = "tail risk"
+
+[[favorite]]
+hz = "光伏"
+en = "photovoltaic"
+
+[[favorites]]
+hz = "电压"
+en = "voltage"
+
+[[favorites]]
+hz = "电流"
+en = "electric current"
+
+[[favorites]]
+hz = "不可抗力"
+en = "force majeure"
+
+[[favorites]]
+hz = "基因組"
+en = "genome"
+
+[[favorites]]
+hz = "克隆"
+en = "clone"
+
+[[favorites]]
+hz = "北溪"
+en = "Nord Stream"
+
+[[favorites]]
+hz = "美国太空总署"
+en = "NASA"
+
+[[favorite]]
+hz = "细胞"
+en = "cells"
+
+[[favorites]]
+hz = "北极"
+en = "Arctic/North Pole"
+
+[[favorites]]
+hz = "涡轮机"
+en = "turbine"
+
+
+[[health]]
+hz = "新型冠状病毒"
+en = "novel coronavirus"
+
+[[health]]
+hz = "冠病病毒"
+en = "coronavirus"
+
+[[health]]
+hz = "冠病疫苗"
+en = "coronavirus vaccine"
+
+[[health]]
+hz = "德尔塔变异毒株"
+en = "delta mutant strain"
+
+[[health]]
+hz = "奥密克戎变种"
+en = "omicron variant"
+
+[[health]]
+hz = "症状"
+en = "symptoms"
+
+[[health]]
+hz = "出现症状前"
+en = "presymptomatic"
+
+[[health]]
+hz = "无症状"
+en = "asymptomatic"
+
+[[health]]
+hz = "大流行"
+en = "pandemic"
+
+[[health]]
+hz = "疫情"
+en = "epidemic"
+
+[[health]]
+hz = "流行病学"
+en = "epidemiology"
+
+[[health]]
+hz = "病毒学家"
+en = "virologist"
+
+[[health]]
+hz = "暴发"
+en = "outbreak"
+
+[[health]]
+hz = "住院"
+en = "hospitalization"
+
+[[health]]
+hz = "核酸检测"
+en = "nucleic acid test"
+
+[[health]]
+hz = "氧气"
+en = "oxygen (gas)"
+
+[[health]]
+hz = "飞沫"
+en = "droplet"
+
+[[health]]
+hz = "气溶胶"
+en = "aerosol"
+
+[[health]]
+hz = "感冒"
+en = "cold"
+
+[[health]]
+hz = "流感"
+en = "flu"
+
+[[health]]
+hz = "感染"
+en = "infection"
+
+[[health]]
+hz = "传染性"
+en = "infectiousness; contagiousness; contagion"
+
+[[health]]
+hz = "病例"
+en = "case (medical)"
+
+[[health]]
+hz = "隔离"
+en = "isolate"
+
+[[health]]
+hz = "检疫隔离"
+en = "quarantine"
+
+[[health]]
+hz = "口罩"
+en = "surgical mask"
+
+[[health]]
+hz = "核酸检测"
+en = "nucleic acid testing"
+
+[[health]]
+hz = "聚合酶链式反应"
+en = "polymerase chain reaction"
+
+[[health]]
+hz = "群体免疫力"
+en = "herd immunity"
+
+[[health]]
+hz = "心肌炎"
+en = "myocarditis"
+
+[[health]]
+hz = "心包炎"
+en = "pericarditis"
+
+[[health]]
+hz = "心脏病"
+en = "heart disease; cardiopathy"
+
+[[health]]
+hz = "胆固醇"
+en = "cholesterol"
+
+[[health]]
+hz = "腺病毒"
+en = "adenovirus"
+
+[[health]]
+hz = "免疫缺陷"
+en = "immunodeficiency"
+
+[[health]]
+hz = "脑雾"
+en = "brain fog"
+
+[[health]]
+hz = "脑血栓"
+en = "cerebral thrombus"
+
+[[health]]
+hz = "血清"
+en = "(blood) serum"
+
+[[health]]
+hz = "血压"
+en = "blood pressure"
+
+[[health]]
+hz = "血栓"
+en = "blood clot; thrombus"
+
+[[health]]
+hz = "血糖"
+en = "blood sugar"
+
+[[health]]
+hz = "血癌"
+en = "leukemia"
+
+[[health]]
+hz = "白血球"
+en = "white blood cell"
+
+[[health]]
+hz = "糖尿病"
+en = "diabetes"
+
+[[health]]
+hz = "癌症"
+en = "cancer"
+
+[[health]]
+hz = "瘤"
+en = "tumor"
+
+[[health]]
+hz = "放疗"
+en = "radiotherapy"
+
+[[health]]
+hz = "抗体"
+en = "antibodies"
+
+[[health]]
+hz = "重症"
+en = "acute; grave"
+
+[[health]]
+hz = "疾病"
+en = "disease; illness"
+
+[[health]]
+hz = "禽流感"
+en = "bird flu"
+
+[[health]]
+hz = "阿尔茨海默"
+en = "Alzheimer"
+
+[[health]]
+hz = "肥胖症"
+en = "obesity"
+
+[[health]]
+hz = "白内障"
+en = "cataract"
+
+[[health]]
+hz = "医疗"
+en = "medical or surgical treatment; therapy"
+
+[[health]]
+hz = "治疗"
+en = "to treat(an illness); medical treatment; therapy"
+
+[[health]]
+hz = "痊愈"
+en = "fully recover from an illness; completely cured/recovered"
+
+[[health]]
+hz = "护士"
+en = "nurse"
+
+[[health]]
+hz = "猴痘"
+en = "Monkeypox"
+
+[[health]]
+hz = "脊髓灰质"
+en = "polio"
+
+[[health]]
+hz = "痔疮"
+en = "hemorrhoids"
+
+[[health]]
+hz = "心跳"
+en = "heartbeat; pulse"
+
+[[health]]
+hz = "心律失常"
+en = "arrhythmia"
+
+[[health]]
+hz = "心房颤动"
+en = "atrial fibrillation"
+
+
+[[energy]]
+hz = "天然气"
+en = "natural gas"
+
+[[energy]]
+hz = "液化天然气"
+en = "LNG"
+
+[[energy]]
+hz = "燃料"
+en = "fuel"
+
+[[energy]]
+hz = "化石"
+en = "fossil"
+
+[[energy]]
+hz = "石油"
+en = "oil/petroleum"
+
+[[energy]]
+hz = "原油"
+en = "crude oil"
+
+[[energy]]
+hz = "柴油"
+en = "diesel oil"
+
+[[energy]]
+hz = "油砂"
+en = "oil sands"
+
+[[energy]]
+hz = "煤炭"
+en = "coal"
+
+[[energy]]
+hz = "核能"
+en = "nuclear energy"
+
+[[energy]]
+hz = "脱碳"
+en = "decarbonization"
+
+[[energy]]
+hz = "温室气体"
+en = "greenhouse gas"
+
+[[energy]]
+hz = "净零排放"
+en = "net zero emissions"
+
+[[energy]]
+hz = "可再生能源"
+en = "renewable energy"
+
+[[energy]]
+hz = "臭氧"
+en = "ozone"
+
+[[energy]]
+hz = "污染"
+en = "pollution"
+
+
+[[chemistry]]
+hz = "原子"
+en = "atom"
+
+[[chemistry]]
+hz = "离子"
+en = "ion"
+
+[[chemistry]]
+hz = "氢"
+en = "hydrogen"
+
+[[chemistry]]
+hz = "氦"
+en = "helium"
+
+[[chemistry]]
+hz = "锂"
+en = "lithium"
+
+[[chemistry]]
+hz = "碳"
+en = "carbon"
+
+[[chemistry]]
+hz = "氮"
+en = "nitrogen"
+
+[[chemistry]]
+hz = "钠"
+en = "sodium"
+
+[[chemistry]]
+hz = "镁"
+en = "magnesium"
+
+[[chemistry]]
+hz = "铝"
+en = "aluminum"
+
+[[chemistry]]
+hz = "硅"
+en = "silicon"
+
+[[chemistry]]
+hz = "硫"
+en = "sulfur"
+
+[[chemistry]]
+hz = "氯"
+en = "chlorine"
+
+[[chemistry]]
+hz = "钾"
+en = "potassium"
+
+[[chemistry]]
+hz = "钛"
+en = "titanium"
+
+[[chemistry]]
+hz = "钴"
+en = "cobalt"
+
+[[chemistry]]
+hz = "镍"
+en = "nickel"
+
+[[chemistry]]
+hz = "铜"
+en = "copper"
+
+[[chemistry]]
+hz = "锌"
+en = "zinc"
+
+[[chemistry]]
+hz = "镓"
+en = "gallium"
+
+[[chemistry]]
+hz = "锗"
+en = "germanium"
+
+[[chemistry]]
+hz = "铟"
+en = "indium"
+
+[[chemistry]]
+hz = "釕"
+en = "ruthenium"
+
+[[chemistry]]
+hz = "铑"
+en = "rhodium"
+
+[[chemistry]]
+hz = "钯"
+en = "palladium"
+
+[[chemistry]]
+hz = "钕"
+en = "neodynium"
+
+[[chemistry]]
+hz = "镝"
+en = "dysprosium"
+
+[[chemistry]]
+hz = "白金"
+en = "platinum"
+
+[[chemistry]]
+hz = "铅"
+en = "lead"
+
+[[chemistry]]
+hz = "鐳"
+en = "radium"
+
+[[chemistry]]
+hz = "锕"
+en = "actinium"
+
+[[chemistry]]
+hz = "钍"
+en = "thorium"
+
+[[chemistry]]
+hz = "铀"
+en = "uranium"
+
+[[chemistry]]
+hz = "二氧化碳"
+en = "carbon dioxide"
+
+[[chemistry]]
+hz = "一氧化二氮"
+en = "nitrous oxide"
+
+[[chemistry]]
+hz = "氨"
+en = "ammonia"
+
+[[chemistry]]
+hz = "甲烷"
+en = "methane"
+
+[[chemistry]]
+hz = "磷酸"
+en = "phosphoric acid"
+
+[[chemistry]]
+hz = "石墨烯"
+en = "graphene"
+
+[[chemistry]]
+hz = "铁矿石"
+en = "iron ore"
+
+[[chemistry]]
+hz = "锂矿石"
+en = "lithium ore"
+
+[[chemistry]]
+hz = "磷酸铁锂"
+en = "lithium iron phosphate"
+
+[[chemistry]]
+hz = "钴酸锂"
+en = "lithium cobalt oxide"
+
+[[chemistry]]
+hz = "钛酸锂"
+en = "lithium titanate"
+
+[[chemistry]]
+hz = "氧化钛"
+en = "titanium oxide"
+
+[[chemistry]]
+hz = "碳化硅"
+en = "silicon carbide"
+
+[[chemistry]]
+hz = "氮化镓"
+en = "gallium nitride"
+
+[[chemisry]]
+hz = "氯化钾"
+en = "potassium chloride"
+
+[[chemistry]]
+hz = "异丙醇"
+en = "isopropanol"
+
+[[chemistry]]
+hz = "尿素"
+en = "urea"
+
+[[chemistry]]
+hz = "钙钛矿"
+en = "perovskite"
+
+[[chemistry]]
+hz = "钛合金"
+en = "titanium alloy"
+
+[[chemistry]]
+hz = "钢铁"
+en = "steel"
+
+[[chemistry]]
+hz = "乳酸"
+en = "lactic acid"
+
+[[chemistry]]
+hz = "葡萄糖"
+en = "glucose"
+
+[[chemistry]]
+hz = "蒸馏"
+en = "distil; distillation"
+
+[[chemistry]]
+hz = "聚丙烯"
+en = "polypropylene"
+
+[[chemistry]]
+hz = "氢氰酸"
+en = "Hydrocyanic acid"
+
+[[chemistry]]
+hz = "环氧乙烷"
+en = "ethylene oxide"
+
+[[marine]]
+hz = "海胆"
+en = "sea urchin"
+
+[[marine]]
+hz = "海藻"
+en = "seaweed"
+
+[[marine]]
+hz = "海狮"
+en = "sea lion"
+
+[[marine]]
+hz = "海豚"
+en = "dolphin"
+
+[[marine]]
+hz = "鲨鱼"
+en = "shark"
+
+[[marine]]
+hz = "鲸"
+en = "whale"
+
+[[marine]]
+hz = "黑露脊鲸"
+en = "black right whale"
+
+[[marine]]
+hz = "章鱼"
+en = "octopus"
+
+[[marine]]
+hz = "堡礁"
+en = "barrier reef"
+
+[[marine]]
+hz = "鳄鱼"
+en = "crocodile; alligator"
+
+
+[[food-drinks]]
+hz = "烧猪"
+en = "lechon; roast pig"
+
+[[food-drinks]]
+hz = "肉骨茶"
+en = "bak-kut-teh; pork ribs soup"
+
+[[food-drinks]]
+hz = "炒粿条"
+en = "char kway teow"
+
+[[food-drinks]]
+hz = "水粿"
+en = "chwee kueh"
+
+[[food-drinks]]
+hz = "叻沙"
+en = "laksa"
+
+[[food-drinks]]
+hz = "椰浆饭"
+en = "nasi lemak; lit. coconut milk rice"
+
+[[food-drinks]]
+hz = "沙爹"
+en = "satay"
+
+[[food-drinks]]
+hz = "海南鸡饭"
+en = "Hainanese chicken rice"
+
+[[food-drinks]]
+hz = "清汤"
+en = "clear soup"
+
+[[food-drinks]]
+hz = "咖椰"
+en = "kaya; coconut jam"
+
+[[food-drinks]]
+hz = "烤面包"
+en = "toast"
+
+[[food-drinks]]
+hz = "肉脞面"
+en = "minced pork noodles"
+
+[[food-drinks]]
+hz = "拉面"
+en = "ramen"
+
+[[food-drinks]]
+hz = "乌冬面"
+en = "udon noodles"
+
+[[food-drinks]]
+hz = "牛肉饭"
+en = "beef rice"
+
+[[food-drinks]]
+hz = "咖喱饭"
+en = "curry rice"
+
+[[food-drinks]]
+hz = "饺子"
+en = "dumplings"
+
+[[food-drinks]]
+hz = "寿司"
+en = "sushi"
+
+[[food-drinks]]
+hz = "金枪鱼"
+en = "tuna"
+
+[[food-drinks]]
+hz = "鲣鱼"
+en = "oceanic bonito; skipjack (tuna)"
+
+[[food-drinks]]
+hz = "鳗鱼"
+en = "eel"
+
+[[food-drinks]]
+hz = "石斑鱼"
+en = "grouper"
+
+[[food-drinks]]
+hz = "扇贝"
+en = "scallop"
+
+[[food-drinks]]
+hz = "海参"
+en = "sea cucumber"
+
+[[food-drinks]]
+hz = "蟹"
+en = "crab"
+
+[[food-drinks]]
+hz = "罗汉果"
+en = "mangosteen"
+
+[[food-drinks]]
+hz = "榴梿"
+en = "durian"
+
+[[food-drinks]]
+hz = "凤梨"
+en = "pineapple"
+
+[[food-drinks]]
+hz = "月饼"
+en = "mooncake"
+
+[[food-drinks]]
+hz = "红薯"
+en = "sweet potato"
+
+[[food-drinks]]
+hz = "薯条"
+en = "french fries; chips"
+
+[[food-drinks]]
+hz = "薯片"
+en = "potato chips"
+
+[[food-drinks]]
+hz = "披萨"
+en = "pizza"
+
+[[food-drinks]]
+hz = "咖啡"
+en = "coffee"
+
+[[food-drinks]]
+hz = "奶茶"
+en = "milk tea"
+
+[[food-drinks]]
+hz = "啤酒"
+en = "beer"
+
+[[food-drinks]]
+hz = "葡萄酒"
+en = "wine"
+
+[[food-drinks]]
+hz = "清酒"
+en = "sake"
+
+[[food-drinks]]
+hz = "威士忌"
+en = "whiskey"
+
+[[food-drinks]]
+hz = "香槟"
+en = "champagne"
+
+
+[[places]]
+hz = "菲律宾"
+en = "Philippines"
+
+[[places]]
+hz = "马尼拉"
+en = "Manila"
+
+[[places]]
+hz = "槟城"
+en = "Penang"
+
+[[places]]
+hz = "峇厘岛"
+en = "Bali"
+
+[[places]]
+hz = "东南亚"
+en = "Southeast Asia"
+
+[[places]]
+hz = "斯里兰卡"
+en = "Sri Lanka"
+
+[[places]]
+hz = "福建"
+en = "Hokkien (Fujian in Mandarin)"
+
+[[places]]
+hz = "北海道"
+en = "Hokkaido"
+
+[[places]]
+hz = "冲绳"
+en = "Okinawa"
+
+[[places]]
+hz = "广岛"
+en = "Hiroshima"
+
+[[places]]
+hz = "汤加"
+en = "Tonga"
+
+[[places]]
+hz = "哈萨克斯坦"
+en = "Kazakhstan"
+
+[[places]]
+hz = "俄罗斯"
+en = "Russia"
+
+[[places]]
+hz = "莫斯科"
+en = "Moscow"
+
+[[places]]
+hz = "雷克雅未克"
+en = "Reykjavik"
+
+[[places]]
+hz = "冰岛"
+en = "Iceland"
+
+[[places]]
+hz = "格陵兰"
+en = "Greenland"
+
+[[places]]
+hz = "苏格兰"
+en = "Scotland"
+
+[[places]]
+hz = "黑山"
+en = "Montenegro"
+
+[[places]]
+hz = "卡帕多奇亚"
+en = "Cappadocia"
+
+[[places]]
+hz = "布基纳法索"
+en = "Burkina Faso"
+
+[[places]]
+hz = "加拉帕戈斯群岛"
+en = "Galapagos Islands"
+
+[[places]]
+hz = "加利福尼亚"
+en = "California"
+
+[[places]]
+hz = "得克萨斯"
+en = "Texas"
+
+[[places]]
+hz = "亚利桑那州"
+en = "Arizona"
+
+[[places]]
+hz = "佛罗里达"
+en = "Florida"
+
+
+[[world-cup-2022]]
+hz = "卡塔尔"
+en = "Qatar"
+
+[[world-cup-2022]]
+hz = "厄瓜多尔"
+en = "Ecuador"
+
+[[world-cup-2022]]
+hz = "塞内加尔"
+en = "Senegal"
+
+[[world-cup-2022]]
+hz = "荷兰"
+en = "Netherlands"
+
+[[world-cup-2022]]
+hz = "英格兰"
+en = "England"
+
+[[world-cup-2022]]
+hz = "伊朗"
+en = "Iran"
+
+[[world-cup-2022]]
+hz = "美国"
+en = "United States"
+
+[[world-cup-2022]]
+hz = "威尔士"
+en = "Wales"
+
+[[world-cup-2022]]
+hz = "阿根廷"
+en = "Argentina"
+
+[[world-cup-2022]]
+hz = "沙特阿拉伯"
+en = "Saudi Arabia"
+
+[[world-cup-2022]]
+hz = "墨西哥"
+en = "Mexico"
+
+[[world-cup-2022]]
+hz = "波兰"
+en = "Poland"
+
+[[world-cup-2022]]
+hz = "法国"
+en = "France"
+
+[[world-cup-2022]]
+hz = "澳大利亚"
+en = "Australia"
+
+[[world-cup-2022]]
+hz = "丹麦"
+en = "Denmark"
+
+[[world-cup-2022]]
+hz = "突尼斯"
+en = "Tunisia"
+
+[[world-cup-2022]]
+hz = "西班牙"
+en = "Spain"
+
+[[world-cup-2022]]
+hz = "哥斯达黎加"
+en = "Costa Rica"
+
+[[world-cup-2022]]
+hz = "德国"
+en = "Germany"
+
+[[world-cup-2022]]
+hz = "日本"
+en = "Japan"
+
+[[world-cup-2022]]
+hz = "比利时"
+en = "Belgium"
+
+[[world-cup-2022]]
+hz = "加拿大"
+en = "Canada"
+
+[[world-cup-2022]]
+hz = "摩洛哥"
+en = "Morocco"
+
+[[world-cup-2022]]
+hz = "克罗地亚"
+en = "Croatia"
+
+[[world-cup-2022]]
+hz = "巴西"
+en = "Brazil"
+
+[[world-cup-2022]]
+hz = "塞尔维亚"
+en = "Serbia"
+
+[[world-cup-2022]]
+hz = "瑞士"
+en = "Switzerland"
+
+[[world-cup-2022]]
+hz = "喀麦隆"
+en = "Cameroon"
+
+[[world-cup-2022]]
+hz = "葡萄牙"
+en = "Portugal"
+
+[[world-cup-2022]]
+hz = "加纳"
+en = "Ghana"
+
+[[world-cup-2022]]
+hz = "乌拉圭"
+en = "Uruguay"
+
+[[world-cup-2022]]
+hz = "韩国"
+en = "South Korea"
+
+
+[[computing]]
+hz = "厄瓜多尔"
+en = "Internet"
+
+[[computing]]
+hz = "线上"
+en = "online"
+
+[[computing]]
+hz = "元宇宙"
+en = "metaverse"
+
+[[computing]]
+hz = "数码化"
+en = "digitize; digitalize"
+
+[[computing]]
+hz = "硬盘"
+en = "hard disk"
+
+[[computing]]
+hz = "面部识别"
+en = "facial recognition"
+
+
+[[entertainment]]
+hz = "动画"
+en = "animation; cartoon"
+
+[[entertainment]]
+hz = "漫画"
+en = "manga; cartoon"
+
+[[entertainment]]
+hz = "科幻"
+en = "scifi"
+
+[[entertainment]]
+hz = "邓紫棋"
+en = "G.E.M."
+
+[[entertainment]]
+hz = "泰勒丝"
+en = "Taylor Swift"
+
+[[entertainment]]
+hz = "漫威"
+en = "Marvel"
+
+[[entertainment]]
+hz = "蜘蛛侠"
+en = "Spiderman"
+
+[[entertainment]]
+hz = "黑寡妇"
+en = "Black Widow"
+
+[[entertainment]]
+hz = "曼达洛人"
+en = "Mandalorian"
+
+[[entertainment]]
+hz = "星球大战"
+en = "Star Wars"
+
+[[entertainment]]
+hz = "百老汇"
+en = "Broadway"
+
+[[entertainment]]
+hz = "罗纳尔多"
+en = "Cristiano Ronaldo"
+
+[[entertainment]]
+hz = "曼联"
+en = "Manchester United"
+
+[[entertainment]]
+hz = "奥特曼"
+en = "Ultraman"
+
+[[entertainment]]
+hz = "足球"
+en = "football"
+
+[[entertainment]]
+hz = "世界杯"
+en = "World Cup"
+
+[[entertainment]]
+hz = "勇士"
+en = "Warriors"
+
+
+[[natural-disaster]]
+hz = "台风"
+en = "typhoon"
+
+[[natural-disaster]]
+hz = "龙卷风"
+en = "tornado"
+
+[[natural-disaster]]
+hz = "飓风"
+en = "hurricane"
+
+[[natural-disaster]]
+hz = "海啸"
+en = "tsunami"
+
+[[natural-disaster]]
+hz = "地震"
+en = "earthquake"
+
+[[natural-disaster]]
+hz = "里氏"
+en = "Richter (scale)"
+
+[[natural-disaster]]
+hz = "洪灾"
+en = "flood"
+
+[[natural-disaster]]
+hz = "沙尘暴"
+en = "sandstorm; dust storm"
+
+[[natural-disaster]]
+hz = "暴雨"
+en = "torrential rain; rainstorm"
+
+[[natural-disaster]]
+hz = "喷发"
+en = "eruption"
+
+[[natural-disaster]]
+hz = "暴风雪"
+en = "blizzard"
+
+
+[[commodities_agri]]
+hz = "玉米"
+en = "corn"
+
+[[commodities_agri]]
+hz = "小麦"
+en = "wheat"
+
+[[commodities_agri]]
+hz = "大豆"
+en = "soybeans"
+
+[[commodities_agri]]
+hz = "谷物"
+en = "grain; cereal"
+
+[[commodities_agri]]
+hz = "砂糖"
+en = "granulated sugar"
+
+[[commodities_agri]]
+hz = "化肥"
+en = "fertilizer"
+
+[[commodities_agri]]
+hz = "农药"
+en = "pesticide"
+
+[[commodities_agri]]
+hz = "农业"
+en = "agriculture; farming"
 
 
 [[contextual-study]]
@@ -1055,1414 +2580,6 @@ en = "to promote (an idea or cause); to advance; boost"
 hz = "孤立"
 en = "isolated; isolate; isolation"
 
-
 [[contextual-study]]
 hz = "设立"
 en = "establish; setup; found"
-
-
-
-
-[[favorites]]
-hz = "供应链"
-en = "supply chain"
-
-[[favorites]]
-hz = "港口"
-en = "port"
-
-[[favorites]]
-hz = "物流"
-en = "logistics"
-
-[[favorites]]
-hz = "箱船"
-en = "container ship"
-
-[[favorites]]
-hz = "集装箱"
-en = "container (for shipping)"
-
-[[favorites]]
-hz = "散货船"
-en = "bulk freighter"
-
-[[favorites]]
-hz = "航线"
-en = "air or shipping line; route; course"
-
-[[favorites]]
-hz = "吞吐量"
-en = "handling capacity (of a harbour); the volume of freight handled"
-
-[[favorites]]
-hz = "航运"
-en = "shipping; transport"
-
-[[favorites]]
-hz = "仓库"
-en = "warehouse"
-
-[[favorites]]
-hz = "半导体"
-en = "semiconductor"
-
-[[favorites]]
-hz = "芯片"
-en = "chip"
-
-[[favorites]]
-hz = "纳米"
-en = "nanometer"
-
-[[favorites]]
-hz = "摩尔定律"
-en = "Moore’s Law"
-
-[[favorites]]
-hz = "堆叠"
-en = "stack (as in 3D stacking)"
-
-[[favorites]]
-hz = "后工序"
-en = "post-process"
-
-[[favorites]]
-hz = "陶瓷"
-en = "ceramics; porcelein"
-
-[[favorites]]
-hz = "晶体管"
-en = "transistor"
-
-[[favorites]]
-hz = "晶圆"
-en = "wafer"
-
-[[favorites]]
-hz = "晶片"
-en = "wafer; chip"
-
-[[favorites]]
-hz = "逻辑"
-en = "logic"
-
-[[favorites]]
-hz = "液晶"
-en = "liquid crystal"
-
-[[favorites]]
-hz = "多晶硅"
-en = "polycrystalline silicon"
-
-[[favorites]]
-hz = "模拟"
-en = "analog; simulation; to simulate"
-
-[[favorites]]
-hz = "量子"
-en = "quantum"
-
-[[favorites]]
-hz = "波长"
-en = "wavelength"
-
-[[favorites]]
-hz = "微波"
-en = "microwave"
-
-[[favorites]]
-hz = "滤波器"
-en = "wave filter"
-
-[[favorites]]
-hz = "光合作用"
-en = "photosynthesis"
-
-[[favorites]]
-hz = "光子"
-en = "photon"
-
-[[favorites]]
-hz = "光伏"
-en = "photovoltaic"
-
-[[favorites]]
-hz = "光刻"
-en = "lithography"
-
-[[favorites]]
-hz = "光纤"
-en = "optical fiber"
-
-[[favorites]]
-hz = "发光二极管"
-en = "LED"
-
-[[favorites]]
-hz = "电磁"
-en = "electromagnetic; electromagnetism"
-
-[[favorites]]
-hz = "电池"
-en = "battery"
-
-[[favorites]]
-hz = "锂离子电池单元"
-en = "lithium ion battery cell"
-
-[[favorites]]
-hz = "稀土"
-en = "rare earth"
-
-[[favorites]]
-hz = "微细化"
-en = "miniaturization"
-
-[[favorites]]
-hz = "小型化"
-en = "miniaturization"
-
-[[favorites]]
-hz = "传感器"
-en = "sensor"
-
-[[favorites]]
-hz = "激光雷达"
-en = "lidar"
-
-[[favorites]]
-hz = "红外"
-en = "infrared"
-
-[[favorites]]
-hz = "摄像头"
-en = "camera"
-
-[[favorites]]
-hz = "二维码"
-en = "QR code"
-
-[[favorites]]
-hz = "零部件"
-en = "parts and components"
-
-[[favorites]]
-hz = "机床"
-en = "machine tools"
-
-[[favorites]]
-hz = "螺丝"
-en = "screws"
-
-[[favorites]]
-hz = "基础设施"
-en = "infrastructure"
-
-[[favorites]]
-hz = "塑料"
-en = "plastic"
-
-[[favorites]]
-hz = "纤维素纳米纤维"
-en = "cellulose nanofibers"
-
-[[favorites]]
-hz = "氨基酸"
-en = "amino acids"
-
-[[favorites]]
-hz = "蛋白质"
-en = "protein"
-
-[[favorites]]
-hz = "信使核糖核酸"
-en = "mRNA"
-
-[[favorites]]
-hz = "尼安德特人"
-en = "neanderthal"
-
-[[favorites]]
-hz = "恐龙"
-en = "dinosaur "
-
-[[favorites]]
-hz = "鱼龙"
-en = "ichthyosaur"
-
-[[favorites]]
-hz = "千足虫"
-en = "millipede"
-
-[[favorites]]
-hz = "液压挖掘机"
-en = "hydraulic excavator"
-
-[[favorites]]
-hz = "叉车"
-en = "forklift"
-
-[[favorites]]
-hz = "拖拉机"
-en = "tractor"
-
-[[favorites]]
-hz = "纯电动汽车"
-en = "pure electric vehicle"
-
-
-[[favorites]]
-hz = "折纸"
-en = "origami"
-
-[[favorites]]
-hz = "铁臂阿童木"
-en = "Astro Boy"
-
-[[favorites]]
-hz = "小行星"
-en = "asteroid"
-
-[[favorites]]
-hz = "宇宙"
-en = "universe; cosmos; space; void"
-
-[[favorites]]
-hz = "望远镜"
-en = "telescope"
-
-[[favorites]]
-hz = "闭路"
-en = "closed-circuit"
-
-[[favorites]]
-hz = "熔岩"
-en = "lava"
-
-[[favorites]]
-hz = "海水淡化"
-en = "seawater desalination"
-
-[[favorites]]
-hz = "自动化"
-en = "automation; automated"
-
-
-[[favorites]]
-hz = "验证试验"
-en = "verification test; demonstration test"
-
-[[favorites]]
-hz = "农历新年"
-en = "Chinese/Lunar New Year"
-
-[[favorites]]
-hz = "春节"
-en = "Spring Festival; Chinese New Year"
-
-[[favorites]]
-hz = "中秋"
-en = "Mid-Autumn"
-
-[[favorites]]
-hz = "圣诞"
-en = "Christmas"
-
-[[favorites]]
-hz = "曙光"
-en = "first light of morning; dawn"
-
-[[favorites]]
-hz = "尾部风险"
-en = "tail risk"
-
-[[favorite]]
-hz = "光伏"
-en = "photovoltaic"
-
-[[favorites]]
-hz = "电压"
-en = "voltage"
-
-[[favorites]]
-hz = "电流"
-en = "electric current"
-
-[[favorites]]
-hz = "不可抗力"
-en = "force majeure"
-
-[[favorites]]
-hz = "基因組"
-en = "genome"
-
-[[favorites]]
-hz = "克隆"
-en = "clone"
-
-[[favorites]]
-hz = "北溪"
-en = "Nord Stream"
-
-[[favorites]]
-hz = "美国太空总署"
-en = "NASA"
-
-[[favorite]]
-hz = "细胞"
-en = "cells"
-
-[[favorites]]
-hz = "北极"
-en = "Arctic/North Pole"
-
-[[favorites]]
-hz = "涡轮机"
-en = "turbine"
-
-
-[[health]]
-hz = "新型冠状病毒"
-en = "novel coronavirus"
-
-[[health]]
-hz = "冠病病毒"
-en = "coronavirus"
-
-[[health]]
-hz = "冠病疫苗"
-en = "coronavirus vaccine"
-
-[[health]]
-hz = "德尔塔变异毒株"
-en = "delta mutant strain"
-
-[[health]]
-hz = "奥密克戎变种"
-en = "omicron variant"
-
-[[health]]
-hz = "症状"
-en = "symptoms"
-
-[[health]]
-hz = "出现症状前"
-en = "presymptomatic"
-
-[[health]]
-hz = "无症状"
-en = "asymptomatic"
-
-[[health]]
-hz = "大流行"
-en = "pandemic"
-
-[[health]]
-hz = "疫情"
-en = "epidemic"
-
-[[health]]
-hz = "流行病学"
-en = "epidemiology"
-
-[[health]]
-hz = "病毒学家"
-en = "virologist"
-
-[[health]]
-hz = "暴发"
-en = "outbreak"
-
-[[health]]
-hz = "住院"
-en = "hospitalization"
-
-[[health]]
-hz = "核酸检测"
-en = "nucleic acid test"
-
-[[health]]
-hz = "氧气"
-en = "oxygen (gas)"
-
-[[health]]
-hz = "飞沫"
-en = "droplet"
-
-[[health]]
-hz = "气溶胶"
-en = "aerosol"
-
-[[health]]
-hz = "感冒"
-en = "cold"
-
-[[health]]
-hz = "流感"
-en = "flu"
-
-[[health]]
-hz = "感染"
-en = "infection"
-
-[[health]]
-hz = "传染性"
-en = "infectiousness; contagiousness; contagion"
-
-[[health]]
-hz = "病例"
-en = "case (medical)"
-
-[[health]]
-hz = "隔离"
-en = "isolate"
-
-[[health]]
-hz = "检疫隔离"
-en = "quarantine"
-
-[[health]]
-hz = "口罩"
-en = "surgical mask"
-
-[[health]]
-hz = "核酸检测"
-en = "nucleic acid testing"
-
-[[health]]
-hz = "聚合酶链式反应"
-en = "polymerase chain reaction"
-
-[[health]]
-hz = "群体免疫力"
-en = "herd immunity"
-
-[[health]]
-hz = "心肌炎"
-en = "myocarditis"
-
-[[health]]
-hz = "心包炎"
-en = "pericarditis"
-
-[[health]]
-hz = "心脏病"
-en = "heart disease; cardiopathy"
-
-[[health]]
-hz = "胆固醇"
-en = "cholesterol"
-
-[[health]]
-hz = "腺病毒"
-en = "adenovirus"
-
-[[health]]
-hz = "免疫缺陷"
-en = "immunodeficiency"
-
-[[health]]
-hz = "脑雾"
-en = "brain fog"
-
-[[health]]
-hz = "脑血栓"
-en = "cerebral thrombus"
-
-[[health]]
-hz = "血清"
-en = "(blood) serum"
-
-[[health]]
-hz = "血压"
-en = "blood pressure"
-
-[[health]]
-hz = "血栓"
-en = "blood clot; thrombus"
-
-[[health]]
-hz = "血糖"
-en = "blood sugar"
-
-[[health]]
-hz = "血癌"
-en = "leukemia"
-
-[[health]]
-hz = "白血球"
-en = "white blood cell"
-
-[[health]]
-hz = "糖尿病"
-en = "diabetes"
-
-[[health]]
-hz = "癌症"
-en = "cancer"
-
-[[health]]
-hz = "瘤"
-en = "tumor"
-
-[[health]]
-hz = "放疗"
-en = "radiotherapy"
-
-[[health]]
-hz = "抗体"
-en = "antibodies"
-
-[[health]]
-hz = "重症"
-en = "acute; grave"
-
-[[health]]
-hz = "疾病"
-en = "disease; illness"
-
-[[health]]
-hz = "禽流感"
-en = "bird flu"
-
-[[health]]
-hz = "阿尔茨海默"
-en = "Alzheimer"
-
-[[health]]
-hz = "肥胖症"
-en = "obesity"
-
-[[health]]
-hz = "白内障"
-en = "cataract"
-
-[[health]]
-hz = "医疗"
-en = "medical or surgical treatment; therapy"
-
-[[health]]
-hz = "治疗"
-en = "to treat(an illness); medical treatment; therapy"
-
-[[health]]
-hz = "痊愈"
-en = "fully recover from an illness; completely cured/recovered"
-
-[[health]]
-hz = "护士"
-en = "nurse"
-
-[[health]]
-hz = "猴痘"
-en = "Monkeypox"
-
-[[health]]
-hz = "脊髓灰质"
-en = "polio"
-
-[[health]]
-hz = "痔疮"
-en = "hemorrhoids"
-
-[[health]]
-hz = "心跳"
-en = "heartbeat; pulse"
-
-[[health]]
-hz = "心律失常"
-en = "arrhythmia"
-
-[[health]]
-hz = "心房颤动"
-en = "atrial fibrillation"
-
-
-[[energy]]
-hz = "天然气"
-en = "natural gas"
-
-[[energy]]
-hz = "液化天然气"
-en = "LNG"
-
-[[energy]]
-hz = "燃料"
-en = "fuel"
-
-[[energy]]
-hz = "化石"
-en = "fossil"
-
-[[energy]]
-hz = "石油"
-en = "oil/petroleum"
-
-[[energy]]
-hz = "原油"
-en = "crude oil"
-
-[[energy]]
-hz = "柴油"
-en = "diesel oil"
-
-[[energy]]
-hz = "油砂"
-en = "oil sands"
-
-[[energy]]
-hz = "煤炭"
-en = "coal"
-
-[[energy]]
-hz = "核能"
-en = "nuclear energy"
-
-[[energy]]
-hz = "脱碳"
-en = "decarbonization"
-
-[[energy]]
-hz = "温室气体"
-en = "greenhouse gas"
-
-[[energy]]
-hz = "净零排放"
-en = "net zero emissions"
-
-[[energy]]
-hz = "可再生能源"
-en = "renewable energy"
-
-[[energy]]
-hz = "臭氧"
-en = "ozone"
-
-[[energy]]
-hz = "污染"
-en = "pollution"
-
-
-
-[[chemistry]]
-hz = "原子"
-en = "atom"
-
-[[chemistry]]
-hz = "离子"
-en = "ion"
-
-[[chemistry]]
-hz = "氢"
-en = "hydrogen"
-
-[[chemistry]]
-hz = "氦"
-en = "helium"
-
-[[chemistry]]
-hz = "锂"
-en = "lithium"
-
-[[chemistry]]
-hz = "碳"
-en = "carbon"
-
-[[chemistry]]
-hz = "氮"
-en = "nitrogen"
-
-[[chemistry]]
-hz = "钠"
-en = "sodium"
-
-[[chemistry]]
-hz = "镁"
-en = "magnesium"
-
-[[chemistry]]
-hz = "铝"
-en = "aluminum"
-
-[[chemistry]]
-hz = "硅"
-en = "silicon"
-
-[[chemistry]]
-hz = "硫"
-en = "sulfur"
-
-[[chemistry]]
-hz = "氯"
-en = "chlorine"
-
-[[chemistry]]
-hz = "钾"
-en = "potassium"
-
-[[chemistry]]
-hz = "钛"
-en = "titanium"
-
-[[chemistry]]
-hz = "钴"
-en = "cobalt"
-
-[[chemistry]]
-hz = "镍"
-en = "nickel"
-
-[[chemistry]]
-hz = "铜"
-en = "copper"
-
-[[chemistry]]
-hz = "锌"
-en = "zinc"
-
-[[chemistry]]
-hz = "镓"
-en = "gallium"
-
-[[chemistry]]
-hz = "锗"
-en = "germanium"
-
-[[chemistry]]
-hz = "铟"
-en = "indium"
-
-[[chemistry]]
-hz = "釕"
-en = "ruthenium"
-
-[[chemistry]]
-hz = "铑"
-en = "rhodium"
-
-[[chemistry]]
-hz = "钯"
-en = "palladium"
-
-[[chemistry]]
-hz = "钕"
-en = "neodynium"
-
-[[chemistry]]
-hz = "镝"
-en = "dysprosium"
-
-[[chemistry]]
-hz = "白金"
-en = "platinum"
-
-[[chemistry]]
-hz = "铅"
-en = "lead"
-
-[[chemistry]]
-hz = "鐳"
-en = "radium"
-
-[[chemistry]]
-hz = "锕"
-en = "actinium"
-
-[[chemistry]]
-hz = "钍"
-en = "thorium"
-
-[[chemistry]]
-hz = "铀"
-en = "uranium"
-
-[[chemistry]]
-hz = "二氧化碳"
-en = "carbon dioxide"
-
-[[chemistry]]
-hz = "一氧化二氮"
-en = "nitrous oxide"
-
-[[chemistry]]
-hz = "氨"
-en = "ammonia"
-
-[[chemistry]]
-hz = "甲烷"
-en = "methane"
-
-[[chemistry]]
-hz = "磷酸"
-en = "phosphoric acid"
-
-[[chemistry]]
-hz = "石墨烯"
-en = "graphene"
-
-[[chemistry]]
-hz = "铁矿石"
-en = "iron ore"
-
-[[chemistry]]
-hz = "锂矿石"
-en = "lithium ore"
-
-[[chemistry]]
-hz = "磷酸铁锂"
-en = "lithium iron phosphate"
-
-[[chemistry]]
-hz = "钴酸锂"
-en = "lithium cobalt oxide"
-
-[[chemistry]]
-hz = "钛酸锂"
-en = "lithium titanate"
-
-[[chemistry]]
-hz = "氧化钛"
-en = "titanium oxide"
-
-[[chemistry]]
-hz = "碳化硅"
-en = "silicon carbide"
-
-[[chemistry]]
-hz = "氮化镓"
-en = "gallium nitride"
-
-[[chemisry]]
-hz = "氯化钾"
-en = "potassium chloride"
-
-[[chemistry]]
-hz = "异丙醇"
-en = "isopropanol"
-
-[[chemistry]]
-hz = "尿素"
-en = "urea"
-
-[[chemistry]]
-hz = "钙钛矿"
-en = "perovskite"
-
-[[chemistry]]
-hz = "钛合金"
-en = "titanium alloy"
-
-[[chemistry]]
-hz = "钢铁"
-en = "steel"
-
-[[chemistry]]
-hz = "乳酸"
-en = "lactic acid"
-
-[[chemistry]]
-hz = "葡萄糖"
-en = "glucose"
-
-[[chemistry]]
-hz = "蒸馏"
-en = "distil; distillation"
-
-[[chemistry]]
-hz = "聚丙烯"
-en = "polypropylene"
-
-[[chemistry]]
-hz = "氢氰酸"
-en = "Hydrocyanic acid"
-
-[[chemistry]]
-hz = "环氧乙烷"
-en = "ethylene oxide"
-
-[[marine]]
-hz = "海胆"
-en = "sea urchin"
-
-[[marine]]
-hz = "海藻"
-en = "seaweed"
-
-[[marine]]
-hz = "海狮"
-en = "sea lion"
-
-[[marine]]
-hz = "海豚"
-en = "dolphin"
-
-[[marine]]
-hz = "鲨鱼"
-en = "shark"
-
-[[marine]]
-hz = "鲸"
-en = "whale"
-
-[[marine]]
-hz = "黑露脊鲸"
-en = "black right whale"
-
-[[marine]]
-hz = "章鱼"
-en = "octopus"
-
-[[marine]]
-hz = "堡礁"
-en = "barrier reef"
-
-[[marine]]
-hz = "鳄鱼"
-en = "crocodile; alligator"
-
-
-[[food-drinks]]
-hz = "烧猪"
-en = "lechon; roast pig"
-
-[[food-drinks]]
-hz = "肉骨茶"
-en = "bak-kut-teh; pork ribs soup"
-
-[[food-drinks]]
-hz = "炒粿条"
-en = "char kway teow"
-
-[[food-drinks]]
-hz = "水粿"
-en = "chwee kueh"
-
-[[food-drinks]]
-hz = "叻沙"
-en = "laksa"
-
-[[food-drinks]]
-hz = "椰浆饭"
-en = "nasi lemak; lit. coconut milk rice"
-
-[[food-drinks]]
-hz = "沙爹"
-en = "satay"
-
-[[food-drinks]]
-hz = "海南鸡饭"
-en = "Hainanese chicken rice"
-
-[[food-drinks]]
-hz = "清汤"
-en = "clear soup"
-
-[[food-drinks]]
-hz = "咖椰"
-en = "kaya; coconut jam"
-
-[[food-drinks]]
-hz = "烤面包"
-en = "toast"
-
-[[food-drinks]]
-hz = "肉脞面"
-en = "minced pork noodles"
-
-[[food-drinks]]
-hz = "拉面"
-en = "ramen"
-
-[[food-drinks]]
-hz = "乌冬面"
-en = "udon noodles"
-
-[[food-drinks]]
-hz = "牛肉饭"
-en = "beef rice"
-
-[[food-drinks]]
-hz = "咖喱饭"
-en = "curry rice"
-
-[[food-drinks]]
-hz = "饺子"
-en = "dumplings"
-
-[[food-drinks]]
-hz = "寿司"
-en = "sushi"
-
-[[food-drinks]]
-hz = "金枪鱼"
-en = "tuna"
-
-[[food-drinks]]
-hz = "鲣鱼"
-en = "oceanic bonito; skipjack (tuna)"
-
-[[food-drinks]]
-hz = "鳗鱼"
-en = "eel"
-
-[[food-drinks]]
-hz = "石斑鱼"
-en = "grouper"
-
-[[food-drinks]]
-hz = "扇贝"
-en = "scallop"
-
-[[food-drinks]]
-hz = "海参"
-en = "sea cucumber"
-
-[[food-drinks]]
-hz = "蟹"
-en = "crab"
-
-[[food-drinks]]
-hz = "罗汉果"
-en = "mangosteen"
-
-[[food-drinks]]
-hz = "榴梿"
-en = "durian"
-
-[[food-drinks]]
-hz = "凤梨"
-en = "pineapple"
-
-[[food-drinks]]
-hz = "月饼"
-en = "mooncake"
-
-[[food-drinks]]
-hz = "红薯"
-en = "sweet potato"
-
-[[food-drinks]]
-hz = "薯条"
-en = "french fries; chips"
-
-[[food-drinks]]
-hz = "薯片"
-en = "potato chips"
-
-[[food-drinks]]
-hz = "披萨"
-en = "pizza"
-
-[[food-drinks]]
-hz = "咖啡"
-en = "coffee"
-
-[[food-drinks]]
-hz = "奶茶"
-en = "milk tea"
-
-[[food-drinks]]
-hz = "啤酒"
-en = "beer"
-
-[[food-drinks]]
-hz = "葡萄酒"
-en = "wine"
-
-[[food-drinks]]
-hz = "清酒"
-en = "sake"
-
-[[food-drinks]]
-hz = "威士忌"
-en = "whiskey"
-
-[[food-drinks]]
-hz = "香槟"
-en = "champagne"
-
-
-[[places]]
-hz = "菲律宾"
-en = "Philippines"
-
-[[places]]
-hz = "马尼拉"
-en = "Manila"
-
-[[places]]
-hz = "槟城"
-en = "Penang"
-
-[[places]]
-hz = "峇厘岛"
-en = "Bali"
-
-[[places]]
-hz = "东南亚"
-en = "Southeast Asia"
-
-[[places]]
-hz = "斯里兰卡"
-en = "Sri Lanka"
-
-[[places]]
-hz = "福建"
-en = "Hokkien (Fujian in Mandarin)"
-
-[[places]]
-hz = "北海道"
-en = "Hokkaido"
-
-[[places]]
-hz = "冲绳"
-en = "Okinawa"
-
-[[places]]
-hz = "广岛"
-en = "Hiroshima"
-
-[[places]]
-hz = "汤加"
-en = "Tonga"
-
-[[places]]
-hz = "哈萨克斯坦"
-en = "Kazakhstan"
-
-[[places]]
-hz = "俄罗斯"
-en = "Russia"
-
-[[places]]
-hz = "莫斯科"
-en = "Moscow"
-
-[[places]]
-hz = "雷克雅未克"
-en = "Reykjavik"
-
-[[places]]
-hz = "冰岛"
-en = "Iceland"
-
-[[places]]
-hz = "格陵兰"
-en = "Greenland"
-
-[[places]]
-hz = "苏格兰"
-en = "Scotland"
-
-[[places]]
-hz = "黑山"
-en = "Montenegro"
-
-[[places]]
-hz = "卡帕多奇亚"
-en = "Cappadocia"
-
-[[places]]
-hz = "布基纳法索"
-en = "Burkina Faso"
-
-[[places]]
-hz = "阿根廷"
-en = "Argentina"
-
-[[places]]
-hz = "哥斯达黎加"
-en = "Costa Rica"
-
-[[places]]
-hz = "加拉帕戈斯群岛"
-en = "Galapagos Islands"
-
-[[places]]
-hz = "加利福尼亚"
-en = "California"
-
-[[places]]
-hz = "得克萨斯"
-en = "Texas"
-
-[[places]]
-hz = "亚利桑那州"
-en = "Arizona"
-
-[[places]]
-hz = "佛罗里达"
-en = "Florida"
-
-
-[[computing]]
-hz = "互联网"
-en = "Internet"
-
-[[computing]]
-hz = "线上"
-en = "online"
-
-[[computing]]
-hz = "元宇宙"
-en = "metaverse"
-
-[[computing]]
-hz = "数码化"
-en = "digitize; digitalize"
-
-[[computing]]
-hz = "硬盘"
-en = "hard disk"
-
-[[computing]]
-hz = "面部识别"
-en = "facial recognition"
-
-
-[[entertainment]]
-hz = "动画"
-en = "animation; cartoon"
-
-[[entertainment]]
-hz = "漫画"
-en = "manga; cartoon"
-
-[[entertainment]]
-hz = "科幻"
-en = "scifi"
-
-[[entertainment]]
-hz = "邓紫棋"
-en = "G.E.M."
-
-[[entertainment]]
-hz = "泰勒丝"
-en = "Taylor Swift"
-
-[[entertainment]]
-hz = "漫威"
-en = "Marvel"
-
-[[entertainment]]
-hz = "蜘蛛侠"
-en = "Spiderman"
-
-[[entertainment]]
-hz = "黑寡妇"
-en = "Black Widow"
-
-[[entertainment]]
-hz = "曼达洛人"
-en = "Mandalorian"
-
-[[entertainment]]
-hz = "星球大战"
-en = "Star Wars"
-
-[[entertainment]]
-hz = "百老汇"
-en = "Broadway"
-
-[[entertainment]]
-hz = "罗纳尔多"
-en = "Cristiano Ronaldo"
-
-[[entertainment]]
-hz = "曼联"
-en = "Manchester United"
-
-[[entertainment]]
-hz = "奥特曼"
-en = "Ultraman"
-
-[[entertainment]]
-hz = "足球"
-en = "football"
-
-[[entertainment]]
-hz = "世界杯"
-en = "World Cup"
-
-[[entertainment]]
-hz = "勇士"
-en = "Warriors"
-
-
-[[natural-disaster]]
-hz = "台风"
-en = "typhoon"
-
-[[natural-disaster]]
-hz = "龙卷风"
-en = "tornado"
-
-[[natural-disaster]]
-hz = "飓风"
-en = "hurricane"
-
-[[natural-disaster]]
-hz = "海啸"
-en = "tsunami"
-
-[[natural-disaster]]
-hz = "地震"
-en = "earthquake"
-
-[[natural-disaster]]
-hz = "里氏"
-en = "Richter (scale)"
-
-[[natural-disaster]]
-hz = "洪灾"
-en = "flood"
-
-[[natural-disaster]]
-hz = "沙尘暴"
-en = "sandstorm; dust storm"
-
-[[natural-disaster]]
-hz = "暴雨"
-en = "torrential rain; rainstorm"
-
-[[natural-disaster]]
-hz = "喷发"
-en = "eruption"
-
-[[natural-disaster]]
-hz = "暴风雪"
-en = "blizzard"
-
-
-[[commodities_agri]]
-hz = "玉米"
-en = "corn"
-
-[[commodities_agri]]
-hz = "小麦"
-en = "wheat"
-
-[[commodities_agri]]
-hz = "大豆"
-en = "soybeans"
-
-[[commodities_agri]]
-hz = "谷物"
-en = "grain; cereal"
-
-[[commodities_agri]]
-hz = "砂糖"
-en = "granulated sugar"
-
-[[commodities_agri]]
-hz = "化肥"
-en = "fertilizer"
-
-[[commodities_agri]]
-hz = "农药"
-en = "pesticide"
-
-[[commodities_agri]]
-hz = "农业"
-en = "agriculture; farming"
