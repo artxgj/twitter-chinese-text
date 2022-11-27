@@ -652,7 +652,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [得克萨斯](得克萨斯.md) | Texas |
-| [亚利桑那州](亚利桑那州.md) | Arizona |
+| [亚利桑那](亚利桑那.md) | Arizona |
 | [佛罗里达](佛罗里达.md) | Florida |
 ## World Cup 2022 Countries
 |  |  |
