@@ -1575,6 +1575,10 @@ hz = "槟城"
 en = "Penang"
 
 [[places]]
+hz = "新加坡"
+en = "Singapore"
+
+[[places]]
 hz = "峇厘岛"
 en = "Bali"
 
@@ -1583,12 +1587,20 @@ hz = "东南亚"
 en = "Southeast Asia"
 
 [[places]]
+hz = "印度"
+en = "India"
+
+[[places]]
 hz = "斯里兰卡"
 en = "Sri Lanka"
 
 [[places]]
 hz = "福建"
 en = "Hokkien (Fujian in Mandarin)"
+
+[[places]]
+hz = "厦门"
+en = "Xiamen"
 
 [[places]]
 hz = "北海道"
