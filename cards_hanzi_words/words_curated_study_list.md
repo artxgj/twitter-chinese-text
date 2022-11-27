@@ -628,10 +628,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [菲律宾](菲律宾.md) | Philippines |
 | [马尼拉](马尼拉.md) | Manila |
 | [槟城](槟城.md) | Penang |
+| [新加坡](新加坡.md) | Singapore |
 | [峇厘岛](峇厘岛.md) | Bali |
 | [东南亚](东南亚.md) | Southeast Asia |
+| [印度](印度.md) | India |
 | [斯里兰卡](斯里兰卡.md) | Sri Lanka |
 | [福建](福建.md) | Hokkien (Fujian in Mandarin) |
+| [厦门](厦门.md) | Xiamen |
 | [北海道](北海道.md) | Hokkaido |
 | [冲绳](冲绳.md) | Okinawa |
 | [广岛](广岛.md) | Hiroshima |
