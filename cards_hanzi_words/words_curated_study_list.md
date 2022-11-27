@@ -257,6 +257,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [优化](优化.md) | to optimise; to make better or excellent |
 | [张忠谋](张忠谋.md) | Morris Chang |
 | [一体化](一体化.md) | to unify; to integrate |
+| [警钟](警钟.md) | alarm bell |
+| [孤立](孤立.md) | isolated; isolate; isolation |
+| [设立](设立.md) | establish; setup; found |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -345,6 +348,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [合资企业](合资企业.md) | joint venture |
 | [国内生产总值](国内生产总值.md) | GDP |
 | [兼职](兼职.md) | part-time job; hold several jobs at once |
+| [电商](电商.md) | e-commerce |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -590,6 +594,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [源源不断](源源不断.md) | a steady flow (idiom); an unending stream |
 | [有史以来](有史以来.md) | since the beginning (or dawn) of history; throughout history |
 | [脱胎换骨](脱胎换骨.md) | be reborn; cast off one's old self; thoroughly remould oneself |
+| [萎靡不振](萎靡不振.md) | dispirited and listless; downcast |
 ## Marine Life
 |  |  |
 | ----- | :---: |
