@@ -195,7 +195,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [尖端](尖端.md) | most advanced; sophisticated; cutting edge; pointed end |
 | [突破](突破.md) | breakthrough; to make a breakthrough |
 | [蔓延](蔓延.md) | spread; stretch; extend; infest |
-| [截至](截至.md) | by (a specified time); up to |
+| [截至](截至.md) | by (a specified time); up to; as of |
 | [摆脱](摆脱.md) | shake off; cast off; break away from |
 | [莎翁](莎翁.md) | Shakespeare |
 | [牛顿](牛顿.md) | Newton |
@@ -478,6 +478,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [美国太空总署](美国太空总署.md) | NASA |
 | [北极](北极.md) | Arctic/North Pole |
 | [涡轮机](涡轮机.md) | turbine |
+| [反应堆](反应堆.md) | reactor |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |

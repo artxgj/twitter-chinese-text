@@ -801,6 +801,10 @@ en = "Arctic/North Pole"
 hz = "涡轮机"
 en = "turbine"
 
+[[favorites]]
+hz = "反应堆"
+en = "reactor"
+
 
 [[health]]
 hz = "新型冠状病毒"
@@ -2334,7 +2338,7 @@ en = "spread; stretch; extend; infest"
 
 [[contextual-study]]
 hz = "截至"
-en = "by (a specified time); up to"
+en = "by (a specified time); up to; as of"
 
 [[contextual-study]]
 hz = "摆脱"
