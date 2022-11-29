@@ -265,6 +265,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [创造力](创造力.md) | ingenuity; creativity |
 | [代谢](代谢.md) | replacement; substitution; metabolism |
 | [新陈代谢](新陈代谢.md) | metabolism; the new superseding the old (figurative) |
+| [冒险](冒险.md) | take risks; take chances; foray; adventure |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
