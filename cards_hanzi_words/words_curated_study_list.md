@@ -99,7 +99,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Computing/Digital
 |  |  |
 | ----- | :---: |
-| [厄瓜多尔](厄瓜多尔.md) | Internet |
+| [互联网](互联网.md) | Internet |
 | [线上](线上.md) | online |
 | [元宇宙](元宇宙.md) | metaverse |
 | [数码化](数码化.md) | digitize; digitalize |
