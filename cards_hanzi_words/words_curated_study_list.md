@@ -261,6 +261,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [警钟](警钟.md) | alarm bell |
 | [孤立](孤立.md) | isolated; isolate; isolation |
 | [设立](设立.md) | establish; setup; found |
+| [补充](补充.md) | to replenish;to supplement; to complement; additional; supplementary |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -480,6 +481,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [北极](北极.md) | Arctic/North Pole |
 | [涡轮机](涡轮机.md) | turbine |
 | [反应堆](反应堆.md) | reactor |
+| [考古学家](考古学家.md) | archaeologist |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |

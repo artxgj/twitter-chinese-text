@@ -805,6 +805,10 @@ en = "turbine"
 hz = "反应堆"
 en = "reactor"
 
+[[favorites]]
+hz = "考古学家"
+en = "archaeologist"
+
 
 [[health]]
 hz = "新型冠状病毒"
@@ -2603,3 +2607,7 @@ en = "isolated; isolate; isolation"
 [[contextual-study]]
 hz = "设立"
 en = "establish; setup; found"
+
+[[contextual-study]]
+hz = "补充"
+en = "to replenish;to supplement; to complement; additional; supplementary"
