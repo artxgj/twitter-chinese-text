@@ -54,6 +54,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钕](钕.md) | neodynium |
 | [镝](镝.md) | dysprosium |
 | [白金](白金.md) | platinum |
+| [铂金](铂金.md) | platinum |
 | [铅](铅.md) | lead |
 | [鐳](鐳.md) | radium |
 | [锕](锕.md) | actinium |

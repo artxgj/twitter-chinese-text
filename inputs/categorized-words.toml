@@ -1241,6 +1241,10 @@ hz = "白金"
 en = "platinum"
 
 [[chemistry]]
+hz = "铂金"
+en = "platinum"
+
+[[chemistry]]
 hz = "铅"
 en = "lead"
 
