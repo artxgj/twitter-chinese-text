@@ -262,6 +262,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [孤立](孤立.md) | isolated; isolate; isolation |
 | [设立](设立.md) | establish; setup; found |
 | [补充](补充.md) | to replenish;to supplement; to complement; additional; supplementary |
+| [创造力](创造力.md) | ingenuity; creativity |
+| [代谢](代谢.md) | replacement; substitution; metabolism |
+| [新陈代谢](新陈代谢.md) | metabolism; the new superseding the old (figurative) |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
