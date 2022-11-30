@@ -266,6 +266,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [代谢](代谢.md) | replacement; substitution; metabolism |
 | [新陈代谢](新陈代谢.md) | metabolism; the new superseding the old (figurative) |
 | [冒险](冒险.md) | take risks; take chances; foray; adventure |
+| [抗议](抗议.md) | protest |
+| [罢工](罢工.md) | go on strike |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
