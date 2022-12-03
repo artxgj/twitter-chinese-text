@@ -809,6 +809,10 @@ en = "reactor"
 hz = "考古学家"
 en = "archaeologist"
 
+[[favorites]]
+hz = "动作捕捉"
+en = "motion capture"
+
 
 [[health]]
 hz = "新型冠状病毒"
@@ -1991,6 +1995,10 @@ en = "pesticide"
 hz = "农业"
 en = "agriculture; farming"
 
+[[commodities_agri]]
+hz = "棉花"
+en = "cotton"
+
 
 [[contextual-study]]
 hz = "盐"
@@ -2635,3 +2643,19 @@ en = "protest"
 [[contextual-study]]
 hz = "罢工"
 en = "go on strike"
+
+[[contextual-study]]
+hz = "淡马锡"
+en = "Temasek"
+
+[[contextual-study]]
+hz = "孟晚舟"
+en = "Meng Wanzhou"
+
+[[contextual-study]]
+hz = "江泽民"
+en = "Jiang Zemin"
+
+[[contextual-study]]
+hz = "马云"
+en = "Jack Ma"

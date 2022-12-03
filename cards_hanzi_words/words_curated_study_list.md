@@ -96,6 +96,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [化肥](化肥.md) | fertilizer |
 | [农药](农药.md) | pesticide |
 | [农业](农业.md) | agriculture; farming |
+| [棉花](棉花.md) | cotton |
 ## Computing/Digital
 |  |  |
 | ----- | :---: |
@@ -268,6 +269,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冒险](冒险.md) | take risks; take chances; foray; adventure |
 | [抗议](抗议.md) | protest |
 | [罢工](罢工.md) | go on strike |
+| [淡马锡](淡马锡.md) | Temasek |
+| [孟晚舟](孟晚舟.md) | Meng Wanzhou |
+| [江泽民](江泽民.md) | Jiang Zemin |
+| [马云](马云.md) | Jack Ma |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -488,6 +493,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [涡轮机](涡轮机.md) | turbine |
 | [反应堆](反应堆.md) | reactor |
 | [考古学家](考古学家.md) | archaeologist |
+| [动作捕捉](动作捕捉.md) | motion capture |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
