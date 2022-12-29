@@ -813,6 +813,14 @@ en = "archaeologist"
 hz = "动作捕捉"
 en = "motion capture"
 
+[[favorites]]
+hz = "变形虫"
+en = "amoeba"
+
+[[favorites]]
+hz = "鬣蜥"
+en = "Iguana"
+
 
 [[health]]
 hz = "新型冠状病毒"
@@ -1419,6 +1427,10 @@ en = "barrier reef"
 [[marine]]
 hz = "鳄鱼"
 en = "crocodile; alligator"
+
+[[marine]]
+hz = "珊瑚"
+en = "coral"
 
 
 [[food-drinks]]

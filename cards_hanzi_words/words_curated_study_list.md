@@ -495,6 +495,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [反应堆](反应堆.md) | reactor |
 | [考古学家](考古学家.md) | archaeologist |
 | [动作捕捉](动作捕捉.md) | motion capture |
+| [变形虫](变形虫.md) | amoeba |
+| [鬣蜥](鬣蜥.md) | Iguana |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
@@ -625,6 +627,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [章鱼](章鱼.md) | octopus |
 | [堡礁](堡礁.md) | barrier reef |
 | [鳄鱼](鳄鱼.md) | crocodile; alligator |
+| [珊瑚](珊瑚.md) | coral |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |
