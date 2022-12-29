@@ -1376,6 +1376,10 @@ en = "Hydrocyanic acid"
 hz = "环氧乙烷"
 en = "ethylene oxide"
 
+[[chemistry]]
+hz = "树脂"
+en = "resin"
+
 [[marine]]
 hz = "海胆"
 en = "sea urchin"

@@ -85,6 +85,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [聚丙烯](聚丙烯.md) | polypropylene |
 | [氢氰酸](氢氰酸.md) | Hydrocyanic acid |
 | [环氧乙烷](环氧乙烷.md) | ethylene oxide |
+| [树脂](树脂.md) | resin |
 ## Commodities (Agriculture)
 |  |  |
 | ----- | :---: |

@@ -23,12 +23,13 @@
 | [迪士尼](迪士尼.md) | Disney | DIS | 45 |
 | [迅销](迅销.md) | Fast Retailing Co. Ltd. | FRCOY | 14 |
 | [富士胶片](富士胶片.md) | Fujifilm | FUJIY/FUJIF | 10 |
+| [富士康](富士康.md) | FoxConn | (see Hon Hai) | 47 |
 | [吉利](吉利.md) | Geely Automobile Holdings Ltd | GELYY | 20 |
 | [高盛](高盛.md) | Goldman Sachs | GS | 58 |
 | [谷歌](谷歌.md) | Google | GOOG | 139 |
 | [海信集团](海信集团.md) | Hisense | (private) | 2 |
 | [日立](日立.md) | Hitachi | HTHIY | 37 |
-| [鸿海](鸿海.md) | Hon Hai Technology Group (FoxConn) | HNHPF | 38 |
+| [鸿海](鸿海.md) | Hon Hai Technology Group | HNHPF | 38 |
 | [本田](本田.md) | Honda | HMC | 102 |
 | [汇丰](汇丰.md) | HSBC | HSBC | 18 |
 | [华为](华为.md) | Huawei | (private) | 91 |
