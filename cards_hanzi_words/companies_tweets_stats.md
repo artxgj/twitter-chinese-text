@@ -18,6 +18,7 @@
 | [花旗集团](花旗集团.md) | Citigroup | C | 16 |
 | [可口可乐](可口可乐.md) | Coca-Cola | K | 11 |
 | [第一三共](第一三共.md) | Daiichi Sankyo | DSNKY/DSKYF | 2 |
+| [达能](达能.md) | Danone | DANOY | 3 |
 | [电装](电装.md) | Denso | DNZOY | 13 |
 | [迪奥](迪奥.md) | Dior | CHDRY | 6 |
 | [迪士尼](迪士尼.md) | Disney | DIS | 45 |
