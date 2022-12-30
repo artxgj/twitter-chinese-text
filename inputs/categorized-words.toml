@@ -1090,6 +1090,14 @@ en = "arrhythmia"
 hz = "心房颤动"
 en = "atrial fibrillation"
 
+[[health]]
+hz = "抗生素"
+en = "antibiotic"
+
+[[health]]
+hz = "抗菌药"
+en = "antibacterial"
+
 
 [[energy]]
 hz = "天然气"
@@ -1540,6 +1548,18 @@ en = "scallop"
 [[food-drinks]]
 hz = "海参"
 en = "sea cucumber"
+
+[[food-drinks]]
+hz = "鳀鱼"
+en = "anchovy"
+
+[[food-drinks]]
+hz = "蓝鳍金枪鱼"
+en = "Bluefin Tuna"
+
+[[food-drinks]]
+hz = "鰤鱼"
+en = "yellowtail"
 
 [[food-drinks]]
 hz = "蟹"
@@ -2030,6 +2050,10 @@ en = "agriculture; farming"
 [[commodities_agri]]
 hz = "棉花"
 en = "cotton"
+
+[[commodities_agri]]
+hz = "荞麦"
+en = "buckwheat"
 
 
 [[contextual-study]]

@@ -40,6 +40,7 @@
 | [龟甲万](龟甲万.md) | Kikkoman | KIKOY | 1 |
 | [麒麟控股](麒麟控股.md) | Kirin Holdings | KNBWY | 7 |
 | [小松](小松.md) | Komatsu | KMTUY/KMTUF | 13 |
+| [京瓷](京瓷.md) | Kyocera | KYOCY | 11 |
 | [联想](联想.md) | Lenovo | LNVGY/LNVGF | 19 |
 | [瑞幸咖啡](瑞幸咖啡.md) | Luckin Coffee | delisted | 5 |
 | [前田工纤集团](前田工纤集团.md) | Maeda Kosen Co., Ltd | unavailable | 1 |

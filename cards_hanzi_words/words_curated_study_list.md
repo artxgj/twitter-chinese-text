@@ -99,6 +99,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [农药](农药.md) | pesticide |
 | [农业](农业.md) | agriculture; farming |
 | [棉花](棉花.md) | cotton |
+| [荞麦](荞麦.md) | buckwheat |
 ## Computing/Digital
 |  |  |
 | ----- | :---: |
@@ -527,6 +528,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [石斑鱼](石斑鱼.md) | grouper |
 | [扇贝](扇贝.md) | scallop |
 | [海参](海参.md) | sea cucumber |
+| [鳀鱼](鳀鱼.md) | anchovy |
+| [蓝鳍金枪鱼](蓝鳍金枪鱼.md) | Bluefin Tuna |
+| [鰤鱼](鰤鱼.md) | yellowtail |
 | [蟹](蟹.md) | crab |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
@@ -610,6 +614,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [心跳](心跳.md) | heartbeat; pulse |
 | [心律失常](心律失常.md) | arrhythmia |
 | [心房颤动](心房颤动.md) | atrial fibrillation |
+| [抗生素](抗生素.md) | antibiotic |
+| [抗菌药](抗菌药.md) | antibacterial |
 ## Idioms
 |  |  |
 | ----- | :---: |
