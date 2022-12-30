@@ -170,6 +170,10 @@ en = "be reborn; cast off one's old self; thoroughly remould oneself"
 hz = "萎靡不振"
 en = "dispirited and listless; downcast"
 
+[[idioms]]
+hz = "紧锣密鼓"
+en = "a wild beating of gongs and drums—an intense publicity campaign (usu. in preparation for some shady undertaking)"
+
 
 [[economy-markets]]
 hz = "央行"
@@ -820,6 +824,14 @@ en = "amoeba"
 [[favorites]]
 hz = "鬣蜥"
 en = "Iguana"
+
+[[favorites]]
+hz = "混合现实"
+en = "mixed reality"
+
+[[favorites]]
+hz = "保密协议"
+en = "non-disclosure agreement"
 
 
 [[health]]
@@ -1990,6 +2002,10 @@ en = "wheat"
 [[commodities_agri]]
 hz = "大豆"
 en = "soybeans"
+
+[[commodities_agri]]
+hz = "大米"
+en = "rice"
 
 [[commodities_agri]]
 hz = "谷物"
