@@ -21,9 +21,8 @@ def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int,
         if tweet.id_int in ignore_ids:
             continue
 
-        if start_date is None or end_date is None:
-            continue
-        elif tweet.created_at < start_date or tweet.created_at > end_date:
+        if isinstance(start_date, datetime.datetime) and isinstance(end_date, datetime.datetime) and \
+                (tweet.created_at < start_date or tweet.created_at > end_date):
             continue
 
         ngrams_of_tweet = tweet_ngrams.extract(tweet)
