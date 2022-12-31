@@ -10,6 +10,7 @@
 | [朝日](朝日.md) | Asahi Group Holdings Ltd. | ASBRF | 4 |
 | [美国银行](美国银行.md) | Bank of America | BAC | 12 |
 | [伯克希尔哈撒韦公司](伯克希尔哈撒韦公司.md) | Berkshire Hathaway | BRK.A | 13 |
+| [币安](币安.md) | Binance | (private) | 12 |
 | [波音](波音.md) | Boeing | BA | 44 |
 | [桥水](桥水.md) | Bridgewater | hedge fund | 9 |
 | [比亚迪](比亚迪.md) | BYD | BYDDF | 35 |
