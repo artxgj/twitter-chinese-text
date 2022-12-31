@@ -1,10 +1,10 @@
 from collections import deque
 from collections.abc import Sequence, Generator, Mapping
-from typing import List, Deque, Optional, Dict, Set
+from typing import List, Deque, Dict, Set
 from twitter_objects import AbbreviatedTweet, next_tweet, is_tweet_in_sources, from_tweet_js_file
 from general_helpers import dictlines_from_csv
 
-
+import datetime
 import re
 
 
@@ -22,6 +22,14 @@ Zh_Tweets_Sources = {
     'rijingzhongwen',
     'zaobaosg'
 }
+
+
+def valid_tweet_input_date(date_str: str):
+    """
+    raises an exception if the date_str value is not valid
+    """
+    datetime.datetime.strptime(date_str, '%Y-%m-%d')
+    return datetime.datetime.strptime(f"{date_str} 00:00:00 +0000", "%Y-%m-%d %H:%M:%S %z")
 
 
 def is_cjk(c: str) -> bool:

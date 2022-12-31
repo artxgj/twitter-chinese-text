@@ -1,12 +1,15 @@
 import argparse
 import csv
+import datetime
 import pathlib
 from collections import defaultdict
 from general_helpers import NGramsCounter
-from hanzi_helpers import HZTweetNgram, next_hanzi_tweet
+from hanzi_helpers import HZTweetNgram, next_hanzi_tweet, valid_tweet_input_date
 
 
-def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int, ignore_ids: set = None):
+def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int,
+                       start_date: datetime.datetime, end_date: datetime.datetime,
+                       ignore_ids: set = None):
     ngrams_freq = NGramsCounter()
     tweet_ngrams = HZTweetNgram(ngram)
     ngram_tweets_count = defaultdict(int)
@@ -17,6 +20,12 @@ def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int, ignore_i
     for tweet in next_hanzi_tweet(tweet_js_path):
         if tweet.id_int in ignore_ids:
             continue
+
+        if start_date is None or end_date is None:
+            continue
+        elif tweet.created_at < start_date or tweet.created_at > end_date:
+            continue
+
         ngrams_of_tweet = tweet_ngrams.extract(tweet)
         unique_ngrams_of_tweet = set(ngrams_of_tweet)
         for 詞 in unique_ngrams_of_tweet:
@@ -46,8 +55,29 @@ if __name__ == '__main__':
     parser.add_argument('-tweet-js-path', type=str, required=True, help='twitter\'s tweet.js filepath')
     parser.add_argument('-csv-prefix-path', type=str, required=True, help='csv output file path')
     parser.add_argument('-ngram', type=int, required=True, help='[n]gram')
+    parser.add_argument('-start-date',
+                        type=valid_tweet_input_date,
+                        default=None,
+                        required=False,
+                        help='start date in format "YYYY-MM-DD"')
+
+    parser.add_argument('-end-date',
+                        type=valid_tweet_input_date,
+                        default=None,
+                        required=False,
+                        help='end date in format "YYYY-MM-DD')
+
     args = parser.parse_args()
-    generate_ngram_csv(args.tweet_js_path, args.csv_prefix_path, args.ngram,
+    print(args)
+
+    if args.start_date and args.end_date and args.end_date <= args.start_date:
+        raise ValueError(f"end_date ({args.end_date}) must be > start_date ({args.start_date}).")
+
+    generate_ngram_csv(tweet_js_path=args.tweet_js_path,
+                       csv_prefix_path=args.csv_prefix_path,
+                       ngram=args.ngram,
+                       start_date=args.start_date,
+                       end_date=args.end_date,
                        ignore_ids={1527428219283984385, 1381845750619852800,
                                    1373710194467762178})
 
