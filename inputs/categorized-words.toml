@@ -150,6 +150,10 @@ hz = "贬值"
 en = "devaluation; depreciation"
 
 [[currency-money-tech]]
+hz = "升值"
+en = "to rise in value; to appreciate; appreciation"
+
+[[currency-money-tech]]
 hz = "移动支付"
 en = "mobile payment"
 
@@ -447,6 +451,13 @@ en = "part-time job; hold several jobs at once"
 hz = "电商"
 en = "e-commerce"
 
+[[economy-markets]]
+hz = "拨备"
+en = "make provisions"
+
+[[economy-markets]]
+hz = "拖欠"
+en = "be behind in payments; be in arrears; default"
 
 [[favorites]]
 hz = "供应链"
@@ -833,6 +844,13 @@ en = "mixed reality"
 hz = "保密协议"
 en = "non-disclosure agreement"
 
+[[favorites]]
+hz = "曲线"
+en = "curve"
+
+[[favorites]]
+hz = "设计"
+en = "design"
 
 [[health]]
 hz = "新型冠状病毒"
@@ -1097,6 +1115,15 @@ en = "antibiotic"
 [[health]]
 hz = "抗菌药"
 en = "antibacterial"
+
+[[health]]
+hz = "唐氏综合症"
+en = "Down's Syndrome"
+
+[[health]]
+hz = "肿瘤"
+en = "tumour"
+
 
 
 [[energy]]
@@ -2719,3 +2746,11 @@ en = "Jiang Zemin"
 [[contextual-study]]
 hz = "马云"
 en = "Jack Ma"
+
+[[contextual-study]]
+hz = "损失"
+en = "loss"
+
+[[contextual-study]]
+hz = "熟悉"
+en = "know something/somebody well"

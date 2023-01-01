@@ -277,6 +277,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [孟晚舟](孟晚舟.md) | Meng Wanzhou |
 | [江泽民](江泽民.md) | Jiang Zemin |
 | [马云](马云.md) | Jack Ma |
+| [损失](损失.md) | loss |
+| [熟悉](熟悉.md) | know something/somebody well |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -295,6 +297,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [尼克松](尼克松.md) | Nixon (Richard Milhaus) |
 | [布雷顿森林](布雷顿森林.md) | Bretton Woods |
 | [贬值](贬值.md) | devaluation; depreciation |
+| [升值](升值.md) | to rise in value; to appreciate; appreciation |
 | [移动支付](移动支付.md) | mobile payment |
 ## Economy And Markets
 |  |  |
@@ -366,6 +369,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [国内生产总值](国内生产总值.md) | GDP |
 | [兼职](兼职.md) | part-time job; hold several jobs at once |
 | [电商](电商.md) | e-commerce |
+| [拨备](拨备.md) | make provisions |
+| [拖欠](拖欠.md) | be behind in payments; be in arrears; default |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -502,6 +507,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鬣蜥](鬣蜥.md) | Iguana |
 | [混合现实](混合现实.md) | mixed reality |
 | [保密协议](保密协议.md) | non-disclosure agreement |
+| [曲线](曲线.md) | curve |
+| [设计](设计.md) | design |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
@@ -617,6 +624,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [心房颤动](心房颤动.md) | atrial fibrillation |
 | [抗生素](抗生素.md) | antibiotic |
 | [抗菌药](抗菌药.md) | antibacterial |
+| [唐氏综合症](唐氏综合症.md) | Down's Syndrome |
+| [肿瘤](肿瘤.md) | tumour |
 ## Idioms
 |  |  |
 | ----- | :---: |
