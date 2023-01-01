@@ -757,6 +757,10 @@ hz = "春节"
 en = "Spring Festival; Chinese New Year"
 
 [[favorites]]
+hz = "元旦"
+en = "New Year's Day"
+
+[[favorites]]
 hz = "中秋"
 en = "Mid-Autumn"
 
@@ -851,6 +855,10 @@ en = "curve"
 [[favorites]]
 hz = "设计"
 en = "design"
+
+[[favorites]]
+hz = "冬至"
+en = "Winter Solstice"
 
 [[health]]
 hz = "新型冠状病毒"
@@ -1124,7 +1132,13 @@ en = "Down's Syndrome"
 hz = "肿瘤"
 en = "tumour"
 
+[[health]]
+hz = "疤痕"
+en = "scar"
 
+[[health]]
+hz = "天花"
+en = "smallpox"
 
 [[energy]]
 hz = "天然气"
@@ -2754,3 +2768,7 @@ en = "loss"
 [[contextual-study]]
 hz = "熟悉"
 en = "know something/somebody well"
+
+[[contextual-study]]
+hz = "跨境"
+en = "cross-border"

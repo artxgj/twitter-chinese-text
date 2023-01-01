@@ -279,6 +279,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [马云](马云.md) | Jack Ma |
 | [损失](损失.md) | loss |
 | [熟悉](熟悉.md) | know something/somebody well |
+| [跨境](跨境.md) | cross-border |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -487,6 +488,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [验证试验](验证试验.md) | verification test; demonstration test |
 | [农历新年](农历新年.md) | Chinese/Lunar New Year |
 | [春节](春节.md) | Spring Festival; Chinese New Year |
+| [元旦](元旦.md) | New Year's Day |
 | [中秋](中秋.md) | Mid-Autumn |
 | [圣诞](圣诞.md) | Christmas |
 | [曙光](曙光.md) | first light of morning; dawn |
@@ -509,6 +511,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [保密协议](保密协议.md) | non-disclosure agreement |
 | [曲线](曲线.md) | curve |
 | [设计](设计.md) | design |
+| [冬至](冬至.md) | Winter Solstice |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
@@ -626,6 +629,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [抗菌药](抗菌药.md) | antibacterial |
 | [唐氏综合症](唐氏综合症.md) | Down's Syndrome |
 | [肿瘤](肿瘤.md) | tumour |
+| [疤痕](疤痕.md) | scar |
+| [天花](天花.md) | smallpox |
 ## Idioms
 |  |  |
 | ----- | :---: |
