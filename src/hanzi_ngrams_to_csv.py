@@ -4,7 +4,7 @@ import datetime
 import pathlib
 from collections import defaultdict
 from general_helpers import NGramsCounter
-from hanzi_helpers import HZTweetNgram, next_hanzi_tweet, valid_tweet_input_date
+from hanzi_helpers import HZTweetNgram, next_hanzi_tweet, valid_tweet_input_date, tweet_in_date_range
 
 
 def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int,
@@ -21,8 +21,7 @@ def generate_ngram_csv(tweet_js_path: str, csv_prefix_path, ngram: int,
         if tweet.id_int in ignore_ids:
             continue
 
-        if isinstance(start_date, datetime.datetime) and isinstance(end_date, datetime.datetime) and \
-                (tweet.created_at < start_date or tweet.created_at > end_date):
+        if not tweet_in_date_range(tweet=tweet, start_date=start_date, end_date=end_date):
             continue
 
         ngrams_of_tweet = tweet_ngrams.extract(tweet)

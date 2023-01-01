@@ -1,5 +1,4 @@
 import argparse
-import csv
 import datetime
 import pathlib
 
@@ -7,7 +6,7 @@ import simple_markdown as md
 from dataclasses import dataclass
 from typing import List
 from general_helpers import dictlines_from_csv, googtrans_link
-from hanzi_helpers import next_hanzi_tweet_summarized, HanziTweetSummary
+from hanzi_helpers import next_hanzi_tweet, HanziTweetSummary, next_hanzi_tweet_summarized, HanziTweetSummary, valid_tweet_input_date, tweet_in_date_range
 
 
 @dataclass
@@ -30,9 +29,7 @@ class HanziSummaryMdReport:
             mdtb_rows.append(md.table_row([str(attrs.tweet_date), attrs.tweet_source, md.link(attrs.tweet_text, link)]))
 
         tbl = '\n'.join(mdtb_rows)
-        report = f"""## {title} 
-
-Tweets with [{title}](https://en.wiktionary.org/wiki/{title}). Tap or click to check if Wiktionary has an entry for it.
+        report = f"""## Tweets {title}
 
 | UTC Date | Tweet Source | Tweet (click or tap to see Google Translation) |
 |:-----------------|:-------------|:------------------|  
@@ -46,11 +43,20 @@ Tweets with [{title}](https://en.wiktionary.org/wiki/{title}). Tap or click to c
         return date_obj.strftime("%Y-%m-%d %H:%M:%S %Z")
 
     @classmethod
-    def from_tweet_js(cls, tweet_js_path: str):
-        return cls([HanziSummaryMdFields(tweet_date=cls._date_str(tw.tweet_date),
-                                         tweet_source=tw.tweet_source,
-                                         tweet_text=tw.tweet_text)
-                    for tw in next_hanzi_tweet_summarized(tweet_js_path)])
+    def from_tweet_js(cls, tweet_js_path: str,
+                      start_date: datetime.datetime = None,
+                      end_date: datetime.datetime = None):
+
+        summary_md_fields = []
+        for tw in next_hanzi_tweet(tweet_js_path):
+            if tweet_in_date_range(tweet=tw,
+                                   start_date=start_date,
+                                   end_date=end_date):
+                tw_summary = HanziTweetSummary(tw)
+                summary_md_fields.append(HanziSummaryMdFields(tweet_date=cls._date_str(tw_summary.tweet_date),
+                                         tweet_source=tw_summary.tweet_source,
+                                         tweet_text=tw_summary.tweet_text))
+        return cls(summary_md_fields)
 
     @classmethod
     def make_word_based_tweets(cls, word: str, summary_tweets_csv_path: str):
@@ -71,7 +77,30 @@ if __name__ == '__main__':
     parser.add_argument('-tweet-js-path', type=str, required=True, help='twitter\'s tweet.js filepath')
     parser.add_argument('-md-report-path', type=str, required=True, help='markdown output report filepath')
     parser.add_argument('-title', type=str, required=True, help='title of report')
+    parser.add_argument('-start-date',
+                        type=valid_tweet_input_date,
+                        default=None,
+                        required=False,
+                        help='start date in format "YYYY-MM-DD"')
+
+    parser.add_argument('-end-date',
+                        type=valid_tweet_input_date,
+                        default=None,
+                        required=False,
+                        help='end date in format "YYYY-MM-DD')
+
     args = parser.parse_args()
 
-    md_report = HanziSummaryMdReport.from_tweet_js(args.tweet_js_path)
-    md_report.write(args.md_report_path, args.title)
+    filename = ""
+    if args.start_date and args.end_date and args.end_date <= args.start_date:
+        raise ValueError(f"end_date ({args.end_date}) must be > start_date ({args.start_date}).")
+    elif args.start_date is None or args.end_date is None:
+        filename = "tweets.md"
+    else:
+        filename = f"tweets-{args.start_date.strftime('%Y%m%d')}T{args.end_date.strftime('%Y%m%d')}.md"
+
+    md_report_path = f"{args.md_report_path}/{filename}"
+    md_report = HanziSummaryMdReport.from_tweet_js(args.tweet_js_path,
+                                                   start_date=args.start_date,
+                                                   end_date=args.end_date)
+    md_report.write(md_report_path, args.title)

@@ -87,10 +87,18 @@ class HanziTweetSummary:
         }
 
 
-def next_hanzi_tweet(tweet_js_filepath: str):
+def next_hanzi_tweet(tweet_js_filepath: str) -> AbbreviatedTweet:
     for tweet in next_tweet(from_tweet_js_file(tweet_js_filepath)):
         if is_tweet_in_sources(tweet, Zh_Tweets_Sources):
             yield tweet
+
+
+def tweet_in_date_range(tweet: AbbreviatedTweet, start_date: datetime.datetime = None, end_date: datetime.datetime = None):
+    """
+    start_date and end_date must be both datetime objects, otherwise ignore date checks
+    """
+    return False if isinstance(start_date, datetime.datetime) and isinstance(end_date, datetime.datetime) and \
+                    (tweet.created_at < start_date or tweet.created_at > end_date) else True
 
 
 def next_hanzi_tweet_summarized(tweet_js_filepath: str) -> Generator[HanziTweetSummary, None, None]:
