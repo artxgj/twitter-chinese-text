@@ -9,6 +9,6 @@ def tweets_by_source(tweet_js_path, source):
 
 
 if __name__ == '__main__':
-    tweet_js_path = '../twitter-2022-08-21-437b83887b3810705d8f4e1c95fb4abfd78c166a70050b24ff79d6a81806d680/data/tweet.js'
-    tweets_by_source(tweet_js_path, 'FabulousAniyyah')
+    tweet_js_path = '../twitter-2023-01-02-437b83887b3810705d8f4e1c95fb4abfd78c166a70050b24ff79d6a81806d680/data/tweets.js'
+    tweets_by_source(tweet_js_path, None)
 
