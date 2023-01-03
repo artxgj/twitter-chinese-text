@@ -793,10 +793,6 @@ hz = "不可抗力"
 en = "force majeure"
 
 [[favorites]]
-hz = "基因組"
-en = "genome"
-
-[[favorites]]
 hz = "克隆"
 en = "clone"
 
@@ -1292,10 +1288,6 @@ en = "germanium"
 [[chemistry]]
 hz = "铟"
 en = "indium"
-
-[[chemistry]]
-hz = "釕"
-en = "ruthenium"
 
 [[chemistry]]
 hz = "铑"
