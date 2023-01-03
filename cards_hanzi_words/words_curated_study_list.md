@@ -279,6 +279,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [损失](损失.md) | loss |
 | [熟悉](熟悉.md) | know something/somebody well |
 | [跨境](跨境.md) | cross-border |
+| [饥荒](饥荒.md) | famine |
+| [大麻](大麻.md) | marijuana/hemp |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
