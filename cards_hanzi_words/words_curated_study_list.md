@@ -48,7 +48,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [镓](镓.md) | gallium |
 | [锗](锗.md) | germanium |
 | [铟](铟.md) | indium |
-| [釕](釕.md) | ruthenium |
 | [铑](铑.md) | rhodium |
 | [钯](钯.md) | palladium |
 | [钕](钕.md) | neodynium |
@@ -496,7 +495,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [电压](电压.md) | voltage |
 | [电流](电流.md) | electric current |
 | [不可抗力](不可抗力.md) | force majeure |
-| [基因組](基因組.md) | genome |
 | [克隆](克隆.md) | clone |
 | [北溪](北溪.md) | Nord Stream |
 | [美国太空总署](美国太空总署.md) | NASA |
