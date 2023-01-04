@@ -9,6 +9,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [风投](风投.md) | Venture Capital |
 | [并购](并购.md) | M&A (mergers and acquisitions) |
 | [投行](投行.md) | investment bank |
+| [首次公开募股](首次公开募股.md) | IPO |
+| [首次公开售股](首次公开售股.md) | IPO |
+| [锁定期](锁定期.md) | lock-up period |
 | [私募股权](私募股权.md) | private equity |
 | [对冲基金](对冲基金.md) | hedge fund |
 | [初创企业](初创企业.md) | startups |
@@ -18,8 +21,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [超额配](超额配.md) | oversubscribed |
 | [估值](估值.md) | valuation; estimated value |
 | [独角兽](独角兽.md) | unicorn |
-| [首次公开售股](首次公开售股.md) | IPO |
-| [锁定期](锁定期.md) | lock-up period |
 | [融资](融资.md) | raise funds |
 | [投向](投向.md) | investment orientation |
 | [筹集](筹集.md) | to collect; to raise (funds) |
@@ -281,6 +282,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [跨境](跨境.md) | cross-border |
 | [饥荒](饥荒.md) | famine |
 | [大麻](大麻.md) | marijuana/hemp |
+| [充电](充电.md) | charge (a battery) |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -351,8 +353,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [贸易](贸易.md) | trade |
 | [自贸](自贸.md) | free trade |
 | [净进口国](净进口国.md) | net importer |
-| [开盘](开盘.md) | opening quotation |
-| [收盘价](收盘价.md) | closing price |
+| [开盘](开盘.md) | open/opening quotation |
+| [收盘](收盘.md) | close/closing quotation |
 | [新兴市场](新兴市场.md) | emerging markets |
 | [发展中国家](发展中国家.md) | developing country |
 | [英国脱欧](英国脱欧.md) | Brexit |

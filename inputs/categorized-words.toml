@@ -33,6 +33,18 @@ hz = "投行"
 en = "investment bank"
 
 [[capital-markets]]
+hz = "首次公开募股"
+en = "IPO"
+
+[[capital-markets]]
+hz = "首次公开售股"
+en = "IPO"
+
+[[capital-markets]]
+hz = "锁定期"
+en = "lock-up period"
+
+[[capital-markets]]
 hz = "私募股权"
 en = "private equity"
 
@@ -68,13 +80,6 @@ en = "valuation; estimated value"
 hz = "独角兽"
 en = "unicorn"
 
-[[capital-markets]]
-hz = "首次公开售股"
-en = "IPO"
-
-[[capital-markets]]
-hz = "锁定期"
-en = "lock-up period"
 
 [[capital-markets]]
 hz = "融资"
@@ -369,11 +374,11 @@ en = "net importer"
 
 [[economy-markets]]
 hz = "开盘"
-en = "opening quotation"
+en = "open/opening quotation"
 
 [[economy-markets]]
-hz = "收盘价"
-en = "closing price"
+hz = "收盘"
+en = "close/closing quotation"
 
 [[economy-markets]]
 hz = "新兴市场"
@@ -2772,3 +2777,7 @@ en = "famine"
 [[contextual-study]]
 hz = "大麻"
 en = "marijuana/hemp"
+
+[[contextual-study]]
+hz = "充电"
+en = "charge (a battery)"
