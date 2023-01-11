@@ -183,6 +183,10 @@ en = "dispirited and listless; downcast"
 hz = "紧锣密鼓"
 en = "a wild beating of gongs and drums—an intense publicity campaign (usu. in preparation for some shady undertaking)"
 
+[[idioms]]
+hz = "自給自足"
+en = "self-sufficiency; autarkyx"
+
 
 [[economy-markets]]
 hz = "央行"
@@ -463,6 +467,23 @@ en = "make provisions"
 [[economy-markets]]
 hz = "拖欠"
 en = "be behind in payments; be in arrears; default"
+
+[[economy-markets]]
+hz = "回吐"
+en = "(fig.) (of a stock market) to give up (gains)"
+
+[[economy-markets]]
+hz = "裁员"
+en = "lay off employees; reduce staff"
+
+[[economy-markets]]
+hz = "消费者物价指数"
+en = "consumer price index"
+
+[[economy-markets]]
+hz = "综合指数"
+en = "composite index"
+
 
 [[favorites]]
 hz = "供应链"
@@ -2599,6 +2620,10 @@ hz = "眯眯眼"
 en = "squinted eyes"
 
 [[contextual-study]]
+hz = "兔年"
+en = "Year of the Rabbit"
+
+[[contextual-study]]
 hz = "虎年"
 en = "Year of the Tiger"
 
@@ -2781,3 +2806,15 @@ en = "marijuana/hemp"
 [[contextual-study]]
 hz = "充电"
 en = "charge (a battery)"
+
+[[contextual-study]]
+hz = "樱花"
+en = "cherry blossom"
+
+[[contextual-study]]
+hz = "权衡"
+en = "weigh (a matter); balance (pros and cons)"
+
+[[contextual-study]]
+hz = "金砖"
+en = "BRICS; gold bar (or brick)"

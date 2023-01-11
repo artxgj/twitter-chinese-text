@@ -238,6 +238,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [火山](火山.md) | volcano |
 | [火星](火星.md) | Mars |
 | [眯眯眼](眯眯眼.md) | squinted eyes |
+| [兔年](兔年.md) | Year of the Rabbit |
 | [虎年](虎年.md) | Year of the Tiger |
 | [牛年](牛年.md) | Year of the Ox |
 | [引渡](引渡.md) | extradite |
@@ -283,6 +284,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [饥荒](饥荒.md) | famine |
 | [大麻](大麻.md) | marijuana/hemp |
 | [充电](充电.md) | charge (a battery) |
+| [樱花](樱花.md) | cherry blossom |
+| [权衡](权衡.md) | weigh (a matter); balance (pros and cons) |
+| [金砖](金砖.md) | BRICS; gold bar (or brick) |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -375,6 +379,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [电商](电商.md) | e-commerce |
 | [拨备](拨备.md) | make provisions |
 | [拖欠](拖欠.md) | be behind in payments; be in arrears; default |
+| [回吐](回吐.md) | (fig.) (of a stock market) to give up (gains) |
+| [裁员](裁员.md) | lay off employees; reduce staff |
+| [消费者物价指数](消费者物价指数.md) | consumer price index |
+| [综合指数](综合指数.md) | composite index |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -641,6 +649,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [脱胎换骨](脱胎换骨.md) | be reborn; cast off one's old self; thoroughly remould oneself |
 | [萎靡不振](萎靡不振.md) | dispirited and listless; downcast |
 | [紧锣密鼓](紧锣密鼓.md) | a wild beating of gongs and drums—an intense publicity campaign (usu. in preparation for some shady undertaking) |
+| [自給自足](自給自足.md) | self-sufficiency; autarkyx |
 ## Marine Life
 |  |  |
 | ----- | :---: |
