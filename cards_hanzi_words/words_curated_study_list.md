@@ -649,7 +649,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [脱胎换骨](脱胎换骨.md) | be reborn; cast off one's old self; thoroughly remould oneself |
 | [萎靡不振](萎靡不振.md) | dispirited and listless; downcast |
 | [紧锣密鼓](紧锣密鼓.md) | a wild beating of gongs and drums—an intense publicity campaign (usu. in preparation for some shady undertaking) |
-| [自給自足](自給自足.md) | self-sufficiency; autarkyx |
+| [自给自足](自给自足.md) | self-sufficiency; autarkyx |
 ## Marine Life
 |  |  |
 | ----- | :---: |
