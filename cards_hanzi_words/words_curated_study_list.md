@@ -373,7 +373,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [周转资金](周转资金.md) | working capital; working/revolving fund |
 | [利润率](利润率.md) | profit margin |
 | [去美元化](去美元化.md) | dedollarization |
-| [裁员](裁员.md) | layoffs |
+| [裁员](裁员.md) | reduce (or cut) staff; layoff employees |
 | [销售额](销售额.md) | sales (volume) |
 | [合资企业](合资企业.md) | joint venture |
 | [国内生产总值](国内生产总值.md) | GDP |
