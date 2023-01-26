@@ -38,6 +38,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [镁](镁.md) | magnesium |
 | [铝](铝.md) | aluminum |
 | [硅](硅.md) | silicon |
+| [磷](磷.md) | phosphorus |
 | [硫](硫.md) | sulfur |
 | [氯](氯.md) | chlorine |
 | [钾](钾.md) | potassium |
@@ -287,6 +288,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [樱花](樱花.md) | cherry blossom |
 | [权衡](权衡.md) | weigh (a matter); balance (pros and cons) |
 | [金砖](金砖.md) | BRICS; gold bar (or brick) |
+| [审理](审理.md) | try; hear; adjudicate |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -522,6 +524,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [曲线](曲线.md) | curve |
 | [设计](设计.md) | design |
 | [冬至](冬至.md) | Winter Solstice |
+| [集成电路](集成电路.md) | integrated circuit |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |

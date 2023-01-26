@@ -882,6 +882,11 @@ en = "design"
 hz = "冬至"
 en = "Winter Solstice"
 
+[[favorites]]
+hz = "集成电路"
+en = "integrated circuit"
+
+
 [[health]]
 hz = "新型冠状病毒"
 en = "novel coronavirus"
@@ -1270,6 +1275,10 @@ en = "aluminum"
 [[chemistry]]
 hz = "硅"
 en = "silicon"
+
+[[chemistry]]
+hz = "磷"
+en = "phosphorus"
 
 [[chemistry]]
 hz = "硫"
@@ -2818,3 +2827,7 @@ en = "weigh (a matter); balance (pros and cons)"
 [[contextual-study]]
 hz = "金砖"
 en = "BRICS; gold bar (or brick)"
+
+[[contextual-study]]
+hz = "审理"
+en = "try; hear; adjudicate"
