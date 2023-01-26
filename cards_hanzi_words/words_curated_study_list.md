@@ -501,6 +501,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [验证试验](验证试验.md) | verification test; demonstration test |
 | [农历新年](农历新年.md) | Chinese/Lunar New Year |
 | [春节](春节.md) | Spring Festival; Chinese New Year |
+| [春运](春运.md) | (passenger) transport during the Spring Festival period. |
 | [元旦](元旦.md) | New Year's Day |
 | [中秋](中秋.md) | Mid-Autumn |
 | [圣诞](圣诞.md) | Christmas |
