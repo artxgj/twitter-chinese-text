@@ -385,6 +385,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [裁员](裁员.md) | lay off employees; reduce staff |
 | [消费者物价指数](消费者物价指数.md) | consumer price index |
 | [综合指数](综合指数.md) | composite index |
+| [豁免](豁免.md) | exempt (from taxes, customs, inspection, etc.); remit |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -501,6 +502,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [验证试验](验证试验.md) | verification test; demonstration test |
 | [农历新年](农历新年.md) | Chinese/Lunar New Year |
 | [春节](春节.md) | Spring Festival; Chinese New Year |
+| [元宵](元宵.md) | Lantern Festival; night of the 15th day of the first lunar month |
 | [春运](春运.md) | (passenger) transport during the Spring Festival period. |
 | [元旦](元旦.md) | New Year's Day |
 | [中秋](中秋.md) | Mid-Autumn |
@@ -514,6 +516,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [北溪](北溪.md) | Nord Stream |
 | [美国太空总署](美国太空总署.md) | NASA |
 | [北极](北极.md) | Arctic/North Pole |
+| [南极](南极.md) | Antartica |
 | [涡轮机](涡轮机.md) | turbine |
 | [反应堆](反应堆.md) | reactor |
 | [考古学家](考古学家.md) | archaeologist |
@@ -526,6 +529,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [设计](设计.md) | design |
 | [冬至](冬至.md) | Winter Solstice |
 | [集成电路](集成电路.md) | integrated circuit |
+| [气球](气球.md) | balloon |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
@@ -654,6 +658,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [萎靡不振](萎靡不振.md) | dispirited and listless; downcast |
 | [紧锣密鼓](紧锣密鼓.md) | a wild beating of gongs and drums—an intense publicity campaign (usu. in preparation for some shady undertaking) |
 | [自给自足](自给自足.md) | self-sufficiency; autarkyx |
+| [债台高筑](债台高筑.md) | heavily in debt; up to one's ears in debt; debt-ridden |
 ## Marine Life
 |  |  |
 | ----- | :---: |

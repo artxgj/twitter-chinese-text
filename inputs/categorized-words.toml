@@ -187,6 +187,10 @@ en = "a wild beating of gongs and drums—an intense publicity campaign (usu. in
 hz = "自给自足"
 en = "self-sufficiency; autarkyx"
 
+[[idioms]]
+hz = "债台高筑"
+en = "heavily in debt; up to one's ears in debt; debt-ridden"
+
 
 [[economy-markets]]
 hz = "央行"
@@ -483,6 +487,10 @@ en = "consumer price index"
 [[economy-markets]]
 hz = "综合指数"
 en = "composite index"
+
+[[economy-markets]]
+hz = "豁免"
+en = "exempt (from taxes, customs, inspection, etc.); remit"
 
 
 [[favorites]]
@@ -783,6 +791,10 @@ hz = "春节"
 en = "Spring Festival; Chinese New Year"
 
 [[favorites]]
+hz = "元宵"
+en = "Lantern Festival; night of the 15th day of the first lunar month"
+
+[[favorites]]
 hz = "春运"
 en = "(passenger) transport during the Spring Festival period."
 
@@ -843,6 +855,10 @@ hz = "北极"
 en = "Arctic/North Pole"
 
 [[favorites]]
+hz = "南极"
+en = "Antartica"
+
+[[favorites]]
 hz = "涡轮机"
 en = "turbine"
 
@@ -889,6 +905,10 @@ en = "Winter Solstice"
 [[favorites]]
 hz = "集成电路"
 en = "integrated circuit"
+
+[[favorites]]
+hz = "气球"
+en = "balloon"
 
 
 [[health]]
