@@ -204,8 +204,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [蔓延](蔓延.md) | spread; stretch; extend; infest |
 | [截至](截至.md) | by (a specified time); up to; as of |
 | [摆脱](摆脱.md) | shake off; cast off; break away from |
-| [莎翁](莎翁.md) | Shakespeare |
-| [牛顿](牛顿.md) | Newton |
 | [配备](配备.md) | provide (manpower or equipment); equip; fit out; allocate; deploy |
 | [引擎](引擎.md) | engine |
 | [触发](触发.md) | trigger; spark; touch off |
@@ -231,7 +229,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [富士山](富士山.md) | Mt. Fuji |
 | [皮纳图博山](皮纳图博山.md) | Mt. Pinatubo |
 | [贫困](贫困.md) | poverty; impoverished; poor |
-| [贝多芬](贝多芬.md) | Beethoven |
 | [雨林](雨林.md) | rainforest |
 | [平方](平方.md) | second power (of a quantity); square |
 | [苏伊士运河](苏伊士运河.md) | Suez Canal |
@@ -263,7 +260,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [经营](经营.md) | manage; operate; run; engage in |
 | [盂兰盆节](盂兰盆节.md) | Obon Festival |
 | [优化](优化.md) | to optimise; to make better or excellent |
-| [张忠谋](张忠谋.md) | Morris Chang |
 | [一体化](一体化.md) | to unify; to integrate |
 | [警钟](警钟.md) | alarm bell |
 | [孤立](孤立.md) | isolated; isolate; isolation |
@@ -276,9 +272,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [抗议](抗议.md) | protest |
 | [罢工](罢工.md) | go on strike |
 | [淡马锡](淡马锡.md) | Temasek |
-| [孟晚舟](孟晚舟.md) | Meng Wanzhou |
-| [江泽民](江泽民.md) | Jiang Zemin |
-| [马云](马云.md) | Jack Ma |
 | [损失](损失.md) | loss |
 | [熟悉](熟悉.md) | know something/somebody well |
 | [跨境](跨境.md) | cross-border |
@@ -289,6 +282,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [权衡](权衡.md) | weigh (a matter); balance (pros and cons) |
 | [金砖](金砖.md) | BRICS; gold bar (or brick) |
 | [审理](审理.md) | try; hear; adjudicate |
+| [行业](行业.md) | industry |
+| [潜水员](潜水员.md) | diver; frogman |
+| [炸药](炸药.md) | explosive |
+| [门槛](门槛.md) | threshold |
+| [稀有](稀有.md) | rare |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -304,7 +302,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [外汇](外汇.md) | foreign exchange; forex |
 | [汇率](汇率.md) | exchange rate; conversion rate |
 | [黄金](黄金.md) | gold |
-| [尼克松](尼克松.md) | Nixon (Richard Milhaus) |
 | [布雷顿森林](布雷顿森林.md) | Bretton Woods |
 | [贬值](贬值.md) | devaluation; depreciation |
 | [升值](升值.md) | to rise in value; to appreciate; appreciation |
@@ -411,15 +408,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [动画](动画.md) | animation; cartoon |
 | [漫画](漫画.md) | manga; cartoon |
 | [科幻](科幻.md) | scifi |
-| [邓紫棋](邓紫棋.md) | G.E.M. |
-| [泰勒丝](泰勒丝.md) | Taylor Swift |
 | [漫威](漫威.md) | Marvel |
 | [蜘蛛侠](蜘蛛侠.md) | Spiderman |
 | [黑寡妇](黑寡妇.md) | Black Widow |
 | [曼达洛人](曼达洛人.md) | Mandalorian |
 | [星球大战](星球大战.md) | Star Wars |
 | [百老汇](百老汇.md) | Broadway |
-| [罗纳尔多](罗纳尔多.md) | Cristiano Ronaldo |
 | [曼联](曼联.md) | Manchester United |
 | [奥特曼](奥特曼.md) | Ultraman |
 | [足球](足球.md) | football |
@@ -502,6 +496,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [验证试验](验证试验.md) | verification test; demonstration test |
 | [农历新年](农历新年.md) | Chinese/Lunar New Year |
 | [春节](春节.md) | Spring Festival; Chinese New Year |
+| [新春](新春.md) | Chinese New Year; the beginning of Spring; the 10 or 20 days following the Lunar New Year's Day |
+| [拜年](拜年.md) | to pay a New Year calll to wish somebody a Happy New Year |
 | [元宵](元宵.md) | Lantern Festival; night of the 15th day of the first lunar month |
 | [春运](春运.md) | (passenger) transport during the Spring Festival period. |
 | [元旦](元旦.md) | New Year's Day |
@@ -530,6 +526,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冬至](冬至.md) | Winter Solstice |
 | [集成电路](集成电路.md) | integrated circuit |
 | [气球](气球.md) | balloon |
+| [冰山](冰山.md) | iceberg |
+| [同步轨道](同步轨道.md) | synchronous orbit |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
@@ -687,6 +685,20 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [暴雨](暴雨.md) | torrential rain; rainstorm |
 | [喷发](喷发.md) | eruption |
 | [暴风雪](暴风雪.md) | blizzard |
+## People
+|  |  |
+| ----- | :---: |
+| [贝多芬](贝多芬.md) | Beethoven |
+| [莎翁](莎翁.md) | Shakespeare |
+| [牛顿](牛顿.md) | Newton |
+| [巴菲特](巴菲特.md) | Buffett |
+| [张忠谋](张忠谋.md) | Morris Chang |
+| [孟晚舟](孟晚舟.md) | Meng Wanzhou |
+| [江泽民](江泽民.md) | Jiang Zemin |
+| [马云](马云.md) | Jack Ma |
+| [尼克松](尼克松.md) | Nixon (Richard Milhaus) |
+| [邓紫棋](邓紫棋.md) | G.E.M. |
+| [泰勒丝](泰勒丝.md) | Taylor Swift |
 ## Places and Regions
 |  |  |
 | ----- | :---: |
