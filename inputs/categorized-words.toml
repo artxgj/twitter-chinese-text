@@ -5,6 +5,7 @@ chemistry = "Chemistry"
 economy-markets = "Economy And Markets"
 health = "Health"
 energy = "Energy"
+people = "People"
 contextual-study = "Words Used In Several Context"
 favorites = "Favorites"
 marine = "Marine Life"
@@ -142,9 +143,6 @@ en = "exchange rate; conversion rate"
 hz = "黄金"
 en = "gold"
 
-[[currency-money-tech]]
-hz = "尼克松"
-en = "Nixon (Richard Milhaus)"
 
 [[currency-money-tech]]
 hz = "布雷顿森林"
@@ -741,7 +739,6 @@ en = "tractor"
 hz = "纯电动汽车"
 en = "pure electric vehicle"
 
-
 [[favorites]]
 hz = "折纸"
 en = "origami"
@@ -789,6 +786,14 @@ en = "Chinese/Lunar New Year"
 [[favorites]]
 hz = "春节"
 en = "Spring Festival; Chinese New Year"
+
+[[favorites]]
+hz = "新春"
+en = "Chinese New Year; the beginning of Spring; the 10 or 20 days following the Lunar New Year's Day"
+
+[[favorites]]
+hz = "拜年"
+en = "to pay a New Year calll to wish somebody a Happy New Year"
 
 [[favorites]]
 hz = "元宵"
@@ -910,6 +915,13 @@ en = "integrated circuit"
 hz = "气球"
 en = "balloon"
 
+[[favorites]]
+hz = "冰山"
+en = "iceberg"
+
+[[favorites]]
+hz = "同步轨道"
+en = "synchronous orbit"
 
 [[health]]
 hz = "新型冠状病毒"
@@ -2006,14 +2018,6 @@ hz = "科幻"
 en = "scifi"
 
 [[entertainment]]
-hz = "邓紫棋"
-en = "G.E.M."
-
-[[entertainment]]
-hz = "泰勒丝"
-en = "Taylor Swift"
-
-[[entertainment]]
 hz = "漫威"
 en = "Marvel"
 
@@ -2036,10 +2040,6 @@ en = "Star Wars"
 [[entertainment]]
 hz = "百老汇"
 en = "Broadway"
-
-[[entertainment]]
-hz = "罗纳尔多"
-en = "Cristiano Ronaldo"
 
 [[entertainment]]
 hz = "曼联"
@@ -2513,14 +2513,6 @@ hz = "摆脱"
 en = "shake off; cast off; break away from"
 
 [[contextual-study]]
-hz = "莎翁"
-en = "Shakespeare"
-
-[[contextual-study]]
-hz = "牛顿"
-en = "Newton"
-
-[[contextual-study]]
 hz = "配备"
 en = "provide (manpower or equipment); equip; fit out; allocate; deploy"
 
@@ -2619,10 +2611,6 @@ en = "Mt. Pinatubo"
 [[contextual-study]]
 hz = "贫困"
 en = "poverty; impoverished; poor"
-
-[[contextual-study]]
-hz = "贝多芬"
-en = "Beethoven"
 
 [[contextual-study]]
 hz = "雨林"
@@ -2749,10 +2737,6 @@ hz = "优化"
 en = "to optimise; to make better or excellent"
 
 [[contextual-study]]
-hz = "张忠谋"
-en = "Morris Chang"
-
-[[contextual-study]]
 hz = "一体化"
 en = "to unify; to integrate"
 
@@ -2805,18 +2789,6 @@ hz = "淡马锡"
 en = "Temasek"
 
 [[contextual-study]]
-hz = "孟晚舟"
-en = "Meng Wanzhou"
-
-[[contextual-study]]
-hz = "江泽民"
-en = "Jiang Zemin"
-
-[[contextual-study]]
-hz = "马云"
-en = "Jack Ma"
-
-[[contextual-study]]
 hz = "损失"
 en = "loss"
 
@@ -2855,3 +2827,68 @@ en = "BRICS; gold bar (or brick)"
 [[contextual-study]]
 hz = "审理"
 en = "try; hear; adjudicate"
+
+[[contextual-study]]
+hz = "行业"
+en = "industry"
+
+[[contextual-study]]
+hz = "潜水员"
+en = "diver; frogman"
+
+[[contextual-study]]
+hz = "炸药"
+en = "explosive"
+
+[[contextual-study]]
+hz = "门槛"
+en = "threshold"
+
+[[contextual-study]]
+hz = "稀有"
+en = "rare"
+
+
+[[people]]
+hz = "贝多芬"
+en = "Beethoven"
+
+[[people]]
+hz = "莎翁"
+en = "Shakespeare"
+
+[[people]]
+hz = "牛顿"
+en = "Newton"
+
+[[people]]
+hz = "巴菲特"
+en = "Buffett"
+
+[[people]]
+hz = "张忠谋"
+en = "Morris Chang"
+
+[[people]]
+hz = "孟晚舟"
+en = "Meng Wanzhou"
+
+[[people]]
+hz = "江泽民"
+en = "Jiang Zemin"
+
+[[people]]
+hz = "马云"
+en = "Jack Ma"
+
+[[people]]
+hz = "尼克松"
+en = "Nixon (Richard Milhaus)"
+
+[[people]]
+hz = "邓紫棋"
+en = "G.E.M."
+
+[[people]]
+hz = "泰勒丝"
+en = "Taylor Swift"
