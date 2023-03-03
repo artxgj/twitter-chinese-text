@@ -381,6 +381,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [回吐](回吐.md) | (fig.) (of a stock market) to give up (gains) |
 | [裁员](裁员.md) | lay off employees; reduce staff |
 | [消费者物价指数](消费者物价指数.md) | consumer price index |
+| [消费价格指数](消费价格指数.md) | consumer price index |
 | [综合指数](综合指数.md) | composite index |
 | [豁免](豁免.md) | exempt (from taxes, customs, inspection, etc.); remit |
 ## Energy

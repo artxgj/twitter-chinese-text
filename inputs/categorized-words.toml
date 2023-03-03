@@ -483,6 +483,10 @@ hz = "消费者物价指数"
 en = "consumer price index"
 
 [[economy-markets]]
+hz = "消费价格指数"
+en = "consumer price index"
+
+[[economy-markets]]
 hz = "综合指数"
 en = "composite index"
 
