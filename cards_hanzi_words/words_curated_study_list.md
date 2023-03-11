@@ -306,6 +306,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [优先](优先.md) | have priority |
 | [品牌](品牌.md) | brand; make |
 | [折叠式](折叠式.md) | foldable; folding (i.e., portable) |
+| [市占率](市占率.md) | market share |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
