@@ -494,6 +494,22 @@ en = "composite index"
 hz = "豁免"
 en = "exempt (from taxes, customs, inspection, etc.); remit"
 
+[[economy-markets]]
+hz = "存款"
+en = "deposit"
+
+[[economy-markets]]
+hz = "挤兑"
+en = "run on a bank"
+
+[[economy-markets]]
+hz = "倒闭"
+en = "close down; go bankrupt"
+
+[[economy-markets]]
+hz = "债权人"
+en = "creditor"
+
 
 [[favorites]]
 hz = "供应链"
@@ -916,6 +932,10 @@ hz = "集成电路"
 en = "integrated circuit"
 
 [[favorites]]
+hz = "电路图"
+en = "circuit diagram"
+
+[[favorites]]
 hz = "气球"
 en = "balloon"
 
@@ -926,6 +946,7 @@ en = "iceberg"
 [[favorites]]
 hz = "同步轨道"
 en = "synchronous orbit"
+
 
 [[health]]
 hz = "新型冠状病毒"
@@ -1206,6 +1227,11 @@ en = "scar"
 [[health]]
 hz = "天花"
 en = "smallpox"
+
+[[health]]
+hz = "汀类药物"
+en = "statins"
+
 
 [[energy]]
 hz = "天然气"
@@ -2008,6 +2034,10 @@ en = "hard disk"
 hz = "面部识别"
 en = "facial recognition"
 
+[[computing]]
+hz = "锁屏"
+en = "lock screen"
+
 
 [[entertainment]]
 hz = "动画"
@@ -2093,6 +2123,10 @@ en = "Richter (scale)"
 [[natural-disaster]]
 hz = "洪灾"
 en = "flood"
+
+[[natural-disaster]]
+hz = "水灾"
+en = "flood; inundation"
 
 [[natural-disaster]]
 hz = "沙尘暴"
@@ -2851,6 +2885,94 @@ en = "threshold"
 [[contextual-study]]
 hz = "稀有"
 en = "rare"
+
+[[contextual-study]]
+hz = "重创"
+en = "inflict heavy losses (or casualties) on; maul"
+
+[[contextual-study]]
+hz = "试图"
+en = "to attempt; to try"
+
+[[contextual-study]]
+hz = "理清"
+en = "sort out; straighten out"
+
+[[contextual-study]]
+hz = "疏散"
+en = "evacuate; disperse"
+
+[[contextual-study]]
+hz = "悬念"
+en = "suspense"
+
+[[contextual-study]]
+hz = "攫取"
+en = "seize; grab"
+
+[[contextual-study]]
+hz = "削减"
+en = "reduce; slash; cut (down); whittle down"
+
+[[contextual]]
+hz = "排放"
+en = "emission; discharge; exhaust (gas etc)"
+
+[[contextual]]
+hz = "寄望"
+en = "to place hopes on"
+
+[[contextual]]
+hz = "转型"
+en = "be in transition; trnansformation"
+
+[[contextual]]
+hz = "谨慎"
+en = "cautious; prudent"
+
+[[contextual-study]]
+hz = "规划"
+en = "plan; program; project"
+
+[[contextual-study]]
+hz = "蒙古包"
+en = "yurt"
+
+[[contextual-study]]
+hz = "运营商"
+en = "operator"
+
+[[contextual-study]]
+hz = "颗粒"
+en = "kernel; granule; grain"
+
+[[contextual-study]]
+hz = "窃贼"
+en = "thief; burglar"
+
+[[contextual-study]]
+hz = "招募"
+en = "recruit; enlist; enrol"
+
+[[contextual-study]]
+hz = "寄宿生"
+en = "resident student; boarder"
+
+[[contextual-study]]
+hz = "走读生"
+en = "day student; nonresident student; nonboarder"
+
+[[contextual-study]]
+hz = "优先"
+en = "have priority"
+
+[[contextual-study]]
+hz = "品牌"
+en = "brand; make"
+
+[[contextual-study]]
+hz = "折叠式"
+en = "foldable; folding (i.e., portable)"
 
 
 [[people]]

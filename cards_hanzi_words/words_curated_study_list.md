@@ -111,6 +111,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [数码化](数码化.md) | digitize; digitalize |
 | [硬盘](硬盘.md) | hard disk |
 | [面部识别](面部识别.md) | facial recognition |
+| [锁屏](锁屏.md) | lock screen |
 ## Words Used In Several Context
 |  |  |
 | ----- | :---: |
@@ -287,6 +288,24 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [炸药](炸药.md) | explosive |
 | [门槛](门槛.md) | threshold |
 | [稀有](稀有.md) | rare |
+| [重创](重创.md) | inflict heavy losses (or casualties) on; maul |
+| [试图](试图.md) | to attempt; to try |
+| [理清](理清.md) | sort out; straighten out |
+| [疏散](疏散.md) | evacuate; disperse |
+| [悬念](悬念.md) | suspense |
+| [攫取](攫取.md) | seize; grab |
+| [削减](削减.md) | reduce; slash; cut (down); whittle down |
+| [规划](规划.md) | plan; program; project |
+| [蒙古包](蒙古包.md) | yurt |
+| [运营商](运营商.md) | operator |
+| [颗粒](颗粒.md) | kernel; granule; grain |
+| [窃贼](窃贼.md) | thief; burglar |
+| [招募](招募.md) | recruit; enlist; enrol |
+| [寄宿生](寄宿生.md) | resident student; boarder |
+| [走读生](走读生.md) | day student; nonresident student; nonboarder |
+| [优先](优先.md) | have priority |
+| [品牌](品牌.md) | brand; make |
+| [折叠式](折叠式.md) | foldable; folding (i.e., portable) |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -384,6 +403,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [消费价格指数](消费价格指数.md) | consumer price index |
 | [综合指数](综合指数.md) | composite index |
 | [豁免](豁免.md) | exempt (from taxes, customs, inspection, etc.); remit |
+| [存款](存款.md) | deposit |
+| [挤兑](挤兑.md) | run on a bank |
+| [倒闭](倒闭.md) | close down; go bankrupt |
+| [债权人](债权人.md) | creditor |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -526,6 +549,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [设计](设计.md) | design |
 | [冬至](冬至.md) | Winter Solstice |
 | [集成电路](集成电路.md) | integrated circuit |
+| [电路图](电路图.md) | circuit diagram |
 | [气球](气球.md) | balloon |
 | [冰山](冰山.md) | iceberg |
 | [同步轨道](同步轨道.md) | synchronous orbit |
@@ -648,6 +672,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [肿瘤](肿瘤.md) | tumour |
 | [疤痕](疤痕.md) | scar |
 | [天花](天花.md) | smallpox |
+| [汀类药物](汀类药物.md) | statins |
 ## Idioms
 |  |  |
 | ----- | :---: |
@@ -682,6 +707,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [地震](地震.md) | earthquake |
 | [里氏](里氏.md) | Richter (scale) |
 | [洪灾](洪灾.md) | flood |
+| [水灾](水灾.md) | flood; inundation |
 | [沙尘暴](沙尘暴.md) | sandstorm; dust storm |
 | [暴雨](暴雨.md) | torrential rain; rainstorm |
 | [喷发](喷发.md) | eruption |
