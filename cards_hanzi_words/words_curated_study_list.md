@@ -684,6 +684,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [紧锣密鼓](紧锣密鼓.md) | a wild beating of gongs and drums—an intense publicity campaign (usu. in preparation for some shady undertaking) |
 | [自给自足](自给自足.md) | self-sufficiency; autarkyx |
 | [债台高筑](债台高筑.md) | heavily in debt; up to one's ears in debt; debt-ridden |
+| [草木皆兵](草木皆兵.md) | every bush and tree looks like an enemy soldier—a state of extreme suspicion and fear; plagued (by imaginary suspicion and fear) |
 ## Marine Life
 |  |  |
 | ----- | :---: |
