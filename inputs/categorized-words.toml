@@ -514,6 +514,14 @@ en = "close down; go bankrupt"
 hz = "债权人"
 en = "creditor"
 
+[[economy-markets]]
+hz = "账户"
+en = "account (e.g., bank account)"
+
+[[economy-markets]]
+hz = "崩盘"
+en = "(stock market) crash; collapse"
+
 
 [[favorites]]
 hz = "供应链"
@@ -1026,7 +1034,7 @@ en = "aerosol"
 
 [[health]]
 hz = "感冒"
-en = "cold"
+en = "common cold"
 
 [[health]]
 hz = "流感"
@@ -1167,6 +1175,10 @@ en = "obesity"
 [[health]]
 hz = "白内障"
 en = "cataract"
+
+[[health]]
+hz = "青光眼"
+en = "glaucoma"
 
 [[health]]
 hz = "医疗"
@@ -1708,6 +1720,10 @@ hz = "蟹"
 en = "crab"
 
 [[food-drinks]]
+hz = "辣椒"
+en = "hot pepper; chili"
+
+[[food-drinks]]
 hz = "罗汉果"
 en = "mangosteen"
 
@@ -1871,6 +1887,10 @@ en = "Galapagos Islands"
 [[places]]
 hz = "加利福尼亚"
 en = "California"
+
+[[places]]
+hz = "硅谷"
+en = "Silicon Valley"
 
 [[places]]
 hz = "得克萨斯"
@@ -2918,7 +2938,7 @@ en = "seize; grab"
 hz = "削减"
 en = "reduce; slash; cut (down); whittle down"
 
-[[contextual]]
+[[contextual-study]]
 hz = "排放"
 en = "emission; discharge; exhaust (gas etc)"
 
@@ -2981,6 +3001,38 @@ en = "foldable; folding (i.e., portable)"
 [[contextual-study]]
 hz = "市占率"
 en = "market share"
+
+[[contextual-study]]
+hz = "战略"
+en = "strategy"
+
+[[contextual-study]]
+hz = "储备"
+en = "reserve; store for future use"
+
+[[contextual-study]]
+hz = "罕见"
+en = "seldom seen; rare"
+
+[[contextual-study]]
+hz = "引爆"
+en = "ignite; detonate"
+
+[[contextual-study]]
+hz = "纠正"
+en = "correct; put right; redress"
+
+[[contextual-study]]
+hz = "缺陷"
+en = "defect; drawback; flaw; blemish"
+
+[[contextual-study]]
+hz = "斡旋"
+en = "mediate"
+
+[[contextual-study]]
+hz = "恢复"
+en = "resume; regain; restore"
 
 
 [[people]]

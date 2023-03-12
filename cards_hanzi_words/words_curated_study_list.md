@@ -295,6 +295,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [悬念](悬念.md) | suspense |
 | [攫取](攫取.md) | seize; grab |
 | [削减](削减.md) | reduce; slash; cut (down); whittle down |
+| [排放](排放.md) | emission; discharge; exhaust (gas etc) |
 | [规划](规划.md) | plan; program; project |
 | [蒙古包](蒙古包.md) | yurt |
 | [运营商](运营商.md) | operator |
@@ -307,6 +308,14 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [品牌](品牌.md) | brand; make |
 | [折叠式](折叠式.md) | foldable; folding (i.e., portable) |
 | [市占率](市占率.md) | market share |
+| [战略](战略.md) | strategy |
+| [储备](储备.md) | reserve; store for future use |
+| [罕见](罕见.md) | seldom seen; rare |
+| [引爆](引爆.md) | ignite; detonate |
+| [纠正](纠正.md) | correct; put right; redress |
+| [缺陷](缺陷.md) | defect; drawback; flaw; blemish |
+| [斡旋](斡旋.md) | mediate |
+| [恢复](恢复.md) | resume; regain; restore |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -408,6 +417,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [挤兑](挤兑.md) | run on a bank |
 | [倒闭](倒闭.md) | close down; go bankrupt |
 | [债权人](债权人.md) | creditor |
+| [账户](账户.md) | account (e.g., bank account) |
+| [崩盘](崩盘.md) | (stock market) crash; collapse |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -585,6 +596,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [蓝鳍金枪鱼](蓝鳍金枪鱼.md) | Bluefin Tuna |
 | [鰤鱼](鰤鱼.md) | yellowtail |
 | [蟹](蟹.md) | crab |
+| [辣椒](辣椒.md) | hot pepper; chili |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
@@ -621,7 +633,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氧气](氧气.md) | oxygen (gas) |
 | [飞沫](飞沫.md) | droplet |
 | [气溶胶](气溶胶.md) | aerosol |
-| [感冒](感冒.md) | cold |
+| [感冒](感冒.md) | common cold |
 | [流感](流感.md) | flu |
 | [感染](感染.md) | infection |
 | [传染性](传染性.md) | infectiousness; contagiousness; contagion |
@@ -657,6 +669,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [阿尔茨海默](阿尔茨海默.md) | Alzheimer |
 | [肥胖症](肥胖症.md) | obesity |
 | [白内障](白内障.md) | cataract |
+| [青光眼](青光眼.md) | glaucoma |
 | [医疗](医疗.md) | medical or surgical treatment; therapy |
 | [治疗](治疗.md) | to treat(an illness); medical treatment; therapy |
 | [痊愈](痊愈.md) | fully recover from an illness; completely cured/recovered |
@@ -757,6 +770,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [布基纳法索](布基纳法索.md) | Burkina Faso |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
 | [加利福尼亚](加利福尼亚.md) | California |
+| [硅谷](硅谷.md) | Silicon Valley |
 | [得克萨斯](得克萨斯.md) | Texas |
 | [亚利桑那](亚利桑那.md) | Arizona |
 | [佛罗里达](佛罗里达.md) | Florida |
