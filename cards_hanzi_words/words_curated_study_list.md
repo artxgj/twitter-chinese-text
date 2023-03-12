@@ -316,6 +316,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [缺陷](缺陷.md) | defect; drawback; flaw; blemish |
 | [斡旋](斡旋.md) | mediate |
 | [恢复](恢复.md) | resume; regain; restore |
+| [匿名](匿名.md) | anonymous |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
