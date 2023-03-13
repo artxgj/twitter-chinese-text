@@ -317,6 +317,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [斡旋](斡旋.md) | mediate |
 | [恢复](恢复.md) | resume; regain; restore |
 | [匿名](匿名.md) | anonymous |
+| [拍卖](拍卖.md) | auction |
+| [投标](投标.md) | to bid; to make a tender |
+| [盎司](盎司.md) | ounce |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
