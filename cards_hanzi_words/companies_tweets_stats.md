@@ -24,6 +24,7 @@
 | [迪奥](迪奥.md) | Dior | CHDRY | 7 |
 | [迪士尼](迪士尼.md) | Disney | DIS | 64 |
 | [迅销](迅销.md) | Fast Retailing Co. Ltd. | FRCOY | 15 |
+| [富达国际](富达国际.md) | Fidelity International | (private) | 2 |
 | [富士胶片](富士胶片.md) | Fujifilm | FUJIY/FUJIF | 11 |
 | [富士康](富士康.md) | FoxConn | (see Hon Hai) | 61 |
 | [吉利](吉利.md) | Geely Automobile Holdings Ltd | GELYY | 27 |

@@ -324,6 +324,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [历经](历经.md) | experience; go through |
 | [机遇](机遇.md) | opportunity; favorable circumstances |
 | [蝉联](蝉联.md) | continue to hold (a post or title) |
+| [探讨](探讨.md) | inquire into; explore; investigate; examine |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -427,6 +428,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [债权人](债权人.md) | creditor |
 | [账户](账户.md) | account (e.g., bank account) |
 | [崩盘](崩盘.md) | (stock market) crash; collapse |
+| [停牌](停牌.md) | (of a stock) suspend trading |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -749,6 +751,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [尼克松](尼克松.md) | Nixon (Richard Milhaus) |
 | [邓紫棋](邓紫棋.md) | G.E.M. |
 | [泰勒丝](泰勒丝.md) | Taylor Swift |
+| [杨紫琼](杨紫琼.md) | Michelle Yeoh |
 ## Places and Regions
 |  |  |
 | ----- | :---: |

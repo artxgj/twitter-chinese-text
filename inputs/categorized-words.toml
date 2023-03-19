@@ -522,6 +522,10 @@ en = "account (e.g., bank account)"
 hz = "崩盘"
 en = "(stock market) crash; collapse"
 
+[[economy-markets]]
+hz = "停牌"
+en = "(of a stock) suspend trading"
+
 
 [[favorites]]
 hz = "供应链"
@@ -3066,6 +3070,10 @@ en = "opportunity; favorable circumstances"
 hz = "蝉联"
 en = "continue to hold (a post or title)"
 
+[[contextual-study]]
+hz = "探讨"
+en = "inquire into; explore; investigate; examine"
+
 
 [[people]]
 hz = "贝多芬"
@@ -3110,3 +3118,7 @@ en = "G.E.M."
 [[people]]
 hz = "泰勒丝"
 en = "Taylor Swift"
+
+[[people]]
+hz = "杨紫琼"
+en = "Michelle Yeoh"
