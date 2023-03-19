@@ -320,6 +320,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [拍卖](拍卖.md) | auction |
 | [投标](投标.md) | to bid; to make a tender |
 | [盎司](盎司.md) | ounce |
+| [沧桑](沧桑.md) | vicissitudes of life |
+| [历经](历经.md) | experience; go through |
+| [机遇](机遇.md) | opportunity; favorable circumstances |
+| [蝉联](蝉联.md) | continue to hold (a post or title) |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
