@@ -139,7 +139,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [取消](取消.md) | cancel |
 | [紧急](紧急.md) | urgent; emergency; pressing |
 | [政策](政策.md) | policy |
-| [刺激](刺激.md) | stimulus; stimulation; incentive; stimulate on ; encourage |
+| [刺激](刺激.md) | stimulus; stimulation; incentive; stimulate on ; encourage; provoke; irritate; upset |
 | [暂停](暂停.md) | suspend |
 | [核心](核心.md) | core; center; most important part |
 | [崛起](崛起.md) | to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power) |
@@ -179,6 +179,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [躲过](躲过.md) | dodge |
 | [萨哈林](萨哈林.md) | Sakhalin |
 | [资源](资源.md) | resource |
+| [起重机](起重机.md) | crane; hoist; derrick |
 | [众议院](众议院.md) | House of Representatives |
 | [参议院](参议院.md) | Senate |
 | [攀升](攀升.md) | climb |
@@ -325,6 +326,35 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [机遇](机遇.md) | opportunity; favorable circumstances |
 | [蝉联](蝉联.md) | continue to hold (a post or title) |
 | [探讨](探讨.md) | inquire into; explore; investigate; examine |
+| [孤胆英雄](孤胆英雄.md) | solitary hero; a lone fighter; maverick |
+| [先锋](先锋.md) | vanguard; pioneer |
+| [僵局](僵局.md) | deadlock; impasse; stalemate; stand-off |
+| [诉讼](诉讼.md) | lawsuit; litigation |
+| [飙升](飙升.md) | rise rapidly; to soar |
+| [兴奋剂](兴奋剂.md) | stimulant; doping (in athletics) |
+| [盟友](盟友.md) | ally; sworn friend; allied country |
+| [鞠躬](鞠躬.md) | bow |
+| [启动](启动.md) | start (a machine); enforce; implement; open up; explore |
+| [阐述](阐述.md) | expound; elaborate; set forth |
+| [追随](追随.md) | follow; tread on the heels of |
+| [漏洞](漏洞.md) | leak; hole; gap; loophole |
+| [专利](专利.md) | patent |
+| [拼凑](拼凑.md) | piece together |
+| [崩溃](崩溃.md) | collapse; crumble; fall apart |
+| [届时](届时.md) | when the time comes; at the appointed time |
+| [霸凌](霸凌.md) | bullying |
+| [残酷](残酷.md) | cruel; brutal; ruthless |
+| [打压](打压.md) | suppress; inhibit |
+| [特洛伊木马](特洛伊木马.md) | Trojan horse |
+| [审批](审批.md) | examine and approve; endorse |
+| [申请](申请.md) | apply for; file an application |
+| [信贷](信贷.md) | credit |
+| [拘留](拘留.md) | detain; hold in custody; intern |
+| [共生](共生.md) | symbiosis; intergrowth (geology); paragenesis (geology) |
+| [匮乏](匮乏.md) | be deficient; be short (of supplies) |
+| [质疑](质疑.md) | to call into question; to question (truth or validity) |
+| [透明度](透明度.md) | transparency |
+| [敌意](敌意.md) | hostility; enmity; animosity |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -580,6 +610,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [烧猪](烧猪.md) | lechon; roast pig |
 | [肉骨茶](肉骨茶.md) | bak-kut-teh; pork ribs soup |
+| [培根](培根.md) | bacon |
 | [炒粿条](炒粿条.md) | char kway teow |
 | [水粿](水粿.md) | chwee kueh |
 | [叻沙](叻沙.md) | laksa |
@@ -737,6 +768,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [暴雨](暴雨.md) | torrential rain; rainstorm |
 | [喷发](喷发.md) | eruption |
 | [暴风雪](暴风雪.md) | blizzard |
+| [雪崩](雪崩.md) | avalanche |
 ## People
 |  |  |
 | ----- | :---: |
@@ -752,6 +784,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [邓紫棋](邓紫棋.md) | G.E.M. |
 | [泰勒丝](泰勒丝.md) | Taylor Swift |
 | [杨紫琼](杨紫琼.md) | Michelle Yeoh |
+| [周受资](周受资.md) | Shou Zi Chew |
 ## Places and Regions
 |  |  |
 | ----- | :---: |

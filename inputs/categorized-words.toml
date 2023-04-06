@@ -1620,6 +1620,10 @@ hz = "肉骨茶"
 en = "bak-kut-teh; pork ribs soup"
 
 [[food-drinks]]
+hz = "培根"
+en = "bacon"
+
+[[food-drinks]]
 hz = "炒粿条"
 en = "char kway teow"
 
@@ -2172,6 +2176,10 @@ en = "eruption"
 hz = "暴风雪"
 en = "blizzard"
 
+[[natural-disaster]]
+hz = "雪崩"
+en = "avalanche"
+
 
 [[commodities_agri]]
 hz = "玉米"
@@ -2316,7 +2324,7 @@ en = "policy"
 
 [[contextual-study]]
 hz = "刺激"
-en = "stimulus; stimulation; incentive; stimulate on ; encourage"
+en = "stimulus; stimulation; incentive; stimulate on ; encourage; provoke; irritate; upset"
 
 [[contextual-study]]
 hz = "暂停"
@@ -2473,6 +2481,10 @@ en = "Sakhalin"
 [[contextual-study]]
 hz = "资源"
 en = "resource"
+
+[[contextual-study]]
+hz = "起重机"
+en = "crane; hoist; derrick"
 
 [[contextual-study]]
 hz = "众议院"
@@ -3074,6 +3086,126 @@ en = "continue to hold (a post or title)"
 hz = "探讨"
 en = "inquire into; explore; investigate; examine"
 
+[[contextual-study]]
+hz = "孤胆英雄"
+en = "solitary hero; a lone fighter; maverick"
+
+[[contextual-study]]
+hz = "先锋"
+en = "vanguard; pioneer"
+
+[[contextutal-study]]
+hz = "管道"
+en = "pipeline"
+
+[[contextual-study]]
+hz = "僵局"
+en = "deadlock; impasse; stalemate; stand-off"
+
+[[contextual-study]]
+hz = "诉讼"
+en = "lawsuit; litigation"
+
+[[contextual-study]]
+hz = "飙升"
+en = "rise rapidly; to soar"
+
+[[contextual-study]]
+hz = "兴奋剂"
+en = "stimulant; doping (in athletics)"
+
+[[contextual-study]]
+hz = "盟友"
+en = "ally; sworn friend; allied country"
+
+[[contextual-study]]
+hz = "鞠躬"
+en = "bow"
+
+[[contextual-study]]
+hz = "启动"
+en = "start (a machine); enforce; implement; open up; explore"
+
+[[contextual-study]]
+hz = "阐述"
+en = "expound; elaborate; set forth"
+
+[[contextual-study]]
+hz = "追随"
+en = "follow; tread on the heels of"
+
+[[contextual-study]]
+hz = "漏洞"
+en = "leak; hole; gap; loophole"
+
+[[contextual-study]]
+hz = "专利"
+en = "patent"
+
+[[contextual-study]]
+hz = "拼凑"
+en = "piece together"
+
+[[contextual-study]]
+hz = "崩溃"
+en = "collapse; crumble; fall apart"
+
+[[contextual-study]]
+hz = "届时"
+en = "when the time comes; at the appointed time"
+
+[[contextual-study]]
+hz = "霸凌"
+en = "bullying"
+
+[[contextual-study]]
+hz = "残酷"
+en = "cruel; brutal; ruthless"
+
+[[contextual-study]]
+hz = "打压"
+en = "suppress; inhibit"
+
+[[contextual-study]]
+hz = "特洛伊木马"
+en = "Trojan horse"
+
+[[contextual-study]]
+hz = "审批"
+en = "examine and approve; endorse"
+
+[[contextual-study]]
+hz = "申请"
+en = "apply for; file an application"
+
+[[contextual-study]]
+hz = "信贷"
+en = "credit"
+
+[[contextual-study]]
+hz = "拘留"
+en = "detain; hold in custody; intern"
+
+[[contextual-study]]
+hz = "共生"
+en = "symbiosis; intergrowth (geology); paragenesis (geology)"
+
+[[contextual-study]]
+hz = "匮乏"
+en = "be deficient; be short (of supplies)"
+
+[[contextual-study]]
+hz = "质疑"
+en = "to call into question; to question (truth or validity)"
+
+[[contextual-study]]
+hz = "透明度"
+en = "transparency"
+
+[[contextual-study]]
+hz = "敌意"
+en = "hostility; enmity; animosity"
+
 
 [[people]]
 hz = "贝多芬"
@@ -3122,3 +3254,7 @@ en = "Taylor Swift"
 [[people]]
 hz = "杨紫琼"
 en = "Michelle Yeoh"
+
+[[people]]
+hz = "周受资"
+en = "Shou Zi Chew"

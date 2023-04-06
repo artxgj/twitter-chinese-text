@@ -28,6 +28,7 @@
 | [富士胶片](富士胶片.md) | Fujifilm | FUJIY/FUJIF | 12 |
 | [富士康](富士康.md) | FoxConn | (see Hon Hai) | 61 |
 | [吉利](吉利.md) | Geely Automobile Holdings Ltd | GELYY | 28 |
+| [通用汽车](通用汽车.md) | General Motors | GM | 23 |
 | [高盛](高盛.md) | Goldman Sachs | GS | 69 |
 | [谷歌](谷歌.md) | Google | GOOG | 180 |
 | [海信集团](海信集团.md) | Hisense | (private) | 2 |
