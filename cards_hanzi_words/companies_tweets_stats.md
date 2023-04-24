@@ -72,6 +72,7 @@
 | [罗姆](罗姆.md) | ROHM | ROHCY/ROHCF | 15 |
 | [罗尔斯·罗伊斯](罗尔斯·罗伊斯.md) | Rolls Royce | RYCEY | 1 |
 | [三星](三星.md) | Samsung | SSNLF | 115 |
+| [希捷](希捷.md) | Seagate | STX | 2 |
 | [资生堂](资生堂.md) | Shiseido | SSDOY | 8 |
 | [希克斯](希克斯.md) | SIIX | Tokyo Stock Exchange | 1 |
 | [软银](软银.md) | SoftBank | SFTBF | 55 |

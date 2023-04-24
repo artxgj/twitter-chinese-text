@@ -193,6 +193,10 @@ en = "heavily in debt; up to one's ears in debt; debt-ridden"
 hz = "草木皆兵"
 en = "every bush and tree looks like an enemy soldier—a state of extreme suspicion and fear; plagued (by imaginary suspicion and fear)"
 
+[[idioms]]
+hz = "谨言慎行"
+en = "speak and act cautiously; discreet in word and deed"
+
 
 [[economy-markets]]
 hz = "央行"
@@ -926,6 +930,10 @@ en = "Iguana"
 [[favorites]]
 hz = "混合现实"
 en = "mixed reality"
+
+[[favorites]]
+hz = "虚拟实境"
+en = "virtual reality"
 
 [[favorites]]
 hz = "保密协议"
@@ -1704,6 +1712,14 @@ hz = "石斑鱼"
 en = "grouper"
 
 [[food-drinks]]
+hz = "龙趸"
+en = "giant grouper"
+
+[[food-drinks]]
+hz = "扁鱼"
+en = "Flatfish"
+
+[[food-drinks]]
 hz = "扇贝"
 en = "scallop"
 
@@ -1728,6 +1744,10 @@ hz = "蟹"
 en = "crab"
 
 [[food-drinks]]
+hz = "蛤蜊"
+en = "clam"
+
+[[food-drinks]]
 hz = "辣椒"
 en = "hot pepper; chili"
 
@@ -1750,6 +1770,14 @@ en = "mooncake"
 [[food-drinks]]
 hz = "红薯"
 en = "sweet potato"
+
+[[food-drinks]]
+hz = "槟榔芋"
+en = "taro"
+
+[[food-drinks]]
+hz = "咸菜"
+en = "pickles; salted vegetables"
 
 [[food-drinks]]
 hz = "薯条"
@@ -2078,6 +2106,10 @@ en = "animation; cartoon"
 [[entertainment]]
 hz = "漫画"
 en = "manga; cartoon"
+
+[[entertainment]]
+hz = "东映"
+en = "TOEI"
 
 [[entertainment]]
 hz = "科幻"
@@ -3205,6 +3237,30 @@ en = "transparency"
 [[contextual-study]]
 hz = "敌意"
 en = "hostility; enmity; animosity"
+
+[[contextual-study]]
+hz = "橄榄枝"
+en = "olive branch"
+
+[[contextual-study]]
+hz = "橄榄"
+en = "olive"
+
+[[contextual-study]]
+hz = "优惠"
+en = "preferential; favourable"
+
+[[contextual-study]]
+hz = "沟通"
+en = "link up; communicate"
+
+[[contextual-study]]
+hz = "当铺"
+en = "pawnshop"
+
+[[contextual-study]]
+hz = "蓄账户"
+en = "savings account"
 
 
 [[people]]

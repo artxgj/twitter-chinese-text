@@ -355,6 +355,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [质疑](质疑.md) | to call into question; to question (truth or validity) |
 | [透明度](透明度.md) | transparency |
 | [敌意](敌意.md) | hostility; enmity; animosity |
+| [橄榄枝](橄榄枝.md) | olive branch |
+| [橄榄](橄榄.md) | olive |
+| [优惠](优惠.md) | preferential; favourable |
+| [沟通](沟通.md) | link up; communicate |
+| [当铺](当铺.md) | pawnshop |
+| [蓄账户](蓄账户.md) | savings account |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -483,6 +489,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [动画](动画.md) | animation; cartoon |
 | [漫画](漫画.md) | manga; cartoon |
+| [东映](东映.md) | TOEI |
 | [科幻](科幻.md) | scifi |
 | [漫威](漫威.md) | Marvel |
 | [蜘蛛侠](蜘蛛侠.md) | Spiderman |
@@ -596,6 +603,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [变形虫](变形虫.md) | amoeba |
 | [鬣蜥](鬣蜥.md) | Iguana |
 | [混合现实](混合现实.md) | mixed reality |
+| [虚拟实境](虚拟实境.md) | virtual reality |
 | [保密协议](保密协议.md) | non-disclosure agreement |
 | [曲线](曲线.md) | curve |
 | [设计](设计.md) | design |
@@ -631,18 +639,23 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鲣鱼](鲣鱼.md) | oceanic bonito; skipjack (tuna) |
 | [鳗鱼](鳗鱼.md) | eel |
 | [石斑鱼](石斑鱼.md) | grouper |
+| [龙趸](龙趸.md) | giant grouper |
+| [扁鱼](扁鱼.md) | Flatfish |
 | [扇贝](扇贝.md) | scallop |
 | [海参](海参.md) | sea cucumber |
 | [鳀鱼](鳀鱼.md) | anchovy |
 | [蓝鳍金枪鱼](蓝鳍金枪鱼.md) | Bluefin Tuna |
 | [鰤鱼](鰤鱼.md) | yellowtail |
 | [蟹](蟹.md) | crab |
+| [蛤蜊](蛤蜊.md) | clam |
 | [辣椒](辣椒.md) | hot pepper; chili |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
 | [月饼](月饼.md) | mooncake |
 | [红薯](红薯.md) | sweet potato |
+| [槟榔芋](槟榔芋.md) | taro |
+| [咸菜](咸菜.md) | pickles; salted vegetables |
 | [薯条](薯条.md) | french fries; chips |
 | [薯片](薯片.md) | potato chips |
 | [披萨](披萨.md) | pizza |
@@ -739,6 +752,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [自给自足](自给自足.md) | self-sufficiency; autarkyx |
 | [债台高筑](债台高筑.md) | heavily in debt; up to one's ears in debt; debt-ridden |
 | [草木皆兵](草木皆兵.md) | every bush and tree looks like an enemy soldier—a state of extreme suspicion and fear; plagued (by imaginary suspicion and fear) |
+| [谨言慎行](谨言慎行.md) | speak and act cautiously; discreet in word and deed |
 ## Marine Life
 |  |  |
 | ----- | :---: |
