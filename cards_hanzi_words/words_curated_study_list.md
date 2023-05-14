@@ -117,6 +117,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [盐](盐.md) | salt |
 | [分子](分子.md) | molecule; numerator (mathematics); member; element; part |
+| [酶](酶.md) | enzyme; ferment |
 | [早期阶段](早期阶段.md) | early stage; initial stage |
 | [获得](获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](趋势.md) | trend |
@@ -361,6 +362,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [沟通](沟通.md) | link up; communicate |
 | [当铺](当铺.md) | pawnshop |
 | [蓄账户](蓄账户.md) | savings account |
+| [土星](土星.md) | Saturn |
+| [木星](木星.md) | Jupiter |
+| [专属](专属.md) | exclusive; proprietary; preivate; personal |
+| [造势](造势.md) | to boost support or interest; to campaign; to promote |
+| [特殊](特殊.md) | special; particular; unusual; extraordinary |
+| [金牛](金牛.md) | Taurus; golden ox |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -790,6 +797,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [莎翁](莎翁.md) | Shakespeare |
 | [牛顿](牛顿.md) | Newton |
 | [巴菲特](巴菲特.md) | Buffett |
+| [芒格](芒格.md) | Munger |
 | [张忠谋](张忠谋.md) | Morris Chang |
 | [孟晚舟](孟晚舟.md) | Meng Wanzhou |
 | [江泽民](江泽民.md) | Jiang Zemin |

@@ -2267,6 +2267,10 @@ hz = "分子"
 en = "molecule; numerator (mathematics); member; element; part"
 
 [[contextual-study]]
+hz = "酶"
+en = "enzyme; ferment"
+
+[[contextual-study]]
 hz = "早期阶段"
 en = "early stage; initial stage"
 
@@ -3262,6 +3266,30 @@ en = "pawnshop"
 hz = "蓄账户"
 en = "savings account"
 
+[[contextual-study]]
+hz = "土星"
+en = "Saturn"
+
+[[contextual-study]]
+hz = "木星"
+en = "Jupiter"
+
+[[contextual-study]]
+hz = "专属"
+en = "exclusive; proprietary; preivate; personal"
+
+[[contextual-study]]
+hz = "造势"
+en = "to boost support or interest; to campaign; to promote"
+
+[[contextual-study]]
+hz = "特殊"
+en = "special; particular; unusual; extraordinary"
+
+[[contextual-study]]
+hz = "金牛"
+en = "Taurus; golden ox"
+
 
 [[people]]
 hz = "贝多芬"
@@ -3278,6 +3306,10 @@ en = "Newton"
 [[people]]
 hz = "巴菲特"
 en = "Buffett"
+
+[[people]]
+hz = "芒格"
+en = "Munger"
 
 [[people]]
 hz = "张忠谋"
