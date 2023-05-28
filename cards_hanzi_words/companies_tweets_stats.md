@@ -102,4 +102,5 @@
 | [沃尔玛](沃尔玛.md) | Walmart | WMT | 28 |
 | [富国银行](富国银行.md) | Wells Fargo | WFC | 10 |
 | [小米](小米.md) | Xiaomi | XIACY | 52 |
+| [雅马哈](雅马哈.md) | Yamaha | YAMHY | 12 |
 | [安川电机](安川电机.md) | Yaskawa Electric | YASKY | 16 |
