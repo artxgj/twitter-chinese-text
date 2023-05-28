@@ -143,7 +143,6 @@ en = "exchange rate; conversion rate"
 hz = "黄金"
 en = "gold"
 
-
 [[currency-money-tech]]
 hz = "布雷顿森林"
 en = "Bretton Woods"
@@ -445,6 +444,10 @@ en = "profit margin"
 [[economy-markets]]
 hz = "去美元化"
 en = "dedollarization"
+
+[[economy-markets]]
+hz = "债务上限"
+en = "debt ceiling"
 
 [[economy-markets]]
 hz = "裁员"
@@ -936,6 +939,10 @@ hz = "虚拟实境"
 en = "virtual reality"
 
 [[favorites]]
+hz = "头戴式装置"
+en = "head-mounted device (HMD)"
+
+[[favorites]]
 hz = "保密协议"
 en = "non-disclosure agreement"
 
@@ -1259,6 +1266,18 @@ en = "smallpox"
 [[health]]
 hz = "汀类药物"
 en = "statins"
+
+[[health]]
+hz = "慢性疼痛"
+en = "chronic pain"
+
+[[health]]
+hz = "心血管疾病"
+en = "cardiovascular disease"
+
+[[health]]
+hz = "抑郁"
+en = "depressed; depression; despondent; gloomy"
 
 
 [[energy]]
@@ -1748,6 +1767,18 @@ hz = "蛤蜊"
 en = "clam"
 
 [[food-drinks]]
+hz = "铁锅炖"
+en = "iron pot stew"
+
+[[food-drinks]]
+hz = "御好烧"
+en = "Okonomiyaki"
+
+[[food-drinks]]
+hz = "烧烤"
+en = "barbeque"
+
+[[food-drinks]]
 hz = "辣椒"
 en = "hot pepper; chili"
 
@@ -2097,6 +2128,10 @@ en = "facial recognition"
 [[computing]]
 hz = "锁屏"
 en = "lock screen"
+
+[[computing]]
+hz = "人工智能"
+en = "AI"
 
 
 [[entertainment]]
@@ -3267,6 +3302,10 @@ hz = "蓄账户"
 en = "savings account"
 
 [[contextual-study]]
+hz = "火星"
+en = "Mars"
+
+[[contextual-study]]
 hz = "土星"
 en = "Saturn"
 
@@ -3289,6 +3328,34 @@ en = "special; particular; unusual; extraordinary"
 [[contextual-study]]
 hz = "金牛"
 en = "Taurus; golden ox"
+
+[[contextual-study]]
+hz = "炸锅"
+en = "flare up; cause an uproar"
+
+[[contextual-study]]
+hz = "娱乐性毒品"
+en = "recreational drugs"
+
+[[contextual-study]]
+hz = "随意性行"
+en = "casual sex"
+
+[[contextual-study]]
+hz = "大脑皮层"
+en = "cerebral cortex"
+
+[[contextual-study]]
+hz = "壁垒"
+en = "barrier"
+
+[[contextual-study]]
+hz = "过剩"
+en = "surplus"
+
+[[contextual-study]]
+hz = "婚外情"
+en = "extra-marital affair"
 
 
 [[people]]
@@ -3346,3 +3413,7 @@ en = "Michelle Yeoh"
 [[people]]
 hz = "周受资"
 en = "Shou Zi Chew"
+
+[[people]]
+hz = "黄仁勋"
+en = "Jensen Huang"

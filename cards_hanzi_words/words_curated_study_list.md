@@ -112,6 +112,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [硬盘](硬盘.md) | hard disk |
 | [面部识别](面部识别.md) | facial recognition |
 | [锁屏](锁屏.md) | lock screen |
+| [人工智能](人工智能.md) | AI |
 ## Words Used In Several Context
 |  |  |
 | ----- | :---: |
@@ -362,12 +363,20 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [沟通](沟通.md) | link up; communicate |
 | [当铺](当铺.md) | pawnshop |
 | [蓄账户](蓄账户.md) | savings account |
+| [火星](火星.md) | Mars |
 | [土星](土星.md) | Saturn |
 | [木星](木星.md) | Jupiter |
 | [专属](专属.md) | exclusive; proprietary; preivate; personal |
 | [造势](造势.md) | to boost support or interest; to campaign; to promote |
 | [特殊](特殊.md) | special; particular; unusual; extraordinary |
 | [金牛](金牛.md) | Taurus; golden ox |
+| [炸锅](炸锅.md) | flare up; cause an uproar |
+| [娱乐性毒品](娱乐性毒品.md) | recreational drugs |
+| [随意性行](随意性行.md) | casual sex |
+| [大脑皮层](大脑皮层.md) | cerebral cortex |
+| [壁垒](壁垒.md) | barrier |
+| [过剩](过剩.md) | surplus |
+| [婚外情](婚外情.md) | extra-marital affair |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -451,6 +460,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [周转资金](周转资金.md) | working capital; working/revolving fund |
 | [利润率](利润率.md) | profit margin |
 | [去美元化](去美元化.md) | dedollarization |
+| [债务上限](债务上限.md) | debt ceiling |
 | [裁员](裁员.md) | reduce (or cut) staff; layoff employees |
 | [销售额](销售额.md) | sales (volume) |
 | [合资企业](合资企业.md) | joint venture |
@@ -611,6 +621,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鬣蜥](鬣蜥.md) | Iguana |
 | [混合现实](混合现实.md) | mixed reality |
 | [虚拟实境](虚拟实境.md) | virtual reality |
+| [头戴式装置](头戴式装置.md) | head-mounted device (HMD) |
 | [保密协议](保密协议.md) | non-disclosure agreement |
 | [曲线](曲线.md) | curve |
 | [设计](设计.md) | design |
@@ -655,6 +666,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鰤鱼](鰤鱼.md) | yellowtail |
 | [蟹](蟹.md) | crab |
 | [蛤蜊](蛤蜊.md) | clam |
+| [铁锅炖](铁锅炖.md) | iron pot stew |
+| [御好烧](御好烧.md) | Okonomiyaki |
+| [烧烤](烧烤.md) | barbeque |
 | [辣椒](辣椒.md) | hot pepper; chili |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
@@ -748,6 +762,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [疤痕](疤痕.md) | scar |
 | [天花](天花.md) | smallpox |
 | [汀类药物](汀类药物.md) | statins |
+| [慢性疼痛](慢性疼痛.md) | chronic pain |
+| [心血管疾病](心血管疾病.md) | cardiovascular disease |
+| [抑郁](抑郁.md) | depressed; depression; despondent; gloomy |
 ## Idioms
 |  |  |
 | ----- | :---: |
@@ -807,6 +824,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [泰勒丝](泰勒丝.md) | Taylor Swift |
 | [杨紫琼](杨紫琼.md) | Michelle Yeoh |
 | [周受资](周受资.md) | Shou Zi Chew |
+| [黄仁勋](黄仁勋.md) | Jensen Huang |
 ## Places and Regions
 |  |  |
 | ----- | :---: |

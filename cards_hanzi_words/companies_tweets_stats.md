@@ -7,12 +7,15 @@
 | [全日空](全日空.md) | All Nippon Airways (ANA) | ALNPY | 16 |
 | [亚马逊](亚马逊.md) | Amazon | AMZN | 144 |
 | [苹果](苹果.md) | Apple | AAPL | 521 |
+| [应用材料](应用材料.md) | Applied Materials | AMAT | 5 |
 | [朝日](朝日.md) | Asahi Group Holdings Ltd. | ASBRF | 4 |
+| [亚瑟士](亚瑟士.md) | ASICS | ASCCY | 14 |
 | [美国银行](美国银行.md) | Bank of America | BAC | 20 |
 | [伯克希尔哈撒韦公司](伯克希尔哈撒韦公司.md) | Berkshire Hathaway | BRK.A | 22 |
 | [币安](币安.md) | Binance | (private) | 27 |
 | [波音](波音.md) | Boeing | BA | 61 |
 | [桥水](桥水.md) | Bridgewater | hedge fund | 11 |
+| [博通](博通.md) | Broadcom | AVGO | 9 |
 | [比亚迪](比亚迪.md) | BYD | BYDDF | 63 |
 | [字节跳动](字节跳动.md) | ByteDance | (private) | 43 |
 | [佳能](佳能.md) | Canon | CAJ | 23 |
@@ -24,6 +27,7 @@
 | [迪奥](迪奥.md) | Dior | CHDRY | 8 |
 | [迪士尼](迪士尼.md) | Disney | DIS | 78 |
 | [诚品](诚品.md) | Eslite | 2926 (TPEX) | 2 |
+| [雅诗兰黛](雅诗兰黛.md) | Estee Lauder | EL | 2 |
 | [迅销](迅销.md) | Fast Retailing Co. Ltd. | FRCOY | 17 |
 | [富达国际](富达国际.md) | Fidelity International | (private) | 3 |
 | [富士胶片](富士胶片.md) | Fujifilm | FUJIY/FUJIF | 12 |
@@ -46,6 +50,7 @@
 | [小松](小松.md) | Komatsu | KMTUY/KMTUF | 15 |
 | [京瓷](京瓷.md) | Kyocera | KYOCY | 15 |
 | [联想](联想.md) | Lenovo | LNVGY/LNVGF | 24 |
+| [欧莱雅](欧莱雅.md) | L'Oreal | EPA:OR | 4 |
 | [瑞幸咖啡](瑞幸咖啡.md) | Luckin Coffee | delisted | 5 |
 | [前田工纤集团](前田工纤集团.md) | Maeda Kosen Co., Ltd | unavailable | 1 |
 | [万事达卡](万事达卡.md) | Mastercard | MA | 9 |
@@ -53,7 +58,7 @@
 | [麦当劳](麦当劳.md) | McDonald's | MCD | 35 |
 | [奔驰](奔驰.md) | Mercedes Benz | DDAIF | 15 |
 | [默克](默克.md) | Merck | MRK | 41 |
-| [美光科技](美光科技.md) | Micron Technology | MU | 23 |
+| [美光](美光.md) | Micron Technology | MU | 33 |
 | [微软](微软.md) | Microsoft | MSFT | 134 |
 | [三菱](三菱.md) | Mitsubishi |  | 81 |
 | [三井化学](三井化学.md) | Mitsui Chemicals | MITUY | 3 |
@@ -74,6 +79,7 @@
 | [罗尔斯·罗伊斯](罗尔斯·罗伊斯.md) | Rolls Royce | RYCEY | 1 |
 | [三星](三星.md) | Samsung | SSNLF | 124 |
 | [希捷](希捷.md) | Seagate | STX | 2 |
+| [希音](希音.md) | Shein | private | 3 |
 | [资生堂](资生堂.md) | Shiseido | SSDOY | 9 |
 | [希克斯](希克斯.md) | SIIX | Tokyo Stock Exchange | 1 |
 | [软银](软银.md) | SoftBank | SFTBF | 60 |
