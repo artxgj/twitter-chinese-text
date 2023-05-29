@@ -377,6 +377,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [壁垒](壁垒.md) | barrier |
 | [过剩](过剩.md) | surplus |
 | [婚外情](婚外情.md) | extra-marital affair |
+| [局势](局势.md) | situation; state (of affairs) |
+| [熊猫](熊猫.md) | panda  |
+| [热卖](热卖.md) | sell well; be in great demand; sell like hot cakes |
+| [浮标](浮标.md) | buoy |
+| [指尖](指尖.md) | fingertips |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
