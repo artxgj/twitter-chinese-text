@@ -487,6 +487,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [账户](账户.md) | account (e.g., bank account) |
 | [崩盘](崩盘.md) | (stock market) crash; collapse |
 | [停牌](停牌.md) | (of a stock) suspend trading |
+| [石油输出国组](石油输出国组.md) | OPEC |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -624,9 +625,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [动作捕捉](动作捕捉.md) | motion capture |
 | [变形虫](变形虫.md) | amoeba |
 | [鬣蜥](鬣蜥.md) | Iguana |
-| [混合现实](混合现实.md) | mixed reality |
-| [虚拟实境](虚拟实境.md) | virtual reality |
-| [头戴式装置](头戴式装置.md) | head-mounted device (HMD) |
 | [保密协议](保密协议.md) | non-disclosure agreement |
 | [曲线](曲线.md) | curve |
 | [设计](设计.md) | design |
@@ -650,6 +648,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [海南鸡饭](海南鸡饭.md) | Hainanese chicken rice |
 | [清汤](清汤.md) | clear soup |
 | [咖椰](咖椰.md) | kaya; coconut jam |
+| [加央角](加央角.md) | Kaya Puff |
 | [烤面包](烤面包.md) | toast |
 | [肉脞面](肉脞面.md) | minced pork noodles |
 | [拉面](拉面.md) | ramen |
@@ -812,6 +811,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [喷发](喷发.md) | eruption |
 | [暴风雪](暴风雪.md) | blizzard |
 | [雪崩](雪崩.md) | avalanche |
+| [水龙卷](水龙卷.md) | waterspout |
 ## People
 |  |  |
 | ----- | :---: |
@@ -863,6 +863,16 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [得克萨斯](得克萨斯.md) | Texas |
 | [亚利桑那](亚利桑那.md) | Arizona |
 | [佛罗里达](佛罗里达.md) | Florida |
+## Spatial Computing
+|  |  |
+| ----- | :---: |
+| [空间计算](空间计算.md) | spatial computing |
+| [混合现实](混合现实.md) | mixed reality |
+| [虚拟实境](虚拟实境.md) | virtual reality |
+| [虚拟现实](虚拟现实.md) | virtual reality |
+| [增强现实](增强现实.md) | augmented reality |
+| [头戴式装置](头戴式装置.md) | head-mounted device (HMD) |
+| [头戴式设备](头戴式设备.md) | headset (head-mounted device) |
 ## World Cup 2022 Countries
 |  |  |
 | ----- | :---: |

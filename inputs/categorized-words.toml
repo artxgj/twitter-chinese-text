@@ -11,6 +11,7 @@ favorites = "Favorites"
 marine = "Marine Life"
 food-drinks = "Food And Drinks"
 places = "Places and Regions"
+spatial-computing = "Spatial Computing"
 computing = "Computing/Digital"
 entertainment = "Entertainment"
 natural-disaster = "Natural Disasters"
@@ -533,6 +534,39 @@ en = "(stock market) crash; collapse"
 hz = "停牌"
 en = "(of a stock) suspend trading"
 
+[[economy-markets]]
+hz = "石油输出国组"
+en = "OPEC"
+
+
+[[spatial-computing]]
+hz = "空间计算"
+en = "spatial computing"
+
+[[spatial-computing]]
+hz = "混合现实"
+en = "mixed reality"
+
+[[spatial-computing]]
+hz = "虚拟实境"
+en = "virtual reality"
+
+[[spatial-computing]]
+hz = "虚拟现实"
+en = "virtual reality"
+
+[[spatial-computing]]
+hz = "增强现实"
+en = "augmented reality"
+
+[[spatial-computing]]
+hz = "头戴式装置"
+en = "head-mounted device (HMD)"
+
+[[spatial-computing]]
+hz = "头戴式设备"
+en = "headset (head-mounted device)"
+
 
 [[favorites]]
 hz = "供应链"
@@ -929,18 +963,6 @@ en = "amoeba"
 [[favorites]]
 hz = "鬣蜥"
 en = "Iguana"
-
-[[favorites]]
-hz = "混合现实"
-en = "mixed reality"
-
-[[favorites]]
-hz = "虚拟实境"
-en = "virtual reality"
-
-[[favorites]]
-hz = "头戴式装置"
-en = "head-mounted device (HMD)"
 
 [[favorites]]
 hz = "保密协议"
@@ -1683,6 +1705,10 @@ hz = "咖椰"
 en = "kaya; coconut jam"
 
 [[food-drinks]]
+hz = "加央角"
+en = "Kaya Puff"
+
+[[food-drinks]]
 hz = "烤面包"
 en = "toast"
 
@@ -2246,6 +2272,10 @@ en = "blizzard"
 [[natural-disaster]]
 hz = "雪崩"
 en = "avalanche"
+
+[[natural-disaster]]
+hz = "水龙卷"
+en = "waterspout"
 
 
 [[commodities_agri]]
