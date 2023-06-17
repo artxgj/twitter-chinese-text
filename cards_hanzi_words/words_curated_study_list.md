@@ -525,6 +525,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [足球](足球.md) | football |
 | [世界杯](世界杯.md) | World Cup |
 | [勇士](勇士.md) | Warriors |
+| [美国职业篮球赛](美国职业篮球赛.md) | NBA |
 ## Favorites
 |  |  |
 | ----- | :---: |
@@ -781,6 +782,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [债台高筑](债台高筑.md) | heavily in debt; up to one's ears in debt; debt-ridden |
 | [草木皆兵](草木皆兵.md) | every bush and tree looks like an enemy soldier—a state of extreme suspicion and fear; plagued (by imaginary suspicion and fear) |
 | [谨言慎行](谨言慎行.md) | speak and act cautiously; discreet in word and deed |
+| [因祸得福](因祸得福.md) | derive gain or profit by misfortune (blessing in disguise) |
 ## Marine Life
 |  |  |
 | ----- | :---: |
@@ -812,6 +814,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [暴风雪](暴风雪.md) | blizzard |
 | [雪崩](雪崩.md) | avalanche |
 | [水龙卷](水龙卷.md) | waterspout |
+| [野火](野火.md) | Wildfire |
 ## People
 |  |  |
 | ----- | :---: |

@@ -197,6 +197,10 @@ en = "every bush and tree looks like an enemy soldier—a state of extreme suspi
 hz = "谨言慎行"
 en = "speak and act cautiously; discreet in word and deed"
 
+[[idioms]]
+hz = "因祸得福"
+en = "derive gain or profit by misfortune (blessing in disguise)"
+
 
 [[economy-markets]]
 hz = "央行"
@@ -2220,6 +2224,10 @@ en = "World Cup"
 hz = "勇士"
 en = "Warriors"
 
+[[entertainment]]
+hz = "美国职业篮球赛"
+en = "NBA"
+
 
 [[natural-disaster]]
 hz = "台风"
@@ -2276,6 +2284,10 @@ en = "avalanche"
 [[natural-disaster]]
 hz = "水龙卷"
 en = "waterspout"
+
+[[natural-disaster]]
+hz = "野火"
+en = "Wildfire"
 
 
 [[commodities_agri]]
