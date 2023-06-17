@@ -382,6 +382,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [热卖](热卖.md) | sell well; be in great demand; sell like hot cakes |
 | [浮标](浮标.md) | buoy |
 | [指尖](指尖.md) | fingertips |
+| [人工](人工.md) | artificial; man-made; manual work; work done by hand; manpower; man-day |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
