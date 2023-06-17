@@ -105,6 +105,24 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Computing/Digital
 |  |  |
 | ----- | :---: |
+| [空间计算](空间计算.md) | spatial computing |
+| [混合现实](混合现实.md) | mixed reality |
+| [虚拟实境](虚拟实境.md) | virtual reality |
+| [虚拟现实](虚拟现实.md) | virtual reality |
+| [增强现实](增强现实.md) | augmented reality |
+| [头戴式装置](头戴式装置.md) | head-mounted device (HMD) |
+| [头戴式设备](头戴式设备.md) | headset (head-mounted device) |
+| [激光雷达](激光雷达.md) | lidar |
+| [红外](红外.md) | infrared |
+| [摄像头](摄像头.md) | camera |
+| [动作捕捉](动作捕捉.md) | motion capture |
+| [半导体](半导体.md) | semiconductor |
+| [芯片](芯片.md) | chip |
+| [纳米](纳米.md) | nanometer |
+| [摩尔定律](摩尔定律.md) | Moore’s Law |
+| [堆叠](堆叠.md) | stack (as in 3D stacking) |
+| [后工序](后工序.md) | post-process |
+| [晶体管](晶体管.md) | transistor |
 | [互联网](互联网.md) | Internet |
 | [线上](线上.md) | online |
 | [元宇宙](元宇宙.md) | metaverse |
@@ -378,7 +396,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [过剩](过剩.md) | surplus |
 | [婚外情](婚外情.md) | extra-marital affair |
 | [局势](局势.md) | situation; state (of affairs) |
-| [熊猫](熊猫.md) | panda  |
+| [熊猫](熊猫.md) | panda |
 | [热卖](热卖.md) | sell well; be in great demand; sell like hot cakes |
 | [浮标](浮标.md) | buoy |
 | [指尖](指尖.md) | fingertips |
@@ -514,6 +532,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [动画](动画.md) | animation; cartoon |
 | [漫画](漫画.md) | manga; cartoon |
 | [东映](东映.md) | TOEI |
+| [铁臂阿童木](铁臂阿童木.md) | Astro Boy |
 | [科幻](科幻.md) | scifi |
 | [漫威](漫威.md) | Marvel |
 | [蜘蛛侠](蜘蛛侠.md) | Spiderman |
@@ -529,6 +548,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [美国职业篮球赛](美国职业篮球赛.md) | NBA |
 | [总决赛](总决赛.md) | finals (sports) |
 | [常规赛](常规赛.md) | regular season (sports) |
+| [明星赛](明星赛.md) | All-Star Game |
 | [奥运会](奥运会.md) | Olympic Games |
 ## Favorites
 |  |  |
@@ -543,16 +563,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [吞吐量](吞吐量.md) | handling capacity (of a harbour); the volume of freight handled |
 | [航运](航运.md) | shipping; transport |
 | [仓库](仓库.md) | warehouse |
-| [半导体](半导体.md) | semiconductor |
-| [芯片](芯片.md) | chip |
-| [纳米](纳米.md) | nanometer |
-| [摩尔定律](摩尔定律.md) | Moore’s Law |
-| [堆叠](堆叠.md) | stack (as in 3D stacking) |
-| [后工序](后工序.md) | post-process |
 | [陶瓷](陶瓷.md) | ceramics; porcelein |
-| [晶体管](晶体管.md) | transistor |
-| [晶圆](晶圆.md) | wafer |
-| [晶片](晶片.md) | wafer; chip |
 | [逻辑](逻辑.md) | logic |
 | [液晶](液晶.md) | liquid crystal |
 | [多晶硅](多晶硅.md) | polycrystalline silicon |
@@ -573,11 +584,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [稀土](稀土.md) | rare earth |
 | [微细化](微细化.md) | miniaturization |
 | [小型化](小型化.md) | miniaturization |
-| [传感器](传感器.md) | sensor |
-| [激光雷达](激光雷达.md) | lidar |
-| [红外](红外.md) | infrared |
-| [摄像头](摄像头.md) | camera |
 | [二维码](二维码.md) | QR code |
+| [三维](三维.md) | three-dimensional |
 | [零部件](零部件.md) | parts and components |
 | [机床](机床.md) | machine tools |
 | [螺丝](螺丝.md) | screws |
@@ -596,7 +604,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [拖拉机](拖拉机.md) | tractor |
 | [纯电动汽车](纯电动汽车.md) | pure electric vehicle |
 | [折纸](折纸.md) | origami |
-| [铁臂阿童木](铁臂阿童木.md) | Astro Boy |
 | [小行星](小行星.md) | asteroid |
 | [宇宙](宇宙.md) | universe; cosmos; space; void |
 | [望远镜](望远镜.md) | telescope |
@@ -627,7 +634,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [涡轮机](涡轮机.md) | turbine |
 | [反应堆](反应堆.md) | reactor |
 | [考古学家](考古学家.md) | archaeologist |
-| [动作捕捉](动作捕捉.md) | motion capture |
 | [变形虫](变形虫.md) | amoeba |
 | [鬣蜥](鬣蜥.md) | Iguana |
 | [保密协议](保密协议.md) | non-disclosure agreement |
@@ -639,6 +645,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [气球](气球.md) | balloon |
 | [冰山](冰山.md) | iceberg |
 | [同步轨道](同步轨道.md) | synchronous orbit |
+| [传感器](传感器.md) | sensor |
+| [晶圆](晶圆.md) | wafer |
+| [晶片](晶片.md) | wafer; chip |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |
@@ -870,16 +879,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [得克萨斯](得克萨斯.md) | Texas |
 | [亚利桑那](亚利桑那.md) | Arizona |
 | [佛罗里达](佛罗里达.md) | Florida |
-## Spatial Computing
-|  |  |
-| ----- | :---: |
-| [空间计算](空间计算.md) | spatial computing |
-| [混合现实](混合现实.md) | mixed reality |
-| [虚拟实境](虚拟实境.md) | virtual reality |
-| [虚拟现实](虚拟现实.md) | virtual reality |
-| [增强现实](增强现实.md) | augmented reality |
-| [头戴式装置](头戴式装置.md) | head-mounted device (HMD) |
-| [头戴式设备](头戴式设备.md) | headset (head-mounted device) |
 ## World Cup 2022 Countries
 |  |  |
 | ----- | :---: |

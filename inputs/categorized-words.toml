@@ -11,7 +11,6 @@ favorites = "Favorites"
 marine = "Marine Life"
 food-drinks = "Food And Drinks"
 places = "Places and Regions"
-spatial-computing = "Spatial Computing"
 computing = "Computing/Digital"
 entertainment = "Entertainment"
 natural-disaster = "Natural Disasters"
@@ -543,35 +542,6 @@ hz = "石油输出国组"
 en = "OPEC"
 
 
-[[spatial-computing]]
-hz = "空间计算"
-en = "spatial computing"
-
-[[spatial-computing]]
-hz = "混合现实"
-en = "mixed reality"
-
-[[spatial-computing]]
-hz = "虚拟实境"
-en = "virtual reality"
-
-[[spatial-computing]]
-hz = "虚拟现实"
-en = "virtual reality"
-
-[[spatial-computing]]
-hz = "增强现实"
-en = "augmented reality"
-
-[[spatial-computing]]
-hz = "头戴式装置"
-en = "head-mounted device (HMD)"
-
-[[spatial-computing]]
-hz = "头戴式设备"
-en = "headset (head-mounted device)"
-
-
 [[favorites]]
 hz = "供应链"
 en = "supply chain"
@@ -613,44 +583,8 @@ hz = "仓库"
 en = "warehouse"
 
 [[favorites]]
-hz = "半导体"
-en = "semiconductor"
-
-[[favorites]]
-hz = "芯片"
-en = "chip"
-
-[[favorites]]
-hz = "纳米"
-en = "nanometer"
-
-[[favorites]]
-hz = "摩尔定律"
-en = "Moore’s Law"
-
-[[favorites]]
-hz = "堆叠"
-en = "stack (as in 3D stacking)"
-
-[[favorites]]
-hz = "后工序"
-en = "post-process"
-
-[[favorites]]
 hz = "陶瓷"
 en = "ceramics; porcelein"
-
-[[favorites]]
-hz = "晶体管"
-en = "transistor"
-
-[[favorites]]
-hz = "晶圆"
-en = "wafer"
-
-[[favorites]]
-hz = "晶片"
-en = "wafer; chip"
 
 [[favorites]]
 hz = "逻辑"
@@ -733,24 +667,12 @@ hz = "小型化"
 en = "miniaturization"
 
 [[favorites]]
-hz = "传感器"
-en = "sensor"
-
-[[favorites]]
-hz = "激光雷达"
-en = "lidar"
-
-[[favorites]]
-hz = "红外"
-en = "infrared"
-
-[[favorites]]
-hz = "摄像头"
-en = "camera"
-
-[[favorites]]
 hz = "二维码"
 en = "QR code"
+
+[[favorites]]
+hz = "三维"
+en = "three-dimensional"
 
 [[favorites]]
 hz = "零部件"
@@ -823,10 +745,6 @@ en = "pure electric vehicle"
 [[favorites]]
 hz = "折纸"
 en = "origami"
-
-[[favorites]]
-hz = "铁臂阿童木"
-en = "Astro Boy"
 
 [[favorites]]
 hz = "小行星"
@@ -955,10 +873,6 @@ en = "reactor"
 [[favorites]]
 hz = "考古学家"
 en = "archaeologist"
-
-[[favorites]]
-hz = "动作捕捉"
-en = "motion capture"
 
 [[favorites]]
 hz = "变形虫"
@@ -2132,6 +2046,90 @@ en = "South Korea"
 
 
 [[computing]]
+hz = "空间计算"
+en = "spatial computing"
+
+[[computing]]
+hz = "混合现实"
+en = "mixed reality"
+
+[[computing]]
+hz = "虚拟实境"
+en = "virtual reality"
+
+[[computing]]
+hz = "虚拟现实"
+en = "virtual reality"
+
+[[computing]]
+hz = "增强现实"
+en = "augmented reality"
+
+[[computing]]
+hz = "头戴式装置"
+en = "head-mounted device (HMD)"
+
+[[computing]]
+hz = "头戴式设备"
+en = "headset (head-mounted device)"
+
+[[favorites]]
+hz = "传感器"
+en = "sensor"
+
+[[computing]]
+hz = "激光雷达"
+en = "lidar"
+
+[[computing]]
+hz = "红外"
+en = "infrared"
+
+[[computing]]
+hz = "摄像头"
+en = "camera"
+
+[[computing]]
+hz = "动作捕捉"
+en = "motion capture"
+
+[[computing]]
+hz = "半导体"
+en = "semiconductor"
+
+[[computing]]
+hz = "芯片"
+en = "chip"
+
+[[computing]]
+hz = "纳米"
+en = "nanometer"
+
+[[computing]]
+hz = "摩尔定律"
+en = "Moore’s Law"
+
+[[computing]]
+hz = "堆叠"
+en = "stack (as in 3D stacking)"
+
+[[computing]]
+hz = "后工序"
+en = "post-process"
+
+[[computing]]
+hz = "晶体管"
+en = "transistor"
+
+[[favorites]]
+hz = "晶圆"
+en = "wafer"
+
+[[favorites]]
+hz = "晶片"
+en = "wafer; chip"
+
+[[computing]]
 hz = "互联网"
 en = "Internet"
 
@@ -2175,6 +2173,10 @@ en = "manga; cartoon"
 [[entertainment]]
 hz = "东映"
 en = "TOEI"
+
+[[entertainment]]
+hz = "铁臂阿童木"
+en = "Astro Boy"
 
 [[entertainment]]
 hz = "科幻"
@@ -2235,6 +2237,10 @@ en = "finals (sports)"
 [[entertainment]]
 hz = "常规赛"
 en = "regular season (sports)"
+
+[[entertainment]]
+hz = "明星赛"
+en = "All-Star Game"
 
 [[entertainment]]
 hz = "奥运会"
@@ -3417,7 +3423,7 @@ en = "situation; state (of affairs)"
 
 [[contextual-study]]
 hz = "熊猫"
-en = "panda "
+en = "panda"
 
 [[contextual-study]]
 hz = "热卖"
