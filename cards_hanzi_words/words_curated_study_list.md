@@ -112,6 +112,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [增强现实](增强现实.md) | augmented reality |
 | [头戴式装置](头戴式装置.md) | head-mounted device (HMD) |
 | [头戴式设备](头戴式设备.md) | headset (head-mounted device) |
+| [传感器](传感器.md) | sensor |
 | [激光雷达](激光雷达.md) | lidar |
 | [红外](红外.md) | infrared |
 | [摄像头](摄像头.md) | camera |
@@ -123,6 +124,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [堆叠](堆叠.md) | stack (as in 3D stacking) |
 | [后工序](后工序.md) | post-process |
 | [晶体管](晶体管.md) | transistor |
+| [晶圆](晶圆.md) | wafer |
+| [晶片](晶片.md) | wafer; chip |
 | [互联网](互联网.md) | Internet |
 | [线上](线上.md) | online |
 | [元宇宙](元宇宙.md) | metaverse |
@@ -645,9 +648,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [气球](气球.md) | balloon |
 | [冰山](冰山.md) | iceberg |
 | [同步轨道](同步轨道.md) | synchronous orbit |
-| [传感器](传感器.md) | sensor |
-| [晶圆](晶圆.md) | wafer |
-| [晶片](晶片.md) | wafer; chip |
 ## Food And Drinks
 |  |  |
 | ----- | :---: |

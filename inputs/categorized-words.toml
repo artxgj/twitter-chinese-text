@@ -2073,7 +2073,7 @@ en = "head-mounted device (HMD)"
 hz = "头戴式设备"
 en = "headset (head-mounted device)"
 
-[[favorites]]
+[[computing]]
 hz = "传感器"
 en = "sensor"
 
@@ -2121,11 +2121,11 @@ en = "post-process"
 hz = "晶体管"
 en = "transistor"
 
-[[favorites]]
+[[computing]]
 hz = "晶圆"
 en = "wafer"
 
-[[favorites]]
+[[computing]]
 hz = "晶片"
 en = "wafer; chip"
 
