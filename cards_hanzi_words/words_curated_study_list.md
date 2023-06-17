@@ -527,6 +527,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [世界杯](世界杯.md) | World Cup |
 | [勇士](勇士.md) | Warriors |
 | [美国职业篮球赛](美国职业篮球赛.md) | NBA |
+| [总决赛](总决赛.md) | finals (sports) |
+| [常规赛](常规赛.md) | regular season (sports) |
+| [奥运会](奥运会.md) | Olympic Games |
 ## Favorites
 |  |  |
 | ----- | :---: |

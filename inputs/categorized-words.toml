@@ -2228,6 +2228,18 @@ en = "Warriors"
 hz = "美国职业篮球赛"
 en = "NBA"
 
+[[entertainment]]
+hz = "总决赛"
+en = "finals (sports)"
+
+[[entertainment]]
+hz = "常规赛"
+en = "regular season (sports)"
+
+[[entertainment]]
+hz = "奥运会"
+en = "Olympic Games"
+
 
 [[natural-disaster]]
 hz = "台风"
