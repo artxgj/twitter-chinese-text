@@ -438,13 +438,26 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [油菜籽](油菜籽.md) | rapeseed |
 | [芽菜](芽菜.md) | bean sprouts |
 | [菜刀](菜刀.md) | kitchen knife; cleaver |
-| [番茄](番茄.md) | tomato |
 | [点菜](点菜.md) | order dishes |
 | [叫菜](叫菜.md) | order food |
 | [菜单](菜单.md) | menu |
 | [菜谱](菜谱.md) | menu; cookbook; recipe |
+| [番茄](番茄.md) | tomato |
+| [洋葱](洋葱.md) | onion |
+| [葱](葱.md) | onion; scallion |
+| [蒜](蒜.md) | garlic |
+| [姜](姜.md) | ginger |
+| [黄姜](黄姜.md) | turmeric |
+| [番红花](番红花.md) | saffron |
+| [胡椒](胡椒.md) | pepper |
+| [胡椒粒](胡椒粒.md) | peppercorn |
+| [大葱](大葱.md) | green Chinese onion; leek |
+| [辣椒](辣椒.md) | hot pepper; chili |
+| [南瓜](南瓜.md) | pumpkin; cushaw |
+| [苦瓜](苦瓜.md) | bitter melon; bitter gourd |
 | [烧猪](烧猪.md) | lechon; roast pig |
 | [肉骨茶](肉骨茶.md) | bak-kut-teh; pork ribs soup |
+| [五花肉](五花肉.md) | pork belly |
 | [培根](培根.md) | bacon |
 | [炒粿条](炒粿条.md) | char kway teow |
 | [水粿](水粿.md) | chwee kueh |
@@ -479,7 +492,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铁锅炖](铁锅炖.md) | iron pot stew |
 | [御好烧](御好烧.md) | Okonomiyaki |
 | [烧烤](烧烤.md) | barbeque |
-| [辣椒](辣椒.md) | hot pepper; chili |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
@@ -489,6 +501,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [薯条](薯条.md) | french fries; chips |
 | [薯片](薯片.md) | potato chips |
 | [披萨](披萨.md) | pizza |
+| [酱油](酱油.md) | soy sauce |
 | [咖啡](咖啡.md) | coffee |
 | [奶茶](奶茶.md) | milk tea |
 | [啤酒](啤酒.md) | beer |

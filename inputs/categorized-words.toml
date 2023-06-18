@@ -208,10 +208,6 @@ hz = "菜刀"
 en = "kitchen knife; cleaver"
 
 [[dishes-vegetables-drinks]]
-hz = "番茄"
-en = "tomato"
-
-[[dishes-vegetables-drinks]]
 hz = "点菜"
 en = "order dishes"
 
@@ -228,12 +224,68 @@ hz = "菜谱"
 en = "menu; cookbook; recipe"
 
 [[dishes-vegetables-drinks]]
+hz = "番茄"
+en = "tomato"
+
+[[dishes-vegetables-drinks]]
+hz = "洋葱"
+en = "onion"
+
+[[dishes-vegetables-drinks]]
+hz = "葱"
+en = "onion; scallion"
+
+[[dishes-vegetables-drinks]]
+hz = "蒜"
+en = "garlic"
+
+[[dishes-vegetables-drinks]]
+hz = "姜"
+en = "ginger"
+
+[[dishes-vegetables-drinks]]
+hz = "黄姜"
+en = "turmeric"
+
+[[dishes-vegetables-drinks]]
+hz = "番红花"
+en = "saffron"
+
+[[dishes-vegetables-drinks]]
+hz = "胡椒"
+en = "pepper"
+
+[[dishes-vegetables-drinks]]
+hz = "胡椒粒"
+en = "peppercorn"
+
+[[dishes-vegetables-drinks]]
+hz = "大葱"
+en = "green Chinese onion; leek"
+
+[[dishes-vegetables-drinks]]
+hz = "辣椒"
+en = "hot pepper; chili"
+
+[[dishes-vegetables-drinks]]
+hz = "南瓜"
+en = "pumpkin; cushaw"
+
+[[dishes-vegetables-drinks]]
+hz = "苦瓜"
+en = "bitter melon; bitter gourd"
+
+[[dishes-vegetables-drinks]]
 hz = "烧猪"
 en = "lechon; roast pig"
 
 [[dishes-vegetables-drinks]]
 hz = "肉骨茶"
 en = "bak-kut-teh; pork ribs soup"
+
+[[dishes-vegetables-drinks]]
+hz = "五花肉"
+en = "pork belly"
 
 [[dishes-vegetables-drinks]]
 hz = "培根"
@@ -372,10 +424,6 @@ hz = "烧烤"
 en = "barbeque"
 
 [[dishes-vegetables-drinks]]
-hz = "辣椒"
-en = "hot pepper; chili"
-
-[[dishes-vegetables-drinks]]
 hz = "罗汉果"
 en = "mangosteen"
 
@@ -410,6 +458,10 @@ en = "potato chips"
 [[dishes-vegetables-drinks]]
 hz = "披萨"
 en = "pizza"
+
+[[dishes-vegetables-drinks]]
+hz = "酱油"
+en = "soy sauce"
 
 [[dishes-vegetables-drinks]]
 hz = "咖啡"
