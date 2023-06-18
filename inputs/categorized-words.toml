@@ -9,7 +9,7 @@ people = "People"
 contextual-study = "Words Used In Several Context"
 favorites = "Favorites"
 marine = "Marine Life"
-food-drinks = "Food And Drinks"
+dishes-vegetables-drinks = "菜 Dishes/Vegetables, Food and Drinks"
 places = "Places and Regions"
 computing = "Computing/Digital"
 entertainment = "Entertainment"
@@ -80,7 +80,6 @@ en = "valuation; estimated value"
 [[capital-markets]]
 hz = "独角兽"
 en = "unicorn"
-
 
 [[capital-markets]]
 hz = "融资"
@@ -158,6 +157,287 @@ en = "to rise in value; to appreciate; appreciation"
 [[currency-money-tech]]
 hz = "移动支付"
 en = "mobile payment"
+
+
+[[dishes-vegetables-drinks]]
+hz = "蔬菜"
+en = "vegetables; greens; greenstuff"
+
+[[dishes-vegetables-drinks]]
+hz = "咸菜"
+en = "pickles; salted vegetables"
+
+[[dishes-vegetables-drinks]]
+hz = "下酒菜"
+en = "dish that goes well with alcoholic drinks"
+
+[[dishes-vegetables-drinks]]
+hz = "酸菜"
+en = "pickled Chinese cabbage; Chinese sauerkraut"
+
+[[dishes-vegetables-drinks]]
+hz = "榨菜"
+en = "pickled mustard tuber"
+
+[[dishes-vegetables-drinks]]
+hz = "椰菜"
+en = "cauliflower; broccoli; calabrese"
+
+[[dishes-vegetables-drinks]]
+hz = "包菜"
+en = "cabbage"
+
+[[dish-vegeatbles]]
+hz = "香菜"
+en = "coriander; cilantro"
+
+[[dishes-vegetables-drinks]]
+hz = "泡菜"
+en = "kimchi"
+
+[[dishes-vegetables-drinks]]
+hz = "油菜籽"
+en = "rapeseed"
+
+[[dishes-vegetables-drinks]]
+hz = "芽菜"
+en = "bean sprouts"
+
+[[dishes-vegetables-drinks]]
+hz = "菜刀"
+en = "kitchen knife; cleaver"
+
+[[dishes-vegetables-drinks]]
+hz = "番茄"
+en = "tomato"
+
+[[dishes-vegetables-drinks]]
+hz = "点菜"
+en = "order dishes"
+
+[[dishes-vegetables-drinks]]
+hz = "叫菜"
+en = "order food"
+
+[[dishes-vegetables-drinks]]
+hz = "菜单"
+en = "menu"
+
+[[dishes-vegetables-drinks]]
+hz = "菜谱"
+en = "menu; cookbook; recipe"
+
+[[dishes-vegetables-drinks]]
+hz = "烧猪"
+en = "lechon; roast pig"
+
+[[dishes-vegetables-drinks]]
+hz = "肉骨茶"
+en = "bak-kut-teh; pork ribs soup"
+
+[[dishes-vegetables-drinks]]
+hz = "培根"
+en = "bacon"
+
+[[dishes-vegetables-drinks]]
+hz = "炒粿条"
+en = "char kway teow"
+
+[[dishes-vegetables-drinks]]
+hz = "水粿"
+en = "chwee kueh"
+
+[[dishes-vegetables-drinks]]
+hz = "叻沙"
+en = "laksa"
+
+[[dishes-vegetables-drinks]]
+hz = "椰浆饭"
+en = "nasi lemak; lit. coconut milk rice"
+
+[[dishes-vegetables-drinks]]
+hz = "沙爹"
+en = "satay"
+
+[[dishes-vegetables-drinks]]
+hz = "海南鸡饭"
+en = "Hainanese chicken rice"
+
+[[dishes-vegetables-drinks]]
+hz = "清汤"
+en = "clear soup"
+
+[[dishes-vegetables-drinks]]
+hz = "咖椰"
+en = "kaya; coconut jam"
+
+[[dishes-vegetables-drinks]]
+hz = "加央角"
+en = "Kaya Puff"
+
+[[dishes-vegetables-drinks]]
+hz = "烤面包"
+en = "toast"
+
+[[dishes-vegetables-drinks]]
+hz = "肉脞面"
+en = "minced pork noodles"
+
+[[dishes-vegetables-drinks]]
+hz = "拉面"
+en = "ramen"
+
+[[dishes-vegetables-drinks]]
+hz = "乌冬面"
+en = "udon noodles"
+
+[[dishes-vegetables-drinks]]
+hz = "牛肉饭"
+en = "beef rice"
+
+[[dishes-vegetables-drinks]]
+hz = "咖喱饭"
+en = "curry rice"
+
+[[dishes-vegetables-drinks]]
+hz = "饺子"
+en = "dumplings"
+
+[[dishes-vegetables-drinks]]
+hz = "寿司"
+en = "sushi"
+
+[[dishes-vegetables-drinks]]
+hz = "金枪鱼"
+en = "tuna"
+
+[[dishes-vegetables-drinks]]
+hz = "鲣鱼"
+en = "oceanic bonito; skipjack (tuna)"
+
+[[dishes-vegetables-drinks]]
+hz = "鳗鱼"
+en = "eel"
+
+[[dishes-vegetables-drinks]]
+hz = "石斑鱼"
+en = "grouper"
+
+[[dishes-vegetables-drinks]]
+hz = "龙趸"
+en = "giant grouper"
+
+[[dishes-vegetables-drinks]]
+hz = "扁鱼"
+en = "Flatfish"
+
+[[dishes-vegetables-drinks]]
+hz = "扇贝"
+en = "scallop"
+
+[[dishes-vegetables-drinks]]
+hz = "海参"
+en = "sea cucumber"
+
+[[dishes-vegetables-drinks]]
+hz = "鳀鱼"
+en = "anchovy"
+
+[[dishes-vegetables-drinks]]
+hz = "蓝鳍金枪鱼"
+en = "Bluefin Tuna"
+
+[[dishes-vegetables-drinks]]
+hz = "鰤鱼"
+en = "yellowtail"
+
+[[dishes-vegetables-drinks]]
+hz = "蟹"
+en = "crab"
+
+[[dishes-vegetables-drinks]]
+hz = "蛤蜊"
+en = "clam"
+
+[[dishes-vegetables-drinks]]
+hz = "铁锅炖"
+en = "iron pot stew"
+
+[[dishes-vegetables-drinks]]
+hz = "御好烧"
+en = "Okonomiyaki"
+
+[[dishes-vegetables-drinks]]
+hz = "烧烤"
+en = "barbeque"
+
+[[dishes-vegetables-drinks]]
+hz = "辣椒"
+en = "hot pepper; chili"
+
+[[dishes-vegetables-drinks]]
+hz = "罗汉果"
+en = "mangosteen"
+
+[[dishes-vegetables-drinks]]
+hz = "榴梿"
+en = "durian"
+
+[[dishes-vegetables-drinks]]
+hz = "凤梨"
+en = "pineapple"
+
+[[dishes-vegetables-drinks]]
+hz = "月饼"
+en = "mooncake"
+
+[[dishes-vegetables-drinks]]
+hz = "红薯"
+en = "sweet potato"
+
+[[dishes-vegetables-drinks]]
+hz = "槟榔芋"
+en = "taro"
+
+[[dishes-vegetables-drinks]]
+hz = "薯条"
+en = "french fries; chips"
+
+[[dishes-vegetables-drinks]]
+hz = "薯片"
+en = "potato chips"
+
+[[dishes-vegetables-drinks]]
+hz = "披萨"
+en = "pizza"
+
+[[dishes-vegetables-drinks]]
+hz = "咖啡"
+en = "coffee"
+
+[[dishes-vegetables-drinks]]
+hz = "奶茶"
+en = "milk tea"
+
+[[dishes-vegetables-drinks]]
+hz = "啤酒"
+en = "beer"
+
+[[dishes-vegetables-drinks]]
+hz = "葡萄酒"
+en = "wine"
+
+[[dishes-vegetables-drinks]]
+hz = "清酒"
+en = "sake"
+
+[[dishes-vegetables-drinks]]
+hz = "威士忌"
+en = "whiskey"
+
+[[dishes-vegetables-drinks]]
+hz = "香槟"
+en = "champagne"
 
 
 [[idioms]]
@@ -1576,223 +1856,6 @@ en = "crocodile; alligator"
 [[marine]]
 hz = "珊瑚"
 en = "coral"
-
-
-[[food-drinks]]
-hz = "烧猪"
-en = "lechon; roast pig"
-
-[[food-drinks]]
-hz = "肉骨茶"
-en = "bak-kut-teh; pork ribs soup"
-
-[[food-drinks]]
-hz = "培根"
-en = "bacon"
-
-[[food-drinks]]
-hz = "炒粿条"
-en = "char kway teow"
-
-[[food-drinks]]
-hz = "水粿"
-en = "chwee kueh"
-
-[[food-drinks]]
-hz = "叻沙"
-en = "laksa"
-
-[[food-drinks]]
-hz = "椰浆饭"
-en = "nasi lemak; lit. coconut milk rice"
-
-[[food-drinks]]
-hz = "沙爹"
-en = "satay"
-
-[[food-drinks]]
-hz = "海南鸡饭"
-en = "Hainanese chicken rice"
-
-[[food-drinks]]
-hz = "清汤"
-en = "clear soup"
-
-[[food-drinks]]
-hz = "咖椰"
-en = "kaya; coconut jam"
-
-[[food-drinks]]
-hz = "加央角"
-en = "Kaya Puff"
-
-[[food-drinks]]
-hz = "烤面包"
-en = "toast"
-
-[[food-drinks]]
-hz = "肉脞面"
-en = "minced pork noodles"
-
-[[food-drinks]]
-hz = "拉面"
-en = "ramen"
-
-[[food-drinks]]
-hz = "乌冬面"
-en = "udon noodles"
-
-[[food-drinks]]
-hz = "牛肉饭"
-en = "beef rice"
-
-[[food-drinks]]
-hz = "咖喱饭"
-en = "curry rice"
-
-[[food-drinks]]
-hz = "饺子"
-en = "dumplings"
-
-[[food-drinks]]
-hz = "寿司"
-en = "sushi"
-
-[[food-drinks]]
-hz = "金枪鱼"
-en = "tuna"
-
-[[food-drinks]]
-hz = "鲣鱼"
-en = "oceanic bonito; skipjack (tuna)"
-
-[[food-drinks]]
-hz = "鳗鱼"
-en = "eel"
-
-[[food-drinks]]
-hz = "石斑鱼"
-en = "grouper"
-
-[[food-drinks]]
-hz = "龙趸"
-en = "giant grouper"
-
-[[food-drinks]]
-hz = "扁鱼"
-en = "Flatfish"
-
-[[food-drinks]]
-hz = "扇贝"
-en = "scallop"
-
-[[food-drinks]]
-hz = "海参"
-en = "sea cucumber"
-
-[[food-drinks]]
-hz = "鳀鱼"
-en = "anchovy"
-
-[[food-drinks]]
-hz = "蓝鳍金枪鱼"
-en = "Bluefin Tuna"
-
-[[food-drinks]]
-hz = "鰤鱼"
-en = "yellowtail"
-
-[[food-drinks]]
-hz = "蟹"
-en = "crab"
-
-[[food-drinks]]
-hz = "蛤蜊"
-en = "clam"
-
-[[food-drinks]]
-hz = "铁锅炖"
-en = "iron pot stew"
-
-[[food-drinks]]
-hz = "御好烧"
-en = "Okonomiyaki"
-
-[[food-drinks]]
-hz = "烧烤"
-en = "barbeque"
-
-[[food-drinks]]
-hz = "辣椒"
-en = "hot pepper; chili"
-
-[[food-drinks]]
-hz = "罗汉果"
-en = "mangosteen"
-
-[[food-drinks]]
-hz = "榴梿"
-en = "durian"
-
-[[food-drinks]]
-hz = "凤梨"
-en = "pineapple"
-
-[[food-drinks]]
-hz = "月饼"
-en = "mooncake"
-
-[[food-drinks]]
-hz = "红薯"
-en = "sweet potato"
-
-[[food-drinks]]
-hz = "槟榔芋"
-en = "taro"
-
-[[food-drinks]]
-hz = "咸菜"
-en = "pickles; salted vegetables"
-
-[[food-drinks]]
-hz = "薯条"
-en = "french fries; chips"
-
-[[food-drinks]]
-hz = "薯片"
-en = "potato chips"
-
-[[food-drinks]]
-hz = "披萨"
-en = "pizza"
-
-[[food-drinks]]
-hz = "咖啡"
-en = "coffee"
-
-[[food-drinks]]
-hz = "奶茶"
-en = "milk tea"
-
-[[food-drinks]]
-hz = "啤酒"
-en = "beer"
-
-[[food-drinks]]
-hz = "葡萄酒"
-en = "wine"
-
-[[food-drinks]]
-hz = "清酒"
-en = "sake"
-
-[[food-drinks]]
-hz = "威士忌"
-en = "whiskey"
-
-[[food-drinks]]
-hz = "香槟"
-en = "champagne"
 
 
 [[places]]
@@ -3440,6 +3503,10 @@ en = "fingertips"
 [[contextual-study]]
 hz = "人工"
 en = "artificial; man-made; manual work; work done by hand; manpower; man-day"
+
+[[contextual-study]]
+hz = "矿物"
+en = "mineral"
 
 
 [[people]]

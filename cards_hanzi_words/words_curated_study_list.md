@@ -404,6 +404,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [浮标](浮标.md) | buoy |
 | [指尖](指尖.md) | fingertips |
 | [人工](人工.md) | artificial; man-made; manual work; work done by hand; manpower; man-day |
+| [矿物](矿物.md) | mineral |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -423,6 +424,78 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [贬值](贬值.md) | devaluation; depreciation |
 | [升值](升值.md) | to rise in value; to appreciate; appreciation |
 | [移动支付](移动支付.md) | mobile payment |
+## 菜 Dishes/Vegetables, Food and Drinks
+|  |  |
+| ----- | :---: |
+| [蔬菜](蔬菜.md) | vegetables; greens; greenstuff |
+| [咸菜](咸菜.md) | pickles; salted vegetables |
+| [下酒菜](下酒菜.md) | dish that goes well with alcoholic drinks |
+| [酸菜](酸菜.md) | pickled Chinese cabbage; Chinese sauerkraut |
+| [榨菜](榨菜.md) | pickled mustard tuber |
+| [椰菜](椰菜.md) | cauliflower; broccoli; calabrese |
+| [包菜](包菜.md) | cabbage |
+| [泡菜](泡菜.md) | kimchi |
+| [油菜籽](油菜籽.md) | rapeseed |
+| [芽菜](芽菜.md) | bean sprouts |
+| [菜刀](菜刀.md) | kitchen knife; cleaver |
+| [番茄](番茄.md) | tomato |
+| [点菜](点菜.md) | order dishes |
+| [叫菜](叫菜.md) | order food |
+| [菜单](菜单.md) | menu |
+| [菜谱](菜谱.md) | menu; cookbook; recipe |
+| [烧猪](烧猪.md) | lechon; roast pig |
+| [肉骨茶](肉骨茶.md) | bak-kut-teh; pork ribs soup |
+| [培根](培根.md) | bacon |
+| [炒粿条](炒粿条.md) | char kway teow |
+| [水粿](水粿.md) | chwee kueh |
+| [叻沙](叻沙.md) | laksa |
+| [椰浆饭](椰浆饭.md) | nasi lemak; lit. coconut milk rice |
+| [沙爹](沙爹.md) | satay |
+| [海南鸡饭](海南鸡饭.md) | Hainanese chicken rice |
+| [清汤](清汤.md) | clear soup |
+| [咖椰](咖椰.md) | kaya; coconut jam |
+| [加央角](加央角.md) | Kaya Puff |
+| [烤面包](烤面包.md) | toast |
+| [肉脞面](肉脞面.md) | minced pork noodles |
+| [拉面](拉面.md) | ramen |
+| [乌冬面](乌冬面.md) | udon noodles |
+| [牛肉饭](牛肉饭.md) | beef rice |
+| [咖喱饭](咖喱饭.md) | curry rice |
+| [饺子](饺子.md) | dumplings |
+| [寿司](寿司.md) | sushi |
+| [金枪鱼](金枪鱼.md) | tuna |
+| [鲣鱼](鲣鱼.md) | oceanic bonito; skipjack (tuna) |
+| [鳗鱼](鳗鱼.md) | eel |
+| [石斑鱼](石斑鱼.md) | grouper |
+| [龙趸](龙趸.md) | giant grouper |
+| [扁鱼](扁鱼.md) | Flatfish |
+| [扇贝](扇贝.md) | scallop |
+| [海参](海参.md) | sea cucumber |
+| [鳀鱼](鳀鱼.md) | anchovy |
+| [蓝鳍金枪鱼](蓝鳍金枪鱼.md) | Bluefin Tuna |
+| [鰤鱼](鰤鱼.md) | yellowtail |
+| [蟹](蟹.md) | crab |
+| [蛤蜊](蛤蜊.md) | clam |
+| [铁锅炖](铁锅炖.md) | iron pot stew |
+| [御好烧](御好烧.md) | Okonomiyaki |
+| [烧烤](烧烤.md) | barbeque |
+| [辣椒](辣椒.md) | hot pepper; chili |
+| [罗汉果](罗汉果.md) | mangosteen |
+| [榴梿](榴梿.md) | durian |
+| [凤梨](凤梨.md) | pineapple |
+| [月饼](月饼.md) | mooncake |
+| [红薯](红薯.md) | sweet potato |
+| [槟榔芋](槟榔芋.md) | taro |
+| [薯条](薯条.md) | french fries; chips |
+| [薯片](薯片.md) | potato chips |
+| [披萨](披萨.md) | pizza |
+| [咖啡](咖啡.md) | coffee |
+| [奶茶](奶茶.md) | milk tea |
+| [啤酒](啤酒.md) | beer |
+| [葡萄酒](葡萄酒.md) | wine |
+| [清酒](清酒.md) | sake |
+| [威士忌](威士忌.md) | whiskey |
+| [香槟](香槟.md) | champagne |
 ## Economy And Markets
 |  |  |
 | ----- | :---: |
@@ -648,63 +721,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [气球](气球.md) | balloon |
 | [冰山](冰山.md) | iceberg |
 | [同步轨道](同步轨道.md) | synchronous orbit |
-## Food And Drinks
-|  |  |
-| ----- | :---: |
-| [烧猪](烧猪.md) | lechon; roast pig |
-| [肉骨茶](肉骨茶.md) | bak-kut-teh; pork ribs soup |
-| [培根](培根.md) | bacon |
-| [炒粿条](炒粿条.md) | char kway teow |
-| [水粿](水粿.md) | chwee kueh |
-| [叻沙](叻沙.md) | laksa |
-| [椰浆饭](椰浆饭.md) | nasi lemak; lit. coconut milk rice |
-| [沙爹](沙爹.md) | satay |
-| [海南鸡饭](海南鸡饭.md) | Hainanese chicken rice |
-| [清汤](清汤.md) | clear soup |
-| [咖椰](咖椰.md) | kaya; coconut jam |
-| [加央角](加央角.md) | Kaya Puff |
-| [烤面包](烤面包.md) | toast |
-| [肉脞面](肉脞面.md) | minced pork noodles |
-| [拉面](拉面.md) | ramen |
-| [乌冬面](乌冬面.md) | udon noodles |
-| [牛肉饭](牛肉饭.md) | beef rice |
-| [咖喱饭](咖喱饭.md) | curry rice |
-| [饺子](饺子.md) | dumplings |
-| [寿司](寿司.md) | sushi |
-| [金枪鱼](金枪鱼.md) | tuna |
-| [鲣鱼](鲣鱼.md) | oceanic bonito; skipjack (tuna) |
-| [鳗鱼](鳗鱼.md) | eel |
-| [石斑鱼](石斑鱼.md) | grouper |
-| [龙趸](龙趸.md) | giant grouper |
-| [扁鱼](扁鱼.md) | Flatfish |
-| [扇贝](扇贝.md) | scallop |
-| [海参](海参.md) | sea cucumber |
-| [鳀鱼](鳀鱼.md) | anchovy |
-| [蓝鳍金枪鱼](蓝鳍金枪鱼.md) | Bluefin Tuna |
-| [鰤鱼](鰤鱼.md) | yellowtail |
-| [蟹](蟹.md) | crab |
-| [蛤蜊](蛤蜊.md) | clam |
-| [铁锅炖](铁锅炖.md) | iron pot stew |
-| [御好烧](御好烧.md) | Okonomiyaki |
-| [烧烤](烧烤.md) | barbeque |
-| [辣椒](辣椒.md) | hot pepper; chili |
-| [罗汉果](罗汉果.md) | mangosteen |
-| [榴梿](榴梿.md) | durian |
-| [凤梨](凤梨.md) | pineapple |
-| [月饼](月饼.md) | mooncake |
-| [红薯](红薯.md) | sweet potato |
-| [槟榔芋](槟榔芋.md) | taro |
-| [咸菜](咸菜.md) | pickles; salted vegetables |
-| [薯条](薯条.md) | french fries; chips |
-| [薯片](薯片.md) | potato chips |
-| [披萨](披萨.md) | pizza |
-| [咖啡](咖啡.md) | coffee |
-| [奶茶](奶茶.md) | milk tea |
-| [啤酒](啤酒.md) | beer |
-| [葡萄酒](葡萄酒.md) | wine |
-| [清酒](清酒.md) | sake |
-| [威士忌](威士忌.md) | whiskey |
-| [香槟](香槟.md) | champagne |
 ## Health
 |  |  |
 | ----- | :---: |
