@@ -134,277 +134,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [面部识别](面部识别.md) | facial recognition |
 | [锁屏](锁屏.md) | lock screen |
 | [人工智能](人工智能.md) | AI |
-## Words Used In Several Context
-|  |  |
-| ----- | :---: |
-| [盐](盐.md) | salt |
-| [分子](分子.md) | molecule; numerator (mathematics); member; element; part |
-| [酶](酶.md) | enzyme; ferment |
-| [早期阶段](早期阶段.md) | early stage; initial stage |
-| [获得](获得.md) | gain; obtain; acquire; win; achieve |
-| [趋势](趋势.md) | trend |
-| [数据](数据.md) | data |
-| [影响](影响.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
-| [计划](计划.md) | plan; project; programme |
-| [项目](项目.md) | project; item; (sports) event |
-| [最佳](最佳.md) | best; optimum; optimal; peak |
-| [模式](模式.md) | pattern; model; mode |
-| [覆盖](覆盖.md) | cover (verb); plant cover; vegetation |
-| [冲击](冲击.md) | impact; shock; to attack |
-| [爆发](爆发.md) | erupt; burst out; break out |
-| [引发](引发.md) | initiate; touch (or spark, trigger) off |
-| [开发](开发.md) | develop; open up; exploit |
-| [瓶颈](瓶颈.md) | bottleneck |
-| [效率](效率.md) | efficiency |
-| [超过](超过.md) | exceed |
-| [情况](情况.md) | circumstances; situation |
-| [严重](严重.md) | serious; grave; severe; critical |
-| [取消](取消.md) | cancel |
-| [紧急](紧急.md) | urgent; emergency; pressing |
-| [政策](政策.md) | policy |
-| [刺激](刺激.md) | stimulus; stimulation; incentive; stimulate on ; encourage; provoke; irritate; upset |
-| [暂停](暂停.md) | suspend |
-| [核心](核心.md) | core; center; most important part |
-| [崛起](崛起.md) | to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power) |
-| [平衡](平衡.md) | balance; equilibrium |
-| [发布](发布.md) | issue; release |
-| [推出](推出.md) | launch; release; publish; introduce; put out |
-| [推动](推动.md) | push forward; promote; give impetus to |
-| [拖累](拖累.md) | encumber; be a burden on; implicate; involve |
-| [控制](控制.md) | control; govern; command; manipulate |
-| [担忧](担忧.md) | to worry; to be concerned; be anxious |
-| [担心](担心.md) | worry; feel anxious |
-| [提供](提供.md) | provide; supply; furnish; offer |
-| [提高](提高.md) | raise; heighten; enhance; increase; improve |
-| [提醒](提醒.md) | remind; warn; call attention to |
-| [批准](批准.md) | ratify; approve; sanction |
-| [批评](批评.md) | criticize |
-| [持续](持续.md) | continue; sustain |
-| [威胁](威胁.md) | threaten; menace; imperil |
-| [不确定性](不确定性.md) | uncertainty |
-| [放射线](放射线.md) | radiation |
-| [放射性](放射性.md) | radioactive |
-| [购买](购买.md) | purchase; buy |
-| [低迷](低迷.md) | low; stagnant; sluggish; depressed |
-| [条款](条款.md) | stipulation |
-| [协议](协议.md) | agreement; protocol |
-| [修订](修订.md) | revise |
-| [现状](现状.md) | status quo |
-| [连接](连接.md) | to link; to join; connection; a link (on web page) |
-| [领域](领域.md) | field; sphere; domain; territory |
-| [实现](实现.md) | realize; fulfill; carry out; bring about |
-| [肆虐](肆虐.md) | to wreak havoc; to devastate |
-| [版权](版权.md) | copyright |
-| [制裁](制裁.md) | sanctions |
-| [最高法院](最高法院.md) | Supreme Court |
-| [爆炸](爆炸.md) | explosion; explode; detonate |
-| [反弹](反弹.md) | rebound |
-| [躲过](躲过.md) | dodge |
-| [萨哈林](萨哈林.md) | Sakhalin |
-| [资源](资源.md) | resource |
-| [起重机](起重机.md) | crane; hoist; derrick |
-| [众议院](众议院.md) | House of Representatives |
-| [参议院](参议院.md) | Senate |
-| [攀升](攀升.md) | climb |
-| [走私](走私.md) | smuggle |
-| [赌场](赌场.md) | casino |
-| [嗅觉](嗅觉.md) | sense of smell |
-| [味觉](味觉.md) | sense of taste |
-| [烟草](烟草.md) | tobacco |
-| [暂缓](暂缓.md) | postpone; defer |
-| [现代化工厂](现代化工厂.md) | modern factories |
-| [缴税](缴税.md) | pay taxes |
-| [涟漪](涟漪.md) | ripples |
-| [插座](插座.md) | socket, outlet  |
-| [行为](行为.md) | act, behave |
-| [行为科学](行为科学.md) | behavioral science |
-| [召回](召回.md) | recall |
-| [证据](证据.md) | evidence |
-| [玫瑰花](玫瑰花.md) | rose |
-| [崭新](崭新.md) | brand-new; completely-new |
-| [缓解](缓解.md) | relieve; alleviate |
-| [理会](理会.md) | understand; comprehend; take notice of; pay attention to |
-| [尖端](尖端.md) | most advanced; sophisticated; cutting edge; pointed end |
-| [突破](突破.md) | breakthrough; to make a breakthrough |
-| [蔓延](蔓延.md) | spread; stretch; extend; infest |
-| [截至](截至.md) | by (a specified time); up to; as of |
-| [摆脱](摆脱.md) | shake off; cast off; break away from |
-| [配备](配备.md) | provide (manpower or equipment); equip; fit out; allocate; deploy |
-| [引擎](引擎.md) | engine |
-| [触发](触发.md) | trigger; spark; touch off |
-| [押注](押注.md) | to bet; to wager; stake |
-| [波动](波动.md) | undulation; fluctuation; (physics) wave motion |
-| [抛售](抛售.md) | undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price) |
-| [胶囊](胶囊.md) | capsule |
-| [渠道](渠道.md) | channel; medium of communication; irrigation ditch |
-| [依赖](依赖.md) | rely on; dependent on |
-| [惊讶](惊讶.md) | surprised;amazed; astonished; astounded |
-| [遭遇](遭遇.md) | meet with; encounter; run up against |
-| [主角](主角.md) | leading role; lead; protagonist |
-| [供货商](供货商.md) | supplier; vendor |
-| [发霉](发霉.md) | to become moldy |
-| [商标](商标.md) | trademark |
-| [食人鱼](食人鱼.md) | piranha |
-| [梯田](梯田.md) | terraces |
-| [细菌](细菌.md) | bacterium; bacteria;bacterial |
-| [预算](预算.md) | budget |
-| [流媒体](流媒体.md) | streaming media |
-| [隐私](隐私.md) | privacy |
-| [麻省理工学院](麻省理工学院.md) | MIT |
-| [富士山](富士山.md) | Mt. Fuji |
-| [皮纳图博山](皮纳图博山.md) | Mt. Pinatubo |
-| [贫困](贫困.md) | poverty; impoverished; poor |
-| [雨林](雨林.md) | rainforest |
-| [平方](平方.md) | second power (of a quantity); square |
-| [苏伊士运河](苏伊士运河.md) | Suez Canal |
-| [海底火山](海底火山.md) | submarine volcano |
-| [火山](火山.md) | volcano |
-| [火星](火星.md) | Mars |
-| [眯眯眼](眯眯眼.md) | squinted eyes |
-| [兔年](兔年.md) | Year of the Rabbit |
-| [虎年](虎年.md) | Year of the Tiger |
-| [牛年](牛年.md) | Year of the Ox |
-| [引渡](引渡.md) | extradite |
-| [瓦楞](瓦楞.md) | corrugated |
-| [泄漏](泄漏.md) | to spill; to leak |
-| [物质](物质.md) | substance |
-| [幽默感](幽默感.md) | sense of humor |
-| [稳定](稳定.md) | stable |
-| [签署](签署.md) | sign |
-| [支流](支流.md) | tributary |
-| [机械](机械.md) | machinery |
-| [气温](气温.md) | temperature |
-| [紧缩](紧缩.md) | tighten |
-| [悲观](悲观.md) | pessimistic |
-| [此举](此举.md) | this measure/action/move |
-| [加剧](加剧.md) | aggravate; intensify; exacerbate |
-| [烂尾楼](烂尾楼.md) | unfinished building |
-| [评估](评估.md) | assess |
-| [激进](激进.md) | radical |
-| [维修](维修.md) | maintain/maintenance |
-| [经营](经营.md) | manage; operate; run; engage in |
-| [盂兰盆节](盂兰盆节.md) | Obon Festival |
-| [优化](优化.md) | to optimise; to make better or excellent |
-| [一体化](一体化.md) | to unify; to integrate |
-| [警钟](警钟.md) | alarm bell |
-| [孤立](孤立.md) | isolated; isolate; isolation |
-| [设立](设立.md) | establish; setup; found |
-| [补充](补充.md) | to replenish;to supplement; to complement; additional; supplementary |
-| [创造力](创造力.md) | ingenuity; creativity |
-| [代谢](代谢.md) | replacement; substitution; metabolism |
-| [新陈代谢](新陈代谢.md) | metabolism; the new superseding the old (figurative) |
-| [冒险](冒险.md) | take risks; take chances; foray; adventure |
-| [抗议](抗议.md) | protest |
-| [罢工](罢工.md) | go on strike |
-| [淡马锡](淡马锡.md) | Temasek |
-| [损失](损失.md) | loss |
-| [熟悉](熟悉.md) | know something/somebody well |
-| [跨境](跨境.md) | cross-border |
-| [饥荒](饥荒.md) | famine |
-| [大麻](大麻.md) | marijuana/hemp |
-| [充电](充电.md) | charge (a battery) |
-| [樱花](樱花.md) | cherry blossom |
-| [权衡](权衡.md) | weigh (a matter); balance (pros and cons) |
-| [金砖](金砖.md) | BRICS; gold bar (or brick) |
-| [审理](审理.md) | try; hear; adjudicate |
-| [行业](行业.md) | industry |
-| [潜水员](潜水员.md) | diver; frogman |
-| [炸药](炸药.md) | explosive |
-| [门槛](门槛.md) | threshold |
-| [稀有](稀有.md) | rare |
-| [重创](重创.md) | inflict heavy losses (or casualties) on; maul |
-| [试图](试图.md) | to attempt; to try |
-| [理清](理清.md) | sort out; straighten out |
-| [疏散](疏散.md) | evacuate; disperse |
-| [悬念](悬念.md) | suspense |
-| [攫取](攫取.md) | seize; grab |
-| [削减](削减.md) | reduce; slash; cut (down); whittle down |
-| [排放](排放.md) | emission; discharge; exhaust (gas etc) |
-| [规划](规划.md) | plan; program; project |
-| [蒙古包](蒙古包.md) | yurt |
-| [运营商](运营商.md) | operator |
-| [颗粒](颗粒.md) | kernel; granule; grain |
-| [窃贼](窃贼.md) | thief; burglar |
-| [招募](招募.md) | recruit; enlist; enrol |
-| [寄宿生](寄宿生.md) | resident student; boarder |
-| [走读生](走读生.md) | day student; nonresident student; nonboarder |
-| [优先](优先.md) | have priority |
-| [品牌](品牌.md) | brand; make |
-| [折叠式](折叠式.md) | foldable; folding (i.e., portable) |
-| [市占率](市占率.md) | market share |
-| [战略](战略.md) | strategy |
-| [储备](储备.md) | reserve; store for future use |
-| [罕见](罕见.md) | seldom seen; rare |
-| [引爆](引爆.md) | ignite; detonate |
-| [纠正](纠正.md) | correct; put right; redress |
-| [缺陷](缺陷.md) | defect; drawback; flaw; blemish |
-| [斡旋](斡旋.md) | mediate |
-| [恢复](恢复.md) | resume; regain; restore |
-| [匿名](匿名.md) | anonymous |
-| [拍卖](拍卖.md) | auction |
-| [投标](投标.md) | to bid; to make a tender |
-| [盎司](盎司.md) | ounce |
-| [沧桑](沧桑.md) | vicissitudes of life |
-| [历经](历经.md) | experience; go through |
-| [机遇](机遇.md) | opportunity; favorable circumstances |
-| [蝉联](蝉联.md) | continue to hold (a post or title) |
-| [探讨](探讨.md) | inquire into; explore; investigate; examine |
-| [孤胆英雄](孤胆英雄.md) | solitary hero; a lone fighter; maverick |
-| [先锋](先锋.md) | vanguard; pioneer |
-| [僵局](僵局.md) | deadlock; impasse; stalemate; stand-off |
-| [诉讼](诉讼.md) | lawsuit; litigation |
-| [飙升](飙升.md) | rise rapidly; to soar |
-| [兴奋剂](兴奋剂.md) | stimulant; doping (in athletics) |
-| [盟友](盟友.md) | ally; sworn friend; allied country |
-| [鞠躬](鞠躬.md) | bow |
-| [启动](启动.md) | start (a machine); enforce; implement; open up; explore |
-| [阐述](阐述.md) | expound; elaborate; set forth |
-| [追随](追随.md) | follow; tread on the heels of |
-| [漏洞](漏洞.md) | leak; hole; gap; loophole |
-| [专利](专利.md) | patent |
-| [拼凑](拼凑.md) | piece together |
-| [崩溃](崩溃.md) | collapse; crumble; fall apart |
-| [届时](届时.md) | when the time comes; at the appointed time |
-| [霸凌](霸凌.md) | bullying |
-| [残酷](残酷.md) | cruel; brutal; ruthless |
-| [打压](打压.md) | suppress; inhibit |
-| [特洛伊木马](特洛伊木马.md) | Trojan horse |
-| [审批](审批.md) | examine and approve; endorse |
-| [申请](申请.md) | apply for; file an application |
-| [信贷](信贷.md) | credit |
-| [拘留](拘留.md) | detain; hold in custody; intern |
-| [共生](共生.md) | symbiosis; intergrowth (geology); paragenesis (geology) |
-| [匮乏](匮乏.md) | be deficient; be short (of supplies) |
-| [质疑](质疑.md) | to call into question; to question (truth or validity) |
-| [透明度](透明度.md) | transparency |
-| [敌意](敌意.md) | hostility; enmity; animosity |
-| [橄榄枝](橄榄枝.md) | olive branch |
-| [橄榄](橄榄.md) | olive |
-| [优惠](优惠.md) | preferential; favourable |
-| [沟通](沟通.md) | link up; communicate |
-| [当铺](当铺.md) | pawnshop |
-| [蓄账户](蓄账户.md) | savings account |
-| [火星](火星.md) | Mars |
-| [土星](土星.md) | Saturn |
-| [木星](木星.md) | Jupiter |
-| [专属](专属.md) | exclusive; proprietary; preivate; personal |
-| [造势](造势.md) | to boost support or interest; to campaign; to promote |
-| [特殊](特殊.md) | special; particular; unusual; extraordinary |
-| [金牛](金牛.md) | Taurus; golden ox |
-| [炸锅](炸锅.md) | flare up; cause an uproar |
-| [娱乐性毒品](娱乐性毒品.md) | recreational drugs |
-| [随意性行](随意性行.md) | casual sex |
-| [大脑皮层](大脑皮层.md) | cerebral cortex |
-| [壁垒](壁垒.md) | barrier |
-| [过剩](过剩.md) | surplus |
-| [婚外情](婚外情.md) | extra-marital affair |
-| [局势](局势.md) | situation; state (of affairs) |
-| [熊猫](熊猫.md) | panda |
-| [热卖](热卖.md) | sell well; be in great demand; sell like hot cakes |
-| [浮标](浮标.md) | buoy |
-| [指尖](指尖.md) | fingertips |
-| [人工](人工.md) | artificial; man-made; manual work; work done by hand; manpower; man-day |
-| [矿物](矿物.md) | mineral |
 ## Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
@@ -734,6 +463,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [气球](气球.md) | balloon |
 | [冰山](冰山.md) | iceberg |
 | [同步轨道](同步轨道.md) | synchronous orbit |
+| [水族馆](水族馆.md) | aquarium |
 ## Health
 |  |  |
 | ----- | :---: |
@@ -836,9 +566,282 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鲸](鲸.md) | whale |
 | [黑露脊鲸](黑露脊鲸.md) | black right whale |
 | [章鱼](章鱼.md) | octopus |
+| [企鹅](企鹅.md) | penguin |
 | [堡礁](堡礁.md) | barrier reef |
 | [鳄鱼](鳄鱼.md) | crocodile; alligator |
 | [珊瑚](珊瑚.md) | coral |
+## Names/Words
+|  |  |
+| ----- | :---: |
+| [盐](盐.md) | salt |
+| [分子](分子.md) | molecule; numerator (mathematics); member; element; part |
+| [酶](酶.md) | enzyme; ferment |
+| [早期阶段](早期阶段.md) | early stage; initial stage |
+| [获得](获得.md) | gain; obtain; acquire; win; achieve |
+| [趋势](趋势.md) | trend |
+| [数据](数据.md) | data |
+| [影响](影响.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
+| [计划](计划.md) | plan; project; programme |
+| [项目](项目.md) | project; item; (sports) event |
+| [最佳](最佳.md) | best; optimum; optimal; peak |
+| [模式](模式.md) | pattern; model; mode |
+| [覆盖](覆盖.md) | cover (verb); plant cover; vegetation |
+| [冲击](冲击.md) | impact; shock; to attack |
+| [爆发](爆发.md) | erupt; burst out; break out |
+| [引发](引发.md) | initiate; touch (or spark, trigger) off |
+| [开发](开发.md) | develop; open up; exploit |
+| [瓶颈](瓶颈.md) | bottleneck |
+| [效率](效率.md) | efficiency |
+| [超过](超过.md) | exceed |
+| [情况](情况.md) | circumstances; situation |
+| [严重](严重.md) | serious; grave; severe; critical |
+| [取消](取消.md) | cancel |
+| [紧急](紧急.md) | urgent; emergency; pressing |
+| [政策](政策.md) | policy |
+| [刺激](刺激.md) | stimulus; stimulation; incentive; stimulate on ; encourage; provoke; irritate; upset |
+| [暂停](暂停.md) | suspend |
+| [核心](核心.md) | core; center; most important part |
+| [崛起](崛起.md) | to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power) |
+| [平衡](平衡.md) | balance; equilibrium |
+| [发布](发布.md) | issue; release |
+| [推出](推出.md) | launch; release; publish; introduce; put out |
+| [推动](推动.md) | push forward; promote; give impetus to |
+| [拖累](拖累.md) | encumber; be a burden on; implicate; involve |
+| [控制](控制.md) | control; govern; command; manipulate |
+| [担忧](担忧.md) | to worry; to be concerned; be anxious |
+| [担心](担心.md) | worry; feel anxious |
+| [提供](提供.md) | provide; supply; furnish; offer |
+| [提高](提高.md) | raise; heighten; enhance; increase; improve |
+| [提醒](提醒.md) | remind; warn; call attention to |
+| [批准](批准.md) | ratify; approve; sanction |
+| [批评](批评.md) | criticize |
+| [持续](持续.md) | continue; sustain |
+| [威胁](威胁.md) | threaten; menace; imperil |
+| [不确定性](不确定性.md) | uncertainty |
+| [放射线](放射线.md) | radiation |
+| [放射性](放射性.md) | radioactive |
+| [购买](购买.md) | purchase; buy |
+| [低迷](低迷.md) | low; stagnant; sluggish; depressed |
+| [条款](条款.md) | stipulation |
+| [协议](协议.md) | agreement; protocol |
+| [修订](修订.md) | revise |
+| [现状](现状.md) | status quo |
+| [连接](连接.md) | to link; to join; connection; a link (on web page) |
+| [领域](领域.md) | field; sphere; domain; territory |
+| [实现](实现.md) | realize; fulfill; carry out; bring about |
+| [肆虐](肆虐.md) | to wreak havoc; to devastate |
+| [版权](版权.md) | copyright |
+| [制裁](制裁.md) | sanctions |
+| [最高法院](最高法院.md) | Supreme Court |
+| [爆炸](爆炸.md) | explosion; explode; detonate |
+| [反弹](反弹.md) | rebound |
+| [躲过](躲过.md) | dodge |
+| [萨哈林](萨哈林.md) | Sakhalin |
+| [资源](资源.md) | resource |
+| [起重机](起重机.md) | crane; hoist; derrick |
+| [众议院](众议院.md) | House of Representatives |
+| [参议院](参议院.md) | Senate |
+| [攀升](攀升.md) | climb |
+| [走私](走私.md) | smuggle |
+| [赌场](赌场.md) | casino |
+| [嗅觉](嗅觉.md) | sense of smell |
+| [味觉](味觉.md) | sense of taste |
+| [烟草](烟草.md) | tobacco |
+| [暂缓](暂缓.md) | postpone; defer |
+| [现代化工厂](现代化工厂.md) | modern factories |
+| [缴税](缴税.md) | pay taxes |
+| [涟漪](涟漪.md) | ripples |
+| [插座](插座.md) | socket, outlet  |
+| [行为](行为.md) | act, behave |
+| [行为科学](行为科学.md) | behavioral science |
+| [召回](召回.md) | recall |
+| [证据](证据.md) | evidence |
+| [玫瑰花](玫瑰花.md) | rose |
+| [崭新](崭新.md) | brand-new; completely-new |
+| [缓解](缓解.md) | relieve; alleviate |
+| [理会](理会.md) | understand; comprehend; take notice of; pay attention to |
+| [尖端](尖端.md) | most advanced; sophisticated; cutting edge; pointed end |
+| [突破](突破.md) | breakthrough; to make a breakthrough |
+| [蔓延](蔓延.md) | spread; stretch; extend; infest |
+| [截至](截至.md) | by (a specified time); up to; as of |
+| [摆脱](摆脱.md) | shake off; cast off; break away from |
+| [配备](配备.md) | provide (manpower or equipment); equip; fit out; allocate; deploy |
+| [引擎](引擎.md) | engine |
+| [触发](触发.md) | trigger; spark; touch off |
+| [押注](押注.md) | to bet; to wager; stake |
+| [波动](波动.md) | undulation; fluctuation; (physics) wave motion |
+| [抛售](抛售.md) | undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price) |
+| [胶囊](胶囊.md) | capsule |
+| [渠道](渠道.md) | channel; medium of communication; irrigation ditch |
+| [依赖](依赖.md) | rely on; dependent on |
+| [惊讶](惊讶.md) | surprised;amazed; astonished; astounded |
+| [遭遇](遭遇.md) | meet with; encounter; run up against |
+| [主角](主角.md) | leading role; lead; protagonist |
+| [供货商](供货商.md) | supplier; vendor |
+| [发霉](发霉.md) | to become moldy |
+| [商标](商标.md) | trademark |
+| [食人鱼](食人鱼.md) | piranha |
+| [梯田](梯田.md) | terraces |
+| [细菌](细菌.md) | bacterium; bacteria;bacterial |
+| [预算](预算.md) | budget |
+| [流媒体](流媒体.md) | streaming media |
+| [隐私](隐私.md) | privacy |
+| [麻省理工学院](麻省理工学院.md) | MIT |
+| [富士山](富士山.md) | Mt. Fuji |
+| [皮纳图博山](皮纳图博山.md) | Mt. Pinatubo |
+| [贫困](贫困.md) | poverty; impoverished; poor |
+| [雨林](雨林.md) | rainforest |
+| [平方](平方.md) | second power (of a quantity); square |
+| [苏伊士运河](苏伊士运河.md) | Suez Canal |
+| [海底火山](海底火山.md) | submarine volcano |
+| [火山](火山.md) | volcano |
+| [火星](火星.md) | Mars |
+| [眯眯眼](眯眯眼.md) | squinted eyes |
+| [兔年](兔年.md) | Year of the Rabbit |
+| [虎年](虎年.md) | Year of the Tiger |
+| [牛年](牛年.md) | Year of the Ox |
+| [引渡](引渡.md) | extradite |
+| [瓦楞](瓦楞.md) | corrugated |
+| [泄漏](泄漏.md) | to spill; to leak |
+| [物质](物质.md) | substance |
+| [幽默感](幽默感.md) | sense of humor |
+| [稳定](稳定.md) | stable |
+| [签署](签署.md) | sign |
+| [支流](支流.md) | tributary |
+| [机械](机械.md) | machinery |
+| [气温](气温.md) | temperature |
+| [紧缩](紧缩.md) | tighten |
+| [悲观](悲观.md) | pessimistic |
+| [此举](此举.md) | this measure/action/move |
+| [加剧](加剧.md) | aggravate; intensify; exacerbate |
+| [烂尾楼](烂尾楼.md) | unfinished building |
+| [评估](评估.md) | assess |
+| [激进](激进.md) | radical |
+| [维修](维修.md) | maintain/maintenance |
+| [经营](经营.md) | manage; operate; run; engage in |
+| [盂兰盆节](盂兰盆节.md) | Obon Festival |
+| [优化](优化.md) | to optimise; to make better or excellent |
+| [一体化](一体化.md) | to unify; to integrate |
+| [警钟](警钟.md) | alarm bell |
+| [孤立](孤立.md) | isolated; isolate; isolation |
+| [设立](设立.md) | establish; setup; found |
+| [补充](补充.md) | to replenish;to supplement; to complement; additional; supplementary |
+| [创造力](创造力.md) | ingenuity; creativity |
+| [代谢](代谢.md) | replacement; substitution; metabolism |
+| [新陈代谢](新陈代谢.md) | metabolism; the new superseding the old (figurative) |
+| [冒险](冒险.md) | take risks; take chances; foray; adventure |
+| [抗议](抗议.md) | protest |
+| [罢工](罢工.md) | go on strike |
+| [淡马锡](淡马锡.md) | Temasek |
+| [损失](损失.md) | loss |
+| [熟悉](熟悉.md) | know something/somebody well |
+| [跨境](跨境.md) | cross-border |
+| [饥荒](饥荒.md) | famine |
+| [大麻](大麻.md) | marijuana/hemp |
+| [充电](充电.md) | charge (a battery) |
+| [樱花](樱花.md) | cherry blossom |
+| [权衡](权衡.md) | weigh (a matter); balance (pros and cons) |
+| [金砖](金砖.md) | BRICS; gold bar (or brick) |
+| [审理](审理.md) | try; hear; adjudicate |
+| [行业](行业.md) | industry |
+| [潜水员](潜水员.md) | diver; frogman |
+| [炸药](炸药.md) | explosive |
+| [门槛](门槛.md) | threshold |
+| [稀有](稀有.md) | rare |
+| [重创](重创.md) | inflict heavy losses (or casualties) on; maul |
+| [试图](试图.md) | to attempt; to try |
+| [理清](理清.md) | sort out; straighten out |
+| [疏散](疏散.md) | evacuate; disperse |
+| [悬念](悬念.md) | suspense |
+| [攫取](攫取.md) | seize; grab |
+| [削减](削减.md) | reduce; slash; cut (down); whittle down |
+| [排放](排放.md) | emission; discharge; exhaust (gas etc) |
+| [规划](规划.md) | plan; program; project |
+| [蒙古包](蒙古包.md) | yurt |
+| [运营商](运营商.md) | operator |
+| [颗粒](颗粒.md) | kernel; granule; grain |
+| [窃贼](窃贼.md) | thief; burglar |
+| [招募](招募.md) | recruit; enlist; enrol |
+| [寄宿生](寄宿生.md) | resident student; boarder |
+| [走读生](走读生.md) | day student; nonresident student; nonboarder |
+| [优先](优先.md) | have priority |
+| [品牌](品牌.md) | brand; make |
+| [折叠式](折叠式.md) | foldable; folding (i.e., portable) |
+| [市占率](市占率.md) | market share |
+| [战略](战略.md) | strategy |
+| [储备](储备.md) | reserve; store for future use |
+| [罕见](罕见.md) | seldom seen; rare |
+| [引爆](引爆.md) | ignite; detonate |
+| [纠正](纠正.md) | correct; put right; redress |
+| [缺陷](缺陷.md) | defect; drawback; flaw; blemish |
+| [斡旋](斡旋.md) | mediate |
+| [恢复](恢复.md) | resume; regain; restore |
+| [匿名](匿名.md) | anonymous |
+| [拍卖](拍卖.md) | auction |
+| [投标](投标.md) | to bid; to make a tender |
+| [盎司](盎司.md) | ounce |
+| [沧桑](沧桑.md) | vicissitudes of life |
+| [历经](历经.md) | experience; go through |
+| [机遇](机遇.md) | opportunity; favorable circumstances |
+| [蝉联](蝉联.md) | continue to hold (a post or title) |
+| [探讨](探讨.md) | inquire into; explore; investigate; examine |
+| [孤胆英雄](孤胆英雄.md) | solitary hero; a lone fighter; maverick |
+| [先锋](先锋.md) | vanguard; pioneer |
+| [僵局](僵局.md) | deadlock; impasse; stalemate; stand-off |
+| [诉讼](诉讼.md) | lawsuit; litigation |
+| [飙升](飙升.md) | rise rapidly; to soar |
+| [兴奋剂](兴奋剂.md) | stimulant; doping (in athletics) |
+| [盟友](盟友.md) | ally; sworn friend; allied country |
+| [鞠躬](鞠躬.md) | bow |
+| [启动](启动.md) | start (a machine); enforce; implement; open up; explore |
+| [阐述](阐述.md) | expound; elaborate; set forth |
+| [追随](追随.md) | follow; tread on the heels of |
+| [漏洞](漏洞.md) | leak; hole; gap; loophole |
+| [专利](专利.md) | patent |
+| [拼凑](拼凑.md) | piece together |
+| [崩溃](崩溃.md) | collapse; crumble; fall apart |
+| [届时](届时.md) | when the time comes; at the appointed time |
+| [霸凌](霸凌.md) | bullying |
+| [残酷](残酷.md) | cruel; brutal; ruthless |
+| [打压](打压.md) | suppress; inhibit |
+| [特洛伊木马](特洛伊木马.md) | Trojan horse |
+| [审批](审批.md) | examine and approve; endorse |
+| [申请](申请.md) | apply for; file an application |
+| [信贷](信贷.md) | credit |
+| [拘留](拘留.md) | detain; hold in custody; intern |
+| [共生](共生.md) | symbiosis; intergrowth (geology); paragenesis (geology) |
+| [匮乏](匮乏.md) | be deficient; be short (of supplies) |
+| [质疑](质疑.md) | to call into question; to question (truth or validity) |
+| [透明度](透明度.md) | transparency |
+| [敌意](敌意.md) | hostility; enmity; animosity |
+| [橄榄枝](橄榄枝.md) | olive branch |
+| [橄榄](橄榄.md) | olive |
+| [优惠](优惠.md) | preferential; favourable |
+| [沟通](沟通.md) | link up; communicate |
+| [当铺](当铺.md) | pawnshop |
+| [蓄账户](蓄账户.md) | savings account |
+| [火星](火星.md) | Mars |
+| [土星](土星.md) | Saturn |
+| [木星](木星.md) | Jupiter |
+| [专属](专属.md) | exclusive; proprietary; preivate; personal |
+| [造势](造势.md) | to boost support or interest; to campaign; to promote |
+| [特殊](特殊.md) | special; particular; unusual; extraordinary |
+| [金牛](金牛.md) | Taurus; golden ox |
+| [炸锅](炸锅.md) | flare up; cause an uproar |
+| [娱乐性毒品](娱乐性毒品.md) | recreational drugs |
+| [随意性行](随意性行.md) | casual sex |
+| [大脑皮层](大脑皮层.md) | cerebral cortex |
+| [壁垒](壁垒.md) | barrier |
+| [过剩](过剩.md) | surplus |
+| [婚外情](婚外情.md) | extra-marital affair |
+| [局势](局势.md) | situation; state (of affairs) |
+| [熊猫](熊猫.md) | panda |
+| [热卖](热卖.md) | sell well; be in great demand; sell like hot cakes |
+| [浮标](浮标.md) | buoy |
+| [指尖](指尖.md) | fingertips |
+| [人工](人工.md) | artificial; man-made; manual work; work done by hand; manpower; man-day |
+| [矿物](矿物.md) | mineral |
+| [推特](推特.md) | Twitter |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |

@@ -6,7 +6,7 @@ economy-markets = "Economy And Markets"
 health = "Health"
 energy = "Energy"
 people = "People"
-contextual-study = "Words Used In Several Context"
+names-words = "Names/Words"
 favorites = "Favorites"
 marine = "Marine Life"
 dishes-vegetables-drinks = "菜 Dishes/Vegetables, Food and Drinks"
@@ -1250,6 +1250,10 @@ en = "iceberg"
 hz = "同步轨道"
 en = "synchronous orbit"
 
+[[favorites]]
+hz = "水族馆"
+en = "aquarium"
+
 
 [[health]]
 hz = "新型冠状病毒"
@@ -1898,6 +1902,11 @@ hz = "章鱼"
 en = "octopus"
 
 [[marine]]
+hz = "企鹅"
+en = "penguin"
+
+
+[[marine]]
 hz = "堡礁"
 en = "barrier reef"
 
@@ -1908,6 +1917,7 @@ en = "crocodile; alligator"
 [[marine]]
 hz = "珊瑚"
 en = "coral"
+
 
 
 [[places]]
@@ -2468,603 +2478,603 @@ hz = "荞麦"
 en = "buckwheat"
 
 
-[[contextual-study]]
+[[names-words]]
 hz = "盐"
 en = "salt"
 
-[[contextual-study]]
+[[names-words]]
 hz = "分子"
 en = "molecule; numerator (mathematics); member; element; part"
 
-[[contextual-study]]
+[[names-words]]
 hz = "酶"
 en = "enzyme; ferment"
 
-[[contextual-study]]
+[[names-words]]
 hz = "早期阶段"
 en = "early stage; initial stage"
 
-[[contextual-study]]
+[[names-words]]
 hz = "获得"
 en = "gain; obtain; acquire; win; achieve"
 
-[[contextual-study]]
+[[names-words]]
 hz = "趋势"
 en = "trend"
 
-[[contextual-study]]
+[[names-words]]
 hz = "数据"
 en = "data"
 
-[[contextual-study]]
+[[names-words]]
 hz = "影响"
 en = "to have an effect on; to influence; to affect; to have an impact on; to disturb"
 
-[[contextual-study]]
+[[names-words]]
 hz = "计划"
 en = "plan; project; programme"
 
-[[contextual-study]]
+[[names-words]]
 hz = "项目"
 en = "project; item; (sports) event"
 
-[[contextual-study]]
+[[names-words]]
 hz = "最佳"
 en = "best; optimum; optimal; peak"
 
-[[contextual-study]]
+[[names-words]]
 hz = "模式"
 en = "pattern; model; mode"
 
-[[contextual-study]]
+[[names-words]]
 hz = "覆盖"
 en = "cover (verb); plant cover; vegetation"
 
-[[contextual-study]]
+[[names-words]]
 hz = "冲击"
 en = "impact; shock; to attack"
 
-[[contextual-study]]
+[[names-words]]
 hz = "爆发"
 en = "erupt; burst out; break out"
 
-[[contextual-study]]
+[[names-words]]
 hz = "引发"
 en = "initiate; touch (or spark, trigger) off"
 
-[[contextual-study]]
+[[names-words]]
 hz = "开发"
 en = "develop; open up; exploit"
 
-[[contextual-study]]
+[[names-words]]
 hz = "瓶颈"
 en = "bottleneck"
 
-[[contextual-study]]
+[[names-words]]
 hz = "效率"
 en = "efficiency"
 
-[[contextual-study]]
+[[names-words]]
 hz = "超过"
 en = "exceed"
 
-[[contextual-study]]
+[[names-words]]
 hz = "情况"
 en = "circumstances; situation"
 
-[[contextual-study]]
+[[names-words]]
 hz = "严重"
 en = "serious; grave; severe; critical"
 
-[[contextual-study]]
+[[names-words]]
 hz = "取消"
 en = "cancel"
 
-[[contextual-study]]
+[[names-words]]
 hz = "紧急"
 en = "urgent; emergency; pressing"
 
-[[contextual-study]]
+[[names-words]]
 hz = "政策"
 en = "policy"
 
-[[contextual-study]]
+[[names-words]]
 hz = "刺激"
 en = "stimulus; stimulation; incentive; stimulate on ; encourage; provoke; irritate; upset"
 
-[[contextual-study]]
+[[names-words]]
 hz = "暂停"
 en = "suspend"
 
-[[contextual-study]]
+[[names-words]]
 hz = "核心"
 en = "core; center; most important part"
 
-[[contextual-study]]
+[[names-words]]
 hz = "崛起"
 en = "to rise abruptly; to emerge suddenly; the emergence (e.g. of  a power)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "平衡"
 en = "balance; equilibrium"
 
-[[contextual-study]]
+[[names-words]]
 hz = "发布"
 en = "issue; release"
 
-[[contextual-study]]
+[[names-words]]
 hz = "推出"
 en = "launch; release; publish; introduce; put out"
 
-[[contextual-study]]
+[[names-words]]
 hz = "推动"
 en = "push forward; promote; give impetus to"
 
-[[contextual-study]]
+[[names-words]]
 hz = "拖累"
 en = "encumber; be a burden on; implicate; involve"
 
-[[contextual-study]]
+[[names-words]]
 hz = "控制"
 en = "control; govern; command; manipulate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "担忧"
 en = "to worry; to be concerned; be anxious"
 
-[[contextual-study]]
+[[names-words]]
 hz = "担心"
 en = "worry; feel anxious"
 
-[[contextual-study]]
+[[names-words]]
 hz = "提供"
 en = "provide; supply; furnish; offer"
 
-[[contextual-study]]
+[[names-words]]
 hz = "提高"
 en = "raise; heighten; enhance; increase; improve"
 
-[[contextual-study]]
+[[names-words]]
 hz = "提醒"
 en = "remind; warn; call attention to"
 
-[[contextual-study]]
+[[names-words]]
 hz = "批准"
 en = "ratify; approve; sanction"
 
-[[contextual-study]]
+[[names-words]]
 hz = "批评"
 en = "criticize"
 
-[[contextual-study]]
+[[names-words]]
 hz = "持续"
 en = "continue; sustain"
 
-[[contextual-study]]
+[[names-words]]
 hz = "威胁"
 en = "threaten; menace; imperil"
 
-[[contextual-study]]
+[[names-words]]
 hz = "不确定性"
 en = "uncertainty"
 
-[[contextual-study]]
+[[names-words]]
 hz = "放射线"
 en = "radiation"
 
-[[contextual-study]]
+[[names-words]]
 hz = "放射性"
 en = "radioactive"
 
-[[contextual-study]]
+[[names-words]]
 hz = "购买"
 en = "purchase; buy"
 
-[[contextual-study]]
+[[names-words]]
 hz = "低迷"
 en = "low; stagnant; sluggish; depressed"
 
-[[contextual-study]]
+[[names-words]]
 hz = "条款"
 en = "stipulation"
 
-[[contextual-study]]
+[[names-words]]
 hz = "协议"
 en = "agreement; protocol"
 
-[[contextual-study]]
+[[names-words]]
 hz = "修订"
 en = "revise"
 
-[[contextual-study]]
+[[names-words]]
 hz = "现状"
 en = "status quo"
 
-[[contextual-study]]
+[[names-words]]
 hz = "连接"
 en = "to link; to join; connection; a link (on web page)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "领域"
 en = "field; sphere; domain; territory"
 
-[[contextual-study]]
+[[names-words]]
 hz = "实现"
 en = "realize; fulfill; carry out; bring about"
 
-[[contextual-study]]
+[[names-words]]
 hz = "肆虐"
 en = "to wreak havoc; to devastate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "版权"
 en = "copyright"
 
-[[contextual-study]]
+[[names-words]]
 hz = "制裁"
 en = "sanctions"
 
-[[contextual-study]]
+[[names-words]]
 hz = "最高法院"
 en = "Supreme Court"
 
-[[contextual-study]]
+[[names-words]]
 hz = "爆炸"
 en = "explosion; explode; detonate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "反弹"
 en = "rebound"
 
-[[contextual-study]]
+[[names-words]]
 hz = "躲过"
 en = "dodge"
 
-[[contextual-study]]
+[[names-words]]
 hz = "萨哈林"
 en = "Sakhalin"
 
-[[contextual-study]]
+[[names-words]]
 hz = "资源"
 en = "resource"
 
-[[contextual-study]]
+[[names-words]]
 hz = "起重机"
 en = "crane; hoist; derrick"
 
-[[contextual-study]]
+[[names-words]]
 hz = "众议院"
 en = "House of Representatives"
 
-[[contextual-study]]
+[[names-words]]
 hz = "参议院"
 en = "Senate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "攀升"
 en = "climb"
 
-[[contextual-study]]
+[[names-words]]
 hz = "走私"
 en = "smuggle"
 
-[[contextual-study]]
+[[names-words]]
 hz = "赌场"
 en = "casino"
 
-[[contextual-study]]
+[[names-words]]
 hz = "嗅觉"
 en = "sense of smell"
 
-[[contextual-study]]
+[[names-words]]
 hz = "味觉"
 en = "sense of taste"
 
-[[contextual-study]]
+[[names-words]]
 hz = "烟草"
 en = "tobacco"
 
-[[contextual-study]]
+[[names-words]]
 hz = "暂缓"
 en = "postpone; defer"
 
-[[contextual-study]]
+[[names-words]]
 hz = "现代化工厂"
 en = "modern factories"
 
-[[contextual-study]]
+[[names-words]]
 hz = "缴税"
 en = "pay taxes"
 
-[[contextual-study]]
+[[names-words]]
 hz = "涟漪"
 en = "ripples"
 
-[[contextual-study]]
+[[names-words]]
 hz = "插座"
 en = "socket, outlet "
 
-[[contextual-study]]
+[[names-words]]
 hz = "行为"
 en = "act, behave"
 
-[[contextual-study]]
+[[names-words]]
 hz = "行为科学"
 en = "behavioral science"
 
-[[contextual-study]]
+[[names-words]]
 hz = "召回"
 en = "recall"
 
-[[contextual-study]]
+[[names-words]]
 hz = "证据"
 en = "evidence"
 
-[[contextual-study]]
+[[names-words]]
 hz = "玫瑰花"
 en = "rose"
 
-[[contextual-study]]
+[[names-words]]
 hz = "崭新"
 en = "brand-new; completely-new"
 
-[[contextual-study]]
+[[names-words]]
 hz = "缓解"
 en = "relieve; alleviate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "理会"
 en = "understand; comprehend; take notice of; pay attention to"
 
-[[contextual-study]]
+[[names-words]]
 hz = "尖端"
 en = "most advanced; sophisticated; cutting edge; pointed end"
 
-[[contextual-study]]
+[[names-words]]
 hz = "突破"
 en = "breakthrough; to make a breakthrough"
 
-[[contextual-study]]
+[[names-words]]
 hz = "蔓延"
 en = "spread; stretch; extend; infest"
 
-[[contextual-study]]
+[[names-words]]
 hz = "截至"
 en = "by (a specified time); up to; as of"
 
-[[contextual-study]]
+[[names-words]]
 hz = "摆脱"
 en = "shake off; cast off; break away from"
 
-[[contextual-study]]
+[[names-words]]
 hz = "配备"
 en = "provide (manpower or equipment); equip; fit out; allocate; deploy"
 
-[[contextual-study]]
+[[names-words]]
 hz = "引擎"
 en = "engine"
 
-[[contextual-study]]
+[[names-words]]
 hz = "触发"
 en = "trigger; spark; touch off"
 
-[[contextual-study]]
+[[names-words]]
 hz = "押注"
 en = "to bet; to wager; stake"
 
-[[contextual-study]]
+[[names-words]]
 hz = "波动"
 en = "undulation; fluctuation; (physics) wave motion"
 
-[[contextual-study]]
+[[names-words]]
 hz = "抛售"
 en = "undersell; dump; sell (goods, shares, etc.) in big quantities (usualy in anticipation of or in order to bring about a fall in price)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "胶囊"
 en = "capsule"
 
-[[contextual-study]]
+[[names-words]]
 hz = "渠道"
 en = "channel; medium of communication; irrigation ditch"
 
-[[contextual-study]]
+[[names-words]]
 hz = "依赖"
 en = "rely on; dependent on"
 
-[[contextual-study]]
+[[names-words]]
 hz = "惊讶"
 en = "surprised;amazed; astonished; astounded"
 
-[[contextual-study]]
+[[names-words]]
 hz = "遭遇"
 en = "meet with; encounter; run up against"
 
-[[contextual-study]]
+[[names-words]]
 hz = "主角"
 en = "leading role; lead; protagonist"
 
-[[contextual-study]]
+[[names-words]]
 hz = "供货商"
 en = "supplier; vendor"
 
-[[contextual-study]]
+[[names-words]]
 hz = "发霉"
 en = "to become moldy"
 
-[[contextual-study]]
+[[names-words]]
 hz = "商标"
 en = "trademark"
 
-[[contextual-study]]
+[[names-words]]
 hz = "食人鱼"
 en = "piranha"
 
-[[contextual-study]]
+[[names-words]]
 hz = "梯田"
 en = "terraces"
 
-[[contextual-study]]
+[[names-words]]
 hz = "细菌"
 en = "bacterium; bacteria;bacterial"
 
-[[contextual-study]]
+[[names-words]]
 hz = "预算"
 en = "budget"
 
-[[contextual-study]]
+[[names-words]]
 hz = "流媒体"
 en = "streaming media"
 
-[[contextual-study]]
+[[names-words]]
 hz = "隐私"
 en = "privacy"
 
-[[contextual-study]]
+[[names-words]]
 hz = "麻省理工学院"
 en = "MIT"
 
-[[contextual-study]]
+[[names-words]]
 hz = "富士山"
 en = "Mt. Fuji"
 
-[[contextual-study]]
+[[names-words]]
 hz = "皮纳图博山"
 en = "Mt. Pinatubo"
 
-[[contextual-study]]
+[[names-words]]
 hz = "贫困"
 en = "poverty; impoverished; poor"
 
-[[contextual-study]]
+[[names-words]]
 hz = "雨林"
 en = "rainforest"
 
-[[contextual-study]]
+[[names-words]]
 hz = "平方"
 en = "second power (of a quantity); square"
 
-[[contextual-study]]
+[[names-words]]
 hz = "苏伊士运河"
 en = "Suez Canal"
 
-[[contextual-study]]
+[[names-words]]
 hz = "海底火山"
 en = "submarine volcano"
 
-[[contextual-study]]
+[[names-words]]
 hz = "火山"
 en = "volcano"
 
-[[contextual-study]]
+[[names-words]]
 hz = "火星"
 en = "Mars"
 
-[[contextual-study]]
+[[names-words]]
 hz = "眯眯眼"
 en = "squinted eyes"
 
-[[contextual-study]]
+[[names-words]]
 hz = "兔年"
 en = "Year of the Rabbit"
 
-[[contextual-study]]
+[[names-words]]
 hz = "虎年"
 en = "Year of the Tiger"
 
-[[contextual-study]]
+[[names-words]]
 hz = "牛年"
 en = "Year of the Ox"
 
-[[contextual-study]]
+[[names-words]]
 hz = "引渡"
 en = "extradite"
 
-[[contextual-study]]
+[[names-words]]
 hz = "瓦楞"
 en = "corrugated"
 
-[[contextual-study]]
+[[names-words]]
 hz = "泄漏"
 en = "to spill; to leak"
 
-[[contextual-study]]
+[[names-words]]
 hz = "物质"
 en = "substance"
 
-[[contextual-study]]
+[[names-words]]
 hz = "幽默感"
 en = "sense of humor"
 
-[[contextual-study]]
+[[names-words]]
 hz = "稳定"
 en = "stable"
 
-[[contextual-study]]
+[[names-words]]
 hz = "签署"
 en = "sign"
 
-[[contextual-study]]
+[[names-words]]
 hz = "支流"
 en = "tributary"
 
-[[contextual-study]]
+[[names-words]]
 hz = "机械"
 en = "machinery"
 
-[[contextual-study]]
+[[names-words]]
 hz = "气温"
 en = "temperature"
 
-[[contextual-study]]
+[[names-words]]
 hz = "紧缩"
 en = "tighten"
 
-[[contextual-study]]
+[[names-words]]
 hz = "悲观"
 en = "pessimistic"
 
-[[contextual-study]]
+[[names-words]]
 hz = "此举"
 en = "this measure/action/move"
 
-[[contextual-study]]
+[[names-words]]
 hz = "加剧"
 en = "aggravate; intensify; exacerbate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "烂尾楼"
 en = "unfinished building"
 
-[[contextual-study]]
+[[names-words]]
 hz = "评估"
 en = "assess"
 
-[[contextual-study]]
+[[names-words]]
 hz = "激进"
 en = "radical"
 
-[[contextual-study]]
+[[names-words]]
 hz = "维修"
 en = "maintain/maintenance"
 
-[[contextual-study]]
+[[names-words]]
 hz = "经营"
 en = "manage; operate; run; engage in"
 
-[[contextual-study]]
+[[names-words]]
 hz = "盂兰盆节"
 en = "Obon Festival"
 
-[[contextual-study]]
+[[names-words]]
 hz = "优化"
 en = "to optimise; to make better or excellent"
 
-[[contextual-study]]
+[[names-words]]
 hz = "一体化"
 en = "to unify; to integrate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "警钟"
 en = "alarm bell"
 
@@ -3072,135 +3082,135 @@ en = "alarm bell"
 hz = "促进"
 en = "to promote (an idea or cause); to advance; boost"
 
-[[contextual-study]]
+[[names-words]]
 hz = "孤立"
 en = "isolated; isolate; isolation"
 
-[[contextual-study]]
+[[names-words]]
 hz = "设立"
 en = "establish; setup; found"
 
-[[contextual-study]]
+[[names-words]]
 hz = "补充"
 en = "to replenish;to supplement; to complement; additional; supplementary"
 
-[[contextual-study]]
+[[names-words]]
 hz = "创造力"
 en = "ingenuity; creativity"
 
-[[contextual-study]]
+[[names-words]]
 hz = "代谢"
 en = "replacement; substitution; metabolism"
 
-[[contextual-study]]
+[[names-words]]
 hz = "新陈代谢"
 en = "metabolism; the new superseding the old (figurative)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "冒险"
 en = "take risks; take chances; foray; adventure"
 
-[[contextual-study]]
+[[names-words]]
 hz = "抗议"
 en = "protest"
 
-[[contextual-study]]
+[[names-words]]
 hz = "罢工"
 en = "go on strike"
 
-[[contextual-study]]
+[[names-words]]
 hz = "淡马锡"
 en = "Temasek"
 
-[[contextual-study]]
+[[names-words]]
 hz = "损失"
 en = "loss"
 
-[[contextual-study]]
+[[names-words]]
 hz = "熟悉"
 en = "know something/somebody well"
 
-[[contextual-study]]
+[[names-words]]
 hz = "跨境"
 en = "cross-border"
 
-[[contextual-study]]
+[[names-words]]
 hz = "饥荒"
 en = "famine"
 
-[[contextual-study]]
+[[names-words]]
 hz = "大麻"
 en = "marijuana/hemp"
 
-[[contextual-study]]
+[[names-words]]
 hz = "充电"
 en = "charge (a battery)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "樱花"
 en = "cherry blossom"
 
-[[contextual-study]]
+[[names-words]]
 hz = "权衡"
 en = "weigh (a matter); balance (pros and cons)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "金砖"
 en = "BRICS; gold bar (or brick)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "审理"
 en = "try; hear; adjudicate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "行业"
 en = "industry"
 
-[[contextual-study]]
+[[names-words]]
 hz = "潜水员"
 en = "diver; frogman"
 
-[[contextual-study]]
+[[names-words]]
 hz = "炸药"
 en = "explosive"
 
-[[contextual-study]]
+[[names-words]]
 hz = "门槛"
 en = "threshold"
 
-[[contextual-study]]
+[[names-words]]
 hz = "稀有"
 en = "rare"
 
-[[contextual-study]]
+[[names-words]]
 hz = "重创"
 en = "inflict heavy losses (or casualties) on; maul"
 
-[[contextual-study]]
+[[names-words]]
 hz = "试图"
 en = "to attempt; to try"
 
-[[contextual-study]]
+[[names-words]]
 hz = "理清"
 en = "sort out; straighten out"
 
-[[contextual-study]]
+[[names-words]]
 hz = "疏散"
 en = "evacuate; disperse"
 
-[[contextual-study]]
+[[names-words]]
 hz = "悬念"
 en = "suspense"
 
-[[contextual-study]]
+[[names-words]]
 hz = "攫取"
 en = "seize; grab"
 
-[[contextual-study]]
+[[names-words]]
 hz = "削减"
 en = "reduce; slash; cut (down); whittle down"
 
-[[contextual-study]]
+[[names-words]]
 hz = "排放"
 en = "emission; discharge; exhaust (gas etc)"
 
@@ -3216,127 +3226,127 @@ en = "be in transition; trnansformation"
 hz = "谨慎"
 en = "cautious; prudent"
 
-[[contextual-study]]
+[[names-words]]
 hz = "规划"
 en = "plan; program; project"
 
-[[contextual-study]]
+[[names-words]]
 hz = "蒙古包"
 en = "yurt"
 
-[[contextual-study]]
+[[names-words]]
 hz = "运营商"
 en = "operator"
 
-[[contextual-study]]
+[[names-words]]
 hz = "颗粒"
 en = "kernel; granule; grain"
 
-[[contextual-study]]
+[[names-words]]
 hz = "窃贼"
 en = "thief; burglar"
 
-[[contextual-study]]
+[[names-words]]
 hz = "招募"
 en = "recruit; enlist; enrol"
 
-[[contextual-study]]
+[[names-words]]
 hz = "寄宿生"
 en = "resident student; boarder"
 
-[[contextual-study]]
+[[names-words]]
 hz = "走读生"
 en = "day student; nonresident student; nonboarder"
 
-[[contextual-study]]
+[[names-words]]
 hz = "优先"
 en = "have priority"
 
-[[contextual-study]]
+[[names-words]]
 hz = "品牌"
 en = "brand; make"
 
-[[contextual-study]]
+[[names-words]]
 hz = "折叠式"
 en = "foldable; folding (i.e., portable)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "市占率"
 en = "market share"
 
-[[contextual-study]]
+[[names-words]]
 hz = "战略"
 en = "strategy"
 
-[[contextual-study]]
+[[names-words]]
 hz = "储备"
 en = "reserve; store for future use"
 
-[[contextual-study]]
+[[names-words]]
 hz = "罕见"
 en = "seldom seen; rare"
 
-[[contextual-study]]
+[[names-words]]
 hz = "引爆"
 en = "ignite; detonate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "纠正"
 en = "correct; put right; redress"
 
-[[contextual-study]]
+[[names-words]]
 hz = "缺陷"
 en = "defect; drawback; flaw; blemish"
 
-[[contextual-study]]
+[[names-words]]
 hz = "斡旋"
 en = "mediate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "恢复"
 en = "resume; regain; restore"
 
-[[contextual-study]]
+[[names-words]]
 hz = "匿名"
 en = "anonymous"
 
-[[contextual-study]]
+[[names-words]]
 hz = "拍卖"
 en = "auction"
 
-[[contextual-study]]
+[[names-words]]
 hz = "投标"
 en = "to bid; to make a tender"
 
-[[contextual-study]]
+[[names-words]]
 hz = "盎司"
 en = "ounce"
 
-[[contextual-study]]
+[[names-words]]
 hz = "沧桑"
 en = "vicissitudes of life"
 
-[[contextual-study]]
+[[names-words]]
 hz = "历经"
 en = "experience; go through"
 
-[[contextual-study]]
+[[names-words]]
 hz = "机遇"
 en = "opportunity; favorable circumstances"
 
-[[contextual-study]]
+[[names-words]]
 hz = "蝉联"
 en = "continue to hold (a post or title)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "探讨"
 en = "inquire into; explore; investigate; examine"
 
-[[contextual-study]]
+[[names-words]]
 hz = "孤胆英雄"
 en = "solitary hero; a lone fighter; maverick"
 
-[[contextual-study]]
+[[names-words]]
 hz = "先锋"
 en = "vanguard; pioneer"
 
@@ -3344,221 +3354,225 @@ en = "vanguard; pioneer"
 hz = "管道"
 en = "pipeline"
 
-[[contextual-study]]
+[[names-words]]
 hz = "僵局"
 en = "deadlock; impasse; stalemate; stand-off"
 
-[[contextual-study]]
+[[names-words]]
 hz = "诉讼"
 en = "lawsuit; litigation"
 
-[[contextual-study]]
+[[names-words]]
 hz = "飙升"
 en = "rise rapidly; to soar"
 
-[[contextual-study]]
+[[names-words]]
 hz = "兴奋剂"
 en = "stimulant; doping (in athletics)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "盟友"
 en = "ally; sworn friend; allied country"
 
-[[contextual-study]]
+[[names-words]]
 hz = "鞠躬"
 en = "bow"
 
-[[contextual-study]]
+[[names-words]]
 hz = "启动"
 en = "start (a machine); enforce; implement; open up; explore"
 
-[[contextual-study]]
+[[names-words]]
 hz = "阐述"
 en = "expound; elaborate; set forth"
 
-[[contextual-study]]
+[[names-words]]
 hz = "追随"
 en = "follow; tread on the heels of"
 
-[[contextual-study]]
+[[names-words]]
 hz = "漏洞"
 en = "leak; hole; gap; loophole"
 
-[[contextual-study]]
+[[names-words]]
 hz = "专利"
 en = "patent"
 
-[[contextual-study]]
+[[names-words]]
 hz = "拼凑"
 en = "piece together"
 
-[[contextual-study]]
+[[names-words]]
 hz = "崩溃"
 en = "collapse; crumble; fall apart"
 
-[[contextual-study]]
+[[names-words]]
 hz = "届时"
 en = "when the time comes; at the appointed time"
 
-[[contextual-study]]
+[[names-words]]
 hz = "霸凌"
 en = "bullying"
 
-[[contextual-study]]
+[[names-words]]
 hz = "残酷"
 en = "cruel; brutal; ruthless"
 
-[[contextual-study]]
+[[names-words]]
 hz = "打压"
 en = "suppress; inhibit"
 
-[[contextual-study]]
+[[names-words]]
 hz = "特洛伊木马"
 en = "Trojan horse"
 
-[[contextual-study]]
+[[names-words]]
 hz = "审批"
 en = "examine and approve; endorse"
 
-[[contextual-study]]
+[[names-words]]
 hz = "申请"
 en = "apply for; file an application"
 
-[[contextual-study]]
+[[names-words]]
 hz = "信贷"
 en = "credit"
 
-[[contextual-study]]
+[[names-words]]
 hz = "拘留"
 en = "detain; hold in custody; intern"
 
-[[contextual-study]]
+[[names-words]]
 hz = "共生"
 en = "symbiosis; intergrowth (geology); paragenesis (geology)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "匮乏"
 en = "be deficient; be short (of supplies)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "质疑"
 en = "to call into question; to question (truth or validity)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "透明度"
 en = "transparency"
 
-[[contextual-study]]
+[[names-words]]
 hz = "敌意"
 en = "hostility; enmity; animosity"
 
-[[contextual-study]]
+[[names-words]]
 hz = "橄榄枝"
 en = "olive branch"
 
-[[contextual-study]]
+[[names-words]]
 hz = "橄榄"
 en = "olive"
 
-[[contextual-study]]
+[[names-words]]
 hz = "优惠"
 en = "preferential; favourable"
 
-[[contextual-study]]
+[[names-words]]
 hz = "沟通"
 en = "link up; communicate"
 
-[[contextual-study]]
+[[names-words]]
 hz = "当铺"
 en = "pawnshop"
 
-[[contextual-study]]
+[[names-words]]
 hz = "蓄账户"
 en = "savings account"
 
-[[contextual-study]]
+[[names-words]]
 hz = "火星"
 en = "Mars"
 
-[[contextual-study]]
+[[names-words]]
 hz = "土星"
 en = "Saturn"
 
-[[contextual-study]]
+[[names-words]]
 hz = "木星"
 en = "Jupiter"
 
-[[contextual-study]]
+[[names-words]]
 hz = "专属"
 en = "exclusive; proprietary; preivate; personal"
 
-[[contextual-study]]
+[[names-words]]
 hz = "造势"
 en = "to boost support or interest; to campaign; to promote"
 
-[[contextual-study]]
+[[names-words]]
 hz = "特殊"
 en = "special; particular; unusual; extraordinary"
 
-[[contextual-study]]
+[[names-words]]
 hz = "金牛"
 en = "Taurus; golden ox"
 
-[[contextual-study]]
+[[names-words]]
 hz = "炸锅"
 en = "flare up; cause an uproar"
 
-[[contextual-study]]
+[[names-words]]
 hz = "娱乐性毒品"
 en = "recreational drugs"
 
-[[contextual-study]]
+[[names-words]]
 hz = "随意性行"
 en = "casual sex"
 
-[[contextual-study]]
+[[names-words]]
 hz = "大脑皮层"
 en = "cerebral cortex"
 
-[[contextual-study]]
+[[names-words]]
 hz = "壁垒"
 en = "barrier"
 
-[[contextual-study]]
+[[names-words]]
 hz = "过剩"
 en = "surplus"
 
-[[contextual-study]]
+[[names-words]]
 hz = "婚外情"
 en = "extra-marital affair"
 
-[[contextual-study]]
+[[names-words]]
 hz = "局势"
 en = "situation; state (of affairs)"
 
-[[contextual-study]]
+[[names-words]]
 hz = "熊猫"
 en = "panda"
 
-[[contextual-study]]
+[[names-words]]
 hz = "热卖"
 en = "sell well; be in great demand; sell like hot cakes"
 
-[[contextual-study]]
+[[names-words]]
 hz = "浮标"
 en = "buoy"
 
-[[contextual-study]]
+[[names-words]]
 hz = "指尖"
 en = "fingertips"
 
-[[contextual-study]]
+[[names-words]]
 hz = "人工"
 en = "artificial; man-made; manual work; work done by hand; manpower; man-day"
 
-[[contextual-study]]
+[[names-words]]
 hz = "矿物"
 en = "mineral"
+
+[[names-words]]
+hz = "推特"
+en = "Twitter"
 
 
 [[people]]
