@@ -1154,10 +1154,6 @@ en = "first light of morning; dawn"
 hz = "尾部风险"
 en = "tail risk"
 
-[[favorite]]
-hz = "光伏"
-en = "photovoltaic"
-
 [[favorites]]
 hz = "电压"
 en = "voltage"
@@ -1253,6 +1249,10 @@ en = "synchronous orbit"
 [[favorites]]
 hz = "水族馆"
 en = "aquarium"
+
+[[favorites]]
+hz = "猫头鹰"
+en = "owl"
 
 
 [[health]]

@@ -464,6 +464,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冰山](冰山.md) | iceberg |
 | [同步轨道](同步轨道.md) | synchronous orbit |
 | [水族馆](水族馆.md) | aquarium |
+| [猫头鹰](猫头鹰.md) | owl |
 ## Health
 |  |  |
 | ----- | :---: |
