@@ -174,13 +174,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [番茄](番茄.md) | tomato |
 | [洋葱](洋葱.md) | onion |
 | [葱](葱.md) | onion; scallion |
+| [大葱](大葱.md) | green Chinese onion; leek |
 | [蒜](蒜.md) | garlic |
 | [姜](姜.md) | ginger |
 | [黄姜](黄姜.md) | turmeric |
 | [番红花](番红花.md) | saffron |
 | [胡椒](胡椒.md) | pepper |
 | [胡椒粒](胡椒粒.md) | peppercorn |
-| [大葱](大葱.md) | green Chinese onion; leek |
 | [辣椒](辣椒.md) | hot pepper; chili |
 | [南瓜](南瓜.md) | pumpkin; cushaw |
 | [苦瓜](苦瓜.md) | bitter melon; bitter gourd |
@@ -198,6 +198,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [咖椰](咖椰.md) | kaya; coconut jam |
 | [加央角](加央角.md) | Kaya Puff |
 | [烤面包](烤面包.md) | toast |
+| [面包](面包.md) | bread |
 | [肉脞面](肉脞面.md) | minced pork noodles |
 | [拉面](拉面.md) | ramen |
 | [乌冬面](乌冬面.md) | udon noodles |
@@ -231,6 +232,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [薯片](薯片.md) | potato chips |
 | [披萨](披萨.md) | pizza |
 | [酱油](酱油.md) | soy sauce |
+| [零食](零食.md) | snack |
 | [咖啡](咖啡.md) | coffee |
 | [奶茶](奶茶.md) | milk tea |
 | [啤酒](啤酒.md) | beer |
@@ -357,6 +359,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [黑寡妇](黑寡妇.md) | Black Widow |
 | [曼达洛人](曼达洛人.md) | Mandalorian |
 | [星球大战](星球大战.md) | Star Wars |
+| [星际迷航](星际迷航.md) | Star Trek |
 | [百老汇](百老汇.md) | Broadway |
 | [曼联](曼联.md) | Manchester United |
 | [奥特曼](奥特曼.md) | Ultraman |
@@ -465,6 +468,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [同步轨道](同步轨道.md) | synchronous orbit |
 | [水族馆](水族馆.md) | aquarium |
 | [猫头鹰](猫头鹰.md) | owl |
+| [考拉](考拉.md) | koala |
 ## Health
 |  |  |
 | ----- | :---: |
@@ -843,6 +847,16 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [人工](人工.md) | artificial; man-made; manual work; work done by hand; manpower; man-day |
 | [矿物](矿物.md) | mineral |
 | [推特](推特.md) | Twitter |
+| [清真寺](清真寺.md) | mosque |
+| [香料](香料.md) | spice; flavoringa agent; aromatic; perfume |
+| [吹哨人](吹哨人.md) | Whistleblower |
+| [宿舍](宿舍.md) | dormitory |
+| [追赶](追赶.md) | to pursue; to chase after; to accelerate; to catch up with; to overtake |
+| [涉足](涉足.md) | to set foot in; to step into; to become involved for the first time |
+| [揭晓](揭晓.md) | to announce publicly; to publish; to make known |
+| [绝迹](绝迹.md) | extinct; to vanish; to be eradicated; to break off relations |
+| [甩掉](甩掉.md) | to cast off; to get rid off; to dump; to cast off; to throw off |
+| [繁衍](繁衍.md) | to multiply; to reproduce; to increase gradually in number or quantity |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |
@@ -866,6 +880,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [贝多芬](贝多芬.md) | Beethoven |
 | [莎翁](莎翁.md) | Shakespeare |
+| [梵高](梵高.md) | Van Gogh |
 | [牛顿](牛顿.md) | Newton |
 | [巴菲特](巴菲特.md) | Buffett |
 | [芒格](芒格.md) | Munger |

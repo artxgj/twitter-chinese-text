@@ -236,6 +236,10 @@ hz = "葱"
 en = "onion; scallion"
 
 [[dishes-vegetables-drinks]]
+hz = "大葱"
+en = "green Chinese onion; leek"
+
+[[dishes-vegetables-drinks]]
 hz = "蒜"
 en = "garlic"
 
@@ -258,10 +262,6 @@ en = "pepper"
 [[dishes-vegetables-drinks]]
 hz = "胡椒粒"
 en = "peppercorn"
-
-[[dishes-vegetables-drinks]]
-hz = "大葱"
-en = "green Chinese onion; leek"
 
 [[dishes-vegetables-drinks]]
 hz = "辣椒"
@@ -330,6 +330,10 @@ en = "Kaya Puff"
 [[dishes-vegetables-drinks]]
 hz = "烤面包"
 en = "toast"
+
+[[dishes-vegetables-drinks]]
+hz = "面包"
+en = "bread"
 
 [[dishes-vegetables-drinks]]
 hz = "肉脞面"
@@ -462,6 +466,10 @@ en = "pizza"
 [[dishes-vegetables-drinks]]
 hz = "酱油"
 en = "soy sauce"
+
+[[dishes-vegetables-drinks]]
+hz = "零食"
+en = "snack"
 
 [[dishes-vegetables-drinks]]
 hz = "咖啡"
@@ -1253,6 +1261,10 @@ en = "aquarium"
 [[favorites]]
 hz = "猫头鹰"
 en = "owl"
+
+[[favorites]]
+hz = "考拉"
+en = "koala"
 
 
 [[health]]
@@ -2326,6 +2338,10 @@ en = "Mandalorian"
 [[entertainment]]
 hz = "星球大战"
 en = "Star Wars"
+
+[[entertainment]]
+hz = "星际迷航"
+en = "Star Trek"
 
 [[entertainment]]
 hz = "百老汇"
@@ -3574,6 +3590,46 @@ en = "mineral"
 hz = "推特"
 en = "Twitter"
 
+[[names-words]]
+hz = "清真寺"
+en = "mosque"
+
+[[names-words]]
+hz = "香料"
+en = "spice; flavoringa agent; aromatic; perfume"
+
+[[names-words]]
+hz = "吹哨人"
+en = "Whistleblower"
+
+[[names-words]]
+hz = "宿舍"
+en = "dormitory"
+
+[[names-words]]
+hz = "追赶"
+en = "to pursue; to chase after; to accelerate; to catch up with; to overtake"
+
+[[names-words]]
+hz = "涉足"
+en = "to set foot in; to step into; to become involved for the first time"
+
+[[names-words]]
+hz = "揭晓"
+en = "to announce publicly; to publish; to make known"
+
+[[names-words]]
+hz = "绝迹"
+en = "extinct; to vanish; to be eradicated; to break off relations"
+
+[[names-words]]
+hz = "甩掉"
+en = "to cast off; to get rid off; to dump; to cast off; to throw off"
+
+[[names-words]]
+hz = "繁衍"
+en = "to multiply; to reproduce; to increase gradually in number or quantity"
+
 
 [[people]]
 hz = "贝多芬"
@@ -3582,6 +3638,10 @@ en = "Beethoven"
 [[people]]
 hz = "莎翁"
 en = "Shakespeare"
+
+[[people]]
+hz = "梵高"
+en = "Van Gogh"
 
 [[people]]
 hz = "牛顿"
