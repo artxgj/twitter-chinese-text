@@ -235,6 +235,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [零食](零食.md) | snack |
 | [咖啡](咖啡.md) | coffee |
 | [奶茶](奶茶.md) | milk tea |
+| [菊花茶](菊花茶.md) | Chrysanthemum tea |
 | [啤酒](啤酒.md) | beer |
 | [葡萄酒](葡萄酒.md) | wine |
 | [清酒](清酒.md) | sake |
@@ -857,6 +858,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [绝迹](绝迹.md) | extinct; to vanish; to be eradicated; to break off relations |
 | [甩掉](甩掉.md) | to cast off; to get rid off; to dump; to cast off; to throw off |
 | [繁衍](繁衍.md) | to multiply; to reproduce; to increase gradually in number or quantity |
+| [御寒](御寒.md) | keep out the cold; to keep warm |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |

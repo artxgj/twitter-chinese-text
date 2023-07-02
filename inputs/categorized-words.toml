@@ -480,6 +480,10 @@ hz = "奶茶"
 en = "milk tea"
 
 [[dishes-vegetables-drinks]]
+hz = "菊花茶"
+en = "Chrysanthemum tea"
+
+[[dishes-vegetables-drinks]]
 hz = "啤酒"
 en = "beer"
 
@@ -3629,6 +3633,10 @@ en = "to cast off; to get rid off; to dump; to cast off; to throw off"
 [[names-words]]
 hz = "繁衍"
 en = "to multiply; to reproduce; to increase gradually in number or quantity"
+
+[[names-words]]
+hz = "御寒"
+en = "keep out the cold; to keep warm"
 
 
 [[people]]
