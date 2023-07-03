@@ -158,6 +158,10 @@ en = "to rise in value; to appreciate; appreciation"
 hz = "移动支付"
 en = "mobile payment"
 
+[[currency-money-tech]]
+hz = "钞票"
+en = "banknote; paper money; bill"
+
 
 [[dishes-vegetables-drinks]]
 hz = "蔬菜"
@@ -290,6 +294,10 @@ en = "pork belly"
 [[dishes-vegetables-drinks]]
 hz = "培根"
 en = "bacon"
+
+[[dishes-vegetables-drinks]]
+hz = "龙虾"
+en = "lobster"
 
 [[dishes-vegetables-drinks]]
 hz = "炒粿条"
@@ -428,6 +436,18 @@ hz = "烧烤"
 en = "barbeque"
 
 [[dishes-vegetables-drinks]]
+hz = "臭豆腐"
+en = "stinky tofu"
+
+[[dishes-vegetables-drinks]]
+hz = "油条"
+en = "deep-fried twisted dough sticks"
+
+[[dishes-vegetables-drinks]]
+hz = "麻花"
+en = "fried dough twist"
+
+[[dishes-vegetables-drinks]]
 hz = "罗汉果"
 en = "mangosteen"
 
@@ -438,6 +458,10 @@ en = "durian"
 [[dishes-vegetables-drinks]]
 hz = "凤梨"
 en = "pineapple"
+
+[[dishes-vegetables-drinks]]
+hz = "石榴"
+en = "pomegranate"
 
 [[dishes-vegetables-drinks]]
 hz = "月饼"
@@ -452,12 +476,20 @@ hz = "槟榔芋"
 en = "taro"
 
 [[dishes-vegetables-drinks]]
+hz = "爆米花"
+en = "popcorn"
+
+[[dishes-vegetables-drinks]]
 hz = "薯条"
 en = "french fries; chips"
 
 [[dishes-vegetables-drinks]]
 hz = "薯片"
 en = "potato chips"
+
+[[dishes-vegetables-drinks]]
+hz = "肉干"
+en = "jerky; dried meat"
 
 [[dishes-vegetables-drinks]]
 hz = "披萨"
@@ -482,6 +514,10 @@ en = "milk tea"
 [[dishes-vegetables-drinks]]
 hz = "菊花茶"
 en = "Chrysanthemum tea"
+
+[[dishes-vegetables-drinks]]
+hz = "花茶"
+en = "scented tea"
 
 [[dishes-vegetables-drinks]]
 hz = "啤酒"
@@ -543,6 +579,22 @@ en = "speak and act cautiously; discreet in word and deed"
 [[idioms]]
 hz = "因祸得福"
 en = "derive gain or profit by misfortune (blessing in disguise)"
+
+[[idioms]]
+hz = "谈笑风生"
+en = "talk and laugh cheerfully (or merrily)"
+
+[[idioms]]
+hz = "浩浩荡荡"
+en = "vast and mighty; grandiose; majestic"
+
+[[idioms]]
+hz = "万事如意"
+en = "Everything goes as one wishes; to have all one's wishes"
+
+[[idioms]]
+hz = "添砖加瓦"
+en = "do what little one can do; do one's bit to help"
 
 
 [[economy-markets]]
@@ -1159,6 +1211,15 @@ hz = "圣诞"
 en = "Christmas"
 
 [[favorites]]
+hz = "清明"
+en = "Pure Brightness Festival or Tomb Sweeping Day; clear and bright; sober and calm; well-ordered"
+
+[[favorites]]
+hz = "端午"
+en = "Dragon Boat Festival (5th day of 5th Lunar month)"
+
+
+[[favorites]]
 hz = "曙光"
 en = "first light of morning; dawn"
 
@@ -1571,6 +1632,14 @@ en = "cardiovascular disease"
 hz = "抑郁"
 en = "depressed; depression; despondent; gloomy"
 
+[[health]]
+hz = "自闭症"
+en = "autism"
+
+[[health]]
+hz = "阿斯巴甜"
+en = "aspertame"
+
 
 [[energy]]
 hz = "天然气"
@@ -1902,6 +1971,10 @@ hz = "海豚"
 en = "dolphin"
 
 [[marine]]
+hz = "海豹"
+en = "seal"
+
+[[marine]]
 hz = "鲨鱼"
 en = "shark"
 
@@ -1935,7 +2008,6 @@ hz = "珊瑚"
 en = "coral"
 
 
-
 [[places]]
 hz = "菲律宾"
 en = "Philippines"
@@ -1951,6 +2023,10 @@ en = "Penang"
 [[places]]
 hz = "新加坡"
 en = "Singapore"
+
+[[places]]
+hz = "马来西亚"
+en = "Malaysia"
 
 [[places]]
 hz = "峇厘岛"
@@ -2005,6 +2081,10 @@ hz = "莫斯科"
 en = "Moscow"
 
 [[places]]
+hz = "西伯利亚"
+en = "Siberia"
+
+[[places]]
 hz = "雷克雅未克"
 en = "Reykjavik"
 
@@ -2027,6 +2107,14 @@ en = "Montenegro"
 [[places]]
 hz = "卡帕多奇亚"
 en = "Cappadocia"
+
+[[places]]
+hz = "土耳其"
+en = "Türkiye"
+
+[[places]]
+hz = "米兰"
+en = "Milan"
 
 [[places]]
 hz = "布基纳法索"
@@ -2388,8 +2476,8 @@ hz = "明星赛"
 en = "All-Star Game"
 
 [[entertainment]]
-hz = "奥运会"
-en = "Olympic Games"
+hz = "奥运"
+en = "Olympic Games; Olympiad"
 
 
 [[natural-disaster]]
@@ -2451,6 +2539,18 @@ en = "waterspout"
 [[natural-disaster]]
 hz = "野火"
 en = "Wildfire"
+
+[[natural-disaster]]
+hz = "山洪"
+en = "mountain torrents; flash flood"
+
+[[natural-disaster]]
+hz = "泥石流"
+en = "mudslide; landslide; mud-rock flow"
+
+[[natural-disaster]]
+hz = "灾害"
+en = "calamity; disaster"
 
 
 [[commodities_agri]]
@@ -3098,7 +3198,7 @@ en = "to unify; to integrate"
 hz = "警钟"
 en = "alarm bell"
 
-[[contextiual-study]]
+[[names-words]]
 hz = "促进"
 en = "to promote (an idea or cause); to advance; boost"
 
@@ -3638,6 +3738,410 @@ en = "to multiply; to reproduce; to increase gradually in number or quantity"
 hz = "御寒"
 en = "keep out the cold; to keep warm"
 
+[[names-words]]
+hz = "诡异"
+en = "strange; abnormal"
+
+[[names-words]]
+hz = "圈"
+en = "circle; ring; domain; group; enclose; encircle; mark with a circle; raise or make money (colloquial)"
+
+[[names-words]]
+hz = "线路"
+en = "circuit; line; communication line; route; road; railway track; bus route"
+
+[[names-words]]
+hz = "延缓"
+en = "delay; postpone; defer; put off"
+
+[[names-words]]
+hz = "萎缩"
+en = "wither; shrivel; shrink; sag; atrophy"
+
+[[names-words]]
+hz = "衰老"
+en = "to age; to deteriorate with age; old and weak"
+
+[[names-words]]
+hz = "小睡"
+en = "nap"
+
+[[names-words]]
+hz = "冲浪板"
+en = "surfboard; paddleboard"
+
+[[names-words]]
+hz = "想像"
+en = "imagine; fancy; visualize"
+
+[[names-words]]
+hz = "同理心"
+en = "empathy"
+
+[[names-words]]
+hz = "发挥"
+en = "to display; to exhibit; to bring out implicit or innate qualities; to express (a thought or moral); to develop (an idea); to elaborate (on a theme)"
+
+[[names-words]]
+hz = "缺口"
+en = "breach; gap; opening; indentation"
+
+[[names-words]]
+hz = "掌权"
+en = "to wield (political) power;be in power; exercise control"
+
+[[names-words]]
+hz = "反叛"
+en = "rebel; traitor; turncoat; to rebel; to revolt"
+
+[[names-words]]
+hz = "对抗"
+en = "antagonism; confrontation; hostility; resist; oppose"
+
+[[names-words]]
+hz = "拉开帷幕"
+en = "open the curtains; begin a conference (or event)"
+
+[[names-words]]
+hz = "争霸"
+en = "contend (or struggle) for hegemony; scramble (or strive) for supremacy"
+
+[[names-words]]
+hz = "昂贵"
+en = "expensive; costly"
+
+[[names-words]]
+hz = "妈祖"
+en = "Mazu (legendary goddess of the sea)"
+
+[[names-words]]
+hz = "信徒"
+en = "believer; disciple; follower; adherent; devotee"
+
+[[names-words]]
+hz = "跪"
+en = "kneel"
+
+[[names-words]]
+hz = "谣言"
+en = "rumor; unfounded report; groundless allegation"
+
+[[names-words]]
+hz = "运河"
+en = "canal"
+
+[[names-words]]
+hz = "苏伊士运河"
+en = "Suez Canal"
+
+[[names-words]]
+hz = "帆船"
+en = "sailboat; sailing boat or ship; junk"
+
+[[names-words]]
+hz = "昆虫"
+en = "insect"
+
+[[names-words]]
+hz = "陵"
+en = "hill; mound; imperial tomb; mausoleum"
+
+[[names-words]]
+hz = "并入"
+en = "merge with; incorporate into; annex"
+
+[[names-words]]
+hz = "西游记"
+en = "Journey to the West (classic novel)"
+
+[[names-words]]
+hz = "安卓"
+en = "Android (OS)"
+
+[[names-words]]
+hz = "频繁"
+en = "frequent; often"
+
+[[names-words]]
+hz = "闪退"
+en = "(of a mobile app) to crash on startup; to crash"
+
+[[names-words]]
+hz = "确认"
+en = "affirm; confirm; acknowledge"
+
+[[names-words]]
+hz = "下滑"
+en = "glide (or slide) down; reduce; decline"
+
+[[names-words]]
+hz = "蝗虫"
+en = "locust"
+
+[[names-words]]
+hz = "黑压压"
+en = "(of a mass) dense and dark"
+
+[[names-words]]
+hz = "漫天"
+en = "filling the whole sky; all over the sky"
+
+[[names-words]]
+hz = "会晤"
+en = "to meet; meeting"
+
+[[names-words]]
+hz = "道歉"
+en = "apologize; make an apology"
+
+[[names-words]]
+hz = "清关"
+en = "customs clearance"
+
+[[names-words]]
+hz = "有序"
+en = "orderly; methodical; systematic; in good order"
+
+[[names-words]]
+hz = "规整"
+en = "put in order; sort (or straighten) out; regular; standardized"
+
+[[names-words]]
+hz = "祝贺"
+en = "congratulate"
+
+[[names-words]]
+hz = "瞬间"
+en = "instant; in the twinkling of an eye; in a flash"
+
+[[names-words]]
+hz = "减排"
+en = "reduce emissions; reduce pollution"
+
+[[names-words]]
+hz = "酿酒"
+en = "make wine; brew beer"
+
+[[names-words]]
+hz = "哲学"
+en = "philosophy"
+
+[[names-words]]
+hz = "回忆"
+en = "call (or bring) to mind,; recollect; recall; memories"
+
+[[names-words]]
+hz = "无怨"
+en = "no complaints"
+
+[[names-words]]
+hz = "无悔"
+en = "no regrets"
+
+[[names-words]]
+hz = "绊倒"
+en = "to stumble; to trip"
+
+[[names-words]]
+hz = "涡流"
+en = "eddy current; vortex flow"
+
+[[names-words]]
+hz = "有意义"
+en = "meaningful; significant"
+
+[[names-words]]
+hz = "吊桥"
+en = "suspension bridge; drawbridge"
+
+[[names-words]]
+hz = "两岸"
+en = "both sides of a strait; banks of river; cross-straits; bilateral"
+
+[[names-words]]
+hz = "精神鸦片"
+en = "mental opiate; mind-dulling"
+
+[[names-words]]
+hz = "魏玛共和国"
+en = "Weimar Republic"
+
+[[names-words]]
+hz = "孔雀"
+en = "peacock"
+
+[[names-words]]
+hz = "横空出世"
+en = "(of mountains) tower into the blue; reach to the clouds"
+
+[[names-words]]
+hz = "干燥"
+en = "dry; arid; dull; uninteresting"
+
+[[names-words]]
+hz = "摄影"
+en = "take a photograph; shoot a film; film; photography"
+
+[[names-words]]
+hz = "签订"
+en = "sign (a treaty, an agreement, etc.)"
+
+[[names-words]]
+hz = "牺牲"
+en = "sacrifice"
+
+[[names-words]]
+hz = "珠三角"
+en = "Pearl River Delta"
+
+[[names-words]]
+hz = "心理学"
+en = "psychology"
+
+[[names-words]]
+hz = "追溯"
+en = "trace back to; date from"
+
+[[names-words]]
+hz = "空间站"
+en = "space station"
+
+[[names-words]]
+hz = "理发"
+en = "haircut"
+
+[[names-words]]
+hz = "亿万富豪"
+en = "billionaire"
+
+[[names-words]]
+hz = "反对党"
+en = "opposition party"
+
+[[names-words]]
+hz = "散发"
+en = "send out; send forth; diffuse; emit; distribute; issue; give out"
+
+[[names-words]]
+hz = "双胞胎"
+en = "twins"
+
+[[names-words]]
+hz = "混淆"
+en = "obscure; confuse"
+
+[[names-words]]
+hz = "误判"
+en = "misjudge"
+
+[[names-words]]
+hz = "亚洲象"
+en = "Asian elephants"
+
+[[names-words]]
+hz = "无人机"
+en = "drone; unmanned aerial vehicle (UAV)"
+
+[[names-words]]
+hz = "快艇"
+en = "motorboat; speedboat"
+
+[[names-words]]
+hz = "运势"
+en = "horoscope; one's fortune"
+
+[[names-words]]
+hz = "签证"
+en = "visa; issue a visa"
+
+[[names-words]]
+hz = "审美"
+en = "aesthetic; appreciate beauty"
+
+[[names-words]]
+hz = "气馁"
+en = "become dejected; be discouraged; lose heart"
+
+[[names-words]]
+hz = "滑雪"
+en = "ski"
+
+[[names-words]]
+hz = "神舟"
+en = "Shenzhou"
+
+[[names-words]]
+hz = "地狱"
+en = "hell"
+
+[[names-words]]
+hz = "婚"
+en = "marriage; wedding; to marry"
+
+[[names-words]]
+hz = "壁虎"
+en = "gecko"
+
+[[names-words]]
+hz = "飞船"
+en = "spacecraft; spaceship"
+
+[[names-words]]
+hz = "全国代表大会"
+en = "National Congress"
+
+[[names-words]]
+hz = "赚钱"
+en = "make money"
+
+[[names-words]]
+hz = "打印机"
+en = "printer"
+
+[[names-words]]
+hz = "盼"
+en = "to hope for; to long for; to expect"
+
+[[names-words]]
+hz = "毅"
+en = "firm; resolute; staunch"
+
+[[names-words]]
+hz = "筷子"
+en = "chopsticks"
+
+[[names-words]]
+hz = "汤匙"
+en = "soup spoon; table spoon"
+
+[[names-words]]
+hz = "叉"
+en = "fork"
+
+[[names-words]]
+hz = "肖"
+en = "similar; resembling; to resemble;  to be like"
+
+[[names-words]]
+hz = "迎新送旧"
+en = "welcome in the new and send off the old"
+
+[[names-words]]
+hz = "鹦鹉"
+en = "parrot"
+
+[[names-words]]
+hz = "兜风"
+en = "catch the wind; go for a drive, ride or sail; go for a spin"
+
+[[names-words]]
+hz = "战役"
+en = "battle"
+
+[[names-words]]
+hz = "拓展"
+en = "expand; spread; develop"
+
 
 [[people]]
 hz = "贝多芬"
@@ -3702,3 +4206,15 @@ en = "Shou Zi Chew"
 [[people]]
 hz = "黄仁勋"
 en = "Jensen Huang"
+
+[[people]]
+hz = "马英九"
+en = "Ma Ying-jeou"
+
+[[people]]
+hz = "姚明"
+en = "Yao Ming"
+
+[[people]]
+hz = "谷爱凌"
+en = "Gu Ailing"

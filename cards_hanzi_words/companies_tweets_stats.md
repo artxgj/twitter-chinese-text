@@ -70,6 +70,7 @@
 | [任天堂](任天堂.md) | Nintendo | NTDOY/NTDOF | 47 |
 | [日产](日产.md) | Nissan | NSANY | 72 |
 | [英伟达](英伟达.md) | Nvidia | NVDA | 79 |
+| [甲骨文](甲骨文.md) | Oracle | ORCL | 10 |
 | [华侨银行](华侨银行.md) | OCBC Bank | OVCHY | 5 |
 | [松下](松下.md) | Panasonic | PCRFY | 64 |
 | [辉瑞](辉瑞.md) | Pfizer | PFE | 181 |
@@ -79,7 +80,9 @@
 | [罗尔斯·罗伊斯](罗尔斯·罗伊斯.md) | Rolls Royce | RYCEY | 1 |
 | [三星](三星.md) | Samsung | SSNLF | 128 |
 | [希捷](希捷.md) | Seagate | STX | 2 |
+| [精工](精工.md) | Seiko | TYO: 8050 | 8 |
 | [红杉资本](红杉资本.md) | Sequoia Capital | Venture Capital firm | 10 |
+| [夏普](夏普.md) | Sharp | SHCAY | 19 |
 | [希音](希音.md) | Shein | private | 3 |
 | [资生堂](资生堂.md) | Shiseido | SSDOY | 9 |
 | [希克斯](希克斯.md) | SIIX | Tokyo Stock Exchange | 1 |

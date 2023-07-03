@@ -153,6 +153,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [贬值](贬值.md) | devaluation; depreciation |
 | [升值](升值.md) | to rise in value; to appreciate; appreciation |
 | [移动支付](移动支付.md) | mobile payment |
+| [钞票](钞票.md) | banknote; paper money; bill |
 ## 菜 Dishes/Vegetables, Food and Drinks
 |  |  |
 | ----- | :---: |
@@ -188,6 +189,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [肉骨茶](肉骨茶.md) | bak-kut-teh; pork ribs soup |
 | [五花肉](五花肉.md) | pork belly |
 | [培根](培根.md) | bacon |
+| [龙虾](龙虾.md) | lobster |
 | [炒粿条](炒粿条.md) | char kway teow |
 | [水粿](水粿.md) | chwee kueh |
 | [叻沙](叻沙.md) | laksa |
@@ -222,20 +224,27 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铁锅炖](铁锅炖.md) | iron pot stew |
 | [御好烧](御好烧.md) | Okonomiyaki |
 | [烧烤](烧烤.md) | barbeque |
+| [臭豆腐](臭豆腐.md) | stinky tofu |
+| [油条](油条.md) | deep-fried twisted dough sticks |
+| [麻花](麻花.md) | fried dough twist |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
+| [石榴](石榴.md) | pomegranate |
 | [月饼](月饼.md) | mooncake |
 | [红薯](红薯.md) | sweet potato |
 | [槟榔芋](槟榔芋.md) | taro |
+| [爆米花](爆米花.md) | popcorn |
 | [薯条](薯条.md) | french fries; chips |
 | [薯片](薯片.md) | potato chips |
+| [肉干](肉干.md) | jerky; dried meat |
 | [披萨](披萨.md) | pizza |
 | [酱油](酱油.md) | soy sauce |
 | [零食](零食.md) | snack |
 | [咖啡](咖啡.md) | coffee |
 | [奶茶](奶茶.md) | milk tea |
 | [菊花茶](菊花茶.md) | Chrysanthemum tea |
+| [花茶](花茶.md) | scented tea |
 | [啤酒](啤酒.md) | beer |
 | [葡萄酒](葡萄酒.md) | wine |
 | [清酒](清酒.md) | sake |
@@ -371,7 +380,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [总决赛](总决赛.md) | finals (sports) |
 | [常规赛](常规赛.md) | regular season (sports) |
 | [明星赛](明星赛.md) | All-Star Game |
-| [奥运会](奥运会.md) | Olympic Games |
+| [奥运](奥运.md) | Olympic Games; Olympiad |
 ## Favorites
 |  |  |
 | ----- | :---: |
@@ -443,6 +452,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [元旦](元旦.md) | New Year's Day |
 | [中秋](中秋.md) | Mid-Autumn |
 | [圣诞](圣诞.md) | Christmas |
+| [清明](清明.md) | Pure Brightness Festival or Tomb Sweeping Day; clear and bright; sober and calm; well-ordered |
+| [端午](端午.md) | Dragon Boat Festival (5th day of 5th Lunar month) |
 | [曙光](曙光.md) | first light of morning; dawn |
 | [尾部风险](尾部风险.md) | tail risk |
 | [电压](电压.md) | voltage |
@@ -548,6 +559,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [慢性疼痛](慢性疼痛.md) | chronic pain |
 | [心血管疾病](心血管疾病.md) | cardiovascular disease |
 | [抑郁](抑郁.md) | depressed; depression; despondent; gloomy |
+| [自闭症](自闭症.md) | autism |
+| [阿斯巴甜](阿斯巴甜.md) | aspertame |
 ## Idioms
 |  |  |
 | ----- | :---: |
@@ -561,6 +574,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [草木皆兵](草木皆兵.md) | every bush and tree looks like an enemy soldier—a state of extreme suspicion and fear; plagued (by imaginary suspicion and fear) |
 | [谨言慎行](谨言慎行.md) | speak and act cautiously; discreet in word and deed |
 | [因祸得福](因祸得福.md) | derive gain or profit by misfortune (blessing in disguise) |
+| [谈笑风生](谈笑风生.md) | talk and laugh cheerfully (or merrily) |
+| [浩浩荡荡](浩浩荡荡.md) | vast and mighty; grandiose; majestic |
+| [万事如意](万事如意.md) | Everything goes as one wishes; to have all one's wishes |
+| [添砖加瓦](添砖加瓦.md) | do what little one can do; do one's bit to help |
 ## Marine Life
 |  |  |
 | ----- | :---: |
@@ -568,6 +585,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [海藻](海藻.md) | seaweed |
 | [海狮](海狮.md) | sea lion |
 | [海豚](海豚.md) | dolphin |
+| [海豹](海豹.md) | seal |
 | [鲨鱼](鲨鱼.md) | shark |
 | [鲸](鲸.md) | whale |
 | [黑露脊鲸](黑露脊鲸.md) | black right whale |
@@ -729,6 +747,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [优化](优化.md) | to optimise; to make better or excellent |
 | [一体化](一体化.md) | to unify; to integrate |
 | [警钟](警钟.md) | alarm bell |
+| [促进](促进.md) | to promote (an idea or cause); to advance; boost |
 | [孤立](孤立.md) | isolated; isolate; isolation |
 | [设立](设立.md) | establish; setup; found |
 | [补充](补充.md) | to replenish;to supplement; to complement; additional; supplementary |
@@ -859,6 +878,107 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [甩掉](甩掉.md) | to cast off; to get rid off; to dump; to cast off; to throw off |
 | [繁衍](繁衍.md) | to multiply; to reproduce; to increase gradually in number or quantity |
 | [御寒](御寒.md) | keep out the cold; to keep warm |
+| [诡异](诡异.md) | strange; abnormal |
+| [圈](圈.md) | circle; ring; domain; group; enclose; encircle; mark with a circle; raise or make money (colloquial) |
+| [线路](线路.md) | circuit; line; communication line; route; road; railway track; bus route |
+| [延缓](延缓.md) | delay; postpone; defer; put off |
+| [萎缩](萎缩.md) | wither; shrivel; shrink; sag; atrophy |
+| [衰老](衰老.md) | to age; to deteriorate with age; old and weak |
+| [小睡](小睡.md) | nap |
+| [冲浪板](冲浪板.md) | surfboard; paddleboard |
+| [想像](想像.md) | imagine; fancy; visualize |
+| [同理心](同理心.md) | empathy |
+| [发挥](发挥.md) | to display; to exhibit; to bring out implicit or innate qualities; to express (a thought or moral); to develop (an idea); to elaborate (on a theme) |
+| [缺口](缺口.md) | breach; gap; opening; indentation |
+| [掌权](掌权.md) | to wield (political) power;be in power; exercise control |
+| [反叛](反叛.md) | rebel; traitor; turncoat; to rebel; to revolt |
+| [对抗](对抗.md) | antagonism; confrontation; hostility; resist; oppose |
+| [拉开帷幕](拉开帷幕.md) | open the curtains; begin a conference (or event) |
+| [争霸](争霸.md) | contend (or struggle) for hegemony; scramble (or strive) for supremacy |
+| [昂贵](昂贵.md) | expensive; costly |
+| [妈祖](妈祖.md) | Mazu (legendary goddess of the sea) |
+| [信徒](信徒.md) | believer; disciple; follower; adherent; devotee |
+| [跪](跪.md) | kneel |
+| [谣言](谣言.md) | rumor; unfounded report; groundless allegation |
+| [运河](运河.md) | canal |
+| [苏伊士运河](苏伊士运河.md) | Suez Canal |
+| [帆船](帆船.md) | sailboat; sailing boat or ship; junk |
+| [昆虫](昆虫.md) | insect |
+| [陵](陵.md) | hill; mound; imperial tomb; mausoleum |
+| [并入](并入.md) | merge with; incorporate into; annex |
+| [西游记](西游记.md) | Journey to the West (classic novel) |
+| [安卓](安卓.md) | Android (OS) |
+| [频繁](频繁.md) | frequent; often |
+| [闪退](闪退.md) | (of a mobile app) to crash on startup; to crash |
+| [确认](确认.md) | affirm; confirm; acknowledge |
+| [下滑](下滑.md) | glide (or slide) down; reduce; decline |
+| [蝗虫](蝗虫.md) | locust |
+| [黑压压](黑压压.md) | (of a mass) dense and dark |
+| [漫天](漫天.md) | filling the whole sky; all over the sky |
+| [会晤](会晤.md) | to meet; meeting |
+| [道歉](道歉.md) | apologize; make an apology |
+| [清关](清关.md) | customs clearance |
+| [有序](有序.md) | orderly; methodical; systematic; in good order |
+| [规整](规整.md) | put in order; sort (or straighten) out; regular; standardized |
+| [祝贺](祝贺.md) | congratulate |
+| [瞬间](瞬间.md) | instant; in the twinkling of an eye; in a flash |
+| [减排](减排.md) | reduce emissions; reduce pollution |
+| [酿酒](酿酒.md) | make wine; brew beer |
+| [哲学](哲学.md) | philosophy |
+| [回忆](回忆.md) | call (or bring) to mind,; recollect; recall; memories |
+| [无怨](无怨.md) | no complaints |
+| [无悔](无悔.md) | no regrets |
+| [绊倒](绊倒.md) | to stumble; to trip |
+| [涡流](涡流.md) | eddy current; vortex flow |
+| [有意义](有意义.md) | meaningful; significant |
+| [吊桥](吊桥.md) | suspension bridge; drawbridge |
+| [两岸](两岸.md) | both sides of a strait; banks of river; cross-straits; bilateral |
+| [精神鸦片](精神鸦片.md) | mental opiate; mind-dulling |
+| [魏玛共和国](魏玛共和国.md) | Weimar Republic |
+| [孔雀](孔雀.md) | peacock |
+| [横空出世](横空出世.md) | (of mountains) tower into the blue; reach to the clouds |
+| [干燥](干燥.md) | dry; arid; dull; uninteresting |
+| [摄影](摄影.md) | take a photograph; shoot a film; film; photography |
+| [签订](签订.md) | sign (a treaty, an agreement, etc.) |
+| [牺牲](牺牲.md) | sacrifice |
+| [珠三角](珠三角.md) | Pearl River Delta |
+| [心理学](心理学.md) | psychology |
+| [追溯](追溯.md) | trace back to; date from |
+| [空间站](空间站.md) | space station |
+| [理发](理发.md) | haircut |
+| [亿万富豪](亿万富豪.md) | billionaire |
+| [反对党](反对党.md) | opposition party |
+| [散发](散发.md) | send out; send forth; diffuse; emit; distribute; issue; give out |
+| [双胞胎](双胞胎.md) | twins |
+| [混淆](混淆.md) | obscure; confuse |
+| [误判](误判.md) | misjudge |
+| [亚洲象](亚洲象.md) | Asian elephants |
+| [无人机](无人机.md) | drone; unmanned aerial vehicle (UAV) |
+| [快艇](快艇.md) | motorboat; speedboat |
+| [运势](运势.md) | horoscope; one's fortune |
+| [签证](签证.md) | visa; issue a visa |
+| [审美](审美.md) | aesthetic; appreciate beauty |
+| [气馁](气馁.md) | become dejected; be discouraged; lose heart |
+| [滑雪](滑雪.md) | ski |
+| [神舟](神舟.md) | Shenzhou |
+| [地狱](地狱.md) | hell |
+| [婚](婚.md) | marriage; wedding; to marry |
+| [壁虎](壁虎.md) | gecko |
+| [飞船](飞船.md) | spacecraft; spaceship |
+| [全国代表大会](全国代表大会.md) | National Congress |
+| [赚钱](赚钱.md) | make money |
+| [打印机](打印机.md) | printer |
+| [盼](盼.md) | to hope for; to long for; to expect |
+| [毅](毅.md) | firm; resolute; staunch |
+| [筷子](筷子.md) | chopsticks |
+| [汤匙](汤匙.md) | soup spoon; table spoon |
+| [叉](叉.md) | fork |
+| [肖](肖.md) | similar; resembling; to resemble;  to be like |
+| [迎新送旧](迎新送旧.md) | welcome in the new and send off the old |
+| [鹦鹉](鹦鹉.md) | parrot |
+| [兜风](兜风.md) | catch the wind; go for a drive, ride or sail; go for a spin |
+| [战役](战役.md) | battle |
+| [拓展](拓展.md) | expand; spread; develop |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |
@@ -877,6 +997,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [雪崩](雪崩.md) | avalanche |
 | [水龙卷](水龙卷.md) | waterspout |
 | [野火](野火.md) | Wildfire |
+| [山洪](山洪.md) | mountain torrents; flash flood |
+| [泥石流](泥石流.md) | mudslide; landslide; mud-rock flow |
+| [灾害](灾害.md) | calamity; disaster |
 ## People
 |  |  |
 | ----- | :---: |
@@ -896,6 +1019,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [杨紫琼](杨紫琼.md) | Michelle Yeoh |
 | [周受资](周受资.md) | Shou Zi Chew |
 | [黄仁勋](黄仁勋.md) | Jensen Huang |
+| [马英九](马英九.md) | Ma Ying-jeou |
+| [姚明](姚明.md) | Yao Ming |
+| [谷爱凌](谷爱凌.md) | Gu Ailing |
 ## Places and Regions
 |  |  |
 | ----- | :---: |
@@ -903,6 +1029,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [马尼拉](马尼拉.md) | Manila |
 | [槟城](槟城.md) | Penang |
 | [新加坡](新加坡.md) | Singapore |
+| [马来西亚](马来西亚.md) | Malaysia |
 | [峇厘岛](峇厘岛.md) | Bali |
 | [东南亚](东南亚.md) | Southeast Asia |
 | [印度](印度.md) | India |
@@ -916,12 +1043,15 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [哈萨克斯坦](哈萨克斯坦.md) | Kazakhstan |
 | [俄罗斯](俄罗斯.md) | Russia |
 | [莫斯科](莫斯科.md) | Moscow |
+| [西伯利亚](西伯利亚.md) | Siberia |
 | [雷克雅未克](雷克雅未克.md) | Reykjavik |
 | [冰岛](冰岛.md) | Iceland |
 | [格陵兰](格陵兰.md) | Greenland |
 | [苏格兰](苏格兰.md) | Scotland |
 | [黑山](黑山.md) | Montenegro |
 | [卡帕多奇亚](卡帕多奇亚.md) | Cappadocia |
+| [土耳其](土耳其.md) | Türkiye |
+| [米兰](米兰.md) | Milan |
 | [布基纳法索](布基纳法索.md) | Burkina Faso |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
 | [加利福尼亚](加利福尼亚.md) | California |
