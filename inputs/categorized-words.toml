@@ -1640,6 +1640,10 @@ en = "autism"
 hz = "阿斯巴甜"
 en = "aspertame"
 
+[[health]]
+hz = "疟疾"
+en = "malaria"
+
 
 [[energy]]
 hz = "天然气"
@@ -2462,6 +2466,10 @@ en = "Warriors"
 [[entertainment]]
 hz = "美国职业篮球赛"
 en = "NBA"
+
+[[entertainment]]
+hz = "篮球"
+en = "basketball"
 
 [[entertainment]]
 hz = "总决赛"

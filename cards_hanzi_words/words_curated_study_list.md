@@ -377,6 +377,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [世界杯](世界杯.md) | World Cup |
 | [勇士](勇士.md) | Warriors |
 | [美国职业篮球赛](美国职业篮球赛.md) | NBA |
+| [篮球](篮球.md) | basketball |
 | [总决赛](总决赛.md) | finals (sports) |
 | [常规赛](常规赛.md) | regular season (sports) |
 | [明星赛](明星赛.md) | All-Star Game |
@@ -561,6 +562,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [抑郁](抑郁.md) | depressed; depression; despondent; gloomy |
 | [自闭症](自闭症.md) | autism |
 | [阿斯巴甜](阿斯巴甜.md) | aspertame |
+| [疟疾](疟疾.md) | malaria |
 ## Idioms
 |  |  |
 | ----- | :---: |
