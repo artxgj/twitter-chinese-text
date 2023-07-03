@@ -516,10 +516,6 @@ hz = "菊花茶"
 en = "Chrysanthemum tea"
 
 [[dishes-vegetables-drinks]]
-hz = "花茶"
-en = "scented tea"
-
-[[dishes-vegetables-drinks]]
 hz = "啤酒"
 en = "beer"
 
@@ -4128,7 +4124,7 @@ en = "fork"
 
 [[names-words]]
 hz = "肖"
-en = "similar; resembling; to resemble;  to be like"
+en = "similar; resembling; to resemble;  to be like; [regional] to be born in the year of (one of the twelve animals)"
 
 [[names-words]]
 hz = "迎新送旧"
@@ -4149,6 +4145,10 @@ en = "battle"
 [[names-words]]
 hz = "拓展"
 en = "expand; spread; develop"
+
+[[names-words]]
+hz = "牛车水"
+en = "Chinatown"
 
 
 [[people]]
@@ -4226,3 +4226,7 @@ en = "Yao Ming"
 [[people]]
 hz = "谷爱凌"
 en = "Gu Ailing"
+
+[[people]]
+hz = "郭台铭"
+en = "Terry Gou"
