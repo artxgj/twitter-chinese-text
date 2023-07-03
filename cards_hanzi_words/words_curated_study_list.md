@@ -244,7 +244,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [咖啡](咖啡.md) | coffee |
 | [奶茶](奶茶.md) | milk tea |
 | [菊花茶](菊花茶.md) | Chrysanthemum tea |
-| [花茶](花茶.md) | scented tea |
 | [啤酒](啤酒.md) | beer |
 | [葡萄酒](葡萄酒.md) | wine |
 | [清酒](清酒.md) | sake |
@@ -975,12 +974,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [筷子](筷子.md) | chopsticks |
 | [汤匙](汤匙.md) | soup spoon; table spoon |
 | [叉](叉.md) | fork |
-| [肖](肖.md) | similar; resembling; to resemble;  to be like |
+| [肖](肖.md) | similar; resembling; to resemble;  to be like; [regional] to be born in the year of (one of the twelve animals) |
 | [迎新送旧](迎新送旧.md) | welcome in the new and send off the old |
 | [鹦鹉](鹦鹉.md) | parrot |
 | [兜风](兜风.md) | catch the wind; go for a drive, ride or sail; go for a spin |
 | [战役](战役.md) | battle |
 | [拓展](拓展.md) | expand; spread; develop |
+| [牛车水](牛车水.md) | Chinatown |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |
@@ -1024,6 +1024,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [马英九](马英九.md) | Ma Ying-jeou |
 | [姚明](姚明.md) | Yao Ming |
 | [谷爱凌](谷爱凌.md) | Gu Ailing |
+| [郭台铭](郭台铭.md) | Terry Gou |
 ## Places and Regions
 |  |  |
 | ----- | :---: |
