@@ -233,6 +233,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [石榴](石榴.md) | pomegranate |
 | [月饼](月饼.md) | mooncake |
 | [红薯](红薯.md) | sweet potato |
+| [马铃薯](马铃薯.md) | potato; white potato |
 | [槟榔芋](槟榔芋.md) | taro |
 | [爆米花](爆米花.md) | popcorn |
 | [薯条](薯条.md) | french fries; chips |
@@ -447,6 +448,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [春节](春节.md) | Spring Festival; Chinese New Year |
 | [新春](新春.md) | Chinese New Year; the beginning of Spring; the 10 or 20 days following the Lunar New Year's Day |
 | [拜年](拜年.md) | to pay a New Year calll to wish somebody a Happy New Year |
+| [红包](红包.md) | red envelope |
 | [元宵](元宵.md) | Lantern Festival; night of the 15th day of the first lunar month |
 | [春运](春运.md) | (passenger) transport during the Spring Festival period. |
 | [元旦](元旦.md) | New Year's Day |
@@ -512,6 +514,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [口罩](口罩.md) | surgical mask |
 | [核酸检测](核酸检测.md) | nucleic acid testing |
 | [聚合酶链式反应](聚合酶链式反应.md) | polymerase chain reaction |
+| [免疫](免疫.md) | immunity |
 | [群体免疫力](群体免疫力.md) | herd immunity |
 | [心肌炎](心肌炎.md) | myocarditis |
 | [心包炎](心包炎.md) | pericarditis |
@@ -579,6 +582,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [浩浩荡荡](浩浩荡荡.md) | vast and mighty; grandiose; majestic |
 | [万事如意](万事如意.md) | Everything goes as one wishes; to have all one's wishes |
 | [添砖加瓦](添砖加瓦.md) | do what little one can do; do one's bit to help |
+| [明知山有虎偏向虎山行](明知山有虎偏向虎山行.md) | to willfully go towared the mountain although knowing  that it has tigers; to take a risk despite knowing the dangers |
 ## Marine Life
 |  |  |
 | ----- | :---: |
@@ -683,7 +687,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [证据](证据.md) | evidence |
 | [玫瑰花](玫瑰花.md) | rose |
 | [崭新](崭新.md) | brand-new; completely-new |
-| [缓解](缓解.md) | relieve; alleviate |
+| [缓解](缓解.md) | relieve; alleviate; ease |
 | [理会](理会.md) | understand; comprehend; take notice of; pay attention to |
 | [尖端](尖端.md) | most advanced; sophisticated; cutting edge; pointed end |
 | [突破](突破.md) | breakthrough; to make a breakthrough |
@@ -981,6 +985,49 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [战役](战役.md) | battle |
 | [拓展](拓展.md) | expand; spread; develop |
 | [牛车水](牛车水.md) | Chinatown |
+| [蚱蜢](蚱蜢.md) | grasshopper |
+| [蟋蟀](蟋蟀.md) | cricket |
+| [蚕蛹](蚕蛹.md) | silkworm chrysalis |
+| [摄氏](摄氏.md) | celsius |
+| [异常](异常.md) | abnormal; unusual; extremely; exceedingly; particularly |
+| [热浪](热浪.md) | heat wave |
+| [厄尔尼诺](厄尔尼诺.md) | El Niño |
+| [拉尼娜](拉尼娜.md) | La Niña |
+| [装备](装备.md) | equipment; outfit; to equip; to outfit |
+| [紧缺](紧缺.md) | scarce; in short supply |
+| [孤独](孤独.md) | lonely; solitary |
+| [宠物](宠物.md) | pet |
+| [悼念](悼念.md) | mourn; to grieve |
+| [命运](命运.md) | destiny; fate; lot |
+| [判断](判断.md) | judgement; to judge; to determine |
+| [安排](安排.md) | to arrange; to plan; to set up; arrangements; plans |
+| [躺平](躺平.md) | to lie stretched out; to opt out of the rat race |
+| [流行词](流行词.md) | buzzword |
+| [故障](故障.md) | malfunction; breakdown; defect; shortcoming; fault; failure; error; bug (software) |
+| [暑假](暑假.md) | summer vacation |
+| [梅雨季节](梅雨季节.md) | rainy season |
+| [维基解密](维基解密.md) | WikiLeaks |
+| [证实](证实.md) | confirm; verify; bear out |
+| [周遭](周遭.md) | surrounding; nearby;; surrounding area |
+| [阴谋论](阴谋论.md) | conspiracy theory |
+| [摇摆](摇摆.md) | sway; swing; rock; vacillate; wave |
+| [相机](相机.md) | camera; bide one's time |
+| [沟渠](沟渠.md) | ditch; trench |
+| [融雪](融雪.md) | melting snow; a thaw |
+| [聊天](聊天.md) | chat; gossip |
+| [热闹](热闹.md) | lively; bustling; scene of bustle and excitement; thrilling sight |
+| [遗产](遗产.md) | legacy; inheritance; heritage |
+| [清幽](清幽.md) | quiet and secluded; beautiful and secluded |
+| [静谧](静谧.md) | quiet; still; tranquil |
+| [激战](激战.md) | to fight fiercely; fierce battle |
+| [传言](传言.md) | rumor; hearsay |
+| [辞去](辞去.md) | to resign; to quit |
+| [离职](离职.md) | resign; hand in one's resignation; to retire; to leave office |
+| [风味](风味.md) | special flavor; local color (or flavor); taste and style of food |
+| [粮荒](粮荒.md) | food shortage; food scarcity; grain shortage; famine |
+| [缺食](缺食.md) | insufficiently fed |
+| [近视](近视.md) | myopia; nearsighted; shortsighted |
+| [雕像](雕像.md) | statue |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |
@@ -991,6 +1038,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [地震](地震.md) | earthquake |
 | [里氏](里氏.md) | Richter (scale) |
 | [洪灾](洪灾.md) | flood |
+| [洪水](洪水.md) | flood |
 | [水灾](水灾.md) | flood; inundation |
 | [沙尘暴](沙尘暴.md) | sandstorm; dust storm |
 | [暴雨](暴雨.md) | torrential rain; rainstorm |
@@ -1002,6 +1050,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [山洪](山洪.md) | mountain torrents; flash flood |
 | [泥石流](泥石流.md) | mudslide; landslide; mud-rock flow |
 | [灾害](灾害.md) | calamity; disaster |
+| [干旱](干旱.md) | drought |
 ## People
 |  |  |
 | ----- | :---: |

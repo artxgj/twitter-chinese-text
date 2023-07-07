@@ -355,6 +355,10 @@ en = "ramen"
 hz = "乌冬面"
 en = "udon noodles"
 
+[[dishes-vegetables]]
+hz = "云吞面"
+en = "wonton noodles"
+
 [[dishes-vegetables-drinks]]
 hz = "牛肉饭"
 en = "beef rice"
@@ -470,6 +474,10 @@ en = "mooncake"
 [[dishes-vegetables-drinks]]
 hz = "红薯"
 en = "sweet potato"
+
+[[dishes-vegetables-drinks]]
+hz = "马铃薯"
+en = "potato; white potato"
 
 [[dishes-vegetables-drinks]]
 hz = "槟榔芋"
@@ -591,6 +599,10 @@ en = "Everything goes as one wishes; to have all one's wishes"
 [[idioms]]
 hz = "添砖加瓦"
 en = "do what little one can do; do one's bit to help"
+
+[[idioms]]
+hz = "明知山有虎偏向虎山行"
+en = "to willfully go towared the mountain although knowing  that it has tigers; to take a risk despite knowing the dangers"
 
 
 [[economy-markets]]
@@ -1187,6 +1199,10 @@ hz = "拜年"
 en = "to pay a New Year calll to wish somebody a Happy New Year"
 
 [[favorites]]
+hz = "红包"
+en = "red envelope"
+
+[[favorites]]
 hz = "元宵"
 en = "Lantern Festival; night of the 15th day of the first lunar month"
 
@@ -1439,6 +1455,10 @@ en = "nucleic acid testing"
 [[health]]
 hz = "聚合酶链式反应"
 en = "polymerase chain reaction"
+
+[[health]]
+hz = "免疫"
+en = "immunity"
 
 [[health]]
 hz = "群体免疫力"
@@ -2513,6 +2533,10 @@ hz = "洪灾"
 en = "flood"
 
 [[natural-disaster]]
+hz = "洪水"
+en = "flood"
+
+[[natural-disaster]]
 hz = "水灾"
 en = "flood; inundation"
 
@@ -2555,6 +2579,10 @@ en = "mudslide; landslide; mud-rock flow"
 [[natural-disaster]]
 hz = "灾害"
 en = "calamity; disaster"
+
+[[natural-disaster]]
+hz = "干旱"
+en = "drought"
 
 
 [[commodities_agri]]
@@ -2944,7 +2972,7 @@ en = "brand-new; completely-new"
 
 [[names-words]]
 hz = "缓解"
-en = "relieve; alleviate"
+en = "relieve; alleviate; ease"
 
 [[names-words]]
 hz = "理会"
@@ -4149,6 +4177,178 @@ en = "expand; spread; develop"
 [[names-words]]
 hz = "牛车水"
 en = "Chinatown"
+
+[[names-words]]
+hz = "蚱蜢"
+en = "grasshopper"
+
+[[names-words]]
+hz = "蟋蟀"
+en = "cricket"
+
+[[names-words]]
+hz = "蚕蛹"
+en = "silkworm chrysalis"
+
+[[names-words]]
+hz = "摄氏"
+en = "celsius"
+
+[[names-words]]
+hz = "异常"
+en = "abnormal; unusual; extremely; exceedingly; particularly"
+
+[[names-words]]
+hz = "热浪"
+en = "heat wave"
+
+[[names-words]]
+hz = "厄尔尼诺"
+en = "El Niño"
+
+[[names-words]]
+hz = "拉尼娜"
+en = "La Niña"
+
+[[names-words]]
+hz = "装备"
+en = "equipment; outfit; to equip; to outfit"
+
+[[names-words]]
+hz = "紧缺"
+en = "scarce; in short supply"
+
+[[names-words]]
+hz = "孤独"
+en = "lonely; solitary"
+
+[[names-words]]
+hz = "宠物"
+en = "pet"
+
+[[names-words]]
+hz = "悼念"
+en = "mourn; to grieve"
+
+[[names-words]]
+hz = "命运"
+en = "destiny; fate; lot"
+
+[[names-words]]
+hz = "判断"
+en = "judgement; to judge; to determine"
+
+[[names-words]]
+hz = "安排"
+en = "to arrange; to plan; to set up; arrangements; plans"
+
+[[names-words]]
+hz = "躺平"
+en = "to lie stretched out; to opt out of the rat race"
+
+[[names-words]]
+hz = "流行词"
+en = "buzzword"
+
+[[names-words]]
+hz = "故障"
+en = "malfunction; breakdown; defect; shortcoming; fault; failure; error; bug (software)"
+
+[[names-words]]
+hz = "暑假"
+en = "summer vacation"
+
+[[names-words]]
+hz = "梅雨季节"
+en = "rainy season"
+
+[[names-words]]
+hz = "维基解密"
+en = "WikiLeaks"
+
+[[names-words]]
+hz = "证实"
+en = "confirm; verify; bear out"
+
+[[names-words]]
+hz = "周遭"
+en = "surrounding; nearby;; surrounding area"
+
+[[names-words]]
+hz = "阴谋论"
+en = "conspiracy theory"
+
+[[names-words]]
+hz = "摇摆"
+en = "sway; swing; rock; vacillate; wave"
+
+[[names-words]]
+hz = "相机"
+en = "camera; bide one's time"
+
+[[names-words]]
+hz = "沟渠"
+en = "ditch; trench"
+
+[[names-words]]
+hz = "融雪"
+en = "melting snow; a thaw"
+
+[[names-words]]
+hz = "聊天"
+en = "chat; gossip"
+
+[[names-words]]
+hz = "热闹"
+en = "lively; bustling; scene of bustle and excitement; thrilling sight"
+
+[[names-words]]
+hz = "遗产"
+en = "legacy; inheritance; heritage"
+
+[[names-words]]
+hz = "清幽"
+en = "quiet and secluded; beautiful and secluded"
+
+[[names-words]]
+hz = "静谧"
+en = "quiet; still; tranquil"
+
+[[names-words]]
+hz = "激战"
+en = "to fight fiercely; fierce battle"
+
+[[names-words]]
+hz = "传言"
+en = "rumor; hearsay"
+
+[[names-words]]
+hz = "辞去"
+en = "to resign; to quit"
+
+[[names-words]]
+hz = "离职"
+en = "resign; hand in one's resignation; to retire; to leave office"
+
+[[names-words]]
+hz = "风味"
+en = "special flavor; local color (or flavor); taste and style of food"
+
+[[names-words]]
+hz = "粮荒"
+en = "food shortage; food scarcity; grain shortage; famine"
+
+[[names-words]]
+hz = "缺食"
+en = "insufficiently fed"
+
+[[names-words]]
+hz = "近视"
+en = "myopia; nearsighted; shortsighted"
+
+[[names-words]]
+hz = "雕像"
+en = "statue"
 
 
 [[people]]
