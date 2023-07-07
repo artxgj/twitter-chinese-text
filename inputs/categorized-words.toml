@@ -191,7 +191,7 @@ en = "cauliflower; broccoli; calabrese"
 hz = "包菜"
 en = "cabbage"
 
-[[dish-vegeatbles]]
+[[dishes-vegetables-drinks]]
 hz = "香菜"
 en = "coriander; cilantro"
 
@@ -355,7 +355,7 @@ en = "ramen"
 hz = "乌冬面"
 en = "udon noodles"
 
-[[dishes-vegetables]]
+[[dishes-vegetables-drinks]]
 hz = "云吞面"
 en = "wonton noodles"
 
@@ -841,7 +841,7 @@ en = "New York Crude Oil"
 hz = "周转资金"
 en = "working capital; working/revolving fund"
 
-[[economy-msrkets]]
+[[economy-markets]]
 hz = "主权财富基金"
 en = "sovereign wealth fund"
 
@@ -1263,7 +1263,7 @@ en = "Nord Stream"
 hz = "美国太空总署"
 en = "NASA"
 
-[[favorite]]
+[[favorites]]
 hz = "细胞"
 en = "cells"
 
@@ -1922,7 +1922,7 @@ en = "silicon carbide"
 hz = "氮化镓"
 en = "gallium nitride"
 
-[[chemisry]]
+[[chemistry]]
 hz = "氯化钾"
 en = "potassium chloride"
 
@@ -3366,15 +3366,15 @@ en = "reduce; slash; cut (down); whittle down"
 hz = "排放"
 en = "emission; discharge; exhaust (gas etc)"
 
-[[contextual]]
+[[names-words]]
 hz = "寄望"
 en = "to place hopes on"
 
-[[contextual]]
+[[names-words]]
 hz = "转型"
 en = "be in transition; trnansformation"
 
-[[contextual]]
+[[names-words]]
 hz = "谨慎"
 en = "cautious; prudent"
 
@@ -3502,7 +3502,7 @@ en = "solitary hero; a lone fighter; maverick"
 hz = "先锋"
 en = "vanguard; pioneer"
 
-[[contextutal-study]]
+[[names-words]]
 hz = "管道"
 en = "pipeline"
 

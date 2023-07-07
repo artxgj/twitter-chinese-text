@@ -76,6 +76,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氧化钛](氧化钛.md) | titanium oxide |
 | [碳化硅](碳化硅.md) | silicon carbide |
 | [氮化镓](氮化镓.md) | gallium nitride |
+| [氯化钾](氯化钾.md) | potassium chloride |
 | [异丙醇](异丙醇.md) | isopropanol |
 | [尿素](尿素.md) | urea |
 | [钙钛矿](钙钛矿.md) | perovskite |
@@ -164,6 +165,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [榨菜](榨菜.md) | pickled mustard tuber |
 | [椰菜](椰菜.md) | cauliflower; broccoli; calabrese |
 | [包菜](包菜.md) | cabbage |
+| [香菜](香菜.md) | coriander; cilantro |
 | [泡菜](泡菜.md) | kimchi |
 | [油菜籽](油菜籽.md) | rapeseed |
 | [芽菜](芽菜.md) | bean sprouts |
@@ -204,6 +206,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [肉脞面](肉脞面.md) | minced pork noodles |
 | [拉面](拉面.md) | ramen |
 | [乌冬面](乌冬面.md) | udon noodles |
+| [云吞面](云吞面.md) | wonton noodles |
 | [牛肉饭](牛肉饭.md) | beef rice |
 | [咖喱饭](咖喱饭.md) | curry rice |
 | [饺子](饺子.md) | dumplings |
@@ -312,6 +315,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [布伦特原油期](布伦特原油期.md) | Brent Crude Oil Futures |
 | [纽约原油](纽约原油.md) | New York Crude Oil |
 | [周转资金](周转资金.md) | working capital; working/revolving fund |
+| [主权财富基金](主权财富基金.md) | sovereign wealth fund |
 | [利润率](利润率.md) | profit margin |
 | [去美元化](去美元化.md) | dedollarization |
 | [债务上限](债务上限.md) | debt ceiling |
@@ -464,6 +468,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [克隆](克隆.md) | clone |
 | [北溪](北溪.md) | Nord Stream |
 | [美国太空总署](美国太空总署.md) | NASA |
+| [细胞](细胞.md) | cells |
 | [北极](北极.md) | Arctic/North Pole |
 | [南极](南极.md) | Antartica |
 | [涡轮机](涡轮机.md) | turbine |
@@ -786,6 +791,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [攫取](攫取.md) | seize; grab |
 | [削减](削减.md) | reduce; slash; cut (down); whittle down |
 | [排放](排放.md) | emission; discharge; exhaust (gas etc) |
+| [寄望](寄望.md) | to place hopes on |
+| [转型](转型.md) | be in transition; trnansformation |
+| [谨慎](谨慎.md) | cautious; prudent |
 | [规划](规划.md) | plan; program; project |
 | [蒙古包](蒙古包.md) | yurt |
 | [运营商](运营商.md) | operator |
@@ -817,6 +825,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [探讨](探讨.md) | inquire into; explore; investigate; examine |
 | [孤胆英雄](孤胆英雄.md) | solitary hero; a lone fighter; maverick |
 | [先锋](先锋.md) | vanguard; pioneer |
+| [管道](管道.md) | pipeline |
 | [僵局](僵局.md) | deadlock; impasse; stalemate; stand-off |
 | [诉讼](诉讼.md) | lawsuit; litigation |
 | [飙升](飙升.md) | rise rapidly; to soar |
