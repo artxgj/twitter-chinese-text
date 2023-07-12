@@ -595,6 +595,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [添砖加瓦](添砖加瓦.md) | do what little one can do; do one's bit to help |
 | [明知山有虎偏向虎山行](明知山有虎偏向虎山行.md) | to willfully go towared the mountain although knowing  that it has tigers; to take a risk despite knowing the dangers |
 | [三顾茅庐](三顾茅庐.md) | make three calls at the thatched cottage (as Liu Bei did when he sought the aid of Zhuge Liang); make earnest and repeated requests of somebody (to take up a responsible post) |
+| [剑拔弩张](剑拔弩张.md) | with swords drawn and bows bent; at daggers draw; (figurative) a state of mutual hostility |
 ## Marine Life
 |  |  |
 | ----- | :---: |
@@ -1057,7 +1058,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [存储](存储.md) | memory; storage; (computer) to save;  to store up; to stockpile |
 | [糟糕](糟糕.md) | terrible; bad |
 | [核辐射](核辐射.md) | nuclear radiation |
-| [梅奔驰](梅奔驰.md) | Benz (name); Mercedes-Benz |
+| [奔驰](奔驰.md) | Benz (name); Mercedes-Benz |
 | [废水](废水.md) | sewage; waste water; liquid waste |
 | [追捧](追捧.md) | to embrace; favor; acclaim; adulation; high demand |
 | [罚款](罚款.md) | fine; forfeit; penalty |
