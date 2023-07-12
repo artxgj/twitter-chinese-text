@@ -1051,8 +1051,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [寄予](寄予.md) | to place (hope, importance, etc.) on; to express; to show; to give |
 | [厚望](厚望.md) | great expectations |
 | [国际原子能机构](国际原子能机构.md) | International Atomic Energy Agency |
-| [消除](消除.md) | eliminate; dispe; remove; clear up |
-| [疲弱](疲弱.md) | weak; tired; exhuasted; decrease in demand (of commodities) |
+| [消除](消除.md) | eliminate; dispel; remove; clear up |
+| [疲弱](疲弱.md) | weak; tired; exhausted; decrease in demand (of commodities) |
 | [骚乱](骚乱.md) | disturbance; riot; chaos |
 | [存储](存储.md) | memory; storage; (computer) to save;  to store up; to stockpile |
 | [糟糕](糟糕.md) | terrible; bad |
