@@ -604,6 +604,9 @@ en = "do what little one can do; do one's bit to help"
 hz = "明知山有虎偏向虎山行"
 en = "to willfully go towared the mountain although knowing  that it has tigers; to take a risk despite knowing the dangers"
 
+[[idioms]]
+hz = "三顾茅庐"
+en = "make three calls at the thatched cottage (as Liu Bei did when he sought the aid of Zhuge Liang); make earnest and repeated requests of somebody (to take up a responsible post)"
 
 [[economy-markets]]
 hz = "央行"
@@ -716,6 +719,10 @@ en = "costs (production, manufacturing)"
 [[economy-markets]]
 hz = "收入"
 en = "income; revenue; receipts; earnings; proceeds"
+
+[[economy-markets]]
+hz = "营收"
+en = "sales; income; revenue"
 
 [[economy-markets]]
 hz = "订单"
@@ -945,6 +952,14 @@ en = "(of a stock) suspend trading"
 hz = "石油输出国组"
 en = "OPEC"
 
+[[economy-markets]]
+hz = "交易所交易基金"
+en = "exchange-traded fund (ETF)"
+
+[[economy-markets]]
+hz = "营业利润"
+en = "operating profit"
+
 
 [[favorites]]
 hz = "供应链"
@@ -1021,6 +1036,10 @@ en = "microwave"
 [[favorites]]
 hz = "滤波器"
 en = "wave filter"
+
+[[favorites]]
+hz = "固态"
+en = "solid state"
 
 [[favorites]]
 hz = "光合作用"
@@ -1179,8 +1198,8 @@ hz = "自动化"
 en = "automation; automated"
 
 [[favorites]]
-hz = "验证试验"
-en = "verification test; demonstration test"
+hz = "验证"
+en = "verification"
 
 [[favorites]]
 hz = "农历新年"
@@ -1342,6 +1361,10 @@ en = "owl"
 [[favorites]]
 hz = "考拉"
 en = "koala"
+
+[[favorites]]
+hz = "拐点"
+en = "inflection point; break point"
 
 
 [[health]]
@@ -1724,6 +1747,10 @@ en = "ozone"
 [[energy]]
 hz = "污染"
 en = "pollution"
+
+[[energy]]
+hz = "页岩"
+en = "shale"
 
 
 [[chemistry]]
@@ -3176,7 +3203,7 @@ en = "machinery"
 
 [[names-words]]
 hz = "气温"
-en = "temperature"
+en = "air (or atmospheric) temperature"
 
 [[names-words]]
 hz = "紧缩"
@@ -3376,7 +3403,7 @@ en = "be in transition; trnansformation"
 
 [[names-words]]
 hz = "谨慎"
-en = "cautious; prudent"
+en = "cautious; prudent; careful; circumspect"
 
 [[names-words]]
 hz = "规划"
@@ -3532,7 +3559,7 @@ en = "bow"
 
 [[names-words]]
 hz = "启动"
-en = "start (a machine); enforce; implement; open up; explore"
+en = "to start (a machine); (fig.) to set in motion; to launch (an operation); to activate (a plan)"
 
 [[names-words]]
 hz = "阐述"
@@ -4349,6 +4376,86 @@ en = "myopia; nearsighted; shortsighted"
 [[names-words]]
 hz = "雕像"
 en = "statue"
+
+[[names-words]]
+hz = "因素"
+en = "factor; element"
+
+[[names-words]]
+hz = "伴随"
+en = "accompany; follow; concomitant"
+
+[[names-words]]
+hz = "亲密"
+en = "intimate; close"
+
+[[names-words]]
+hz = "暴扣"
+en = "slam dunk (basketball)"
+
+[[names-words]]
+hz = "寄予"
+en = "to place (hope, importance, etc.) on; to express; to show; to give"
+
+[[names-words]]
+hz = "厚望"
+en = "great expectations"
+
+[[names-words]]
+hz = "国际原子能机构"
+en = "International Atomic Energy Agency"
+
+[[names-words]]
+hz = "消除"
+en = "eliminate; dispe; remove; clear up"
+
+[[names-words]]
+hz = "疲弱"
+en = "weak; tired; exhuasted; decrease in demand (of commodities)"
+
+[[names-words]]
+hz = "骚乱"
+en = "disturbance; riot; chaos"
+
+[[names-words]]
+hz = "存储"
+en = "memory; storage; (computer) to save;  to store up; to stockpile"
+
+[[names-words]]
+hz = "糟糕"
+en = "terrible; bad"
+
+[[names-words]]
+hz = "核辐射"
+en = "nuclear radiation"
+
+[[names-words]]
+hz = "梅奔驰"
+en = "Benz (name); Mercedes-Benz"
+
+[[names-words]]
+hz = "废水"
+en = "sewage; waste water; liquid waste"
+
+[[names-words]]
+hz = "追捧"
+en = "to embrace; favor; acclaim; adulation; high demand"
+
+[[names-words]]
+hz = "罚款"
+en = "fine; forfeit; penalty"
+
+[[names-words]]
+hz = "乐观"
+en = "optimistic; hopeful; sanguine"
+
+[[names-words]]
+hz = "难民"
+en = "refugee"
+
+[[names-words]]
+hz = "管制"
+en = "to control; to restrict; put (a criminal, etc) under supervision"
 
 
 [[people]]

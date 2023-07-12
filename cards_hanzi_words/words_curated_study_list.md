@@ -284,6 +284,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [盈利](盈利.md) | profit |
 | [成本](成本.md) | costs (production, manufacturing) |
 | [收入](收入.md) | income; revenue; receipts; earnings; proceeds |
+| [营收](营收.md) | sales; income; revenue |
 | [订单](订单.md) | order for goods; order form |
 | [税](税.md) | tax; duty |
 | [税收](税收.md) | tax revenue |
@@ -341,6 +342,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [崩盘](崩盘.md) | (stock market) crash; collapse |
 | [停牌](停牌.md) | (of a stock) suspend trading |
 | [石油输出国组](石油输出国组.md) | OPEC |
+| [交易所交易基金](交易所交易基金.md) | exchange-traded fund (ETF) |
+| [营业利润](营业利润.md) | operating profit |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -360,6 +363,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [可再生能源](可再生能源.md) | renewable energy |
 | [臭氧](臭氧.md) | ozone |
 | [污染](污染.md) | pollution |
+| [页岩](页岩.md) | shale |
 ## Entertainment
 |  |  |
 | ----- | :---: |
@@ -408,6 +412,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [波长](波长.md) | wavelength |
 | [微波](微波.md) | microwave |
 | [滤波器](滤波器.md) | wave filter |
+| [固态](固态.md) | solid state |
 | [光合作用](光合作用.md) | photosynthesis |
 | [光子](光子.md) | photon |
 | [光伏](光伏.md) | photovoltaic |
@@ -447,7 +452,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [熔岩](熔岩.md) | lava |
 | [海水淡化](海水淡化.md) | seawater desalination |
 | [自动化](自动化.md) | automation; automated |
-| [验证试验](验证试验.md) | verification test; demonstration test |
+| [验证](验证.md) | verification |
 | [农历新年](农历新年.md) | Chinese/Lunar New Year |
 | [春节](春节.md) | Spring Festival; Chinese New Year |
 | [新春](新春.md) | Chinese New Year; the beginning of Spring; the 10 or 20 days following the Lunar New Year's Day |
@@ -488,6 +493,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [水族馆](水族馆.md) | aquarium |
 | [猫头鹰](猫头鹰.md) | owl |
 | [考拉](考拉.md) | koala |
+| [拐点](拐点.md) | inflection point; break point |
 ## Health
 |  |  |
 | ----- | :---: |
@@ -588,6 +594,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [万事如意](万事如意.md) | Everything goes as one wishes; to have all one's wishes |
 | [添砖加瓦](添砖加瓦.md) | do what little one can do; do one's bit to help |
 | [明知山有虎偏向虎山行](明知山有虎偏向虎山行.md) | to willfully go towared the mountain although knowing  that it has tigers; to take a risk despite knowing the dangers |
+| [三顾茅庐](三顾茅庐.md) | make three calls at the thatched cottage (as Liu Bei did when he sought the aid of Zhuge Liang); make earnest and repeated requests of somebody (to take up a responsible post) |
 ## Marine Life
 |  |  |
 | ----- | :---: |
@@ -743,7 +750,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [签署](签署.md) | sign |
 | [支流](支流.md) | tributary |
 | [机械](机械.md) | machinery |
-| [气温](气温.md) | temperature |
+| [气温](气温.md) | air (or atmospheric) temperature |
 | [紧缩](紧缩.md) | tighten |
 | [悲观](悲观.md) | pessimistic |
 | [此举](此举.md) | this measure/action/move |
@@ -793,7 +800,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [排放](排放.md) | emission; discharge; exhaust (gas etc) |
 | [寄望](寄望.md) | to place hopes on |
 | [转型](转型.md) | be in transition; trnansformation |
-| [谨慎](谨慎.md) | cautious; prudent |
+| [谨慎](谨慎.md) | cautious; prudent; careful; circumspect |
 | [规划](规划.md) | plan; program; project |
 | [蒙古包](蒙古包.md) | yurt |
 | [运营商](运营商.md) | operator |
@@ -832,7 +839,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [兴奋剂](兴奋剂.md) | stimulant; doping (in athletics) |
 | [盟友](盟友.md) | ally; sworn friend; allied country |
 | [鞠躬](鞠躬.md) | bow |
-| [启动](启动.md) | start (a machine); enforce; implement; open up; explore |
+| [启动](启动.md) | to start (a machine); (fig.) to set in motion; to launch (an operation); to activate (a plan) |
 | [阐述](阐述.md) | expound; elaborate; set forth |
 | [追随](追随.md) | follow; tread on the heels of |
 | [漏洞](漏洞.md) | leak; hole; gap; loophole |
@@ -1037,6 +1044,26 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [缺食](缺食.md) | insufficiently fed |
 | [近视](近视.md) | myopia; nearsighted; shortsighted |
 | [雕像](雕像.md) | statue |
+| [因素](因素.md) | factor; element |
+| [伴随](伴随.md) | accompany; follow; concomitant |
+| [亲密](亲密.md) | intimate; close |
+| [暴扣](暴扣.md) | slam dunk (basketball) |
+| [寄予](寄予.md) | to place (hope, importance, etc.) on; to express; to show; to give |
+| [厚望](厚望.md) | great expectations |
+| [国际原子能机构](国际原子能机构.md) | International Atomic Energy Agency |
+| [消除](消除.md) | eliminate; dispe; remove; clear up |
+| [疲弱](疲弱.md) | weak; tired; exhuasted; decrease in demand (of commodities) |
+| [骚乱](骚乱.md) | disturbance; riot; chaos |
+| [存储](存储.md) | memory; storage; (computer) to save;  to store up; to stockpile |
+| [糟糕](糟糕.md) | terrible; bad |
+| [核辐射](核辐射.md) | nuclear radiation |
+| [梅奔驰](梅奔驰.md) | Benz (name); Mercedes-Benz |
+| [废水](废水.md) | sewage; waste water; liquid waste |
+| [追捧](追捧.md) | to embrace; favor; acclaim; adulation; high demand |
+| [罚款](罚款.md) | fine; forfeit; penalty |
+| [乐观](乐观.md) | optimistic; hopeful; sanguine |
+| [难民](难民.md) | refugee |
+| [管制](管制.md) | to control; to restrict; put (a criminal, etc) under supervision |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |
