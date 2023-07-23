@@ -485,7 +485,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [反应堆](反应堆.md) | reactor |
 | [考古学家](考古学家.md) | archaeologist |
 | [变形虫](变形虫.md) | amoeba |
-| [鬣蜥](鬣蜥.md) | Iguana |
 | [保密协议](保密协议.md) | non-disclosure agreement |
 | [曲线](曲线.md) | curve |
 | [设计](设计.md) | design |
@@ -496,9 +495,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冰山](冰山.md) | iceberg |
 | [同步轨道](同步轨道.md) | synchronous orbit |
 | [水族馆](水族馆.md) | aquarium |
+| [拐点](拐点.md) | inflection point; break point |
 | [猫头鹰](猫头鹰.md) | owl |
 | [考拉](考拉.md) | koala |
-| [拐点](拐点.md) | inflection point; break point |
 ## Health
 |  |  |
 | ----- | :---: |
@@ -603,11 +602,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [明知山有虎偏向虎山行](明知山有虎偏向虎山行.md) | to willfully go towared the mountain although knowing  that it has tigers; to take a risk despite knowing the dangers |
 | [三顾茅庐](三顾茅庐.md) | make three calls at the thatched cottage (as Liu Bei did when he sought the aid of Zhuge Liang); make earnest and repeated requests of somebody (to take up a responsible post) |
 | [剑拔弩张](剑拔弩张.md) | with swords drawn and bows bent; at daggers draw; (figurative) a state of mutual hostility |
-## Marine Life
+## Kingdom Animalia
 |  |  |
 | ----- | :---: |
 | [海胆](海胆.md) | sea urchin |
-| [海藻](海藻.md) | seaweed |
 | [海狮](海狮.md) | sea lion |
 | [海豚](海豚.md) | dolphin |
 | [海豹](海豹.md) | seal |
@@ -616,12 +614,15 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [黑露脊鲸](黑露脊鲸.md) | black right whale |
 | [章鱼](章鱼.md) | octopus |
 | [企鹅](企鹅.md) | penguin |
-| [堡礁](堡礁.md) | barrier reef |
 | [鳄鱼](鳄鱼.md) | crocodile; alligator |
 | [珊瑚](珊瑚.md) | coral |
+| [孔雀](孔雀.md) | peacock |
+| [蝗虫](蝗虫.md) | locust |
+| [鬣蜥](鬣蜥.md) | Iguana |
 ## Names/Words
 |  |  |
 | ----- | :---: |
+| [熊猫](熊猫.md) | panda |
 | [盐](盐.md) | salt |
 | [分子](分子.md) | molecule; numerator (mathematics); member; element; part |
 | [酶](酶.md) | enzyme; ferment |
@@ -877,7 +878,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [火星](火星.md) | Mars |
 | [土星](土星.md) | Saturn |
 | [木星](木星.md) | Jupiter |
-| [专属](专属.md) | exclusive; proprietary; preivate; personal |
+| [堡礁](堡礁.md) | barrier reef |
+| [海藻](海藻.md) | seaweed |
+| [专属](专属.md) | exclusive; proprietary; private; personal |
 | [造势](造势.md) | to boost support or interest; to campaign; to promote |
 | [特殊](特殊.md) | special; particular; unusual; extraordinary |
 | [金牛](金牛.md) | Taurus; golden ox |
@@ -889,7 +892,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [过剩](过剩.md) | surplus |
 | [婚外情](婚外情.md) | extra-marital affair |
 | [局势](局势.md) | situation; state (of affairs) |
-| [熊猫](熊猫.md) | panda |
 | [热卖](热卖.md) | sell well; be in great demand; sell like hot cakes |
 | [浮标](浮标.md) | buoy |
 | [指尖](指尖.md) | fingertips |
@@ -941,7 +943,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [闪退](闪退.md) | (of a mobile app) to crash on startup; to crash |
 | [确认](确认.md) | affirm; confirm; acknowledge |
 | [下滑](下滑.md) | glide (or slide) down; reduce; decline |
-| [蝗虫](蝗虫.md) | locust |
 | [黑压压](黑压压.md) | (of a mass) dense and dark |
 | [漫天](漫天.md) | filling the whole sky; all over the sky |
 | [会晤](会晤.md) | to meet; meeting |
@@ -964,7 +965,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [两岸](两岸.md) | both sides of a strait; banks of river; cross-straits; bilateral |
 | [精神鸦片](精神鸦片.md) | mental opiate; mind-dulling |
 | [魏玛共和国](魏玛共和国.md) | Weimar Republic |
-| [孔雀](孔雀.md) | peacock |
 | [横空出世](横空出世.md) | (of mountains) tower into the blue; reach to the clouds |
 | [干燥](干燥.md) | dry; arid; dull; uninteresting |
 | [摄影](摄影.md) | take a photograph; shoot a film; film; photography |
@@ -1014,7 +1014,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [蚕蛹](蚕蛹.md) | silkworm chrysalis |
 | [摄氏](摄氏.md) | celsius |
 | [异常](异常.md) | abnormal; unusual; extremely; exceedingly; particularly |
-| [热浪](热浪.md) | heat wave |
 | [厄尔尼诺](厄尔尼诺.md) | El Niño |
 | [拉尼娜](拉尼娜.md) | La Niña |
 | [装备](装备.md) | equipment; outfit; to equip; to outfit |
@@ -1066,6 +1065,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [糟糕](糟糕.md) | terrible; bad |
 | [核辐射](核辐射.md) | nuclear radiation |
 | [奔驰](奔驰.md) | Benz (name); Mercedes-Benz |
+| [布加迪](布加迪.md) | Bugatti |
 | [废水](废水.md) | sewage; waste water; liquid waste |
 | [追捧](追捧.md) | to embrace; favor; acclaim; adulation; high demand |
 | [罚款](罚款.md) | fine; forfeit; penalty |
@@ -1074,7 +1074,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [管制](管制.md) | to control; to restrict; put (a criminal, etc) under supervision |
 | [神舟](神舟.md) | Chinese spacecraft name |
 | [阶层](阶层.md) | social class; social stratum |
-| [炎热](炎热.md) | blistering hot; sizzling hot (weather) |
 | [缺席](缺席.md) | absent (from a meeting, etc.) |
 | [招聘](招聘.md) | invite applications for a job; engage (by public notice, advertisements, etc.) |
 | [包裹](包裹.md) | bundle; package; parce; wrap up; bind up |
@@ -1098,7 +1097,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [审查制度](审查制度.md) | censorship |
 | [软着陆](软着陆.md) | soft landing |
 | [突显](突显.md) | stand out; clearly show; be conspicuous; be in the limelight |
-## Natural Disasters
+| [坍塌](坍塌.md) | cave in; collapse |
+| [祛魅](祛魅.md) | disenchantment |
+| [故宫](故宫.md) | Imperial Palace; Forbidden City; palace of a former dynasty |
+| [排水](排水.md) | drain off water; discharge water |
+| [空服员](空服员.md) | flight attendant; cabin crew |
+## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
 | [台风](台风.md) | typhoon |
@@ -1121,6 +1125,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [泥石流](泥石流.md) | mudslide; landslide; mud-rock flow |
 | [灾害](灾害.md) | calamity; disaster |
 | [干旱](干旱.md) | drought |
+| [炎热](炎热.md) | blistering hot; sizzling hot (weather) |
+| [热浪](热浪.md) | heat wave |
 ## People
 |  |  |
 | ----- | :---: |
@@ -1149,6 +1155,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [菲律宾](菲律宾.md) | Philippines |
 | [马尼拉](马尼拉.md) | Manila |
+| [厦门](厦门.md) | Xiamen |
+| [泉州](泉州.md) | Quanzhou, prefecture-level city in Fujian |
+| [福建](福建.md) | Hokkien (Fujian in Mandarin) |
+| [閩](閩.md) | short name for Fujian Province |
+| [闽南](闽南.md) | Southern Fujian |
 | [新加坡](新加坡.md) | Singapore |
 | [槟城](槟城.md) | Penang |
 | [马来西亚](马来西亚.md) | Malaysia |
@@ -1156,8 +1167,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [东南亚](东南亚.md) | Southeast Asia |
 | [印度](印度.md) | India |
 | [斯里兰卡](斯里兰卡.md) | Sri Lanka |
-| [福建](福建.md) | Hokkien (Fujian in Mandarin) |
-| [厦门](厦门.md) | Xiamen |
 | [北海道](北海道.md) | Hokkaido |
 | [冲绳](冲绳.md) | Okinawa |
 | [广岛](广岛.md) | Hiroshima |
@@ -1175,6 +1184,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [黑山](黑山.md) | Montenegro |
 | [卡帕多奇亚](卡帕多奇亚.md) | Cappadocia |
 | [土耳其](土耳其.md) | Türkiye |
+| [希腊](希腊.md) | Greece |
 | [米兰](米兰.md) | Milan |
 | [布基纳法索](布基纳法索.md) | Burkina Faso |
 | [撒哈拉](撒哈拉.md) | Sahara |

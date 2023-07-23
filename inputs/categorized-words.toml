@@ -8,12 +8,12 @@ energy = "Energy"
 people = "People"
 names-words = "Names/Words"
 favorites = "Favorites"
-marine = "Marine Life"
+kingdom-animalia = "Kingdom Animalia"
 dishes-vegetables-drinks = "菜 Dishes/Vegetables, Food and Drinks"
 places = "Places and Regions"
 computing = "Computing/Digital"
 entertainment = "Entertainment"
-natural-disaster = "Natural Disasters"
+natural-disaster-climate = "Natural Disasters/Climate"
 commodities_agri = "Commodities (Agriculture)"
 idioms = "Idioms"
 capital-markets = "Capital Markets/Venture Capital Terms"
@@ -1270,7 +1270,6 @@ en = "Pure Brightness Festival or Tomb Sweeping Day; clear and bright; sober and
 hz = "端午"
 en = "Dragon Boat Festival (5th day of 5th Lunar month)"
 
-
 [[favorites]]
 hz = "曙光"
 en = "first light of morning; dawn"
@@ -1332,10 +1331,6 @@ hz = "变形虫"
 en = "amoeba"
 
 [[favorites]]
-hz = "鬣蜥"
-en = "Iguana"
-
-[[favorites]]
 hz = "保密协议"
 en = "non-disclosure agreement"
 
@@ -1374,14 +1369,6 @@ en = "synchronous orbit"
 [[favorites]]
 hz = "水族馆"
 en = "aquarium"
-
-[[favorites]]
-hz = "猫头鹰"
-en = "owl"
-
-[[favorites]]
-hz = "考拉"
-en = "koala"
 
 [[favorites]]
 hz = "拐点"
@@ -2030,58 +2017,74 @@ en = "ethylene oxide"
 hz = "树脂"
 en = "resin"
 
-[[marine]]
+
+[[kingdom-animalia]]
 hz = "海胆"
 en = "sea urchin"
 
-[[marine]]
-hz = "海藻"
-en = "seaweed"
-
-[[marine]]
+[[kingdom-animalia]]
 hz = "海狮"
 en = "sea lion"
 
-[[marine]]
+[[kingdom-animalia]]
 hz = "海豚"
 en = "dolphin"
 
-[[marine]]
+[[kingdom-animalia]]
 hz = "海豹"
 en = "seal"
 
-[[marine]]
+[[kingdom-animalia]]
 hz = "鲨鱼"
 en = "shark"
 
-[[marine]]
+[[kingdom-animalia]]
 hz = "鲸"
 en = "whale"
 
-[[marine]]
+[[kingdom-animalia]]
 hz = "黑露脊鲸"
 en = "black right whale"
 
-[[marine]]
+[[kingdom-animalia]]
 hz = "章鱼"
 en = "octopus"
 
-[[marine]]
+[[kingdom-animalia]]
 hz = "企鹅"
 en = "penguin"
 
+[[favorites]]
+hz = "猫头鹰"
+en = "owl"
 
-[[marine]]
-hz = "堡礁"
-en = "barrier reef"
+[[favorites]]
+hz = "考拉"
+en = "koala"
 
-[[marine]]
+[[names-words]]
+hz = "熊猫"
+en = "panda"
+
+[[kingdom-animalia]]
 hz = "鳄鱼"
 en = "crocodile; alligator"
 
-[[marine]]
+[[kingdom-animalia]]
 hz = "珊瑚"
 en = "coral"
+
+[[kingdom-animalia]]
+hz = "孔雀"
+en = "peacock"
+
+[[kingdom-animalia]]
+hz = "蝗虫"
+en = "locust"
+
+[[kingdom-animalia]]
+hz = "鬣蜥"
+en = "Iguana"
 
 
 [[places]]
@@ -2091,6 +2094,26 @@ en = "Philippines"
 [[places]]
 hz = "马尼拉"
 en = "Manila"
+
+[[places]]
+hz = "厦门"
+en = "Xiamen"
+
+[[places]]
+hz = "泉州"
+en = "Quanzhou, prefecture-level city in Fujian"
+
+[[places]]
+hz = "福建"
+en = "Hokkien (Fujian in Mandarin)"
+
+[[places]]
+hz = "閩"
+en = "short name for Fujian Province"
+
+[[places]]
+hz = "闽南"
+en = "Southern Fujian"
 
 [[places]]
 hz = "新加坡"
@@ -2119,14 +2142,6 @@ en = "India"
 [[places]]
 hz = "斯里兰卡"
 en = "Sri Lanka"
-
-[[places]]
-hz = "福建"
-en = "Hokkien (Fujian in Mandarin)"
-
-[[places]]
-hz = "厦门"
-en = "Xiamen"
 
 [[places]]
 hz = "北海道"
@@ -2195,6 +2210,10 @@ en = "Cappadocia"
 [[places]]
 hz = "土耳其"
 en = "Türkiye"
+
+[[places]]
+hz = "希腊"
+en = "Greece"
 
 [[places]]
 hz = "米兰"
@@ -2576,85 +2595,93 @@ hz = "奥运"
 en = "Olympic Games; Olympiad"
 
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "台风"
 en = "typhoon"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "龙卷风"
 en = "tornado"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "飓风"
 en = "hurricane"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "海啸"
 en = "tsunami"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "地震"
 en = "earthquake"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "里氏"
 en = "Richter (scale)"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "洪灾"
 en = "flood"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "洪水"
 en = "flood"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "水灾"
 en = "flood; inundation"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "沙尘暴"
 en = "sandstorm; dust storm"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "暴雨"
 en = "torrential rain; rainstorm"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "喷发"
 en = "eruption"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "暴风雪"
 en = "blizzard"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "雪崩"
 en = "avalanche"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "水龙卷"
 en = "waterspout"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "野火"
 en = "Wildfire"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "山洪"
 en = "mountain torrents; flash flood"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "泥石流"
 en = "mudslide; landslide; mud-rock flow"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "灾害"
 en = "calamity; disaster"
 
-[[natural-disaster]]
+[[natural-disaster-climate]]
 hz = "干旱"
 en = "drought"
+
+[[natural-disaster-climate]]
+hz = "炎热"
+en = "blistering hot; sizzling hot (weather)"
+
+[[natural-disaster-climate]]
+hz = "热浪"
+en = "heat wave"
 
 
 [[commodities_agri]]
@@ -3723,8 +3750,17 @@ hz = "木星"
 en = "Jupiter"
 
 [[names-words]]
+hz = "堡礁"
+en = "barrier reef"
+
+[[names-words]]
+hz = "海藻"
+en = "seaweed"
+
+
+[[names-words]]
 hz = "专属"
-en = "exclusive; proprietary; preivate; personal"
+en = "exclusive; proprietary; private; personal"
 
 [[names-words]]
 hz = "造势"
@@ -3769,10 +3805,6 @@ en = "extra-marital affair"
 [[names-words]]
 hz = "局势"
 en = "situation; state (of affairs)"
-
-[[names-words]]
-hz = "熊猫"
-en = "panda"
 
 [[names-words]]
 hz = "热卖"
@@ -3979,10 +4011,6 @@ hz = "下滑"
 en = "glide (or slide) down; reduce; decline"
 
 [[names-words]]
-hz = "蝗虫"
-en = "locust"
-
-[[names-words]]
 hz = "黑压压"
 en = "(of a mass) dense and dark"
 
@@ -4069,10 +4097,6 @@ en = "mental opiate; mind-dulling"
 [[names-words]]
 hz = "魏玛共和国"
 en = "Weimar Republic"
-
-[[names-words]]
-hz = "孔雀"
-en = "peacock"
 
 [[names-words]]
 hz = "横空出世"
@@ -4269,10 +4293,6 @@ en = "celsius"
 [[names-words]]
 hz = "异常"
 en = "abnormal; unusual; extremely; exceedingly; particularly"
-
-[[names-words]]
-hz = "热浪"
-en = "heat wave"
 
 [[names-words]]
 hz = "厄尔尼诺"
@@ -4479,6 +4499,10 @@ hz = "奔驰"
 en = "Benz (name); Mercedes-Benz"
 
 [[names-words]]
+hz = "布加迪"
+en = "Bugatti"
+
+[[names-words]]
 hz = "废水"
 en = "sewage; waste water; liquid waste"
 
@@ -4509,10 +4533,6 @@ en = "Chinese spacecraft name"
 [[names-words]]
 hz = "阶层"
 en = "social class; social stratum"
-
-[[names-words]]
-hz = "炎热"
-en = "blistering hot; sizzling hot (weather)"
 
 [[names-words]]
 hz = "缺席"
@@ -4609,6 +4629,26 @@ en = "soft landing"
 [[names-words]]
 hz = "突显"
 en = "stand out; clearly show; be conspicuous; be in the limelight"
+
+[[names-words]]
+hz = "坍塌"
+en = "cave in; collapse"
+
+[[names-words]]
+hz = "祛魅"
+en = "disenchantment"
+
+[[names-words]]
+hz = "故宫"
+en = "Imperial Palace; Forbidden City; palace of a former dynasty"
+
+[[names-words]]
+hz = "排水"
+en = "drain off water; discharge water"
+
+[[names-words]]
+hz = "空服员"
+en = "flight attendant; cabin crew"
 
 
 [[people]]
