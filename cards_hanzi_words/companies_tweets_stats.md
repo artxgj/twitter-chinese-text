@@ -10,6 +10,7 @@
 | [应用材料](应用材料.md) | Applied Materials | AMAT | 6 |
 | [朝日](朝日.md) | Asahi Group Holdings Ltd. | ASBRF | 4 |
 | [亚瑟士](亚瑟士.md) | ASICS | ASCCY | 15 |
+| [阿斯麦](阿斯麦.md) | ASML | ASML | 12 |
 | [美国银行](美国银行.md) | Bank of America | BAC | 20 |
 | [伯克希尔哈撒韦公司](伯克希尔哈撒韦公司.md) | Berkshire Hathaway | BRK.A | 23 |
 | [币安](币安.md) | Binance | (private) | 33 |
@@ -29,6 +30,7 @@
 | [诚品](诚品.md) | Eslite | 2926 (TPEX) | 2 |
 | [雅诗兰黛](雅诗兰黛.md) | Estee Lauder | EL | 2 |
 | [迅销](迅销.md) | Fast Retailing Co. Ltd. | FRCOY | 17 |
+| [法拉利](法拉利.md) | Ferrari | RACE | 3 |
 | [富达国际](富达国际.md) | Fidelity International | (private) | 3 |
 | [富士胶片](富士胶片.md) | Fujifilm | FUJIY/FUJIF | 12 |
 | [富士康](富士康.md) | FoxConn | (see Hon Hai) | 66 |
@@ -85,6 +87,7 @@
 | [夏普](夏普.md) | Sharp | SHCAY | 19 |
 | [希音](希音.md) | Shein | private | 4 |
 | [资生堂](资生堂.md) | Shiseido | SSDOY | 9 |
+| [西门子](西门子.md) | Siemens | SIEGY | 6 |
 | [希克斯](希克斯.md) | SIIX | Tokyo Stock Exchange | 1 |
 | [软银](软银.md) | SoftBank | SFTBF | 61 |
 | [索尼](索尼.md) | SONY | SONY | 149 |

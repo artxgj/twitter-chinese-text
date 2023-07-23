@@ -93,6 +93,10 @@ en = "investment orientation"
 hz = "筹集"
 en = "to collect; to raise (funds)"
 
+[[capital-markets]]
+hz = "套利"
+en = "arbitrage"
+
 
 [[currency-money-tech]]
 hz = "货币"
@@ -161,6 +165,14 @@ en = "mobile payment"
 [[currency-money-tech]]
 hz = "钞票"
 en = "banknote; paper money; bill"
+
+[[currency-money-tech]]
+hz = "虚拟资产"
+en = "virtual assets"
+
+[[currency-money-tech]]
+hz = "储备货币"
+en = "reserve currency"
 
 
 [[dishes-vegetables-drinks]]
@@ -840,6 +852,10 @@ en = "Standard and Poor (S&P)"
 [[economy-markets]]
 hz = "标普"
 en = "S&P"
+
+[[economy-markets]]
+hz = "道琼斯指数"
+en = "Dow Jones Index"
 
 [[economy-markets]]
 hz = "布伦特原油期"
@@ -1669,6 +1685,10 @@ hz = "慢性疼痛"
 en = "chronic pain"
 
 [[health]]
+hz = "慢性疾病"
+en = "chronic illness; chronic disease"
+
+[[health]]
 hz = "心血管疾病"
 en = "cardiovascular disease"
 
@@ -1687,6 +1707,10 @@ en = "aspertame"
 [[health]]
 hz = "疟疾"
 en = "malaria"
+
+[[health]]
+hz = "咳嗽"
+en = "cough"
 
 
 [[energy]]
@@ -2069,12 +2093,12 @@ hz = "马尼拉"
 en = "Manila"
 
 [[places]]
-hz = "槟城"
-en = "Penang"
-
-[[places]]
 hz = "新加坡"
 en = "Singapore"
+
+[[places]]
+hz = "槟城"
+en = "Penang"
 
 [[places]]
 hz = "马来西亚"
@@ -2137,6 +2161,14 @@ hz = "西伯利亚"
 en = "Siberia"
 
 [[places]]
+hz = "克里米亚"
+en = "Crimea"
+
+[[places]]
+hz = "白罗斯"
+en = "Belarus"
+
+[[places]]
 hz = "雷克雅未克"
 en = "Reykjavik"
 
@@ -2171,6 +2203,10 @@ en = "Milan"
 [[places]]
 hz = "布基纳法索"
 en = "Burkina Faso"
+
+[[places]]
+hz = "撒哈拉"
+en = "Sahara"
 
 [[places]]
 hz = "加拉帕戈斯群岛"
@@ -2393,6 +2429,10 @@ en = "Moore’s Law"
 [[computing]]
 hz = "堆叠"
 en = "stack (as in 3D stacking)"
+
+[[computing]]
+hz = "先进封装"
+en = "advanced packaging"
 
 [[computing]]
 hz = "后工序"
@@ -4461,6 +4501,114 @@ en = "refugee"
 [[names-words]]
 hz = "管制"
 en = "to control; to restrict; put (a criminal, etc) under supervision"
+
+[[names-words]]
+hz = "神舟"
+en = "Chinese spacecraft name"
+
+[[names-words]]
+hz = "阶层"
+en = "social class; social stratum"
+
+[[names-words]]
+hz = "炎热"
+en = "blistering hot; sizzling hot (weather)"
+
+[[names-words]]
+hz = "缺席"
+en = "absent (from a meeting, etc.)"
+
+[[names-words]]
+hz = "招聘"
+en = "invite applications for a job; engage (by public notice, advertisements, etc.)"
+
+[[names-words]]
+hz = "包裹"
+en = "bundle; package; parce; wrap up; bind up"
+
+[[names-words]]
+hz = "撤离"
+en = "withdraw from; leave; evacuate"
+
+[[names-words]]
+hz = "侵略"
+en = "invade; commit aggression; encroachment"
+
+[[names-words]]
+hz = "私营部门"
+en = "private sector"
+
+[[names-words]]
+hz = "遗憾"
+en = "regret; sorrow; remorse; regretful; sorry"
+
+[[names-words]]
+hz = "扩散"
+en = "spread; diffuse; scatter; proliferate; diffusion"
+
+[[names-wrods]]
+hz = "头晕"
+en = "feel dizzy; be giddy"
+
+[[names-words]]
+hz = "倦怠"
+en = "languid; slugglish; tired; worn out"
+
+[[names-words]]
+hz = "驳斥"
+en = "refute; rebut; contradict"
+
+[[names-words]]
+hz = "引述"
+en = "quote somebody's words; quote from somebody's speech"
+
+[[names-words]]
+hz = "奢侈品"
+en = "luxury goods; luxuries"
+
+[[names-words]]
+hz = "超音波"
+en = "ultrasound"
+
+[[names-words]]
+hz = "鉴别"
+en = "distinguish; differentiate; discern; discriminate"
+
+[[names-words]]
+hz = "真伪"
+en = "true and false; the true/genuine and/or the false"
+
+[[names-words]]
+hz = "文物"
+en = "cultural relic; historical relic"
+
+[[names-words]]
+hz = "意愿"
+en = "wish; desire; aspiration"
+
+[[names-words]]
+hz = "线索"
+en = "clue; lead; thread"
+
+[[names-words]]
+hz = "委员会"
+en = "committee"
+
+[[names-words]]
+hz = "审查"
+en = "investigate; examine (plans, proposals, credential, etc.); censor (books, films, etc.)"
+
+[[names-words]]
+hz = "审查制度"
+en = "censorship"
+
+[[names-words]]
+hz = "软着陆"
+en = "soft landing"
+
+[[names-words]]
+hz = "突显"
+en = "stand out; clearly show; be conspicuous; be in the limelight"
 
 
 [[people]]

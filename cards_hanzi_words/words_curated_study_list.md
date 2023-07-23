@@ -24,6 +24,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [融资](融资.md) | raise funds |
 | [投向](投向.md) | investment orientation |
 | [筹集](筹集.md) | to collect; to raise (funds) |
+| [套利](套利.md) | arbitrage |
 ## Chemistry
 |  |  |
 | ----- | :---: |
@@ -123,6 +124,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [纳米](纳米.md) | nanometer |
 | [摩尔定律](摩尔定律.md) | Moore’s Law |
 | [堆叠](堆叠.md) | stack (as in 3D stacking) |
+| [先进封装](先进封装.md) | advanced packaging |
 | [后工序](后工序.md) | post-process |
 | [晶体管](晶体管.md) | transistor |
 | [晶圆](晶圆.md) | wafer |
@@ -155,6 +157,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [升值](升值.md) | to rise in value; to appreciate; appreciation |
 | [移动支付](移动支付.md) | mobile payment |
 | [钞票](钞票.md) | banknote; paper money; bill |
+| [虚拟资产](虚拟资产.md) | virtual assets |
+| [储备货币](储备货币.md) | reserve currency |
 ## 菜 Dishes/Vegetables, Food and Drinks
 |  |  |
 | ----- | :---: |
@@ -313,6 +317,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [纳斯达克](纳斯达克.md) | NASDAQ |
 | [标准与普尔](标准与普尔.md) | Standard and Poor (S&P) |
 | [标普](标普.md) | S&P |
+| [道琼斯指数](道琼斯指数.md) | Dow Jones Index |
 | [布伦特原油期](布伦特原油期.md) | Brent Crude Oil Futures |
 | [纽约原油](纽约原油.md) | New York Crude Oil |
 | [周转资金](周转资金.md) | working capital; working/revolving fund |
@@ -571,11 +576,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [天花](天花.md) | smallpox |
 | [汀类药物](汀类药物.md) | statins |
 | [慢性疼痛](慢性疼痛.md) | chronic pain |
+| [慢性疾病](慢性疾病.md) | chronic illness; chronic disease |
 | [心血管疾病](心血管疾病.md) | cardiovascular disease |
 | [抑郁](抑郁.md) | depressed; depression; despondent; gloomy |
 | [自闭症](自闭症.md) | autism |
 | [阿斯巴甜](阿斯巴甜.md) | aspertame |
 | [疟疾](疟疾.md) | malaria |
+| [咳嗽](咳嗽.md) | cough |
 ## Idioms
 |  |  |
 | ----- | :---: |
@@ -1065,6 +1072,32 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [乐观](乐观.md) | optimistic; hopeful; sanguine |
 | [难民](难民.md) | refugee |
 | [管制](管制.md) | to control; to restrict; put (a criminal, etc) under supervision |
+| [神舟](神舟.md) | Chinese spacecraft name |
+| [阶层](阶层.md) | social class; social stratum |
+| [炎热](炎热.md) | blistering hot; sizzling hot (weather) |
+| [缺席](缺席.md) | absent (from a meeting, etc.) |
+| [招聘](招聘.md) | invite applications for a job; engage (by public notice, advertisements, etc.) |
+| [包裹](包裹.md) | bundle; package; parce; wrap up; bind up |
+| [撤离](撤离.md) | withdraw from; leave; evacuate |
+| [侵略](侵略.md) | invade; commit aggression; encroachment |
+| [私营部门](私营部门.md) | private sector |
+| [遗憾](遗憾.md) | regret; sorrow; remorse; regretful; sorry |
+| [扩散](扩散.md) | spread; diffuse; scatter; proliferate; diffusion |
+| [倦怠](倦怠.md) | languid; slugglish; tired; worn out |
+| [驳斥](驳斥.md) | refute; rebut; contradict |
+| [引述](引述.md) | quote somebody's words; quote from somebody's speech |
+| [奢侈品](奢侈品.md) | luxury goods; luxuries |
+| [超音波](超音波.md) | ultrasound |
+| [鉴别](鉴别.md) | distinguish; differentiate; discern; discriminate |
+| [真伪](真伪.md) | true and false; the true/genuine and/or the false |
+| [文物](文物.md) | cultural relic; historical relic |
+| [意愿](意愿.md) | wish; desire; aspiration |
+| [线索](线索.md) | clue; lead; thread |
+| [委员会](委员会.md) | committee |
+| [审查](审查.md) | investigate; examine (plans, proposals, credential, etc.); censor (books, films, etc.) |
+| [审查制度](审查制度.md) | censorship |
+| [软着陆](软着陆.md) | soft landing |
+| [突显](突显.md) | stand out; clearly show; be conspicuous; be in the limelight |
 ## Natural Disasters
 |  |  |
 | ----- | :---: |
@@ -1116,8 +1149,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [菲律宾](菲律宾.md) | Philippines |
 | [马尼拉](马尼拉.md) | Manila |
-| [槟城](槟城.md) | Penang |
 | [新加坡](新加坡.md) | Singapore |
+| [槟城](槟城.md) | Penang |
 | [马来西亚](马来西亚.md) | Malaysia |
 | [峇厘岛](峇厘岛.md) | Bali |
 | [东南亚](东南亚.md) | Southeast Asia |
@@ -1133,6 +1166,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [俄罗斯](俄罗斯.md) | Russia |
 | [莫斯科](莫斯科.md) | Moscow |
 | [西伯利亚](西伯利亚.md) | Siberia |
+| [克里米亚](克里米亚.md) | Crimea |
+| [白罗斯](白罗斯.md) | Belarus |
 | [雷克雅未克](雷克雅未克.md) | Reykjavik |
 | [冰岛](冰岛.md) | Iceland |
 | [格陵兰](格陵兰.md) | Greenland |
@@ -1142,6 +1177,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [土耳其](土耳其.md) | Türkiye |
 | [米兰](米兰.md) | Milan |
 | [布基纳法索](布基纳法索.md) | Burkina Faso |
+| [撒哈拉](撒哈拉.md) | Sahara |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [硅谷](硅谷.md) | Silicon Valley |
