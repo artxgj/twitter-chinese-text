@@ -367,7 +367,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [净零排放](净零排放.md) | net zero emissions |
 | [可再生能源](可再生能源.md) | renewable energy |
 | [臭氧](臭氧.md) | ozone |
-| [污染](污染.md) | pollution |
 | [页岩](页岩.md) | shale |
 ## Entertainment
 |  |  |
@@ -496,8 +495,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [同步轨道](同步轨道.md) | synchronous orbit |
 | [水族馆](水族馆.md) | aquarium |
 | [拐点](拐点.md) | inflection point; break point |
-| [猫头鹰](猫头鹰.md) | owl |
-| [考拉](考拉.md) | koala |
 ## Health
 |  |  |
 | ----- | :---: |
@@ -539,8 +536,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [免疫缺陷](免疫缺陷.md) | immunodeficiency |
 | [脑雾](脑雾.md) | brain fog |
 | [脑血栓](脑血栓.md) | cerebral thrombus |
+| [血液](血液.md) | blood; lifeblood; lifeline |
 | [血清](血清.md) | (blood) serum |
 | [血压](血压.md) | blood pressure |
+| [血脂](血脂.md) | blood lipid level |
 | [血栓](血栓.md) | blood clot; thrombus |
 | [血糖](血糖.md) | blood sugar |
 | [血癌](血癌.md) | leukemia |
@@ -614,15 +613,19 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [黑露脊鲸](黑露脊鲸.md) | black right whale |
 | [章鱼](章鱼.md) | octopus |
 | [企鹅](企鹅.md) | penguin |
+| [猫头鹰](猫头鹰.md) | owl |
+| [考拉](考拉.md) | koala |
+| [熊猫](熊猫.md) | panda |
 | [鳄鱼](鳄鱼.md) | crocodile; alligator |
 | [珊瑚](珊瑚.md) | coral |
 | [孔雀](孔雀.md) | peacock |
 | [蝗虫](蝗虫.md) | locust |
+| [蚱蜢](蚱蜢.md) | grasshopper |
+| [蟋蟀](蟋蟀.md) | cricket |
 | [鬣蜥](鬣蜥.md) | Iguana |
 ## Names/Words
 |  |  |
 | ----- | :---: |
-| [熊猫](熊猫.md) | panda |
 | [盐](盐.md) | salt |
 | [分子](分子.md) | molecule; numerator (mathematics); member; element; part |
 | [酶](酶.md) | enzyme; ferment |
@@ -1009,8 +1012,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [战役](战役.md) | battle |
 | [拓展](拓展.md) | expand; spread; develop |
 | [牛车水](牛车水.md) | Chinatown |
-| [蚱蜢](蚱蜢.md) | grasshopper |
-| [蟋蟀](蟋蟀.md) | cricket |
 | [蚕蛹](蚕蛹.md) | silkworm chrysalis |
 | [摄氏](摄氏.md) | celsius |
 | [异常](异常.md) | abnormal; unusual; extremely; exceedingly; particularly |
@@ -1127,6 +1128,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [干旱](干旱.md) | drought |
 | [炎热](炎热.md) | blistering hot; sizzling hot (weather) |
 | [热浪](热浪.md) | heat wave |
+| [污染](污染.md) | pollution |
 ## People
 |  |  |
 | ----- | :---: |

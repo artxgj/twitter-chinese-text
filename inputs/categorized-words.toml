@@ -1528,12 +1528,20 @@ hz = "脑血栓"
 en = "cerebral thrombus"
 
 [[health]]
+hz = "血液"
+en = "blood; lifeblood; lifeline"
+
+[[health]]
 hz = "血清"
 en = "(blood) serum"
 
 [[health]]
 hz = "血压"
 en = "blood pressure"
+
+[[health]]
+hz = "血脂"
+en = "blood lipid level"
 
 [[health]]
 hz = "血栓"
@@ -1759,10 +1767,6 @@ en = "renewable energy"
 [[energy]]
 hz = "臭氧"
 en = "ozone"
-
-[[energy]]
-hz = "污染"
-en = "pollution"
 
 [[energy]]
 hz = "页岩"
@@ -2054,15 +2058,15 @@ en = "octopus"
 hz = "企鹅"
 en = "penguin"
 
-[[favorites]]
+[[kingdom-animalia]]
 hz = "猫头鹰"
 en = "owl"
 
-[[favorites]]
+[[kingdom-animalia]]
 hz = "考拉"
 en = "koala"
 
-[[names-words]]
+[[kingdom-animalia]]
 hz = "熊猫"
 en = "panda"
 
@@ -2081,6 +2085,14 @@ en = "peacock"
 [[kingdom-animalia]]
 hz = "蝗虫"
 en = "locust"
+
+[[kingdom-animalia]]
+hz = "蚱蜢"
+en = "grasshopper"
+
+[[kingdom-animalia]]
+hz = "蟋蟀"
+en = "cricket"
 
 [[kingdom-animalia]]
 hz = "鬣蜥"
@@ -2682,6 +2694,10 @@ en = "blistering hot; sizzling hot (weather)"
 [[natural-disaster-climate]]
 hz = "热浪"
 en = "heat wave"
+
+[[natural-disaster-climate]]
+hz = "污染"
+en = "pollution"
 
 
 [[commodities_agri]]
@@ -4273,14 +4289,6 @@ en = "expand; spread; develop"
 [[names-words]]
 hz = "牛车水"
 en = "Chinatown"
-
-[[names-words]]
-hz = "蚱蜢"
-en = "grasshopper"
-
-[[names-words]]
-hz = "蟋蟀"
-en = "cricket"
 
 [[names-words]]
 hz = "蚕蛹"
