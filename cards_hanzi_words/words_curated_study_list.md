@@ -1155,7 +1155,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Places and Regions
 |  |  |
 | ----- | :---: |
-| [菲律宾 (pronounced as Hui-li̍p-pin by Minnan/Hokkien people)](菲律宾 (pronounced as Hui-li̍p-pin by Minnan/Hokkien people).md) | Philippines |
+| [菲律宾](菲律宾.md) | Philippines; pronounced as Hui-li̍p-pin by Minnan/Hokkien people |
 | [马尼拉](马尼拉.md) | Manila |
 | [厦门](厦门.md) | Ē-mn̂g (Xiamen in Mandarin) |
 | [泉州](泉州.md) | Choân-chiu (Quanzhou in Mandarin), prefecture-level city in Fujian |
