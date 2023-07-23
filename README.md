@@ -5,7 +5,7 @@ This repo has a few simple scripts that extract the downloaded tweets-archive an
 
 I rely on the Pleco app, Wiktionary, Google's Translation site and Apple's language-translation features (iOS and MacOS) to look up the many words that are incomprehensible to me. 
 
-These are the two markdown files that contain my lists of curated vocabulary words and names that I am studying.
+These are the three markdown files that contain my lists of curated vocabulary words and names that I am studying.
 
 1. [words_curated_study_list.md](cards_hanzi_words/words_curated_study_list.md)
    
