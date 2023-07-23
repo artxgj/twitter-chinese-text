@@ -623,6 +623,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [蚱蜢](蚱蜢.md) | grasshopper |
 | [蟋蟀](蟋蟀.md) | cricket |
 | [鬣蜥](鬣蜥.md) | Iguana |
+| [鹦鹉](鹦鹉.md) | parrot |
+| [壁虎](壁虎.md) | gecko |
 ## Names/Words
 |  |  |
 | ----- | :---: |
@@ -995,7 +997,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [神舟](神舟.md) | Shenzhou |
 | [地狱](地狱.md) | hell |
 | [婚](婚.md) | marriage; wedding; to marry |
-| [壁虎](壁虎.md) | gecko |
 | [飞船](飞船.md) | spacecraft; spaceship |
 | [全国代表大会](全国代表大会.md) | National Congress |
 | [赚钱](赚钱.md) | make money |
@@ -1007,7 +1008,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [叉](叉.md) | fork |
 | [肖](肖.md) | similar; resembling; to resemble;  to be like; [regional] to be born in the year of (one of the twelve animals) |
 | [迎新送旧](迎新送旧.md) | welcome in the new and send off the old |
-| [鹦鹉](鹦鹉.md) | parrot |
 | [兜风](兜风.md) | catch the wind; go for a drive, ride or sail; go for a spin |
 | [战役](战役.md) | battle |
 | [拓展](拓展.md) | expand; spread; develop |
@@ -1015,8 +1015,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [蚕蛹](蚕蛹.md) | silkworm chrysalis |
 | [摄氏](摄氏.md) | celsius |
 | [异常](异常.md) | abnormal; unusual; extremely; exceedingly; particularly |
-| [厄尔尼诺](厄尔尼诺.md) | El Niño |
-| [拉尼娜](拉尼娜.md) | La Niña |
 | [装备](装备.md) | equipment; outfit; to equip; to outfit |
 | [紧缺](紧缺.md) | scarce; in short supply |
 | [孤独](孤独.md) | lonely; solitary |
@@ -1129,6 +1127,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [炎热](炎热.md) | blistering hot; sizzling hot (weather) |
 | [热浪](热浪.md) | heat wave |
 | [污染](污染.md) | pollution |
+| [厄尔尼诺](厄尔尼诺.md) | El Niño |
+| [拉尼娜](拉尼娜.md) | La Niña |
 ## People
 |  |  |
 | ----- | :---: |
@@ -1155,13 +1155,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Places and Regions
 |  |  |
 | ----- | :---: |
-| [菲律宾](菲律宾.md) | Philippines |
+| [菲律宾 (pronounced as Hui-li̍p-pin by Minnan/Hokkien people)](菲律宾 (pronounced as Hui-li̍p-pin by Minnan/Hokkien people).md) | Philippines |
 | [马尼拉](马尼拉.md) | Manila |
-| [厦门](厦门.md) | Xiamen |
-| [泉州](泉州.md) | Quanzhou, prefecture-level city in Fujian |
-| [福建](福建.md) | Hokkien (Fujian in Mandarin) |
-| [閩](閩.md) | short name for Fujian Province |
-| [闽南](闽南.md) | Southern Fujian |
+| [厦门](厦门.md) | Ē-mn̂g (Xiamen in Mandarin) |
+| [泉州](泉州.md) | Choân-chiu (Quanzhou in Mandarin), prefecture-level city in Fujian |
+| [福建](福建.md) | Hok-kiàn/Hokkien (Fujian in Mandarin) |
+| [閩](閩.md) | bân (Min in Mandarin), short name for Fujian Province |
+| [闽南](闽南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
 | [新加坡](新加坡.md) | Singapore |
 | [槟城](槟城.md) | Penang |
 | [马来西亚](马来西亚.md) | Malaysia |

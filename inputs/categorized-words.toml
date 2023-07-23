@@ -2098,9 +2098,17 @@ en = "cricket"
 hz = "鬣蜥"
 en = "Iguana"
 
+[[kingdom-animalia]]
+hz = "鹦鹉"
+en = "parrot"
+
+[[kingdom-animalia]]
+hz = "壁虎"
+en = "gecko"
+
 
 [[places]]
-hz = "菲律宾"
+hz = "菲律宾 (pronounced as Hui-li̍p-pin by Minnan/Hokkien people)"
 en = "Philippines"
 
 [[places]]
@@ -2109,23 +2117,23 @@ en = "Manila"
 
 [[places]]
 hz = "厦门"
-en = "Xiamen"
+en = "Ē-mn̂g (Xiamen in Mandarin)"
 
 [[places]]
 hz = "泉州"
-en = "Quanzhou, prefecture-level city in Fujian"
+en = "Choân-chiu (Quanzhou in Mandarin), prefecture-level city in Fujian"
 
 [[places]]
 hz = "福建"
-en = "Hokkien (Fujian in Mandarin)"
+en = "Hok-kiàn/Hokkien (Fujian in Mandarin)"
 
 [[places]]
 hz = "閩"
-en = "short name for Fujian Province"
+en = "bân (Min in Mandarin), short name for Fujian Province"
 
 [[places]]
 hz = "闽南"
-en = "Southern Fujian"
+en = "bân-lâm (Minnan in Mandarin);Southern Fujian"
 
 [[places]]
 hz = "新加坡"
@@ -2698,6 +2706,14 @@ en = "heat wave"
 [[natural-disaster-climate]]
 hz = "污染"
 en = "pollution"
+
+[[natural-disaster-climate]]
+hz = "厄尔尼诺"
+en = "El Niño"
+
+[[natural-disaster-climate]]
+hz = "拉尼娜"
+en = "La Niña"
 
 
 [[commodities_agri]]
@@ -4223,10 +4239,6 @@ hz = "婚"
 en = "marriage; wedding; to marry"
 
 [[names-words]]
-hz = "壁虎"
-en = "gecko"
-
-[[names-words]]
 hz = "飞船"
 en = "spacecraft; spaceship"
 
@@ -4271,10 +4283,6 @@ hz = "迎新送旧"
 en = "welcome in the new and send off the old"
 
 [[names-words]]
-hz = "鹦鹉"
-en = "parrot"
-
-[[names-words]]
 hz = "兜风"
 en = "catch the wind; go for a drive, ride or sail; go for a spin"
 
@@ -4301,14 +4309,6 @@ en = "celsius"
 [[names-words]]
 hz = "异常"
 en = "abnormal; unusual; extremely; exceedingly; particularly"
-
-[[names-words]]
-hz = "厄尔尼诺"
-en = "El Niño"
-
-[[names-words]]
-hz = "拉尼娜"
-en = "La Niña"
 
 [[names-words]]
 hz = "装备"
