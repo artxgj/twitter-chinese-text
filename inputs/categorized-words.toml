@@ -2128,7 +2128,7 @@ hz = "福建"
 en = "Hok-kiàn/Hokkien (Fujian in Mandarin)"
 
 [[places]]
-hz = "閩"
+hz = "闽"
 en = "bân (Min in Mandarin), short name for Fujian Province"
 
 [[places]]
@@ -4657,6 +4657,10 @@ en = "drain off water; discharge water"
 [[names-words]]
 hz = "空服员"
 en = "flight attendant; cabin crew"
+
+[[names-words]]
+hz = "殖民"
+en = "colonize; establish a colony "
 
 
 [[people]]

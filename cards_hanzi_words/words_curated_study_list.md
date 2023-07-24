@@ -1101,6 +1101,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [故宫](故宫.md) | Imperial Palace; Forbidden City; palace of a former dynasty |
 | [排水](排水.md) | drain off water; discharge water |
 | [空服员](空服员.md) | flight attendant; cabin crew |
+| [殖民](殖民.md) | colonize; establish a colony  |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1160,7 +1161,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [厦门](厦门.md) | Ē-mn̂g (Xiamen in Mandarin) |
 | [泉州](泉州.md) | Choân-chiu (Quanzhou in Mandarin), prefecture-level city in Fujian |
 | [福建](福建.md) | Hok-kiàn/Hokkien (Fujian in Mandarin) |
-| [閩](閩.md) | bân (Min in Mandarin), short name for Fujian Province |
+| [闽](闽.md) | bân (Min in Mandarin), short name for Fujian Province |
 | [闽南](闽南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
 | [新加坡](新加坡.md) | Singapore |
 | [槟城](槟城.md) | Penang |
