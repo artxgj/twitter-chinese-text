@@ -2,6 +2,7 @@
         
 | Chinese Name | English Name | U.S. Ticker | Number of Tweets |
 | ----- | ----- | :---: | :---: |
+| [阿迪达斯](阿迪达斯.md) | Adidas | ADDYY | 9 |
 | [空中客车](空中客车.md) | Airbus | EADSY | 12 |
 | [阿里巴巴](阿里巴巴.md) | Alibaba | BABA | 112 |
 | [全日空](全日空.md) | All Nippon Airways (ANA) | ALNPY | 16 |
@@ -78,6 +79,7 @@
 | [松下](松下.md) | Panasonic | PCRFY | 64 |
 | [辉瑞](辉瑞.md) | Pfizer | PFE | 182 |
 | [宝洁](宝洁.md) | Procter & Gamble | PG | 7 |
+| [彪马](彪马.md) | Puma | PUMSY | 1 |
 | [瑞萨电子](瑞萨电子.md) | Renesas Electronics | RNECY | 11 |
 | [罗姆](罗姆.md) | ROHM | ROHCY/ROHCF | 15 |
 | [罗尔斯·罗伊斯](罗尔斯·罗伊斯.md) | Rolls Royce | RYCEY | 1 |
