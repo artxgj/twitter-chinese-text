@@ -1104,6 +1104,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [殖民](殖民.md) | colonize; establish a colony |
 | [抵制](抵制.md) | boycott, resist |
 | [磁铁](磁铁.md) | magnet |
+| [疯狂](疯狂.md) | insane; frenzied; unbridled |
+| [芭蕾](芭蕾.md) | ballet |
+| [不明飞行物](不明飞行物.md) | UFO |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
