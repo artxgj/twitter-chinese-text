@@ -1707,6 +1707,10 @@ en = "malaria"
 hz = "咳嗽"
 en = "cough"
 
+[[health]]
+hz = "失智症"
+en = "dementia"
+
 
 [[energy]]
 hz = "天然气"
