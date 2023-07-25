@@ -1101,7 +1101,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [故宫](故宫.md) | Imperial Palace; Forbidden City; palace of a former dynasty |
 | [排水](排水.md) | drain off water; discharge water |
 | [空服员](空服员.md) | flight attendant; cabin crew |
-| [殖民](殖民.md) | colonize; establish a colony  |
+| [殖民](殖民.md) | colonize; establish a colony |
+| [抵制](抵制.md) | boycott, resist |
+| [磁铁](磁铁.md) | magnet |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
