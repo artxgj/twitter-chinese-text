@@ -1102,7 +1102,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [排水](排水.md) | drain off water; discharge water |
 | [空服员](空服员.md) | flight attendant; cabin crew |
 | [殖民](殖民.md) | colonize; establish a colony |
-| [抵制](抵制.md) | boycott, resist |
+| [抵制](抵制.md) | boycott； resist |
 | [磁铁](磁铁.md) | magnet |
 | [疯狂](疯狂.md) | insane; frenzied; unbridled |
 | [芭蕾](芭蕾.md) | ballet |
