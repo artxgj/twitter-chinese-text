@@ -581,6 +581,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [阿斯巴甜](阿斯巴甜.md) | aspertame |
 | [疟疾](疟疾.md) | malaria |
 | [咳嗽](咳嗽.md) | cough |
+| [失智症](失智症.md) | dementia |
 ## Idioms
 |  |  |
 | ----- | :---: |
@@ -1107,6 +1108,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [疯狂](疯狂.md) | insane; frenzied; unbridled |
 | [芭蕾](芭蕾.md) | ballet |
 | [不明飞行物](不明飞行物.md) | UFO |
+| [沉寂](沉寂.md) | quiet; still; no news |
+| [沉浸](沉浸.md) | be immersed in; be steeped in; be permeated with |
+| [转换](转换.md) | change; transform |
+| [迄今](迄今.md) | up to now; to this day; to date; so far |
+| [钻探](钻探.md) | drilling; drill for exploration |
+| [动荡](动荡.md) | (of political situation, life, etc.) unstable; turbulent; chaotic |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
