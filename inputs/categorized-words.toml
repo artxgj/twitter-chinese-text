@@ -981,6 +981,10 @@ en = "exchange-traded fund (ETF)"
 hz = "营业利润"
 en = "operating profit"
 
+[[economy-markets]]
+hz = "本益比"
+en = "P/E ratio"
+
 
 [[favorites]]
 hz = "供应链"
@@ -4752,6 +4756,26 @@ hz = "马云"
 en = "Jack Ma"
 
 [[people]]
+hz = "周受资"
+en = "Shou Zi Chew"
+
+[[people]]
+hz = "黄仁勋"
+en = "Jensen Huang"
+
+[[people]]
+hz = "苏姿丰"
+en = "Lisa Su"
+
+[[people]]
+hz = "郭台铭"
+en = "Terry Gou"
+
+[[people]]
+hz = "马英九"
+en = "Ma Ying-jeou"
+
+[[people]]
 hz = "尼克松"
 en = "Nixon (Richard Milhaus)"
 
@@ -4768,25 +4792,9 @@ hz = "杨紫琼"
 en = "Michelle Yeoh"
 
 [[people]]
-hz = "周受资"
-en = "Shou Zi Chew"
-
-[[people]]
-hz = "黄仁勋"
-en = "Jensen Huang"
-
-[[people]]
-hz = "马英九"
-en = "Ma Ying-jeou"
-
-[[people]]
 hz = "姚明"
 en = "Yao Ming"
 
 [[people]]
 hz = "谷爱凌"
 en = "Gu Ailing"
-
-[[people]]
-hz = "郭台铭"
-en = "Terry Gou"

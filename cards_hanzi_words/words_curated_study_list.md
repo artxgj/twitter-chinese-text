@@ -349,6 +349,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [石油输出国组](石油输出国组.md) | OPEC |
 | [交易所交易基金](交易所交易基金.md) | exchange-traded fund (ETF) |
 | [营业利润](营业利润.md) | operating profit |
+| [本益比](本益比.md) | P/E ratio |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -1155,16 +1156,17 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [孟晚舟](孟晚舟.md) | Meng Wanzhou |
 | [江泽民](江泽民.md) | Jiang Zemin |
 | [马云](马云.md) | Jack Ma |
+| [周受资](周受资.md) | Shou Zi Chew |
+| [黄仁勋](黄仁勋.md) | Jensen Huang |
+| [苏姿丰](苏姿丰.md) | Lisa Su |
+| [郭台铭](郭台铭.md) | Terry Gou |
+| [马英九](马英九.md) | Ma Ying-jeou |
 | [尼克松](尼克松.md) | Nixon (Richard Milhaus) |
 | [邓紫棋](邓紫棋.md) | G.E.M. |
 | [泰勒丝](泰勒丝.md) | Taylor Swift |
 | [杨紫琼](杨紫琼.md) | Michelle Yeoh |
-| [周受资](周受资.md) | Shou Zi Chew |
-| [黄仁勋](黄仁勋.md) | Jensen Huang |
-| [马英九](马英九.md) | Ma Ying-jeou |
 | [姚明](姚明.md) | Yao Ming |
 | [谷爱凌](谷爱凌.md) | Gu Ailing |
-| [郭台铭](郭台铭.md) | Terry Gou |
 ## Places and Regions
 |  |  |
 | ----- | :---: |
