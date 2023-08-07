@@ -90,6 +90,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氢氰酸](氢氰酸.md) | Hydrocyanic acid |
 | [环氧乙烷](环氧乙烷.md) | ethylene oxide |
 | [树脂](树脂.md) | resin |
+| [聚氯乙烯](聚氯乙烯.md) | polyvinyl chloride (PVC) |
 ## Commodities (Agriculture)
 |  |  |
 | ----- | :---: |
@@ -350,6 +351,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [交易所交易基金](交易所交易基金.md) | exchange-traded fund (ETF) |
 | [营业利润](营业利润.md) | operating profit |
 | [本益比](本益比.md) | P/E ratio |
+| [行情](行情.md) | market price; quotation of market price; the current market situation |
 ## Energy
 |  |  |
 | ----- | :---: |
@@ -603,6 +605,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [明知山有虎偏向虎山行](明知山有虎偏向虎山行.md) | to willfully go towared the mountain although knowing  that it has tigers; to take a risk despite knowing the dangers |
 | [三顾茅庐](三顾茅庐.md) | make three calls at the thatched cottage (as Liu Bei did when he sought the aid of Zhuge Liang); make earnest and repeated requests of somebody (to take up a responsible post) |
 | [剑拔弩张](剑拔弩张.md) | with swords drawn and bows bent; at daggers draw; (figurative) a state of mutual hostility |
+| [忧心忡忡](忧心忡忡.md) | heavy-hearted; weighed down with anxieties; care-laden |
+| [旁观者清](旁观者清.md) | The spectator sees most clearly; an outsider can see things more clearly or objectively than those involved. |
 ## Kingdom Animalia
 |  |  |
 | ----- | :---: |
@@ -1115,6 +1119,38 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [迄今](迄今.md) | up to now; to this day; to date; so far |
 | [钻探](钻探.md) | drilling; drill for exploration |
 | [动荡](动荡.md) | (of political situation, life, etc.) unstable; turbulent; chaotic |
+| [潜力](潜力.md) | latent capacity; potential; potentiality |
+| [观察](观察.md) | observe; watch; survey |
+| [显示](显示.md) | show; display; demonstrate; manifest |
+| [滚滚](滚滚.md) | rolling; billowy; surging |
+| [预报](预报.md) | forecast |
+| [预计](预计.md) | calculate in advance; estimate; to forecast |
+| [不振](不振.md) | dejected; dispirited; listless; sluggish |
+| [灾情](灾情.md) | damage caused by a disaster |
+| [打击](打击.md) | hit; strike; attack |
+| [推迟](推迟.md) | postpone; defer; put off |
+| [追究](追究.md) | investigate; look into; find out |
+| [海巡](海巡.md) | coast guard |
+| [尼龙](尼龙.md) | nylon |
+| [纤维](纤维.md) | fiber (fibre); staple |
+| [堪忧](堪忧.md) | worrying; bleak |
+| [耕地](耕地.md) | cultivated land; arable land |
+| [逐渐](逐渐.md) | gradually; by degrees |
+| [实施](实施.md) | put into effect; implement; carry out |
+| [葬](葬.md) | to bury (the dead); to inter |
+| [骨骼](骨骼.md) | skeleton; bone structure; bones |
+| [坑](坑.md) | hole; pit; hollow; tunnel |
+| [誓言](誓言.md) | to pledge; to promise; oath; vow |
+| [捐赠](捐赠.md) | donate; contribute (as a gift); present |
+| [净水](净水.md) | clean (or purified) water; purify (or treat) water |
+| [评级](评级.md) | rating; grade; rank |
+| [通牒](通牒.md) | diplomatic note |
+| [权力](权力.md) | power; authority |
+| [当局者迷](当局者迷.md) | one directly concerned lacks objectivity |
+| [酷暑](酷暑.md) | intense heat; extremely hot weather; intense heat of summer |
+| [化妆品](化妆品.md) | cosmetics |
+| [讽刺](讽刺.md) | satirize; ridicule; taunt; mock |
+| [奢侈品](奢侈品.md) | luxury goods |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1161,6 +1197,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [苏姿丰](苏姿丰.md) | Lisa Su |
 | [郭台铭](郭台铭.md) | Terry Gou |
 | [马英九](马英九.md) | Ma Ying-jeou |
+| [杜特蒂](杜特蒂.md) | Duterte |
 | [尼克松](尼克松.md) | Nixon (Richard Milhaus) |
 | [邓紫棋](邓紫棋.md) | G.E.M. |
 | [泰勒丝](泰勒丝.md) | Taylor Swift |
@@ -1205,6 +1242,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [米兰](米兰.md) | Milan |
 | [布基纳法索](布基纳法索.md) | Burkina Faso |
 | [撒哈拉](撒哈拉.md) | Sahara |
+| [秘鲁](秘鲁.md) | Peru |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [硅谷](硅谷.md) | Silicon Valley |

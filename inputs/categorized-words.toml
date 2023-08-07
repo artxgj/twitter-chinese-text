@@ -624,6 +624,14 @@ en = "make three calls at the thatched cottage (as Liu Bei did when he sought th
 hz = "剑拔弩张"
 en = "with swords drawn and bows bent; at daggers draw; (figurative) a state of mutual hostility"
 
+[[idioms]]
+hz = "忧心忡忡"
+en = "heavy-hearted; weighed down with anxieties; care-laden"
+
+[[idioms]]
+hz = "旁观者清"
+en = "The spectator sees most clearly; an outsider can see things more clearly or objectively than those involved."
+
 
 [[economy-markets]]
 hz = "央行"
@@ -984,6 +992,10 @@ en = "operating profit"
 [[economy-markets]]
 hz = "本益比"
 en = "P/E ratio"
+
+[[economy-markets]]
+hz = "行情"
+en = "market price; quotation of market price; the current market situation"
 
 
 [[favorites]]
@@ -2029,6 +2041,10 @@ en = "ethylene oxide"
 hz = "树脂"
 en = "resin"
 
+[[chemistry]]
+hz = "聚氯乙烯"
+en = "polyvinyl chloride (PVC)"
+
 
 [[kingdom-animalia]]
 hz = "海胆"
@@ -2254,6 +2270,10 @@ en = "Burkina Faso"
 [[places]]
 hz = "撒哈拉"
 en = "Sahara"
+
+[[places]]
+hz = "秘鲁"
+en = "Peru"
 
 [[places]]
 hz = "加拉帕戈斯群岛"
@@ -4714,6 +4734,134 @@ en = "drilling; drill for exploration"
 hz = "动荡"
 en = "(of political situation, life, etc.) unstable; turbulent; chaotic"
 
+[[names-words]]
+hz = "潜力"
+en = "latent capacity; potential; potentiality"
+
+[[names-words]]
+hz = "观察"
+en = "observe; watch; survey"
+
+[[names-words]]
+hz = "显示"
+en = "show; display; demonstrate; manifest"
+
+[[names-words]]
+hz = "滚滚"
+en = "rolling; billowy; surging"
+
+[[names-words]]
+hz = "预报"
+en = "forecast"
+
+[[names-words]]
+hz = "预计"
+en = "calculate in advance; estimate; to forecast"
+
+[[names-words]]
+hz = "不振"
+en = "dejected; dispirited; listless; sluggish"
+
+[[names-words]]
+hz = "灾情"
+en = "damage caused by a disaster"
+
+[[names-words]]
+hz = "打击"
+en = "hit; strike; attack"
+
+[[names-words]]
+hz = "推迟"
+en = "postpone; defer; put off"
+
+[[names-words]]
+hz = "追究"
+en = "investigate; look into; find out"
+
+[[names-words]]
+hz = "海巡"
+en = "coast guard"
+
+[[names-words]]
+hz = "尼龙"
+en = "nylon"
+
+[[names-words]]
+hz = "纤维"
+en = "fiber (fibre); staple"
+
+[[names-words]]
+hz = "堪忧"
+en = "worrying; bleak"
+
+[[names-words]]
+hz = "耕地"
+en = "cultivated land; arable land"
+
+[[names-words]]
+hz = "逐渐"
+en = "gradually; by degrees"
+
+[[names-words]]
+hz = "实施"
+en = "put into effect; implement; carry out"
+
+[[names-words]]
+hz = "葬"
+en = "to bury (the dead); to inter"
+
+[[names-words]]
+hz = "骨骼"
+en = "skeleton; bone structure; bones"
+
+[[names-words]]
+hz = "坑"
+en = "hole; pit; hollow; tunnel"
+
+[[names-words]]
+hz = "誓言"
+en = "to pledge; to promise; oath; vow"
+
+[[names-words]]
+hz = "捐赠"
+en = "donate; contribute (as a gift); present"
+
+[[names-words]]
+hz = "净水"
+en = "clean (or purified) water; purify (or treat) water"
+
+[[names-words]]
+hz = "评级"
+en = "rating; grade; rank"
+
+[[names-words]]
+hz = "通牒"
+en = "diplomatic note"
+
+[[names-words]]
+hz = "权力"
+en = "power; authority"
+
+[[names-words]]
+hz = "当局者迷"
+en = "one directly concerned lacks objectivity"
+
+[[names-words]]
+hz = "酷暑"
+en = "intense heat; extremely hot weather; intense heat of summer"
+
+[[names-words]]
+hz = "化妆品"
+en = "cosmetics"
+
+[[names-words]]
+hz = "讽刺"
+en = "satirize; ridicule; taunt; mock"
+
+[[names-words]]
+hz = "奢侈品"
+en = "luxury goods"
+
 
 [[people]]
 hz = "贝多芬"
@@ -4774,6 +4922,10 @@ en = "Terry Gou"
 [[people]]
 hz = "马英九"
 en = "Ma Ying-jeou"
+
+[[people]]
+hz = "杜特蒂"
+en = "Duterte"
 
 [[people]]
 hz = "尼克松"

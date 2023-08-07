@@ -108,6 +108,7 @@
 | [东洋钢业](东洋钢业.md) | Toyo Steel | (private) | 1 |
 | [丰田](丰田.md) | Toyota | TM | 309 |
 | [台积电](台积电.md) | TSMC | TSMC | 282 |
+| [优步](优步.md) | Uber | UBER | 15 |
 | [优衣库](优衣库.md) | Uniqlo | FRCOY (parent) | 43 |
 | [大众](大众.md) | Volkswagen | VLKAF/VWAPY | 108 |
 | [沃尔玛](沃尔玛.md) | Walmart | WMT | 28 |
