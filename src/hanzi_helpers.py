@@ -8,7 +8,7 @@ import datetime
 import re
 
 
-RE_SEPARATORS = re.compile(r"[:?！？，。“”【】\"：…\n、（）～；•《》—「」·~]")
+RE_SEPARATORS = re.compile(r"[:?！？，。“”【】\"：…\n、（）～；•《》—「」·~丶]")
 
 Zh_Tweets_Sources = {
     'ChineseWSJ',

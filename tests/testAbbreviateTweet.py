@@ -54,18 +54,21 @@ class AbbreviatedTweetTestCase(unittest.TestCase):
             "possibly_sensitive": False,
             "created_at": "Sat Feb 27 07:48:39 +0000 2021",
             "favorited": False,
-            "full_text": "RT @zaobaosg: #用听的 美股游戏驿站（GameStop）股价暴涨暴跌，被视为散户与华尔街机构投资者之间的一场对弈。\n\n期权（Options）在GameStop战役中发挥了什么作用？这种投资产品如何操作，有什么风险？https://t.co/WIMPURCmvK",
+            "full_text": "RT @zaobaosg: #用听的 美股游戏驿站（GameStop）股价暴涨暴跌，被视为散户与华尔街机构投资者之间的一场对弈。\n\n期权（Options）在GameStop"
+                         "战役中发挥了什么作用？这种投资产品如何操作，有什么风险？https://t.co/WIMPURCmvK",
             "lang": "zh"
         }
 
     def test_text_without_entities_has_rt(self):
         tweet = AbbreviatedTweet(self.tweet)
-        expected = 'RT :  美股游戏驿站（GameStop）股价暴涨暴跌，被视为散户与华尔街机构投资者之间的一场对弈。\n\n期权（Options）在GameStop战役中发挥了什么作用？这种投资产品如何操作，有什么风险？'
+        expected = 'RT :  美股游戏驿站（GameStop）股价暴涨暴跌，被视为散户与华尔街机构投资者之间的一场对弈。\n\n期权（Options）在GameStop' \
+                   '战役中发挥了什么作用？这种投资产品如何操作，有什么风险？'
         self.assertEqual(expected, tweet.text_without_entities(skip_rt=False))
 
     def test_text_without_entities_no_rt(self):
         tweet = AbbreviatedTweet(self.tweet)
-        expected = ':  美股游戏驿站（GameStop）股价暴涨暴跌，被视为散户与华尔街机构投资者之间的一场对弈。\n\n期权（Options）在GameStop战役中发挥了什么作用？这种投资产品如何操作，有什么风险？'
+        expected = ':  美股游戏驿站（GameStop）股价暴涨暴跌，被视为散户与华尔街机构投资者之间的一场对弈。\n\n期权（Options）在GameStop' \
+                   '战役中发挥了什么作用？这种投资产品如何操作，有什么风险？'
         self.assertEqual(expected, tweet.text_without_entities())
 
     def test_crazy(self):
@@ -168,7 +171,8 @@ class AbbreviatedTweetTestCase(unittest.TestCase):
             "possibly_sensitive": False,
             "created_at": "Mon Dec 28 02:14:23 +0000 2015",
             "favorited": False,
-            "full_text": "RT @edXOnline: Introduction to Steel is now self-paced – learn more: https://t.co/wxBitT41R9 #metal #science https://t.co/HzidaAkBz5",
+            "full_text": "RT @edXOnline: Introduction to Steel is now self-paced – learn more: "
+                         "https://t.co/wxBitT41R9 #metal #science https://t.co/HzidaAkBz5",
             "lang": "en",
             "extended_entities": {
                 "media": [
@@ -217,7 +221,70 @@ class AbbreviatedTweetTestCase(unittest.TestCase):
         }
 
         t = AbbreviatedTweet(tweet_data)
+        print(t.full_text)
 
 
-if __name__ == '__main__':
+    def test_separated_text(self):
+        tweet_data = {
+            "edit_info": {
+                "initial": {
+                    "editTweetIds": [
+                        "1371339791564873734"
+                    ],
+                    "editableUntil": "2021-03-15T06:57:39.227Z",
+                    "editsRemaining": "5",
+                    "isEditEligible": True
+                }
+            },
+            "retweeted": False,
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "name": "DW 中文- 德国之声",
+                        "screen_name": "dw_chinese",
+                        "indices": [
+                            "3",
+                            "14"
+                        ],
+                        "id_str": "143810986",
+                        "id": "143810986"
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/bBWfcMpLU4",
+                        "expanded_url": "https://p.dw.com/p/3qd96",
+                        "display_url": "p.dw.com/p/3qd96",
+                        "indices": [
+                            "81",
+                            "104"
+                        ]
+                    }
+                ]
+            },
+            "display_text_range": [
+                "0",
+                "104"
+            ],
+            "favorite_count": "0",
+            "id_str": "1371339791564873734",
+            "truncated": False,
+            "retweet_count": "0",
+            "id": "1371339791564873734",
+            "possibly_sensitive": False,
+            "created_at": "Mon Mar 15 05:57:39 +0000 2021",
+            "favorited": False,
+            "full_text": "RT @dw_chinese: 阿斯利康公司表示，其疫苗的施打与血栓风险增加无直接相关，但荷兰丶爱尔兰丶丹麦丶挪威等国基於对副作用的担忧，纷纷暂停推广此疫苗。\n\nhttps"
+                         "://t.co/bBWfcMpLU4",
+            "lang": "zh"
+        }
+
+        t = AbbreviatedTweet(tweet_data)
+        print(f"xyz {t.text_without_entities()}")
+
+
+if __name__=='__main__':
     unittest.main()
