@@ -611,7 +611,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [忧心忡忡](忧心忡忡.md) | heavy-hearted; weighed down with anxieties; care-laden |
 | [旁观者清](旁观者清.md) | The spectator sees most clearly; an outsider can see things more clearly or objectively than those involved. |
 | [踌躇满志](踌躇满志.md) | enormously proud of one's success; smug; complacent |
-| [忧心忡忡](忧心忡忡.md) | heavy-hearted; care-laden; weighed down with anxieties |
 ## Kingdom Animalia
 |  |  |
 | ----- | :---: |
