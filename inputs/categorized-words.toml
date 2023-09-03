@@ -480,6 +480,10 @@ hz = "石榴"
 en = "pomegranate"
 
 [[dishes-vegetables-drinks]]
+hz = "龙果"
+en = "dragon fruit"
+
+[[dishes-vegetables-drinks]]
 hz = "月饼"
 en = "mooncake"
 
@@ -632,6 +636,13 @@ en = "heavy-hearted; weighed down with anxieties; care-laden"
 hz = "旁观者清"
 en = "The spectator sees most clearly; an outsider can see things more clearly or objectively than those involved."
 
+[[idioms]]
+hz = "踌躇满志"
+en = "enormously proud of one's success; smug; complacent"
+
+[[idioms]]
+hz = "忧心忡忡"
+en = "heavy-hearted; care-laden; weighed down with anxieties"
 
 [[economy-markets]]
 hz = "央行"
@@ -1806,6 +1817,10 @@ hz = "氢"
 en = "hydrogen"
 
 [[chemistry]]
+hz = "氚"
+en = "tritium or hydrogen-3 (symbol T or 3H)"
+
+[[chemistry]]
 hz = "氦"
 en = "helium"
 
@@ -1896,6 +1911,10 @@ en = "palladium"
 [[chemistry]]
 hz = "钕"
 en = "neodynium"
+
+[[chemistry]]
+hz = "铽"
+en = "terbium"
 
 [[chemistry]]
 hz = "镝"
@@ -2160,6 +2179,10 @@ hz = "闽南"
 en = "bân-lâm (Minnan in Mandarin);Southern Fujian"
 
 [[places]]
+hz = "台湾"
+en = "Taiwan"
+
+[[places]]
 hz = "新加坡"
 en = "Singapore"
 
@@ -2298,6 +2321,10 @@ en = "Arizona"
 [[places]]
 hz = "佛罗里达"
 en = "Florida"
+
+[[places]]
+hz = "夏威夷"
+en = "Hawaii"
 
 
 [[world-cup-2022]]
@@ -3817,7 +3844,6 @@ en = "barrier reef"
 hz = "海藻"
 en = "seaweed"
 
-
 [[names-words]]
 hz = "专属"
 en = "exclusive; proprietary; private; personal"
@@ -4861,6 +4887,86 @@ en = "satirize; ridicule; taunt; mock"
 [[names-words]]
 hz = "奢侈品"
 en = "luxury goods"
+
+[[names-words]]
+hz = "邮轮"
+en = "cruise liner; ocean liner; mail boat"
+
+[[names-words]]
+hz = "炮轰"
+en = "bombard; shell"
+
+[[names-words]]
+hz = "违纪"
+en = "violate (or breach) discipline"
+
+[[names-words]]
+hz = "违法"
+en = "break the law"
+
+[[names-words]]
+hz = "正宗"
+en = "authentic; genuine"
+
+[[names-words]]
+hz = "品尝"
+en = "taste; sample; savour"
+
+[[names-words]]
+hz = "超导体"
+en = "superconductor"
+
+[[names-words]]
+hz = "重叠"
+en = "overlap; superimpose; one on top of another"
+
+[[names-words]]
+hz = "顶尖"
+en = "the best; first-rate; tip-top"
+
+[[names-words]]
+hz = "相比之下"
+en = "by comparison"
+
+[[names-words]]
+hz = "混乱"
+en = "chaotic; confused; disorderly"
+
+[[names-words]]
+hz = "蓝筹"
+en = "blue chip (stock)"
+
+[[names-words]]
+hz = "深陷"
+en = "to be deeply in (trouble, debt, etc.); deep set (eyes)"
+
+[[names-words]]
+hz = "福岛"
+en = "Fukushima"
+
+[[names-words]]
+hz = "解馋"
+en = "satisfy a food craving"
+
+[[names-words]]
+hz = "宵夜"
+en = "food taken late at night; midnight snack"
+
+[[names-words]]
+hz = "矮星"
+en = "dwarf star"
+
+[[names-words]]
+hz = "星系"
+en = "galaxy"
+
+[[names-words]]
+hz = "仙女座"
+en = "Andromeda"
+
+[[names-words]]
+hz = "牛郎织女"
+en = "The Cowherd and the Weaver Girl (Altair and Vega)"
 
 
 [[people]]

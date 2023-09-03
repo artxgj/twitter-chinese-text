@@ -54,6 +54,7 @@
 | [小松](小松.md) | Komatsu | KMTUY/KMTUF | 15 |
 | [京瓷](京瓷.md) | Kyocera | KYOCY | 15 |
 | [联想](联想.md) | Lenovo | LNVGY/LNVGF | 26 |
+| [领英](领英.md) | LinkedIn | owned by MSFT | 5 |
 | [欧莱雅](欧莱雅.md) | L'Oreal | EPA:OR | 5 |
 | [瑞幸咖啡](瑞幸咖啡.md) | Luckin Coffee | delisted | 5 |
 | [前田工纤集团](前田工纤集团.md) | Maeda Kosen Co., Ltd | unavailable | 1 |

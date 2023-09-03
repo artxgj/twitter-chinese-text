@@ -31,6 +31,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [原子](原子.md) | atom |
 | [离子](离子.md) | ion |
 | [氢](氢.md) | hydrogen |
+| [氚](氚.md) | tritium or hydrogen-3 (symbol T or 3H) |
 | [氦](氦.md) | helium |
 | [锂](锂.md) | lithium |
 | [碳](碳.md) | carbon |
@@ -54,6 +55,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铑](铑.md) | rhodium |
 | [钯](钯.md) | palladium |
 | [钕](钕.md) | neodynium |
+| [铽](铽.md) | terbium |
 | [镝](镝.md) | dysprosium |
 | [白金](白金.md) | platinum |
 | [铂金](铂金.md) | platinum |
@@ -239,6 +241,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [榴梿](榴梿.md) | durian |
 | [凤梨](凤梨.md) | pineapple |
 | [石榴](石榴.md) | pomegranate |
+| [龙果](龙果.md) | dragon fruit |
 | [月饼](月饼.md) | mooncake |
 | [红薯](红薯.md) | sweet potato |
 | [马铃薯](马铃薯.md) | potato; white potato |
@@ -607,6 +610,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [剑拔弩张](剑拔弩张.md) | with swords drawn and bows bent; at daggers draw; (figurative) a state of mutual hostility |
 | [忧心忡忡](忧心忡忡.md) | heavy-hearted; weighed down with anxieties; care-laden |
 | [旁观者清](旁观者清.md) | The spectator sees most clearly; an outsider can see things more clearly or objectively than those involved. |
+| [踌躇满志](踌躇满志.md) | enormously proud of one's success; smug; complacent |
+| [忧心忡忡](忧心忡忡.md) | heavy-hearted; care-laden; weighed down with anxieties |
 ## Kingdom Animalia
 |  |  |
 | ----- | :---: |
@@ -1151,6 +1156,26 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [化妆品](化妆品.md) | cosmetics |
 | [讽刺](讽刺.md) | satirize; ridicule; taunt; mock |
 | [奢侈品](奢侈品.md) | luxury goods |
+| [邮轮](邮轮.md) | cruise liner; ocean liner; mail boat |
+| [炮轰](炮轰.md) | bombard; shell |
+| [违纪](违纪.md) | violate (or breach) discipline |
+| [违法](违法.md) | break the law |
+| [正宗](正宗.md) | authentic; genuine |
+| [品尝](品尝.md) | taste; sample; savour |
+| [超导体](超导体.md) | superconductor |
+| [重叠](重叠.md) | overlap; superimpose; one on top of another |
+| [顶尖](顶尖.md) | the best; first-rate; tip-top |
+| [相比之下](相比之下.md) | by comparison |
+| [混乱](混乱.md) | chaotic; confused; disorderly |
+| [蓝筹](蓝筹.md) | blue chip (stock) |
+| [深陷](深陷.md) | to be deeply in (trouble, debt, etc.); deep set (eyes) |
+| [福岛](福岛.md) | Fukushima |
+| [解馋](解馋.md) | satisfy a food craving |
+| [宵夜](宵夜.md) | food taken late at night; midnight snack |
+| [矮星](矮星.md) | dwarf star |
+| [星系](星系.md) | galaxy |
+| [仙女座](仙女座.md) | Andromeda |
+| [牛郎织女](牛郎织女.md) | The Cowherd and the Weaver Girl (Altair and Vega) |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1214,6 +1239,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [福建](福建.md) | Hok-kiàn/Hokkien (Fujian in Mandarin) |
 | [闽](闽.md) | bân (Min in Mandarin), short name for Fujian Province |
 | [闽南](闽南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
+| [台湾](台湾.md) | Taiwan |
 | [新加坡](新加坡.md) | Singapore |
 | [槟城](槟城.md) | Penang |
 | [马来西亚](马来西亚.md) | Malaysia |
@@ -1249,6 +1275,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [得克萨斯](得克萨斯.md) | Texas |
 | [亚利桑那](亚利桑那.md) | Arizona |
 | [佛罗里达](佛罗里达.md) | Florida |
+| [夏威夷](夏威夷.md) | Hawaii |
 ## World Cup 2022 Countries
 |  |  |
 | ----- | :---: |
