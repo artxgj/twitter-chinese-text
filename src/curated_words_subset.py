@@ -35,4 +35,3 @@ if __name__ == '__main__':
     generate_curated_words_study(words_toml_path=args.words_toml_path,
                                  curated_words_study_path=args.curated_words_study_path)
 
-

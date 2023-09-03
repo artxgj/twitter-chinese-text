@@ -1735,6 +1735,10 @@ en = "cough"
 hz = "失智症"
 en = "dementia"
 
+[[health]]
+hz = "白化病"
+en = "alibinism"
+
 
 [[energy]]
 hz = "天然气"
@@ -2282,6 +2286,10 @@ en = "Greece"
 [[places]]
 hz = "米兰"
 en = "Milan"
+
+[[places]]
+hz = "柏林"
+en = "Berlin"
 
 [[places]]
 hz = "布基纳法索"
@@ -4964,6 +4972,66 @@ en = "Andromeda"
 [[names-words]]
 hz = "牛郎织女"
 en = "The Cowherd and the Weaver Girl (Altair and Vega)"
+
+[[names-words]]
+hz = "洗黑钱"
+en = "money laundering"
+
+[[names-words]]
+hz = "营销"
+en = "(verb) market; marketing"
+
+[[names-words]]
+hz = "雕塑"
+en = "sculpture; sculpt"
+
+[[names-words]]
+hz = "教宗"
+en = "pope; pontiff"
+
+[[names-words]]
+hz = "生涯"
+en = "career; profession"
+
+[[names-words]]
+hz = "模特"
+en = "(fashion) model (loanword)"
+
+[[names-words]]
+hz = "万贯"
+en = "very wealthy; millionaire"
+
+[[names-words]]
+hz = "揭露"
+en = "expose; unmask; ferret out; to disclose"
+
+[[names-words]]
+hz = "情妇"
+en = "mistres; paramour (of married man)"
+
+[[names-words]]
+hz = "贼"
+en = "thief; traitor"
+
+[[names-words]]
+hz = "墓"
+en = "grave; tomb; mausoleum"
+
+[[names-words]]
+hz = "一带一路"
+en = "Belt and Road Initiative"
+
+[[names-words]]
+hz = "珠穆朗玛峰"
+en = "Mount Everest"
+
+[[names-words]]
+hz = "付款"
+en = "to pay a sum of money; payment"
+
+[[names-words]]
+hz = "微信"
+en = "WeChat"
 
 
 [[people]]

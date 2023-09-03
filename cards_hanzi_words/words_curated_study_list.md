@@ -588,6 +588,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [疟疾](疟疾.md) | malaria |
 | [咳嗽](咳嗽.md) | cough |
 | [失智症](失智症.md) | dementia |
+| [白化病](白化病.md) | alibinism |
 ## Idioms
 |  |  |
 | ----- | :---: |
@@ -1175,6 +1176,21 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [星系](星系.md) | galaxy |
 | [仙女座](仙女座.md) | Andromeda |
 | [牛郎织女](牛郎织女.md) | The Cowherd and the Weaver Girl (Altair and Vega) |
+| [洗黑钱](洗黑钱.md) | money laundering |
+| [营销](营销.md) | (verb) market; marketing |
+| [雕塑](雕塑.md) | sculpture; sculpt |
+| [教宗](教宗.md) | pope; pontiff |
+| [生涯](生涯.md) | career; profession |
+| [模特](模特.md) | (fashion) model (loanword) |
+| [万贯](万贯.md) | very wealthy; millionaire |
+| [揭露](揭露.md) | expose; unmask; ferret out; to disclose |
+| [情妇](情妇.md) | mistres; paramour (of married man) |
+| [贼](贼.md) | thief; traitor |
+| [墓](墓.md) | grave; tomb; mausoleum |
+| [一带一路](一带一路.md) | Belt and Road Initiative |
+| [珠穆朗玛峰](珠穆朗玛峰.md) | Mount Everest |
+| [付款](付款.md) | to pay a sum of money; payment |
+| [微信](微信.md) | WeChat |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1265,6 +1281,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [土耳其](土耳其.md) | Türkiye |
 | [希腊](希腊.md) | Greece |
 | [米兰](米兰.md) | Milan |
+| [柏林](柏林.md) | Berlin |
 | [布基纳法索](布基纳法索.md) | Burkina Faso |
 | [撒哈拉](撒哈拉.md) | Sahara |
 | [秘鲁](秘鲁.md) | Peru |
