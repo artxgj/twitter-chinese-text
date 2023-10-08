@@ -22,6 +22,7 @@
 | [比亚迪](比亚迪.md) | BYD | BYDDF | 97 |
 | [字节跳动](字节跳动.md) | ByteDance | (private) | 51 |
 | [佳能](佳能.md) | Canon | CAJ | 24 |
+| [香奈儿](香奈儿.md) | Chanel | (private) | 2 |
 | [花旗集团](花旗集团.md) | Citigroup | C | 22 |
 | [可口可乐](可口可乐.md) | Coca-Cola | K | 15 |
 | [第一三共](第一三共.md) | Daiichi Sankyo | DSNKY/DSKYF | 4 |
