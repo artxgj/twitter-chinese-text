@@ -94,6 +94,7 @@
 | [资生堂](资生堂.md) | Shiseido | SSDOY | 11 |
 | [西门子](西门子.md) | Siemens | SIEGY | 9 |
 | [希克斯](希克斯.md) | SIIX | Tokyo Stock Exchange | 1 |
+| [中芯国际](中芯国际.md) | SMIC | 0981.HK | 26 |
 | [软银](软银.md) | SoftBank | SFTBF | 74 |
 | [索尼](索尼.md) | SONY | SONY | 152 |
 | [星巴克](星巴克.md) | Starbucks | SBUX | 31 |
