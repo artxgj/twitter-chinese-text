@@ -54,6 +54,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铟](铟.md) | indium |
 | [铑](铑.md) | rhodium |
 | [钯](钯.md) | palladium |
+| [铯](铯.md) | cesium |
 | [钕](钕.md) | neodynium |
 | [铽](铽.md) | terbium |
 | [镝](镝.md) | dysprosium |
@@ -100,6 +101,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [小麦](小麦.md) | wheat |
 | [大豆](大豆.md) | soybeans |
 | [大米](大米.md) | rice |
+| [稻米](稻米.md) | rice (crop); rice paddy |
 | [谷物](谷物.md) | grain; cereal |
 | [砂糖](砂糖.md) | granulated sugar |
 | [化肥](化肥.md) | fertilizer |
@@ -199,10 +201,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [五花肉](五花肉.md) | pork belly |
 | [培根](培根.md) | bacon |
 | [龙虾](龙虾.md) | lobster |
+| [煎蕊](煎蕊.md) | cendol |
 | [炒粿条](炒粿条.md) | char kway teow |
 | [水粿](水粿.md) | chwee kueh |
 | [叻沙](叻沙.md) | laksa |
 | [椰浆饭](椰浆饭.md) | nasi lemak; lit. coconut milk rice |
+| [印度煎饼](印度煎饼.md) | roti canai |
 | [沙爹](沙爹.md) | satay |
 | [海南鸡饭](海南鸡饭.md) | Hainanese chicken rice |
 | [清汤](清汤.md) | clear soup |
@@ -612,6 +616,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [忧心忡忡](忧心忡忡.md) | heavy-hearted; weighed down with anxieties; care-laden |
 | [旁观者清](旁观者清.md) | The spectator sees most clearly; an outsider can see things more clearly or objectively than those involved. |
 | [踌躇满志](踌躇满志.md) | enormously proud of one's success; smug; complacent |
+| [昙花一现](昙花一现.md) | flash in the pan (idiom); short-lived; (lit.) night-blooming cactus shows once |
 ## Kingdom Animalia
 |  |  |
 | ----- | :---: |
@@ -1191,6 +1196,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [珠穆朗玛峰](珠穆朗玛峰.md) | Mount Everest |
 | [付款](付款.md) | to pay a sum of money; payment |
 | [微信](微信.md) | WeChat |
+| [去中国化](去中国化.md) | desinicize |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |

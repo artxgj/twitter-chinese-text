@@ -312,6 +312,10 @@ hz = "龙虾"
 en = "lobster"
 
 [[dishes-vegetables-drinks]]
+hz = "煎蕊"
+en = "cendol"
+
+[[dishes-vegetables-drinks]]
 hz = "炒粿条"
 en = "char kway teow"
 
@@ -326,6 +330,10 @@ en = "laksa"
 [[dishes-vegetables-drinks]]
 hz = "椰浆饭"
 en = "nasi lemak; lit. coconut milk rice"
+
+[[dishes-vegetables-drinks]]
+hz = "印度煎饼"
+en = "roti canai"
 
 [[dishes-vegetables-drinks]]
 hz = "沙爹"
@@ -640,6 +648,9 @@ en = "The spectator sees most clearly; an outsider can see things more clearly o
 hz = "踌躇满志"
 en = "enormously proud of one's success; smug; complacent"
 
+[[idioms]]
+hz = "昙花一现"
+en = "flash in the pan (idiom); short-lived; (lit.) night-blooming cactus shows once"
 
 [[economy-markets]]
 hz = "央行"
@@ -1910,6 +1921,10 @@ hz = "钯"
 en = "palladium"
 
 [[chemistry]]
+hz = "铯"
+en = "cesium"
+
+[[chemistry]]
 hz = "钕"
 en = "neodynium"
 
@@ -2791,6 +2806,10 @@ en = "soybeans"
 [[commodities_agri]]
 hz = "大米"
 en = "rice"
+
+[[commodities_agri]]
+hz = "稻米"
+en = "rice (crop); rice paddy"
 
 [[commodities_agri]]
 hz = "谷物"
@@ -5032,6 +5051,10 @@ en = "to pay a sum of money; payment"
 [[names-words]]
 hz = "微信"
 en = "WeChat"
+
+[[names-words]]
+hz = "去中国化"
+en = "desinicize"
 
 
 [[people]]
