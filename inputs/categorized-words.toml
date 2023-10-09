@@ -480,6 +480,10 @@ hz = "榴梿"
 en = "durian"
 
 [[dishes-vegetables-drinks]]
+hz = "菠萝蜜"
+en = "jackfruit"
+
+[[dishes-vegetables-drinks]]
 hz = "凤梨"
 en = "pineapple"
 
@@ -651,6 +655,11 @@ en = "enormously proud of one's success; smug; complacent"
 [[idioms]]
 hz = "昙花一现"
 en = "flash in the pan (idiom); short-lived; (lit.) night-blooming cactus shows once"
+
+[[idioms]]
+hz = "洋洋洒洒"
+en = "voluminous; of great length; flowing (of speeches, articles, etc.)"
+
 
 [[economy-markets]]
 hz = "央行"
@@ -1971,6 +1980,10 @@ en = "uranium"
 [[chemistry]]
 hz = "二氧化碳"
 en = "carbon dioxide"
+
+[[chemistry]]
+hz = "二氧化硫"
+en = "sulfur dioxide"
 
 [[chemistry]]
 hz = "一氧化二氮"
@@ -5055,6 +5068,26 @@ en = "WeChat"
 [[names-words]]
 hz = "去中国化"
 en = "desinicize"
+
+[[names-words]]
+hz = "搜索"
+en = "search (computing); search for; hunt for; scout around"
+
+[[names-words]]
+hz = "灵活"
+en = "nimble; agile; quick; flexible; elastic"
+
+[[names-words]]
+hz = "接口"
+en = "interface; gateway; port; connector"
+
+[[names-words]]
+hz = "原则"
+en = "principle; doctrine"
+
+[[names-words]]
+hz = "彗星"
+en = "comet"
 
 
 [[people]]

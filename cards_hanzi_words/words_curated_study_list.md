@@ -67,6 +67,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钍](钍.md) | thorium |
 | [铀](铀.md) | uranium |
 | [二氧化碳](二氧化碳.md) | carbon dioxide |
+| [二氧化硫](二氧化硫.md) | sulfur dioxide |
 | [一氧化二氮](一氧化二氮.md) | nitrous oxide |
 | [氨](氨.md) | ammonia |
 | [甲烷](甲烷.md) | methane |
@@ -243,6 +244,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [麻花](麻花.md) | fried dough twist |
 | [罗汉果](罗汉果.md) | mangosteen |
 | [榴梿](榴梿.md) | durian |
+| [菠萝蜜](菠萝蜜.md) | jackfruit |
 | [凤梨](凤梨.md) | pineapple |
 | [石榴](石榴.md) | pomegranate |
 | [龙果](龙果.md) | dragon fruit |
@@ -617,6 +619,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [旁观者清](旁观者清.md) | The spectator sees most clearly; an outsider can see things more clearly or objectively than those involved. |
 | [踌躇满志](踌躇满志.md) | enormously proud of one's success; smug; complacent |
 | [昙花一现](昙花一现.md) | flash in the pan (idiom); short-lived; (lit.) night-blooming cactus shows once |
+| [洋洋洒洒](洋洋洒洒.md) | voluminous; of great length; flowing (of speeches, articles, etc.) |
 ## Kingdom Animalia
 |  |  |
 | ----- | :---: |
@@ -1197,6 +1200,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [付款](付款.md) | to pay a sum of money; payment |
 | [微信](微信.md) | WeChat |
 | [去中国化](去中国化.md) | desinicize |
+| [搜索](搜索.md) | search (computing); search for; hunt for; scout around |
+| [灵活](灵活.md) | nimble; agile; quick; flexible; elastic |
+| [接口](接口.md) | interface; gateway; port; connector |
+| [原则](原则.md) | principle; doctrine |
+| [彗星](彗星.md) | comet |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
