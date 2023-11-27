@@ -28,6 +28,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Chemistry
 |  |  |
 | ----- | :---: |
+| [元素週期表](元素週期表.md) | periodic table of the elements |
 | [原子](原子.md) | atom |
 | [离子](离子.md) | ion |
 | [氢](氢.md) | hydrogen |
@@ -125,9 +126,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [红外](红外.md) | infrared |
 | [摄像头](摄像头.md) | camera |
 | [动作捕捉](动作捕捉.md) | motion capture |
-| [半导体](半导体.md) | semiconductor |
+| [半导体](半导体.md)/[半導體](半導體.md) | semiconductor |
 | [芯片](芯片.md) | chip |
 | [纳米](纳米.md) | nanometer |
+| [奈米](奈米.md) | nanometer |
 | [摩尔定律](摩尔定律.md) | Moore’s Law |
 | [堆叠](堆叠.md) | stack (as in 3D stacking) |
 | [先进封装](先进封装.md) | advanced packaging |
@@ -273,9 +275,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [央行](央行.md) | central bank |
 | [货币政策](货币政策.md) | monetary policy |
 | [利率](利率.md) | interest rate |
-| [通胀](通胀.md) | inflation |
+| [通胀](通胀.md)/[通膨](通膨.md) | inflation |
 | [通货膨胀](通货膨胀.md) | inflation |
 | [滞胀](滞胀.md) | stagflation |
+| [通縮](通縮.md) | deflation |
 | [衰退](衰退.md) | decline; recession |
 | [量化宽松](量化宽松.md) | quantitative easing |
 | [缩减购债](缩减购债.md) | taper; tapering |
@@ -337,6 +340,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [债务上限](债务上限.md) | debt ceiling |
 | [裁员](裁员.md) | reduce (or cut) staff; layoff employees |
 | [销售额](销售额.md) | sales (volume) |
+| [銷量](銷量.md) | sales volume |
 | [合资企业](合资企业.md) | joint venture |
 | [国内生产总值](国内生产总值.md) | GDP |
 | [兼职](兼职.md) | part-time job; hold several jobs at once |
@@ -409,7 +413,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Favorites
 |  |  |
 | ----- | :---: |
-| [供应链](供应链.md) | supply chain |
+| [供应链](供应链.md)/[供應鏈](供應鏈.md) | supply chain |
 | [港口](港口.md) | port |
 | [物流](物流.md) | logistics |
 | [箱船](箱船.md) | container ship |
@@ -422,6 +426,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [陶瓷](陶瓷.md) | ceramics; porcelein |
 | [逻辑](逻辑.md) | logic |
 | [液晶](液晶.md) | liquid crystal |
+| [晶體](晶體.md) | crystal |
 | [多晶硅](多晶硅.md) | polycrystalline silicon |
 | [模拟](模拟.md) | analog; simulation; to simulate |
 | [量子](量子.md) | quantum |
@@ -459,7 +464,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [液压挖掘机](液压挖掘机.md) | hydraulic excavator |
 | [叉车](叉车.md) | forklift |
 | [拖拉机](拖拉机.md) | tractor |
-| [纯电动汽车](纯电动汽车.md) | pure electric vehicle |
+| [纯电动汽车](纯电动汽车.md)/[純電動汽車](純電動汽車.md) | pure electric vehicle |
 | [折纸](折纸.md) | origami |
 | [小行星](小行星.md) | asteroid |
 | [宇宙](宇宙.md) | universe; cosmos; space; void |
@@ -711,7 +716,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [反弹](反弹.md) | rebound |
 | [躲过](躲过.md) | dodge |
 | [萨哈林](萨哈林.md) | Sakhalin |
-| [资源](资源.md) | resource |
+| [资源](资源.md)/[資源](資源.md) | resource |
 | [起重机](起重机.md) | crane; hoist; derrick |
 | [众议院](众议院.md) | House of Representatives |
 | [参议院](参议院.md) | Senate |
@@ -738,7 +743,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [突破](突破.md) | breakthrough; to make a breakthrough |
 | [蔓延](蔓延.md) | spread; stretch; extend; infest |
 | [截至](截至.md) | by (a specified time); up to; as of |
-| [摆脱](摆脱.md) | shake off; cast off; break away from |
+| [摆脱](摆脱.md)/[擺脫](擺脫.md) | shake off; cast off; break away from; get rid of |
 | [配备](配备.md) | provide (manpower or equipment); equip; fit out; allocate; deploy |
 | [引擎](引擎.md) | engine |
 | [触发](触发.md) | trigger; spark; touch off |
@@ -845,7 +850,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [优先](优先.md) | have priority |
 | [品牌](品牌.md) | brand; make |
 | [折叠式](折叠式.md) | foldable; folding (i.e., portable) |
-| [市占率](市占率.md) | market share |
+| [市占率](市占率.md)/[市佔率](市佔率.md) | market share |
 | [战略](战略.md) | strategy |
 | [储备](储备.md) | reserve; store for future use |
 | [罕见](罕见.md) | seldom seen; rare |
@@ -936,6 +941,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [诡异](诡异.md) | strange; abnormal |
 | [圈](圈.md) | circle; ring; domain; group; enclose; encircle; mark with a circle; raise or make money (colloquial) |
 | [线路](线路.md) | circuit; line; communication line; route; road; railway track; bus route |
+| [電路](電路.md) | (electric) circuit |
 | [延缓](延缓.md) | delay; postpone; defer; put off |
 | [萎缩](萎缩.md) | wither; shrivel; shrink; sag; atrophy |
 | [衰老](衰老.md) | to age; to deteriorate with age; old and weak |
@@ -1161,7 +1167,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [权力](权力.md) | power; authority |
 | [当局者迷](当局者迷.md) | one directly concerned lacks objectivity |
 | [酷暑](酷暑.md) | intense heat; extremely hot weather; intense heat of summer |
-| [化妆品](化妆品.md) | cosmetics |
+| [化妆品](化妆品.md)/[化粧品](化粧品.md) | cosmetics |
 | [讽刺](讽刺.md) | satirize; ridicule; taunt; mock |
 | [奢侈品](奢侈品.md) | luxury goods |
 | [邮轮](邮轮.md) | cruise liner; ocean liner; mail boat |
@@ -1205,6 +1211,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [接口](接口.md) | interface; gateway; port; connector |
 | [原则](原则.md) | principle; doctrine |
 | [彗星](彗星.md) | comet |
+| [積極](積極.md) | positive |
+| [逆向](逆向.md) | backwards; reverse direction |
+| [万圣节前夜](万圣节前夜.md) | Halloween |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1272,6 +1281,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [新加坡](新加坡.md) | Singapore |
 | [槟城](槟城.md) | Penang |
 | [马来西亚](马来西亚.md) | Malaysia |
+| [缅甸](缅甸.md) | Myanmar |
 | [峇厘岛](峇厘岛.md) | Bali |
 | [东南亚](东南亚.md) | Southeast Asia |
 | [印度](印度.md) | India |
@@ -1290,12 +1300,15 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冰岛](冰岛.md) | Iceland |
 | [格陵兰](格陵兰.md) | Greenland |
 | [苏格兰](苏格兰.md) | Scotland |
+| [米兰](米兰.md) | Milan |
+| [柏林](柏林.md) | Berlin |
 | [黑山](黑山.md) | Montenegro |
 | [卡帕多奇亚](卡帕多奇亚.md) | Cappadocia |
 | [土耳其](土耳其.md) | Türkiye |
 | [希腊](希腊.md) | Greece |
-| [米兰](米兰.md) | Milan |
-| [柏林](柏林.md) | Berlin |
+| [加沙](加沙.md) | Gaza |
+| [巴勒斯坦](巴勒斯坦.md) | Palestine |
+| [以色列](以色列.md) | Israel |
 | [布基纳法索](布基纳法索.md) | Burkina Faso |
 | [撒哈拉](撒哈拉.md) | Sahara |
 | [秘鲁](秘鲁.md) | Peru |

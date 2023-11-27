@@ -1,28 +1,31 @@
 # Companies/Brands
-        
+
 | Chinese Name | English Name | U.S. Ticker | Number of Tweets |
 | ----- | ----- | :---: | :---: |
 | [阿迪达斯](阿迪达斯.md) | Adidas | ADDYY | 10 |
+| [超微](超微.md) | Advanced Micro Devices (AMD) | AMD | 2 |
 | [空中客车](空中客车.md) | Airbus | EADSY | 12 |
 | [阿里巴巴](阿里巴巴.md) | Alibaba | BABA | 132 |
 | [全日空](全日空.md) | All Nippon Airways (ANA) | ALNPY | 18 |
-| [亚马逊](亚马逊.md) | Amazon | AMZN | 184 |
+| [亚马逊](亚马逊.md)/[亞馬遜](亞馬遜.md) | Amazon | AMZN | 186 |
 | [苹果](苹果.md) | Apple | AAPL | 695 |
 | [应用材料](应用材料.md) | Applied Materials | AMAT | 6 |
 | [朝日](朝日.md) | Asahi Group Holdings Ltd. | ASBRF | 5 |
-| [亚瑟士](亚瑟士.md) | ASICS | ASCCY | 15 |
+| [亚瑟士](亚瑟士.md)/[亞瑟士](亞瑟士.md) | ASICS | ASCCY | 16 |
 | [阿斯麦](阿斯麦.md) | ASML | ASML | 17 |
 | [美国银行](美国银行.md) | Bank of America | BAC | 22 |
 | [伯克希尔哈撒韦公司](伯克希尔哈撒韦公司.md) | Berkshire Hathaway | BRK.A | 27 |
 | [币安](币安.md) | Binance | (private) | 40 |
+| [暴雪](暴雪.md) | Blizzard | AIY.DE | 41 |
 | [宝马](宝马.md) | BMW | BMWYY | 29 |
 | [波音](波音.md) | Boeing | BA | 69 |
 | [桥水](桥水.md) | Bridgewater | hedge fund | 14 |
 | [博通](博通.md) | Broadcom | AVGO | 11 |
-| [比亚迪](比亚迪.md) | BYD | BYDDF | 102 |
+| [比亚迪](比亚迪.md)/[比亞迪](比亞迪.md) | BYD | BYDDF | 104 |
 | [字节跳动](字节跳动.md) | ByteDance | (private) | 51 |
 | [佳能](佳能.md) | Canon | CAJ | 26 |
 | [香奈儿](香奈儿.md) | Chanel | (private) | 2 |
+| [雪佛龙](雪佛龙.md)/[雪佛龍](雪佛龍.md) | Chevron | CVX | 11 |
 | [花旗集团](花旗集团.md) | Citigroup | C | 24 |
 | [可口可乐](可口可乐.md) | Coca-Cola | K | 16 |
 | [第一三共](第一三共.md) | Daiichi Sankyo | DSNKY/DSKYF | 5 |
@@ -38,15 +41,16 @@
 | [富士胶片](富士胶片.md) | Fujifilm | FUJIY/FUJIF | 12 |
 | [富士康](富士康.md) | FoxConn | (see Hon Hai) | 81 |
 | [吉利](吉利.md) | Geely Automobile Holdings Ltd | GELYY | 33 |
-| [通用汽车](通用汽车.md) | General Motors | GM | 32 |
+| [通用汽车](通用汽车.md)/[通用汽車](通用汽車.md) | General Motors | GM | 33 |
 | [高盛](高盛.md) | Goldman Sachs | GS | 80 |
 | [谷歌](谷歌.md) | Google | GOOG | 225 |
+| [惠普](惠普.md) | Hewlett Packard | HPE | 5 |
 | [海信集团](海信集团.md) | Hisense | (private) | 2 |
 | [日立](日立.md) | Hitachi | HTHIY | 45 |
 | [鸿海](鸿海.md) | Hon Hai Technology Group | HNHPF | 107 |
 | [本田](本田.md) | Honda | HMC | 145 |
 | [汇丰](汇丰.md) | HSBC | HSBC | 35 |
-| [华为](华为.md) | Huawei | (private) | 200 |
+| [华为](华为.md)/[華為](華為.md) | Huawei | (private) | 201 |
 | [英特尔](英特尔.md) | Intel | INTC | 105 |
 | [日本航空](日本航空.md) | Japan Airlines (JAL) | JAPSY | 23 |
 | [摩根大通](摩根大通.md) | JPMorgan Chase | JPM | 67 |
@@ -58,6 +62,7 @@
 | [领英](领英.md) | LinkedIn | owned by MSFT | 6 |
 | [欧莱雅](欧莱雅.md) | L'Oreal | EPA:OR | 5 |
 | [瑞幸咖啡](瑞幸咖啡.md) | Luckin Coffee | delisted | 7 |
+| [麦格理](麦格理.md) | Macquarie Group Limited | MQG.AX | 0 |
 | [前田工纤集团](前田工纤集团.md) | Maeda Kosen Co., Ltd | unavailable | 1 |
 | [万事达卡](万事达卡.md) | Mastercard | MA | 10 |
 | [马自达](马自达.md) | Mazda | MZDAY | 27 |
@@ -71,11 +76,12 @@
 | [莫德纳](莫德纳.md) | Moderna | MRNA | 55 |
 | [无印良品](无印良品.md) | MUJI | RYKKY | 11 |
 | [村田](村田.md) | Murata Manufacturing Co. Ltd | MRAAF/MRAAY | 23 |
+| [雀巢](雀巢.md) | Nestlé S.A. | NSRGF | 4 |
 | [日本电产](日本电产.md) | Nidec | NJDCY | 14 |
 | [耐克](耐克.md) | Nike | NKE | 23 |
 | [任天堂](任天堂.md) | Nintendo | NTDOY/NTDOF | 52 |
 | [日产](日产.md) | Nissan | NSANY | 92 |
-| [英伟达](英伟达.md) | Nvidia | NVDA | 120 |
+| [英伟达](英伟达.md)/[英偉達](英偉達.md) | Nvidia | NVDA | 121 |
 | [甲骨文](甲骨文.md) | Oracle | ORCL | 11 |
 | [华侨银行](华侨银行.md) | OCBC Bank | OVCHY | 6 |
 | [松下](松下.md) | Panasonic | PCRFY | 75 |
@@ -109,12 +115,14 @@
 | [东丽](东丽.md) | Toray | TRYIY | 23 |
 | [东芝](东芝.md) | Toshiba | TOSBF | 56 |
 | [东洋钢业](东洋钢业.md) | Toyo Steel | (private) | 1 |
-| [丰田](丰田.md) | Toyota | TM | 336 |
+| [丰田](丰田.md)/[豐田](豐田.md) | Toyota | TM | 338 |
+| [傳音](傳音.md) | Transsion | 688036.SS | 1 |
 | [台积电](台积电.md) | TSMC | TSMC | 312 |
 | [优步](优步.md) | Uber | UBER | 15 |
 | [优衣库](优衣库.md) | Uniqlo | FRCOY (parent) | 47 |
-| [大众](大众.md) | Volkswagen | VLKAF/VWAPY | 110 |
+| [大众](大众.md)/[大眾](大眾.md) | Volkswagen | VLKAF/VWAPY | 111 |
 | [沃尔玛](沃尔玛.md) | Walmart | WMT | 29 |
+| [旺旺](旺旺.md) | Want Want | 0151.HK | 1 |
 | [富国银行](富国银行.md) | Wells Fargo | WFC | 9 |
 | [小米](小米.md) | Xiaomi | XIACY | 64 |
 | [雅马哈](雅马哈.md) | Yamaha | YAMHY | 12 |

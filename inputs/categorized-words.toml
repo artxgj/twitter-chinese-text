@@ -674,7 +674,7 @@ hz = "利率"
 en = "interest rate"
 
 [[economy-markets]]
-hz = "通胀"
+hz = "通胀/通膨"
 en = "inflation"
 
 [[economy-markets]]
@@ -684,6 +684,10 @@ en = "inflation"
 [[economy-markets]]
 hz = "滞胀"
 en = "stagflation"
+
+[[economy-markets]]
+hz = "通縮"
+en = "deflation"
 
 [[economy-markets]]
 hz = "衰退"
@@ -930,6 +934,10 @@ hz = "销售额"
 en = "sales (volume)"
 
 [[economy-markets]]
+hz = "銷量"
+en = "sales volume"
+
+[[economy-markets]]
 hz = "合资企业"
 en = "joint venture"
 
@@ -1027,7 +1035,7 @@ en = "market price; quotation of market price; the current market situation"
 
 
 [[favorites]]
-hz = "供应链"
+hz = "供应链/供應鏈"
 en = "supply chain"
 
 [[favorites]]
@@ -1077,6 +1085,10 @@ en = "logic"
 [[favorites]]
 hz = "液晶"
 en = "liquid crystal"
+
+[[favorites]]
+hz = "晶體"
+en = "crystal"
 
 [[favorites]]
 hz = "多晶硅"
@@ -1227,7 +1239,7 @@ hz = "拖拉机"
 en = "tractor"
 
 [[favorites]]
-hz = "纯电动汽车"
+hz = "纯电动汽车/純電動汽車"
 en = "pure electric vehicle"
 
 [[favorites]]
@@ -1826,6 +1838,10 @@ en = "shale"
 
 
 [[chemistry]]
+hz = "元素週期表"
+en = "periodic table of the elements"
+
+[[chemistry]]
 hz = "原子"
 en = "atom"
 
@@ -2224,6 +2240,10 @@ hz = "马来西亚"
 en = "Malaysia"
 
 [[places]]
+hz = "缅甸"
+en = "Myanmar"
+
+[[places]]
 hz = "峇厘岛"
 en = "Bali"
 
@@ -2296,6 +2316,14 @@ hz = "苏格兰"
 en = "Scotland"
 
 [[places]]
+hz = "米兰"
+en = "Milan"
+
+[[places]]
+hz = "柏林"
+en = "Berlin"
+
+[[places]]
 hz = "黑山"
 en = "Montenegro"
 
@@ -2312,12 +2340,16 @@ hz = "希腊"
 en = "Greece"
 
 [[places]]
-hz = "米兰"
-en = "Milan"
+hz = "加沙"
+en = "Gaza"
 
 [[places]]
-hz = "柏林"
-en = "Berlin"
+hz = "巴勒斯坦"
+en = "Palestine"
+
+[[places]]
+hz = "以色列"
+en = "Israel"
 
 [[places]]
 hz = "布基纳法索"
@@ -2538,7 +2570,7 @@ hz = "动作捕捉"
 en = "motion capture"
 
 [[computing]]
-hz = "半导体"
+hz = "半导体/半導體"
 en = "semiconductor"
 
 [[computing]]
@@ -2547,6 +2579,10 @@ en = "chip"
 
 [[computing]]
 hz = "纳米"
+en = "nanometer"
+
+[[computing]]
+hz = "奈米"
 en = "nanometer"
 
 [[computing]]
@@ -3110,7 +3146,7 @@ hz = "萨哈林"
 en = "Sakhalin"
 
 [[names-words]]
-hz = "资源"
+hz = "资源/資源"
 en = "resource"
 
 [[names-words]]
@@ -3218,8 +3254,8 @@ hz = "截至"
 en = "by (a specified time); up to; as of"
 
 [[names-words]]
-hz = "摆脱"
-en = "shake off; cast off; break away from"
+hz = "摆脱/擺脫"
+en = "shake off; cast off; break away from; get rid of"
 
 [[names-words]]
 hz = "配备"
@@ -3646,7 +3682,7 @@ hz = "折叠式"
 en = "foldable; folding (i.e., portable)"
 
 [[names-words]]
-hz = "市占率"
+hz = "市占率/市佔率"
 en = "market share"
 
 [[names-words]]
@@ -4008,6 +4044,10 @@ en = "circle; ring; domain; group; enclose; encircle; mark with a circle; raise 
 [[names-words]]
 hz = "线路"
 en = "circuit; line; communication line; route; road; railway track; bus route"
+
+[[names-words]]
+hz = "電路"
+en = "(electric) circuit"
 
 [[names-words]]
 hz = "延缓"
@@ -4914,7 +4954,7 @@ hz = "酷暑"
 en = "intense heat; extremely hot weather; intense heat of summer"
 
 [[names-words]]
-hz = "化妆品"
+hz = "化妆品/化粧品"
 en = "cosmetics"
 
 [[names-words]]
@@ -5088,6 +5128,18 @@ en = "principle; doctrine"
 [[names-words]]
 hz = "彗星"
 en = "comet"
+
+[[names-words]]
+hz = "積極"
+en = "positive"
+
+[[names-words]]
+hz = "逆向"
+en = "backwards; reverse direction"
+
+[[names-words]]
+hz = "万圣节前夜"
+en = "Halloween"
 
 
 [[people]]

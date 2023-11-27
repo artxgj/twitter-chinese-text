@@ -1,12 +1,15 @@
-from collections import Counter
-from collections.abc import Mapping, Sequence
-from typing import Dict, Generator, Iterator, List, Optional
-from zoneinfo import ZoneInfo
 import csv
 import datetime
 import json
 import string
 import urllib.parse
+from collections import Counter
+from collections.abc import Mapping, Sequence
+from typing import Dict, Generator, Iterator, List, Optional
+from zoneinfo import ZoneInfo
+
+
+JIANTI_FANTI_DELIM = '/'
 
 
 def from_file_collection_json(filepath: str) -> Generator[Dict, None, None]:

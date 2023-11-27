@@ -66,7 +66,13 @@ def table_header(field_names: List[str], cells_align: List[str] = None) -> str:
 
 
 def table_row(row: List[str]) -> str:
-    trow = f" {CELL_DELIM} ".join([cell.replace('\n', '<br/>') for cell in row])
+    try:
+        trow = f" {CELL_DELIM} ".join([cell.replace('\n', '<br/>') for cell in row])
+    except AttributeError as e:
+        print("===")
+        print(e)
+        print(row)
+        raise e
     return f"{CELL_DELIM} {trow} {CELL_DELIM}"
 
 
