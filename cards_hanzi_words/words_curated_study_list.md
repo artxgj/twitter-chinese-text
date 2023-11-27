@@ -1269,7 +1269,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [江泽民](江泽民.md) | Jiang Zemin |
 | [马云](马云.md) | Jack Ma |
 | [周受资](周受资.md) | Shou Zi Chew |
-| [黄仁勋](黄仁勋.md) | Jensen Huang |
+| [黄仁勋](黄仁勋.md)/[黃仁勳](黃仁勳.md) | Jensen Huang |
 | [苏姿丰](苏姿丰.md) | Lisa Su |
 | [郭台铭](郭台铭.md) | Terry Gou |
 | [马英九](马英九.md) | Ma Ying-jeou |
