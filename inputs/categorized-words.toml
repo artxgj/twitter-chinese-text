@@ -938,7 +938,7 @@ hz = "销售额/銷售額"
 en = "sales (volume)"
 
 [[economy-markets]]
-hz = "銷量"
+hz = "销量/銷量"
 en = "sales volume"
 
 [[economy-markets]]
@@ -1155,7 +1155,7 @@ hz = "电磁"
 en = "electromagnetic; electromagnetism"
 
 [[favorites]]
-hz = "电池"
+hz = "电池/電池"
 en = "battery"
 
 [[favorites]]
@@ -2938,7 +2938,7 @@ hz = "数据"
 en = "data"
 
 [[names-words]]
-hz = "影响"
+hz = "影响/影響"
 en = "to have an effect on; to influence; to affect; to have an impact on; to disturb"
 
 [[names-words]]
@@ -2974,7 +2974,7 @@ hz = "引发"
 en = "initiate; touch (or spark, trigger) off"
 
 [[names-words]]
-hz = "开发"
+hz = "开发/開發"
 en = "develop; open up; exploit"
 
 [[names-words]]
@@ -3038,7 +3038,7 @@ hz = "推出"
 en = "launch; release; publish; introduce; put out"
 
 [[names-words]]
-hz = "推动"
+hz = "推动/推動"
 en = "push forward; promote; give impetus to"
 
 [[names-words]]
@@ -5177,6 +5177,26 @@ en = "text message; SMS; short letter; note"
 hz = "中指"
 en = "middle finger"
 
+[[names-words]]
+hz = "难以置信"
+en = "hard to believe; incredible"
+
+[[names-words]]
+hz = "百家姓"
+en = "The Book of Family Names"
+
+[[names-words]]
+hz = "系列"
+en = "series; set"
+
+[[names-words]]
+hz = "遗嘱"
+en = "testament; will"
+
+[[names-words]]
+hz = "强劲/強勁"
+en = "strong; powerful; robust"
+
 
 [[people]]
 hz = "贝多芬"
@@ -5237,6 +5257,14 @@ en = "Terry Gou"
 [[people]]
 hz = "马英九"
 en = "Ma Ying-jeou"
+
+[[people]]
+hz = "李光耀"
+en = "Lee Kuan Yew"
+
+[[people]]
+hz = "孙中山"
+en = "Sun Yat Sen"
 
 [[people]]
 hz = "杜特蒂"

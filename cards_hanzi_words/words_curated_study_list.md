@@ -343,7 +343,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [债务上限](债务上限.md) | debt ceiling |
 | [裁员](裁员.md) | reduce (or cut) staff; layoff employees |
 | [销售额](销售额.md)/[銷售額](銷售額.md) | sales (volume) |
-| [銷量](銷量.md) | sales volume |
+| [销量](销量.md)/[銷量](銷量.md) | sales volume |
 | [合资企业](合资企业.md) | joint venture |
 | [国内生产总值](国内生产总值.md) | GDP |
 | [兼职](兼职.md) | part-time job; hold several jobs at once |
@@ -445,7 +445,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [光纤](光纤.md) | optical fiber |
 | [发光二极管](发光二极管.md) | LED |
 | [电磁](电磁.md) | electromagnetic; electromagnetism |
-| [电池](电池.md) | battery |
+| [电池](电池.md)/[電池](電池.md) | battery |
 | [锂离子电池单元](锂离子电池单元.md) | lithium ion battery cell |
 | [稀土](稀土.md) | rare earth |
 | [微细化](微细化.md) | miniaturization |
@@ -663,7 +663,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [获得](获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](趋势.md) | trend |
 | [数据](数据.md) | data |
-| [影响](影响.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
+| [影响](影响.md)/[影響](影響.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
 | [计划](计划.md) | plan; project; programme |
 | [项目](项目.md) | project; item; (sports) event |
 | [最佳](最佳.md) | best; optimum; optimal; peak |
@@ -672,7 +672,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [冲击](冲击.md) | impact; shock; to attack |
 | [爆发](爆发.md) | erupt; burst out; break out |
 | [引发](引发.md) | initiate; touch (or spark, trigger) off |
-| [开发](开发.md) | develop; open up; exploit |
+| [开发](开发.md)/[開發](開發.md) | develop; open up; exploit |
 | [瓶颈](瓶颈.md) | bottleneck |
 | [效率](效率.md) | efficiency |
 | [超过](超过.md) | exceed |
@@ -688,7 +688,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [平衡](平衡.md) | balance; equilibrium |
 | [发布](发布.md) | issue; release |
 | [推出](推出.md) | launch; release; publish; introduce; put out |
-| [推动](推动.md) | push forward; promote; give impetus to |
+| [推动](推动.md)/[推動](推動.md) | push forward; promote; give impetus to |
 | [拖累](拖累.md) | encumber; be a burden on; implicate; involve |
 | [控制](控制.md) | control; govern; command; manipulate |
 | [担忧](担忧.md) | to worry; to be concerned; be anxious |
@@ -1222,6 +1222,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [困扰](困扰.md) | (verb) perplex; puzzle; trouble |
 | [短信](短信.md) | text message; SMS; short letter; note |
 | [中指](中指.md) | middle finger |
+| [难以置信](难以置信.md) | hard to believe; incredible |
+| [百家姓](百家姓.md) | The Book of Family Names |
+| [系列](系列.md) | series; set |
+| [遗嘱](遗嘱.md) | testament; will |
+| [强劲](强劲.md)/[強勁](強勁.md) | strong; powerful; robust |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1268,6 +1273,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [苏姿丰](苏姿丰.md) | Lisa Su |
 | [郭台铭](郭台铭.md) | Terry Gou |
 | [马英九](马英九.md) | Ma Ying-jeou |
+| [李光耀](李光耀.md) | Lee Kuan Yew |
+| [孙中山](孙中山.md) | Sun Yat Sen |
 | [杜特蒂](杜特蒂.md) | Duterte |
 | [尼克松](尼克松.md) | Nixon (Richard Milhaus) |
 | [邓紫棋](邓紫棋.md) | G.E.M. |
