@@ -31,7 +31,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [元素週期表](元素週期表.md) | periodic table of the elements |
 | [原子](原子.md) | atom |
 | [离子](离子.md) | ion |
-| [氢](氢.md) | hydrogen |
+| [氢](氢.md)/[氫](氫.md) | hydrogen |
 | [氚](氚.md) | tritium or hydrogen-3 (symbol T or 3H) |
 | [氦](氦.md) | helium |
 | [锂](锂.md) | lithium |
@@ -39,8 +39,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氮](氮.md) | nitrogen |
 | [钠](钠.md) | sodium |
 | [镁](镁.md) | magnesium |
-| [铝](铝.md) | aluminum |
-| [硅](硅.md) | silicon |
+| [铝](铝.md)/[鋁](鋁.md) | aluminum |
+| [硅](硅.md)/[矽](矽.md) | silicon |
 | [磷](磷.md) | phosphorus |
 | [硫](硫.md) | sulfur |
 | [氯](氯.md) | chlorine |
@@ -82,6 +82,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氧化钛](氧化钛.md) | titanium oxide |
 | [碳化硅](碳化硅.md) | silicon carbide |
 | [氮化镓](氮化镓.md) | gallium nitride |
+| [氮化鋁](氮化鋁.md) | aluminum nitride |
+| [氮化矽](氮化矽.md) | silicon nitride |
 | [氯化钾](氯化钾.md) | potassium chloride |
 | [异丙醇](异丙醇.md) | isopropanol |
 | [尿素](尿素.md) | urea |
@@ -161,7 +163,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [汇率](汇率.md) | exchange rate; conversion rate |
 | [黄金](黄金.md) | gold |
 | [布雷顿森林](布雷顿森林.md) | Bretton Woods |
-| [贬值](贬值.md) | devaluation; depreciation |
+| [贬值](贬值.md)/[貶值](貶值.md) | devaluation; depreciation |
 | [升值](升值.md) | to rise in value; to appreciate; appreciation |
 | [移动支付](移动支付.md) | mobile payment |
 | [钞票](钞票.md) | banknote; paper money; bill |
@@ -251,6 +253,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [石榴](石榴.md) | pomegranate |
 | [龙果](龙果.md) | dragon fruit |
 | [月饼](月饼.md) | mooncake |
+| [豆腐花](豆腐花.md) | tofu pudding; jellied tofu |
 | [红薯](红薯.md) | sweet potato |
 | [马铃薯](马铃薯.md) | potato; white potato |
 | [槟榔芋](槟榔芋.md) | taro |
@@ -295,9 +298,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [看跌期权](看跌期权.md) | put options |
 | [模因股](模因股.md) | meme stock |
 | [价格](价格.md) | price |
-| [涨幅](涨幅.md) | range or rate of rise in prices; extent of price rise |
+| [涨幅](涨幅.md)/[漲幅](漲幅.md) | range or rate of rise in prices; extent of price rise |
 | [跌幅](跌幅.md) | volume or amount of decrease or fall; extent of decrease |
-| [利润](利润.md) | profit |
+| [利润](利润.md)/[利潤](利潤.md) | profit |
 | [盈利](盈利.md) | profit |
 | [成本](成本.md) | costs (production, manufacturing) |
 | [收入](收入.md) | income; revenue; receipts; earnings; proceeds |
@@ -339,7 +342,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [去美元化](去美元化.md) | dedollarization |
 | [债务上限](债务上限.md) | debt ceiling |
 | [裁员](裁员.md) | reduce (or cut) staff; layoff employees |
-| [销售额](销售额.md) | sales (volume) |
+| [销售额](销售额.md)/[銷售額](銷售額.md) | sales (volume) |
 | [銷量](銷量.md) | sales volume |
 | [合资企业](合资企业.md) | joint venture |
 | [国内生产总值](国内生产总值.md) | GDP |
@@ -433,6 +436,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [波长](波长.md) | wavelength |
 | [微波](微波.md) | microwave |
 | [滤波器](滤波器.md) | wave filter |
+| [雷射](雷射.md) | laser |
 | [固态](固态.md) | solid state |
 | [光合作用](光合作用.md) | photosynthesis |
 | [光子](光子.md) | photon |
@@ -706,7 +710,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [修订](修订.md) | revise |
 | [现状](现状.md) | status quo |
 | [连接](连接.md) | to link; to join; connection; a link (on web page) |
-| [领域](领域.md) | field; sphere; domain; territory |
+| [领域](领域.md)/[領域](領域.md) | field; sphere; domain; territory |
 | [实现](实现.md) | realize; fulfill; carry out; bring about |
 | [肆虐](肆虐.md) | to wreak havoc; to devastate |
 | [版权](版权.md) | copyright |
@@ -1214,6 +1218,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [積極](積極.md) | positive |
 | [逆向](逆向.md) | backwards; reverse direction |
 | [万圣节前夜](万圣节前夜.md) | Halloween |
+| [基板](基板.md) | substrate |
+| [困扰](困扰.md) | (verb) perplex; puzzle; trouble |
+| [短信](短信.md) | text message; SMS; short letter; note |
+| [中指](中指.md) | middle finger |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1282,6 +1290,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [槟城](槟城.md) | Penang |
 | [马来西亚](马来西亚.md) | Malaysia |
 | [缅甸](缅甸.md) | Myanmar |
+| [柬埔寨](柬埔寨.md) | Cambodia |
 | [峇厘岛](峇厘岛.md) | Bali |
 | [东南亚](东南亚.md) | Southeast Asia |
 | [印度](印度.md) | India |
@@ -1328,7 +1337,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [荷兰](荷兰.md) | Netherlands |
 | [英格兰](英格兰.md) | England |
 | [伊朗](伊朗.md) | Iran |
-| [美国](美国.md) | United States |
+| [美国](美国.md)/[美國](美國.md) | United States |
 | [威尔士](威尔士.md) | Wales |
 | [阿根廷](阿根廷.md) | Argentina |
 | [沙特阿拉伯](沙特阿拉伯.md) | Saudi Arabia |
@@ -1353,4 +1362,4 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [葡萄牙](葡萄牙.md) | Portugal |
 | [加纳](加纳.md) | Ghana |
 | [乌拉圭](乌拉圭.md) | Uruguay |
-| [韩国](韩国.md) | South Korea |
+| [韩国](韩国.md)/[韓國](韓國.md) | South Korea |

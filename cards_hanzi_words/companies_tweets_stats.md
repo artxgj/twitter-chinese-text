@@ -51,7 +51,7 @@
 | [本田](本田.md) | Honda | HMC | 145 |
 | [汇丰](汇丰.md) | HSBC | HSBC | 35 |
 | [华为](华为.md)/[華為](華為.md) | Huawei | (private) | 201 |
-| [英特尔](英特尔.md) | Intel | INTC | 105 |
+| [英特尔](英特尔.md)/[英特爾](英特爾.md) | Intel | INTC | 106 |
 | [日本航空](日本航空.md) | Japan Airlines (JAL) | JAPSY | 23 |
 | [摩根大通](摩根大通.md) | JPMorgan Chase | JPM | 67 |
 | [龟甲万](龟甲万.md) | Kikkoman | KIKOY | 1 |
@@ -79,6 +79,7 @@
 | [雀巢](雀巢.md) | Nestlé S.A. | NSRGF | 4 |
 | [日本电产](日本电产.md) | Nidec | NJDCY | 14 |
 | [耐克](耐克.md) | Nike | NKE | 23 |
+| [尼康](尼康.md) | Nikon | NINOY | 11 |
 | [任天堂](任天堂.md) | Nintendo | NTDOY/NTDOF | 52 |
 | [日产](日产.md) | Nissan | NSANY | 92 |
 | [英伟达](英伟达.md)/[英偉達](英偉達.md) | Nvidia | NVDA | 121 |
