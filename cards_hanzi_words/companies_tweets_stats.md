@@ -90,6 +90,7 @@
 | [宝洁](宝洁.md) | Procter & Gamble | PG | 9 |
 | [彪马](彪马.md) | Puma | PUMSY | 1 |
 | [瑞萨电子](瑞萨电子.md) | Renesas Electronics | RNECY | 11 |
+| [力拓](力拓.md) | Rio Tinto Group | RIO | 4 |
 | [罗姆](罗姆.md) | ROHM | ROHCY/ROHCF | 15 |
 | [罗尔斯·罗伊斯](罗尔斯·罗伊斯.md) | Rolls Royce | RYCEY | 1 |
 | [三星](三星.md) | Samsung | SSNLF | 152 |

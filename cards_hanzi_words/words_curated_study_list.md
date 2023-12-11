@@ -1227,6 +1227,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [系列](系列.md) | series; set |
 | [遗嘱](遗嘱.md) | testament; will |
 | [强劲](强劲.md)/[強勁](強勁.md) | strong; powerful; robust |
+| [年度汉字](年度汉字.md) | Chinese character of the year |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
