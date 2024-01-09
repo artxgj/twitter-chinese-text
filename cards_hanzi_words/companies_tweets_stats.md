@@ -64,6 +64,7 @@
 | [瑞幸咖啡](瑞幸咖啡.md) | Luckin Coffee | delisted | 8 |
 | [麦格理](麦格理.md) | Macquarie Group Limited | MQG.AX | 0 |
 | [前田工纤集团](前田工纤集团.md) | Maeda Kosen Co., Ltd | unavailable | 1 |
+| [马士基](马士基.md) | Maersk | AMKBY | 8 |
 | [万事达卡](万事达卡.md) | Mastercard | MA | 11 |
 | [马自达](马自达.md) | Mazda | MZDAY | 27 |
 | [麦当劳](麦当劳.md) | McDonald's | MCD | 55 |
