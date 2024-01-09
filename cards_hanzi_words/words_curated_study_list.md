@@ -220,7 +220,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [烤面包](烤面包.md) | toast |
 | [面包](面包.md) | bread |
 | [肉脞面](肉脞面.md) | minced pork noodles |
-| [拉面](拉面.md) | ramen |
+| [拉面](拉面.md)/[拉麵](拉麵.md) | ramen |
 | [乌冬面](乌冬面.md) | udon noodles |
 | [云吞面](云吞面.md) | wonton noodles |
 | [牛肉饭](牛肉饭.md) | beef rice |
@@ -664,12 +664,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [趋势](趋势.md) | trend |
 | [数据](数据.md) | data |
 | [影响](影响.md)/[影響](影響.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
-| [计划](计划.md) | plan; project; programme |
+| [计划](计划.md)/[計劃](計劃.md) | plan; project; programme |
 | [项目](项目.md) | project; item; (sports) event |
 | [最佳](最佳.md) | best; optimum; optimal; peak |
 | [模式](模式.md) | pattern; model; mode |
 | [覆盖](覆盖.md) | cover (verb); plant cover; vegetation |
-| [冲击](冲击.md) | impact; shock; to attack |
+| [冲击](冲击.md)/[衝擊](衝擊.md) | impact; shock; to attack |
 | [爆发](爆发.md) | erupt; burst out; break out |
 | [引发](引发.md) | initiate; touch (or spark, trigger) off |
 | [开发](开发.md)/[開發](開發.md) | develop; open up; exploit |
@@ -1110,6 +1110,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [私营部门](私营部门.md) | private sector |
 | [遗憾](遗憾.md) | regret; sorrow; remorse; regretful; sorry |
 | [扩散](扩散.md) | spread; diffuse; scatter; proliferate; diffusion |
+| [头晕](头晕.md) | feel dizzy; be giddy |
 | [倦怠](倦怠.md) | languid; slugglish; tired; worn out |
 | [驳斥](驳斥.md) | refute; rebut; contradict |
 | [引述](引述.md) | quote somebody's words; quote from somebody's speech |
@@ -1209,7 +1210,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [珠穆朗玛峰](珠穆朗玛峰.md) | Mount Everest |
 | [付款](付款.md) | to pay a sum of money; payment |
 | [微信](微信.md) | WeChat |
-| [去中国化](去中国化.md) | desinicize |
+| [去中国化](去中国化.md)/[去中國化](去中國化.md) | desinicize |
 | [搜索](搜索.md) | search (computing); search for; hunt for; scout around |
 | [灵活](灵活.md) | nimble; agile; quick; flexible; elastic |
 | [接口](接口.md) | interface; gateway; port; connector |
@@ -1228,6 +1229,18 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [遗嘱](遗嘱.md) | testament; will |
 | [强劲](强劲.md)/[強勁](強勁.md) | strong; powerful; robust |
 | [年度汉字](年度汉字.md) | Chinese character of the year |
+| [唐朝](唐朝.md) | Tang Dynasty |
+| [汉字](汉字.md)/[漢字](漢字.md) | Chinese character |
+| [奇迹](奇迹.md)/[奇蹟](奇蹟.md) | miracle; wonder; marvel |
+| [机舱](机舱.md)/[機艙](機艙.md) | cabin of a plane |
+| [优秀](优秀.md)/[優秀](優秀.md) | outstanding; excellent; splendid; fine |
+| [账号](账号.md) | account number; username |
+| [乘客](乘客.md) | passenger |
+| [选举](选举.md)/[選舉](選舉.md) | election; elect |
+| [长寿](长寿.md) | longevity; long-lived |
+| [在野](在野.md) | to be out of (political) office; to be out of power |
+| [雷达](雷达.md)/[雷達](雷達.md) | radar |
+| [候选人](候选人.md)/[候選人](候選人.md) | candidate |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1293,7 +1306,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [福建](福建.md) | Hok-kiàn/Hokkien (Fujian in Mandarin) |
 | [闽](闽.md) | bân (Min in Mandarin), short name for Fujian Province |
 | [闽南](闽南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
-| [台湾](台湾.md) | Taiwan |
+| [台湾](台湾.md)/[台灣](台灣.md) | Taiwan |
 | [新加坡](新加坡.md) | Singapore |
 | [槟城](槟城.md) | Penang |
 | [马来西亚](马来西亚.md) | Malaysia |
@@ -1330,6 +1343,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [撒哈拉](撒哈拉.md) | Sahara |
 | [秘鲁](秘鲁.md) | Peru |
 | [加拉帕戈斯群岛](加拉帕戈斯群岛.md) | Galapagos Islands |
+| [古巴](古巴.md) | Cuba |
 | [加利福尼亚](加利福尼亚.md) | California |
 | [硅谷](硅谷.md) | Silicon Valley |
 | [得克萨斯](得克萨斯.md) | Texas |

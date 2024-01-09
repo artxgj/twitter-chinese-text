@@ -368,7 +368,7 @@ hz = "肉脞面"
 en = "minced pork noodles"
 
 [[dishes-vegetables-drinks]]
-hz = "拉面"
+hz = "拉面/拉麵"
 en = "ramen"
 
 [[dishes-vegetables-drinks]]
@@ -2240,7 +2240,7 @@ hz = "闽南"
 en = "bân-lâm (Minnan in Mandarin);Southern Fujian"
 
 [[places]]
-hz = "台湾"
+hz = "台湾/台灣"
 en = "Taiwan"
 
 [[places]]
@@ -2386,6 +2386,10 @@ en = "Peru"
 [[places]]
 hz = "加拉帕戈斯群岛"
 en = "Galapagos Islands"
+
+[[places]]
+hz = "古巴"
+en = "Cuba"
 
 [[places]]
 hz = "加利福尼亚"
@@ -2942,7 +2946,7 @@ hz = "影响/影響"
 en = "to have an effect on; to influence; to affect; to have an impact on; to disturb"
 
 [[names-words]]
-hz = "计划"
+hz = "计划/計劃"
 en = "plan; project; programme"
 
 [[names-words]]
@@ -2962,7 +2966,7 @@ hz = "覆盖"
 en = "cover (verb); plant cover; vegetation"
 
 [[names-words]]
-hz = "冲击"
+hz = "冲击/衝擊"
 en = "impact; shock; to attack"
 
 [[names-words]]
@@ -4725,7 +4729,7 @@ en = "regret; sorrow; remorse; regretful; sorry"
 hz = "扩散"
 en = "spread; diffuse; scatter; proliferate; diffusion"
 
-[[names-wrods]]
+[[names-words]]
 hz = "头晕"
 en = "feel dizzy; be giddy"
 
@@ -5126,7 +5130,7 @@ hz = "微信"
 en = "WeChat"
 
 [[names-words]]
-hz = "去中国化"
+hz = "去中国化/去中國化"
 en = "desinicize"
 
 [[names-words]]
@@ -5200,6 +5204,54 @@ en = "strong; powerful; robust"
 [[names-words]]
 hz = "年度汉字"
 en = "Chinese character of the year"
+
+[[names-words]]
+hz = "唐朝"
+en = "Tang Dynasty"
+
+[[names-words]]
+hz = "汉字/漢字"
+en = "Chinese character"
+
+[[names-words]]
+hz = "奇迹/奇蹟"
+en = "miracle; wonder; marvel"
+
+[[names-words]]
+hz = "机舱/機艙"
+en = "cabin of a plane"
+
+[[names-words]]
+hz = "优秀/優秀"
+en = "outstanding; excellent; splendid; fine"
+
+[[names-words]]
+hz = "账号"
+en = "account number; username"
+
+[[names-words]]
+hz = "乘客"
+en = "passenger"
+
+[[names-words]]
+hz = "选举/選舉"
+en = "election; elect"
+
+[[names-words]]
+hz = "长寿"
+en = "longevity; long-lived"
+
+[[names-words]]
+hz = "在野"
+en = "to be out of (political) office; to be out of power"
+
+[[names-words]]
+hz = "雷达/雷達"
+en = "radar"
+
+[[names-words]]
+hz = "候选人/候選人"
+en = "candidate"
 
 
 [[people]]
