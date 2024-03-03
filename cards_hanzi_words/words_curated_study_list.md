@@ -478,7 +478,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [海水淡化](海水淡化.md) | seawater desalination |
 | [自动化](自动化.md) | automation; automated |
 | [验证](验证.md) | verification |
-| [农历新年](农历新年.md) | Chinese/Lunar New Year |
+| [农历](农历.md) | traditional Chinese calendar |
 | [春节](春节.md) | Spring Festival; Chinese New Year |
 | [新春](新春.md) | Chinese New Year; the beginning of Spring; the 10 or 20 days following the Lunar New Year's Day |
 | [拜年](拜年.md) | to pay a New Year calll to wish somebody a Happy New Year |
@@ -780,6 +780,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [火山](火山.md) | volcano |
 | [火星](火星.md) | Mars |
 | [眯眯眼](眯眯眼.md) | squinted eyes |
+| [龙年](龙年.md) | Year of the Dragon |
 | [兔年](兔年.md) | Year of the Rabbit |
 | [虎年](虎年.md) | Year of the Tiger |
 | [牛年](牛年.md) | Year of the Ox |
