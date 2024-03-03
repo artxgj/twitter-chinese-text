@@ -20,7 +20,12 @@ Zh_Tweets_Sources = {
     'dw_chinese',
     'nanyangpress',
     'rijingzhongwen',
-    'zaobaosg'
+    'zaobaosg',
+    'CNS1952',
+    'XinhuaChinese',
+    'CEOBriefing',
+    'AsiaFinance',
+    'RFI_TradCn'
 }
 
 

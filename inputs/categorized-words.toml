@@ -1287,8 +1287,8 @@ hz = "验证"
 en = "verification"
 
 [[favorites]]
-hz = "农历新年"
-en = "Chinese/Lunar New Year"
+hz = "农历"
+en = "traditional Chinese calendar"
 
 [[favorites]]
 hz = "春节"
@@ -3408,6 +3408,10 @@ en = "Mars"
 [[names-words]]
 hz = "眯眯眼"
 en = "squinted eyes"
+
+[[names-words]]
+hz = "龙年"
+en = "Year of the Dragon"
 
 [[names-words]]
 hz = "兔年"
