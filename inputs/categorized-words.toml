@@ -664,6 +664,10 @@ en = "flash in the pan (idiom); short-lived; (lit.) night-blooming cactus shows 
 hz = "洋洋洒洒"
 en = "voluminous; of great length; flowing (of speeches, articles, etc.)"
 
+[[idioms]]
+hz = "车水马龙"
+en = "endless stream of horse and carriages; heavy traffic"
+
 
 [[economy-markets]]
 hz = "央行"
@@ -2212,7 +2216,7 @@ en = "gecko"
 
 
 [[places]]
-hz = "菲律宾"
+hz = "菲律宾/菲律賓"
 en = "Philippines; pronounced as Hui-li̍p-pin by Minnan/Hokkien people"
 
 [[places]]
@@ -2262,6 +2266,10 @@ en = "Myanmar"
 [[places]]
 hz = "柬埔寨"
 en = "Cambodia"
+
+[[places]]
+hz = "泰国"
+en = "Thailand"
 
 [[places]]
 hz = "峇厘岛"
@@ -2938,7 +2946,7 @@ hz = "趋势"
 en = "trend"
 
 [[names-words]]
-hz = "数据"
+hz = "数据/數據"
 en = "data"
 
 [[names-words]]
@@ -3102,7 +3110,7 @@ hz = "放射性"
 en = "radioactive"
 
 [[names-words]]
-hz = "购买"
+hz = "购买/購買"
 en = "purchase; buy"
 
 [[names-words]]
@@ -5256,6 +5264,42 @@ en = "radar"
 [[names-words]]
 hz = "候选人/候選人"
 en = "candidate"
+
+[[names-words]]
+hz = "配合"
+en = "(adj.) go well together; match. (verb) coordinate; cooperate; concert"
+
+[[names-words]]
+hz = "自由泳"
+en = "freestyle swimming"
+
+[[names-words]]
+hz = "吉祥"
+en = "lucky; auspicious; propitious"
+
+[[names-words]]
+hz = "寓意"
+en = "implied meaning; moreal; message; import; allusion"
+
+[[names-words]]
+hz = "晦气"
+en = "unlucky; bad luck; calamitous; wretched"
+
+[[names-words]]
+hz = "传承"
+en = "impart and inherit; to pass on (to future generations); passed on (from former times)"
+
+[[names-words]]
+hz = "先辈"
+en = "elder generation; ancestors; forebears"
+
+[[names-words]]
+hz = "华裔"
+en = "ethnic Chinese; non-Chinese citizen of Chinese ancestry"
+
+[[names-words]]
+hz = "邮政"
+en = "postal service"
 
 
 [[people]]

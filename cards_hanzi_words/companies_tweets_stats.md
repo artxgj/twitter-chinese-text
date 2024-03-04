@@ -8,7 +8,7 @@
 | [阿里巴巴](阿里巴巴.md) | Alibaba | BABA | 149 |
 | [全日空](全日空.md) | All Nippon Airways (ANA) | ALNPY | 18 |
 | [亚马逊](亚马逊.md)/[亞馬遜](亞馬遜.md) | Amazon | AMZN | 215 |
-| [苹果](苹果.md) | Apple | AAPL | 794 |
+| [苹果](苹果.md)/[蘋果](蘋果.md) | Apple | AAPL | 810 |
 | [应用材料](应用材料.md) | Applied Materials | AMAT | 6 |
 | [朝日](朝日.md) | Asahi Group Holdings Ltd. | ASBRF | 8 |
 | [亚瑟士](亚瑟士.md)/[亞瑟士](亞瑟士.md) | ASICS | ASCCY | 18 |
@@ -60,6 +60,7 @@
 | [京瓷](京瓷.md) | Kyocera | KYOCY | 18 |
 | [联想](联想.md) | Lenovo | LNVGY/LNVGF | 33 |
 | [领英](领英.md) | LinkedIn | owned by MSFT | 6 |
+| [浪琴](浪琴.md) | Longines | subsidiary of The Swatch Group | 1 |
 | [欧莱雅](欧莱雅.md) | L'Oreal | EPA:OR | 6 |
 | [瑞幸咖啡](瑞幸咖啡.md) | Luckin Coffee | delisted | 10 |
 | [麦格理](麦格理.md) | Macquarie Group Limited | MQG.AX | 0 |
@@ -71,7 +72,7 @@
 | [奔驰](奔驰.md) | Mercedes Benz | DDAIF | 22 |
 | [默克](默克.md) | Merck | MRK | 44 |
 | [美光](美光.md) | Micron Technology | MU | 43 |
-| [微软](微软.md) | Microsoft | MSFT | 210 |
+| [微软](微软.md)/[微軟](微軟.md) | Microsoft | MSFT | 215 |
 | [三菱](三菱.md) | Mitsubishi |  | 116 |
 | [三井化学](三井化学.md) | Mitsui Chemicals | MITUY | 3 |
 | [莫德纳](莫德纳.md) | Moderna | MRNA | 56 |

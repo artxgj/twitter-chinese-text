@@ -629,6 +629,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [踌躇满志](踌躇满志.md) | enormously proud of one's success; smug; complacent |
 | [昙花一现](昙花一现.md) | flash in the pan (idiom); short-lived; (lit.) night-blooming cactus shows once |
 | [洋洋洒洒](洋洋洒洒.md) | voluminous; of great length; flowing (of speeches, articles, etc.) |
+| [车水马龙](车水马龙.md) | endless stream of horse and carriages; heavy traffic |
 ## Kingdom Animalia
 |  |  |
 | ----- | :---: |
@@ -662,7 +663,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [早期阶段](早期阶段.md) | early stage; initial stage |
 | [获得](获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](趋势.md) | trend |
-| [数据](数据.md) | data |
+| [数据](数据.md)/[數據](數據.md) | data |
 | [影响](影响.md)/[影響](影響.md) | to have an effect on; to influence; to affect; to have an impact on; to disturb |
 | [计划](计划.md)/[計劃](計劃.md) | plan; project; programme |
 | [项目](项目.md) | project; item; (sports) event |
@@ -703,7 +704,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [不确定性](不确定性.md) | uncertainty |
 | [放射线](放射线.md) | radiation |
 | [放射性](放射性.md) | radioactive |
-| [购买](购买.md) | purchase; buy |
+| [购买](购买.md)/[購買](購買.md) | purchase; buy |
 | [低迷](低迷.md) | low; stagnant; sluggish; depressed |
 | [条款](条款.md) | stipulation |
 | [协议](协议.md) | agreement; protocol |
@@ -1242,6 +1243,15 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [在野](在野.md) | to be out of (political) office; to be out of power |
 | [雷达](雷达.md)/[雷達](雷達.md) | radar |
 | [候选人](候选人.md)/[候選人](候選人.md) | candidate |
+| [配合](配合.md) | (adj.) go well together; match. (verb) coordinate; cooperate; concert |
+| [自由泳](自由泳.md) | freestyle swimming |
+| [吉祥](吉祥.md) | lucky; auspicious; propitious |
+| [寓意](寓意.md) | implied meaning; moreal; message; import; allusion |
+| [晦气](晦气.md) | unlucky; bad luck; calamitous; wretched |
+| [传承](传承.md) | impart and inherit; to pass on (to future generations); passed on (from former times) |
+| [先辈](先辈.md) | elder generation; ancestors; forebears |
+| [华裔](华裔.md) | ethnic Chinese; non-Chinese citizen of Chinese ancestry |
+| [邮政](邮政.md) | postal service |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1300,7 +1310,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Places and Regions
 |  |  |
 | ----- | :---: |
-| [菲律宾](菲律宾.md) | Philippines; pronounced as Hui-li̍p-pin by Minnan/Hokkien people |
+| [菲律宾](菲律宾.md)/[菲律賓](菲律賓.md) | Philippines; pronounced as Hui-li̍p-pin by Minnan/Hokkien people |
 | [马尼拉](马尼拉.md) | Manila |
 | [厦门](厦门.md) | Ē-mn̂g (Xiamen in Mandarin) |
 | [泉州](泉州.md) | Choân-chiu (Quanzhou in Mandarin), prefecture-level city in Fujian |
@@ -1313,6 +1323,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [马来西亚](马来西亚.md) | Malaysia |
 | [缅甸](缅甸.md) | Myanmar |
 | [柬埔寨](柬埔寨.md) | Cambodia |
+| [泰国](泰国.md) | Thailand |
 | [峇厘岛](峇厘岛.md) | Bali |
 | [东南亚](东南亚.md) | Southeast Asia |
 | [印度](印度.md) | India |
