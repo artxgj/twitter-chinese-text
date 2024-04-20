@@ -1,6 +1,7 @@
 import argparse
 import pathlib
 from collections import Counter
+from pprint import pprint
 from twitter_objects import from_tweet_js_file, next_tweet
 
 
@@ -21,6 +22,5 @@ if __name__ == '__main__':
     parser.add_argument('-tweet-js-path', type=str, required=True, help='twitter\'s tweet.js filepath')
     args = parser.parse_args()
     sources = count_sources(args.tweet_js_path)
-    print(sources)
+    pprint(sources)
     print()
-    print(sources.most_common(10))

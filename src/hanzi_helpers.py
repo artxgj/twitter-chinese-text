@@ -25,7 +25,9 @@ Zh_Tweets_Sources = {
     'XinhuaChinese',
     'CEOBriefing',
     'AsiaFinance',
-    'RFI_TradCn'
+    'RFI_TradCn',
+    'ParsTodayChina',
+    'newsNZcn'
 }
 
 
