@@ -27,7 +27,8 @@ Zh_Tweets_Sources = {
     'AsiaFinance',
     'RFI_TradCn',
     'ParsTodayChina',
-    'newsNZcn'
+    'newsNZcn',
+    'GlobalMoneyAI'
 }
 
 

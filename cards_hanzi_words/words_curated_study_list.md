@@ -233,17 +233,20 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [石斑鱼](石斑鱼.md) | grouper |
 | [龙趸](龙趸.md) | giant grouper |
 | [扁鱼](扁鱼.md) | Flatfish |
+| [三牙鱼](三牙鱼.md) | Otolithes ruber; tigertooth croaker |
 | [扇贝](扇贝.md) | scallop |
 | [海参](海参.md) | sea cucumber |
 | [鳀鱼](鳀鱼.md) | anchovy |
 | [蓝鳍金枪鱼](蓝鳍金枪鱼.md) | Bluefin Tuna |
 | [鰤鱼](鰤鱼.md) | yellowtail |
+| [錦鯉](錦鯉.md) | koi |
 | [蟹](蟹.md) | crab |
 | [蛤蜊](蛤蜊.md) | clam |
 | [铁锅炖](铁锅炖.md) | iron pot stew |
 | [御好烧](御好烧.md) | Okonomiyaki |
 | [烧烤](烧烤.md) | barbeque |
 | [臭豆腐](臭豆腐.md) | stinky tofu |
+| [咸虾酱](咸虾酱.md) | salted shrimp paste |
 | [油条](油条.md) | deep-fried twisted dough sticks |
 | [麻花](麻花.md) | fried dough twist |
 | [罗汉果](罗汉果.md) | mangosteen |
@@ -292,7 +295,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [投资](投资.md) | invest |
 | [收益率](收益率.md) | rate of return; (stock) yield; earnings yield |
 | [金融](金融.md) | finance |
-| [期货](期货.md) | futures |
+| [期货](期货.md)/[期貨](期貨.md) | futures |
 | [大宗商品](大宗商品.md) | commodities |
 | [期权](期权.md) | options |
 | [看跌期权](看跌期权.md) | put options |
@@ -563,6 +566,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [血脂](血脂.md) | blood lipid level |
 | [血栓](血栓.md) | blood clot; thrombus |
 | [血糖](血糖.md) | blood sugar |
+| [血样](血样.md) | blood sample (or specimen) |
 | [血癌](血癌.md) | leukemia |
 | [白血球](白血球.md) | white blood cell |
 | [糖尿病](糖尿病.md) | diabetes |
@@ -630,6 +634,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [昙花一现](昙花一现.md) | flash in the pan (idiom); short-lived; (lit.) night-blooming cactus shows once |
 | [洋洋洒洒](洋洋洒洒.md) | voluminous; of great length; flowing (of speeches, articles, etc.) |
 | [车水马龙](车水马龙.md) | endless stream of horse and carriages; heavy traffic |
+| [漫山遍野](漫山遍野.md) | all over the mountains and plains; covering everything; fig. as far as the eye can see |
+| [慷慨就义](慷慨就义.md) | go to one's death like a hero; die a martyr's death |
+| [偷偷摸摸](偷偷摸摸.md) | furtively; surreptitiously; covertly |
+| [繁花似锦](繁花似锦.md) | flowers in full bloom |
 ## Kingdom Animalia
 |  |  |
 | ----- | :---: |
@@ -644,7 +652,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [企鹅](企鹅.md) | penguin |
 | [猫头鹰](猫头鹰.md) | owl |
 | [考拉](考拉.md) | koala |
-| [熊猫](熊猫.md) | panda |
+| [熊猫](熊猫.md)/[熊貓](熊貓.md) | panda |
 | [鳄鱼](鳄鱼.md) | crocodile; alligator |
 | [珊瑚](珊瑚.md) | coral |
 | [孔雀](孔雀.md) | peacock |
@@ -654,6 +662,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鬣蜥](鬣蜥.md) | Iguana |
 | [鹦鹉](鹦鹉.md) | parrot |
 | [壁虎](壁虎.md) | gecko |
+| [花彩雀莺](花彩雀莺.md) | white-browed tit-warbler |
 ## Names/Words
 |  |  |
 | ----- | :---: |
@@ -825,7 +834,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [饥荒](饥荒.md) | famine |
 | [大麻](大麻.md) | marijuana/hemp |
 | [充电](充电.md) | charge (a battery) |
-| [樱花](樱花.md) | cherry blossom |
+| [樱花](樱花.md)/[櫻花](櫻花.md) | cherry blossom; oriental cherry |
 | [权衡](权衡.md) | weigh (a matter); balance (pros and cons) |
 | [金砖](金砖.md) | BRICS; gold bar (or brick) |
 | [审理](审理.md) | try; hear; adjudicate |
@@ -1252,6 +1261,74 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [先辈](先辈.md) | elder generation; ancestors; forebears |
 | [华裔](华裔.md) | ethnic Chinese; non-Chinese citizen of Chinese ancestry |
 | [邮政](邮政.md) | postal service |
+| [睡蓮](睡蓮.md) | Water Lily |
+| [暮春](暮春.md) | late spring (the third month of the lunar year) |
+| [黃金](黃金.md) | gold; precious (thihg); valuable |
+| [白銀](白銀.md) | silver |
+| [低估](低估.md) | underestimate; underrate |
+| [舒適](舒適.md) | comfortable; cozy; snug |
+| [土崩](土崩.md) | landslide |
+| [轰然](轰然.md) | loudly; with a loud bang |
+| [墙壁](墙壁.md) | wall |
+| [探秘](探秘.md) | to explore a mystery; to probe the unknown |
+| [清澈](清澈.md) | clear; limpid |
+| [倒映](倒映.md) | reflect |
+| [浩瀚](浩瀚.md) | vast |
+| [楸树](楸树.md) | Chinese catalpa (a tea plant) |
+| [绽放](绽放.md) | to blossom; burst into full bloom |
+| [变迁](变迁.md) | change; undergo change; vicissitudes |
+| [紫荆花](紫荆花.md) | bauhinia (flower of the Chinese redbud |
+| [峡谷](峡谷.md)/[峽谷](峽谷.md) | gorge; canyon |
+| [装扮](装扮.md) | dress up; attire; deck out; disguise; masquerade |
+| [分外](分外.md) | beyond the scope of one's job or duty; particularly; especially; exceptionally |
+| [妖娆](妖娆.md) | enchanting; fascinating; bewitching |
+| [分裂](分裂.md) | split; divide; break up |
+| [交棒](交棒.md) | pass the baton |
+| [正式](正式.md) | formal; official |
+| [领导](领导.md) | leadership; leader; lead; provide leadership |
+| [卸任](卸任.md) | leave office; be relieved of one's office |
+| [递交](递交.md) | hand over; present; submit |
+| [辞呈](辞呈.md) | (written) resignation |
+| [炎黃子孫](炎黃子孫.md) | descendants of Yan Di and Huang Di -- the Chinese people |
+| [开斋节](开斋节.md) | Eid al-Fitr or Feast of the Breaking the Fast |
+| [勾起](勾起.md) | to evoke; to induce; to call to mind; to pick up with a hook |
+| [季度](季度.md) | quarter of a year; season (sports) |
+| [計價](計價.md) | to valuate; valuation; calculate the price |
+| [自信](自信.md) | confident |
+| [氣勢](氣勢.md) | momentum; imposing manner |
+| [闪电](闪电.md) | lightning |
+| [奖金](奖金.md) | bonus; award money; premium |
+| [近日点](近日点.md) | perihelion |
+| [公转](公转.md) | revolve; orbital revolution |
+| [肌肤](肌肤.md) | skin |
+| [不适当](不适当.md) | inadequate; unfit |
+| [护肤](护肤.md) | skincare |
+| [无瑕](无瑕.md) | flawless |
+| [梦想](梦想.md) | dream; earnest wish |
+| [实践](实践.md) | practice; to put into practice; carry out; live up to |
+| [心酸](心酸.md) | be grieved; feel sad |
+| [跑酷](跑酷.md) | Parkour |
+| [春光](春光.md) | sights and sounds of spring; spring scenery |
+| [意趣](意趣.md) | interest; point of particular charm and interest |
+| [桃之夭夭](桃之夭夭.md) | The peach trees are in full blossom |
+| [皑皑](皑皑.md) | (literary) white as snow; pure white |
+| [杏花](杏花.md) | apricot |
+| [觀賞](觀賞.md) | to look at something with pleasure; ornamental |
+| [粉色](粉色.md) | pink |
+| [大雁塔](大雁塔.md) | Giant Wild Goose Pagoda |
+| [觸摸](觸摸.md) | touch; feel |
+| [文脈](文脈.md) | context; unity and coherence in writing |
+| [吸引](吸引.md) | attract; draw; fascinate |
+| [氛围](氛围.md) | ambience; atmosphere |
+| [陆续](陆续.md) | one after the other; in succession |
+| [采摘](采摘.md) | pick (fruit, flowers; leaves, etc.); pluck |
+| [七彩](七彩.md) | the seven main colors of the spectrum; various colors; colorful |
+| [鬆弛](鬆弛.md) | to relax; relaxed; limp; lax |
+| [填滿](填滿.md) | to cram; fill out |
+| [同框](同框.md) | to appear together in a photo or video clip |
+| [地標](地標.md) | landmark |
+| [迷人](迷人.md) | enchanting; fascinating; bewitching; charming |
+| [嫩](嫩.md) | tender; delicate; (of food) tender, lightly-cooked |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1289,6 +1366,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [牛顿](牛顿.md) | Newton |
 | [巴菲特](巴菲特.md) | Buffett |
 | [芒格](芒格.md) | Munger |
+| [玄奘](玄奘.md) | Xuanzang, Tang dynasty Buddhist monk and translator |
 | [张忠谋](张忠谋.md) | Morris Chang |
 | [孟晚舟](孟晚舟.md) | Meng Wanzhou |
 | [江泽民](江泽民.md) | Jiang Zemin |
@@ -1297,7 +1375,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [黄仁勋](黄仁勋.md)/[黃仁勳](黃仁勳.md) | Jensen Huang |
 | [苏姿丰](苏姿丰.md) | Lisa Su |
 | [郭台铭](郭台铭.md) | Terry Gou |
-| [马英九](马英九.md) | Ma Ying-jeou |
+| [马英九](马英九.md)/[馬英九](馬英九.md) | Ma Ying-jeou |
 | [李光耀](李光耀.md) | Lee Kuan Yew |
 | [孙中山](孙中山.md) | Sun Yat Sen |
 | [杜特蒂](杜特蒂.md) | Duterte |

@@ -31,6 +31,7 @@
 | [第一三共](第一三共.md) | Daiichi Sankyo | DSNKY/DSKYF | 5 |
 | [达能](达能.md) | Danone | DANOY | 3 |
 | [电装](电装.md) | Denso | DNZOY | 15 |
+| [鼎泰丰](鼎泰丰.md) | Din Tai Fung | privately-held | 1 |
 | [迪奥](迪奥.md) | Dior | CHDRY | 9 |
 | [迪士尼](迪士尼.md) | Disney | DIS | 99 |
 | [诚品](诚品.md) | Eslite | 2926 (TPEX) | 4 |
