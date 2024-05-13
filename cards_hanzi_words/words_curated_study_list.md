@@ -1329,6 +1329,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [地標](地標.md) | landmark |
 | [迷人](迷人.md) | enchanting; fascinating; bewitching; charming |
 | [嫩](嫩.md) | tender; delicate; (of food) tender, lightly-cooked |
+| [极光](极光.md)/[極光](極光.md) | aurora |
+| [地磁暴](地磁暴.md) | geomagnetic storm |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1422,6 +1424,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [苏格兰](苏格兰.md) | Scotland |
 | [米兰](米兰.md) | Milan |
 | [柏林](柏林.md) | Berlin |
+| [匈牙利](匈牙利.md) | Hungary |
 | [黑山](黑山.md) | Montenegro |
 | [卡帕多奇亚](卡帕多奇亚.md) | Cappadocia |
 | [土耳其](土耳其.md) | Türkiye |

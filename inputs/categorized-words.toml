@@ -2393,6 +2393,10 @@ hz = "柏林"
 en = "Berlin"
 
 [[places]]
+hz = "匈牙利"
+en = "Hungary"
+
+[[places]]
 hz = "黑山"
 en = "Montenegro"
 
@@ -5613,6 +5617,15 @@ en = "enchanting; fascinating; bewitching; charming"
 [[names-words]]
 hz = "嫩"
 en = "tender; delicate; (of food) tender, lightly-cooked"
+
+[[names-words]]
+hz="极光/極光"
+en="aurora"
+
+[[names-words]]
+hz="地磁暴"
+en="geomagnetic storm"
+
 
 [[people]]
 hz = "贝多芬"

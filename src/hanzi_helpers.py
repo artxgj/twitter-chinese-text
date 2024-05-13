@@ -28,7 +28,10 @@ Zh_Tweets_Sources = {
     'RFI_TradCn',
     'ParsTodayChina',
     'newsNZcn',
-    'GlobalMoneyAI'
+    'GlobalMoneyAI',
+    'nytchinese',
+    'CausMoney',
+    'zhang_heqing'
 }
 
 
