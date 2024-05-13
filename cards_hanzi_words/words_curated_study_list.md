@@ -190,7 +190,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [菜谱](菜谱.md) | menu; cookbook; recipe |
 | [番茄](番茄.md) | tomato |
 | [洋葱](洋葱.md) | onion |
-| [葱](葱.md) | onion; scallion |
+| [葱](葱.md)/[蔥](蔥.md) | onion; scallion |
 | [大葱](大葱.md) | green Chinese onion; leek |
 | [蒜](蒜.md) | garlic |
 | [姜](姜.md) | ginger |
@@ -245,6 +245,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铁锅炖](铁锅炖.md) | iron pot stew |
 | [御好烧](御好烧.md) | Okonomiyaki |
 | [烧烤](烧烤.md) | barbeque |
+| [爆炒腰花](爆炒腰花.md) | stir-fried kidney |
 | [臭豆腐](臭豆腐.md) | stinky tofu |
 | [咸虾酱](咸虾酱.md) | salted shrimp paste |
 | [油条](油条.md) | deep-fried twisted dough sticks |
@@ -638,6 +639,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [慷慨就义](慷慨就义.md) | go to one's death like a hero; die a martyr's death |
 | [偷偷摸摸](偷偷摸摸.md) | furtively; surreptitiously; covertly |
 | [繁花似锦](繁花似锦.md) | flowers in full bloom |
+| [食不厭精，膾不厭細](食不厭精，膾不厭細.md) | to eat but findely ground grain and finely chopped meat; be particular about one's food |
 ## Kingdom Animalia
 |  |  |
 | ----- | :---: |
@@ -663,6 +665,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鹦鹉](鹦鹉.md) | parrot |
 | [壁虎](壁虎.md) | gecko |
 | [花彩雀莺](花彩雀莺.md) | white-browed tit-warbler |
+| [骆驼](骆驼.md) | camel |
 ## Names/Words
 |  |  |
 | ----- | :---: |
@@ -1331,6 +1334,15 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [嫩](嫩.md) | tender; delicate; (of food) tender, lightly-cooked |
 | [极光](极光.md)/[極光](極光.md) | aurora |
 | [地磁暴](地磁暴.md) | geomagnetic storm |
+| [舰艇](舰艇.md)/[艦艇](艦艇.md) | naval ships and boats; naval vessels; warship |
+| [海警](海警.md) | coast guard; maritime police |
+| [俯瞰](俯瞰.md) | to look down from a height; to overlook |
+| [鲁菜](鲁菜.md) | Shandong cuisine |
+| [精於](精於.md) | skillful in; proficient in; adept at |
+| [儒家](儒家.md) | Confucianists; Confucian school |
+| [旖旎](旖旎.md) | charming; enchanting |
+| [熠熠](熠熠.md) | sparking; glittering; bright; glistening |
+| [产能过剩](产能过剩.md)/[產能過剩](產能過剩.md) | overcapacity |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
@@ -1471,7 +1483,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [摩洛哥](摩洛哥.md) | Morocco |
 | [克罗地亚](克罗地亚.md) | Croatia |
 | [巴西](巴西.md) | Brazil |
-| [塞尔维亚](塞尔维亚.md) | Serbia |
+| [塞尔维亚](塞尔维亚.md)/[塞爾維亞](塞爾維亞.md) | Serbia |
 | [瑞士](瑞士.md) | Switzerland |
 | [喀麦隆](喀麦隆.md) | Cameroon |
 | [葡萄牙](葡萄牙.md) | Portugal |

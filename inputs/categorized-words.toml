@@ -249,7 +249,7 @@ hz = "洋葱"
 en = "onion"
 
 [[dishes-vegetables-drinks]]
-hz = "葱"
+hz = "葱/蔥"
 en = "onion; scallion"
 
 [[dishes-vegetables-drinks]]
@@ -467,6 +467,10 @@ en = "Okonomiyaki"
 [[dishes-vegetables-drinks]]
 hz = "烧烤"
 en = "barbeque"
+
+[[dishes-vegetables-drinks]]
+hz = "爆炒腰花"
+en = "stir-fried kidney"
 
 [[dishes-vegetables-drinks]]
 hz = "臭豆腐"
@@ -696,6 +700,10 @@ en = "furtively; surreptitiously; covertly"
 [[idioms]]
 hz = "繁花似锦"
 en = "flowers in full bloom"
+
+[[idioms]]
+hz = "食不厭精，膾不厭細"
+en = "to eat but findely ground grain and finely chopped meat; be particular about one's food"
 
 
 [[economy-markets]]
@@ -2255,6 +2263,9 @@ en = "python; anaconda; boa"
 hz = "花彩雀莺"
 en = "white-browed tit-warbler"
 
+[[kingdom-animalia]]
+hz = "骆驼"
+en = "camel"
 
 [[places]]
 hz = "菲律宾/菲律賓"
@@ -2570,7 +2581,7 @@ hz = "巴西"
 en = "Brazil"
 
 [[world-cup-2022]]
-hz = "塞尔维亚"
+hz = "塞尔维亚/塞爾維亞"
 en = "Serbia"
 
 [[world-cup-2022]]
@@ -5625,6 +5636,42 @@ en="aurora"
 [[names-words]]
 hz="地磁暴"
 en="geomagnetic storm"
+
+[[names-words]]
+hz = "舰艇/艦艇"
+en = "naval ships and boats; naval vessels; warship"
+
+[[names-words]]
+hz = "海警"
+en = "coast guard; maritime police"
+
+[[names-words]]
+hz = "俯瞰"
+en = "to look down from a height; to overlook"
+
+[[names-words]]
+hz = "鲁菜"
+en = "Shandong cuisine"
+
+[[names-words]]
+hz = "精於"
+en = "skillful in; proficient in; adept at"
+
+[[names-words]]
+hz = "儒家"
+en = "Confucianists; Confucian school"
+
+[[names-words]]
+hz = "旖旎"
+en = "charming; enchanting"
+
+[[names-words]]
+hz = "熠熠"
+en = "sparking; glittering; bright; glistening"
+
+[[names-words]]
+hz = "产能过剩/產能過剩"
+en = "overcapacity"
 
 
 [[people]]
