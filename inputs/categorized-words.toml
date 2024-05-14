@@ -393,7 +393,7 @@ hz = "饺子"
 en = "dumplings"
 
 [[dishes-vegetables-drinks]]
-hz = "寿司"
+hz = "寿司/壽司"
 en = "sushi"
 
 [[dishes-vegetables-drinks]]
@@ -493,7 +493,7 @@ hz = "罗汉果"
 en = "mangosteen"
 
 [[dishes-vegetables-drinks]]
-hz = "榴梿"
+hz = "榴梿/榴莲/榴蓮"
 en = "durian"
 
 [[dishes-vegetables-drinks]]
@@ -703,7 +703,7 @@ en = "flowers in full bloom"
 
 [[idioms]]
 hz = "食不厭精，膾不厭細"
-en = "to eat but findely ground grain and finely chopped meat; be particular about one's food"
+en = "to eat but finely ground grain and finely chopped meat; be particular about one's food"
 
 
 [[economy-markets]]
@@ -1264,7 +1264,7 @@ hz = "尼安德特人"
 en = "neanderthal"
 
 [[favorites]]
-hz = "恐龙"
+hz = "恐龙/恐龍"
 en = "dinosaur "
 
 [[favorites]]
@@ -1971,7 +1971,7 @@ hz = "镍"
 en = "nickel"
 
 [[chemistry]]
-hz = "铜"
+hz = "铜/銅"
 en = "copper"
 
 [[chemistry]]
@@ -3118,7 +3118,7 @@ hz = "控制"
 en = "control; govern; command; manipulate"
 
 [[names-words]]
-hz = "担忧"
+hz = "担忧/擔憂"
 en = "to worry; to be concerned; be anxious"
 
 [[names-words]]
@@ -4950,7 +4950,7 @@ hz = "预报"
 en = "forecast"
 
 [[names-words]]
-hz = "预计"
+hz = "预计/預計"
 en = "calculate in advance; estimate; to forecast"
 
 [[names-words]]
@@ -5667,11 +5667,43 @@ en = "charming; enchanting"
 
 [[names-words]]
 hz = "熠熠"
-en = "sparking; glittering; bright; glistening"
+en = "sparkling; glittering; bright; glistening"
 
 [[names-words]]
 hz = "产能过剩/產能過剩"
 en = "overcapacity"
+
+[[names-words]]
+hz = "地质/地質"
+en = "geology"
+
+[[names-words]]
+hz = "好望角"
+en = "Cape of Good Hope"
+
+[[names-words]]
+hz = "绕道/繞道"
+en = "make a detour; go by a roundabout way"
+
+[[names-words]]
+hz = "馴鹿"
+en = "reindeer"
+
+[[names-words]]
+hz = "高峰期"
+en = "peak period; rush hour"
+
+[[names-words]]
+hz = "產崽"
+en = "[of an animal] give birth"
+
+[[names-words]]
+hz = "起诉/起訴"
+en = "sue; bring a suit (or an action) against somebody; prosecute"
+
+[[names-words]]
+hz = "货柜/貨櫃"
+en = "counter for the display of goods; container (for freight transport)"
 
 
 [[people]]

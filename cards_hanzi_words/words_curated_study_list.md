@@ -48,7 +48,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钛](钛.md) | titanium |
 | [钴](钴.md) | cobalt |
 | [镍](镍.md) | nickel |
-| [铜](铜.md) | copper |
+| [铜](铜.md)/[銅](銅.md) | copper |
 | [锌](锌.md) | zinc |
 | [镓](镓.md) | gallium |
 | [锗](锗.md) | germanium |
@@ -226,7 +226,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [牛肉饭](牛肉饭.md) | beef rice |
 | [咖喱饭](咖喱饭.md) | curry rice |
 | [饺子](饺子.md) | dumplings |
-| [寿司](寿司.md) | sushi |
+| [寿司](寿司.md)/[壽司](壽司.md) | sushi |
 | [金枪鱼](金枪鱼.md) | tuna |
 | [鲣鱼](鲣鱼.md) | oceanic bonito; skipjack (tuna) |
 | [鳗鱼](鳗鱼.md) | eel |
@@ -251,7 +251,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [油条](油条.md) | deep-fried twisted dough sticks |
 | [麻花](麻花.md) | fried dough twist |
 | [罗汉果](罗汉果.md) | mangosteen |
-| [榴梿](榴梿.md) | durian |
+| [榴梿](榴梿.md)/[榴莲](榴莲.md)/[榴蓮](榴蓮.md) | durian |
 | [菠萝蜜](菠萝蜜.md) | jackfruit |
 | [凤梨](凤梨.md) | pineapple |
 | [石榴](石榴.md) | pomegranate |
@@ -466,7 +466,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [蛋白质](蛋白质.md) | protein |
 | [信使核糖核酸](信使核糖核酸.md) | mRNA |
 | [尼安德特人](尼安德特人.md) | neanderthal |
-| [恐龙](恐龙.md) | dinosaur  |
+| [恐龙](恐龙.md)/[恐龍](恐龍.md) | dinosaur  |
 | [鱼龙](鱼龙.md) | ichthyosaur |
 | [千足虫](千足虫.md) | millipede |
 | [液压挖掘机](液压挖掘机.md) | hydraulic excavator |
@@ -639,7 +639,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [慷慨就义](慷慨就义.md) | go to one's death like a hero; die a martyr's death |
 | [偷偷摸摸](偷偷摸摸.md) | furtively; surreptitiously; covertly |
 | [繁花似锦](繁花似锦.md) | flowers in full bloom |
-| [食不厭精，膾不厭細](食不厭精，膾不厭細.md) | to eat but findely ground grain and finely chopped meat; be particular about one's food |
+| [食不厭精，膾不厭細](食不厭精，膾不厭細.md) | to eat but finely ground grain and finely chopped meat; be particular about one's food |
 ## Kingdom Animalia
 |  |  |
 | ----- | :---: |
@@ -704,7 +704,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [推动](推动.md)/[推動](推動.md) | push forward; promote; give impetus to |
 | [拖累](拖累.md) | encumber; be a burden on; implicate; involve |
 | [控制](控制.md) | control; govern; command; manipulate |
-| [担忧](担忧.md) | to worry; to be concerned; be anxious |
+| [担忧](担忧.md)/[擔憂](擔憂.md) | to worry; to be concerned; be anxious |
 | [担心](担心.md) | worry; feel anxious |
 | [提供](提供.md) | provide; supply; furnish; offer |
 | [提高](提高.md) | raise; heighten; enhance; increase; improve |
@@ -1162,7 +1162,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [显示](显示.md) | show; display; demonstrate; manifest |
 | [滚滚](滚滚.md) | rolling; billowy; surging |
 | [预报](预报.md) | forecast |
-| [预计](预计.md) | calculate in advance; estimate; to forecast |
+| [预计](预计.md)/[預計](預計.md) | calculate in advance; estimate; to forecast |
 | [不振](不振.md) | dejected; dispirited; listless; sluggish |
 | [灾情](灾情.md) | damage caused by a disaster |
 | [打击](打击.md) | hit; strike; attack |
@@ -1341,8 +1341,16 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [精於](精於.md) | skillful in; proficient in; adept at |
 | [儒家](儒家.md) | Confucianists; Confucian school |
 | [旖旎](旖旎.md) | charming; enchanting |
-| [熠熠](熠熠.md) | sparking; glittering; bright; glistening |
+| [熠熠](熠熠.md) | sparkling; glittering; bright; glistening |
 | [产能过剩](产能过剩.md)/[產能過剩](產能過剩.md) | overcapacity |
+| [地质](地质.md)/[地質](地質.md) | geology |
+| [好望角](好望角.md) | Cape of Good Hope |
+| [绕道](绕道.md)/[繞道](繞道.md) | make a detour; go by a roundabout way |
+| [馴鹿](馴鹿.md) | reindeer |
+| [高峰期](高峰期.md) | peak period; rush hour |
+| [產崽](產崽.md) | [of an animal] give birth |
+| [起诉](起诉.md)/[起訴](起訴.md) | sue; bring a suit (or an action) against somebody; prosecute |
+| [货柜](货柜.md)/[貨櫃](貨櫃.md) | counter for the display of goods; container (for freight transport) |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |

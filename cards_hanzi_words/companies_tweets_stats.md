@@ -22,7 +22,7 @@
 | [桥水](桥水.md) | Bridgewater | hedge fund | 16 |
 | [博通](博通.md) | Broadcom | AVGO | 17 |
 | [比亚迪](比亚迪.md)/[比亞迪](比亞迪.md) | BYD | BYDDF | 166 |
-| [字节跳动](字节跳动.md) | ByteDance | (private) | 76 |
+| [字节跳动](字节跳动.md)/[字節跳動](字節跳動.md) | ByteDance | (private) | 78 |
 | [佳能](佳能.md) | Canon | CAJ | 29 |
 | [香奈儿](香奈儿.md) | Chanel | (private) | 2 |
 | [雪佛龙](雪佛龙.md)/[雪佛龍](雪佛龍.md) | Chevron | CVX | 11 |
@@ -124,12 +124,12 @@
 | [傳音](傳音.md) | Transsion | 688036.SS | 1 |
 | [台积电](台积电.md) | TSMC | TSMC | 360 |
 | [优步](优步.md) | Uber | UBER | 17 |
-| [优衣库](优衣库.md) | Uniqlo | FRCOY (parent) | 48 |
+| [优衣库](优衣库.md)/[優衣庫](優衣庫.md) | Uniqlo | FRCOY (parent) | 57 |
 | [大众](大众.md)/[大眾](大眾.md) | Volkswagen | VLKAF/VWAPY | 132 |
 | [沃尔玛](沃尔玛.md) | Walmart | WMT | 35 |
 | [旺旺](旺旺.md) | Want Want | 0151.HK | 1 |
 | [富国银行](富国银行.md) | Wells Fargo | WFC | 11 |
 | [小米](小米.md) | Xiaomi | XIACY | 93 |
-| [雅马哈](雅马哈.md) | Yamaha | YAMHY | 12 |
+| [雅马哈](雅马哈.md)/[雅馬哈](雅馬哈.md) | Yamaha | YAMHY | 13 |
 | [安川电机](安川电机.md) | Yaskawa Electric | YASKY | 17 |
 | [极氪](极氪.md) | Zeekr | ZK | 9 |
