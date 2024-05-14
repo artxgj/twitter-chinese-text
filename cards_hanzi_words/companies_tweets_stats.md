@@ -12,7 +12,7 @@
 | [应用材料](应用材料.md) | Applied Materials | AMAT | 6 |
 | [朝日](朝日.md) | Asahi Group Holdings Ltd. | ASBRF | 8 |
 | [亚瑟士](亚瑟士.md)/[亞瑟士](亞瑟士.md) | ASICS | ASCCY | 19 |
-| [阿斯麦](阿斯麦.md) | ASML | ASML | 29 |
+| [阿斯麦](阿斯麦.md)/[阿斯麥](阿斯麥.md) | ASML | ASML | 30 |
 | [美国银行](美国银行.md) | Bank of America | BAC | 28 |
 | [伯克希尔哈撒韦公司](伯克希尔哈撒韦公司.md) | Berkshire Hathaway | BRK.A | 32 |
 | [币安](币安.md) | Binance | (private) | 57 |

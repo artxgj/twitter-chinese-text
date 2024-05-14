@@ -1355,6 +1355,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鑽石](鑽石.md) | diamond |
 | [金属](金属.md)/[金屬](金屬.md) | metals |
 | [紫外](紫外.md) | ultraviolet |
+| [美禄](美禄.md) | Milo |
+| [速溶咖啡](速溶咖啡.md) | Nescafe |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |
