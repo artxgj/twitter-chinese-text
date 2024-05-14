@@ -34,7 +34,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氢](氢.md)/[氫](氫.md) | hydrogen |
 | [氚](氚.md) | tritium or hydrogen-3 (symbol T or 3H) |
 | [氦](氦.md) | helium |
-| [锂](锂.md) | lithium |
+| [锂](锂.md)/[鋰](鋰.md) | lithium |
 | [碳](碳.md) | carbon |
 | [氮](氮.md) | nitrogen |
 | [钠](钠.md) | sodium |
@@ -46,7 +46,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氯](氯.md) | chlorine |
 | [钾](钾.md) | potassium |
 | [钛](钛.md) | titanium |
-| [钴](钴.md) | cobalt |
+| [钴](钴.md)/[鈷](鈷.md) | cobalt |
 | [镍](镍.md) | nickel |
 | [铜](铜.md)/[銅](銅.md) | copper |
 | [锌](锌.md) | zinc |
@@ -1353,6 +1353,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [起诉](起诉.md)/[起訴](起訴.md) | sue; bring a suit (or an action) against somebody; prosecute |
 | [货柜](货柜.md)/[貨櫃](貨櫃.md) | counter for the display of goods; container (for freight transport) |
 | [鑽石](鑽石.md) | diamond |
+| [金属](金属.md)/[金屬](金屬.md) | metals |
+| [紫外](紫外.md) | ultraviolet |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |

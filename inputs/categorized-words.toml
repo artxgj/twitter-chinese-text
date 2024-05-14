@@ -1915,7 +1915,7 @@ hz = "氦"
 en = "helium"
 
 [[chemistry]]
-hz = "锂"
+hz = "锂/鋰"
 en = "lithium"
 
 [[chemistry]]
@@ -1963,7 +1963,7 @@ hz = "钛"
 en = "titanium"
 
 [[chemistry]]
-hz = "钴"
+hz = "钴/鈷"
 en = "cobalt"
 
 [[chemistry]]
@@ -5712,6 +5712,14 @@ en = "counter for the display of goods; container (for freight transport)"
 [[names-words]]
 hz = "鑽石"
 en = "diamond"
+
+[[names-words]]
+hz = "金属/金屬"
+en = "metals"
+
+[[names-words]]
+hz = "紫外"
+en = "ultraviolet"
 
 
 [[people]]
