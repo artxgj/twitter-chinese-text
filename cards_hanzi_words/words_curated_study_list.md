@@ -80,7 +80,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钴酸锂](钴酸锂.md) | lithium cobalt oxide |
 | [钛酸锂](钛酸锂.md) | lithium titanate |
 | [氧化钛](氧化钛.md) | titanium oxide |
-| [碳化硅](碳化硅.md) | silicon carbide |
+| [碳化硼](碳化硼.md) | boron carbide |
+| [碳化硅](碳化硅.md)/[碳化矽](碳化矽.md) | silicon carbide |
 | [氮化镓](氮化镓.md) | gallium nitride |
 | [氮化鋁](氮化鋁.md) | aluminum nitride |
 | [氮化矽](氮化矽.md) | silicon nitride |
@@ -130,14 +131,14 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [动作捕捉](动作捕捉.md) | motion capture |
 | [半导体](半导体.md)/[半導體](半導體.md) | semiconductor |
 | [芯片](芯片.md) | chip |
-| [纳米](纳米.md) | nanometer |
+| [纳米](纳米.md)/[奈米](奈米.md) | nanometer |
 | [奈米](奈米.md) | nanometer |
-| [摩尔定律](摩尔定律.md) | Moore’s Law |
+| [摩尔定律](摩尔定律.md)/[摩爾法則](摩爾法則.md) | Moore’s Law |
 | [堆叠](堆叠.md) | stack (as in 3D stacking) |
 | [先进封装](先进封装.md) | advanced packaging |
 | [后工序](后工序.md) | post-process |
 | [晶体管](晶体管.md) | transistor |
-| [晶圆](晶圆.md) | wafer |
+| [晶圆](晶圆.md)/[晶圓](晶圓.md) | wafer |
 | [晶片](晶片.md) | wafer; chip |
 | [互联网](互联网.md) | Internet |
 | [线上](线上.md) | online |
@@ -1351,6 +1352,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [產崽](產崽.md) | [of an animal] give birth |
 | [起诉](起诉.md)/[起訴](起訴.md) | sue; bring a suit (or an action) against somebody; prosecute |
 | [货柜](货柜.md)/[貨櫃](貨櫃.md) | counter for the display of goods; container (for freight transport) |
+| [鑽石](鑽石.md) | diamond |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |

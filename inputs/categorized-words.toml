@@ -2099,7 +2099,11 @@ hz = "氧化钛"
 en = "titanium oxide"
 
 [[chemistry]]
-hz = "碳化硅"
+hz = "碳化硼"
+en = "boron carbide"
+
+[[chemistry]]
+hz = "碳化硅/碳化矽"
 en = "silicon carbide"
 
 [[chemistry]]
@@ -2666,7 +2670,7 @@ hz = "芯片"
 en = "chip"
 
 [[computing]]
-hz = "纳米"
+hz = "纳米/奈米"
 en = "nanometer"
 
 [[computing]]
@@ -2674,7 +2678,7 @@ hz = "奈米"
 en = "nanometer"
 
 [[computing]]
-hz = "摩尔定律"
+hz = "摩尔定律/摩爾法則"
 en = "Moore’s Law"
 
 [[computing]]
@@ -2694,7 +2698,7 @@ hz = "晶体管"
 en = "transistor"
 
 [[computing]]
-hz = "晶圆"
+hz = "晶圆/晶圓"
 en = "wafer"
 
 [[computing]]
@@ -5704,6 +5708,10 @@ en = "sue; bring a suit (or an action) against somebody; prosecute"
 [[names-words]]
 hz = "货柜/貨櫃"
 en = "counter for the display of goods; container (for freight transport)"
+
+[[names-words]]
+hz = "鑽石"
+en = "diamond"
 
 
 [[people]]

@@ -122,7 +122,7 @@
 | [东洋钢业](东洋钢业.md) | Toyo Steel | (private) | 1 |
 | [丰田](丰田.md)/[豐田](豐田.md) | Toyota | TM | 397 |
 | [傳音](傳音.md) | Transsion | 688036.SS | 1 |
-| [台积电](台积电.md) | TSMC | TSMC | 360 |
+| [台积电](台积电.md)/[台積電](台積電.md) | TSMC | TSMC | 372 |
 | [优步](优步.md) | Uber | UBER | 17 |
 | [优衣库](优衣库.md)/[優衣庫](優衣庫.md) | Uniqlo | FRCOY (parent) | 57 |
 | [大众](大众.md)/[大眾](大眾.md) | Volkswagen | VLKAF/VWAPY | 132 |
